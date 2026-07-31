@@ -13,7 +13,7 @@
           "qs-g1-02"
         ],
         "questionsCompleted" : false,
-        "subtitle" : "一年级基础 · 认识英语句子",
+        "subtitle" : "",
         "title" : "第一课"
       },
       {
@@ -32,6 +32,32 @@
         "questionsCompleted" : false,
         "subtitle" : "一年级基础 · 物品与描述",
         "title" : "第二课"
+      },
+      {
+        "grammarCompleted" : false,
+        "grammarItems" : [
+
+        ],
+        "id" : "6DB38FDF-48DA-484F-BF8A-FFB726EB2B01",
+        "questionItems" : [
+
+        ],
+        "questionsCompleted" : false,
+        "subtitle" : "待配置的新课次",
+        "title" : "Lesson 3"
+      },
+      {
+        "grammarCompleted" : false,
+        "grammarItems" : [
+
+        ],
+        "id" : "AAF12795-F3F2-4988-9CD7-EE307FB30A0E",
+        "questionItems" : [
+
+        ],
+        "questionsCompleted" : false,
+        "subtitle" : "待配置的新课次",
+        "title" : "Lesson 4"
       }
     ],
     "22222222-2222-4222-8222-222222222222" : [
@@ -77,7 +103,7 @@
 
     ]
   },
-  "selectedStudentID" : "22222222-2222-4222-8222-222222222222",
+  "selectedStudentID" : "11111111-1111-4111-8111-111111111111",
   "students" : [
     {
       "avatar" : "person.crop.circle.fill",
