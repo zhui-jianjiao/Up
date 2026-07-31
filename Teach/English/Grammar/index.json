@@ -1,9 +1,1479 @@
 {
-    "data": [
+  "schemaVersion": 1,
+  "curriculum": "上海小学英语（沪教版）一至六年级",
+  "updatedAt": "2026-07-31T01:58:13.722Z",
+  "topics": [
+    {
+      "id": "g1-01",
+      "grade": 1,
+      "order": 1,
+      "title": "be动词（am / is / are）的基本用法",
+      "category": "动词",
+      "summary": "掌握be动词（am / is / are）的基本用法，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。",
+      "examples": [
         {
-            "name": "一般现在时",
-            "desc": "一般现在时用于xxxx",
-            "points": ""
+          "id": "g1-01-e1",
+          "english": "I am a pupil.",
+          "chinese": "我是一名小学生。",
+          "note": null
+        },
+        {
+          "id": "g1-01-e2",
+          "english": "They are happy.",
+          "chinese": "他们很开心。",
+          "note": null
         }
-    ]
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用be动词（am / is / are）的基本用法。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "动词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g1-02",
+      "grade": 1,
+      "order": 2,
+      "title": "人称代词主格",
+      "category": "代词",
+      "summary": "掌握人称代词主格，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "I、you、he、she、it、we、they在句中通常作主语。",
+      "examples": [
+        {
+          "id": "g1-02-e1",
+          "english": "She is my teacher.",
+          "chinese": "她是我的老师。",
+          "note": null
+        },
+        {
+          "id": "g1-02-e2",
+          "english": "We are classmates.",
+          "chinese": "我们是同学。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用人称代词主格。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "代词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g1-03",
+      "grade": 1,
+      "order": 3,
+      "title": "不定冠词 a / an",
+      "category": "冠词",
+      "summary": "掌握不定冠词 a / an，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。",
+      "examples": [
+        {
+          "id": "g1-03-e1",
+          "english": "It is an apple.",
+          "chinese": "它是一个苹果。",
+          "note": null
+        },
+        {
+          "id": "g1-03-e2",
+          "english": "I have a book.",
+          "chinese": "我有一本书。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用不定冠词 a / an。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "冠词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g1-04",
+      "grade": 1,
+      "order": 4,
+      "title": "祈使句与课堂指令",
+      "category": "句型",
+      "summary": "掌握祈使句与课堂指令，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。",
+      "examples": [
+        {
+          "id": "g1-04-e1",
+          "english": "Open your book, please.",
+          "chinese": "请打开书。",
+          "note": null
+        },
+        {
+          "id": "g1-04-e2",
+          "english": "Stand up, please.",
+          "chinese": "请起立。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用祈使句与课堂指令。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "句型",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g1-05",
+      "grade": 1,
+      "order": 5,
+      "title": "指示代词 this / that",
+      "category": "代词",
+      "summary": "掌握指示代词 this / that，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "this指近处的单数事物，that指远处的单数事物。",
+      "examples": [
+        {
+          "id": "g1-05-e1",
+          "english": "This is my pencil.",
+          "chinese": "这是我的铅笔。",
+          "note": null
+        },
+        {
+          "id": "g1-05-e2",
+          "english": "That is a kite.",
+          "chinese": "那是一只风筝。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用指示代词 this / that。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "代词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g1-06",
+      "grade": 1,
+      "order": 6,
+      "title": "What's this / that 提问及回答",
+      "category": "句型",
+      "summary": "掌握What's this / that 提问及回答，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。",
+      "examples": [
+        {
+          "id": "g1-06-e1",
+          "english": "What's this? It's a ruler.",
+          "chinese": "这是什么？它是一把尺。",
+          "note": null
+        },
+        {
+          "id": "g1-06-e2",
+          "english": "What's that? It's an elephant.",
+          "chinese": "那是什么？它是一头大象。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用What's this / that 提问及回答。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "句型",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g1-07",
+      "grade": 1,
+      "order": 7,
+      "title": "颜色形容词修饰名词",
+      "category": "形容词",
+      "summary": "掌握颜色形容词修饰名词，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。",
+      "examples": [
+        {
+          "id": "g1-07-e1",
+          "english": "It is a red apple.",
+          "chinese": "它是一个红苹果。",
+          "note": null
+        },
+        {
+          "id": "g1-07-e2",
+          "english": "I have a blue bag.",
+          "chinese": "我有一个蓝色书包。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用颜色形容词修饰名词。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "形容词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g2-01",
+      "grade": 2,
+      "order": 1,
+      "title": "be动词的否定句和疑问句",
+      "category": "动词",
+      "summary": "掌握be动词的否定句和疑问句，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "否定句在be后加not；一般疑问句把be提到主语前。",
+      "examples": [
+        {
+          "id": "g2-01-e1",
+          "english": "She isn't at home.",
+          "chinese": "她不在家。",
+          "note": null
+        },
+        {
+          "id": "g2-01-e2",
+          "english": "Are you ready?",
+          "chinese": "你准备好了吗？",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用be动词的否定句和疑问句。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "2年级",
+        "动词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g2-02",
+      "grade": 2,
+      "order": 2,
+      "title": "形容词性物主代词",
+      "category": "代词",
+      "summary": "掌握形容词性物主代词，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "my、your、his、her、its、our、their后面必须接名词。",
+      "examples": [
+        {
+          "id": "g2-02-e1",
+          "english": "This is my book.",
+          "chinese": "这是我的书。",
+          "note": null
+        },
+        {
+          "id": "g2-02-e2",
+          "english": "Their classroom is big.",
+          "chinese": "他们的教室很大。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用形容词性物主代词。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "2年级",
+        "代词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g2-03",
+      "grade": 2,
+      "order": 3,
+      "title": "名词复数规则变化",
+      "category": "名词",
+      "summary": "掌握名词复数规则变化，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。",
+      "examples": [
+        {
+          "id": "g2-03-e1",
+          "english": "I have two boxes.",
+          "chinese": "我有两个盒子。",
+          "note": null
+        },
+        {
+          "id": "g2-03-e2",
+          "english": "There are three babies.",
+          "chinese": "有三个婴儿。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用名词复数规则变化。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "2年级",
+        "名词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g2-04",
+      "grade": 2,
+      "order": 4,
+      "title": "数量表达 How many",
+      "category": "疑问句",
+      "summary": "掌握数量表达 How many，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "How many后接可数名词复数，用来询问数量。",
+      "examples": [
+        {
+          "id": "g2-04-e1",
+          "english": "How many books do you have?",
+          "chinese": "你有多少本书？",
+          "note": null
+        },
+        {
+          "id": "g2-04-e2",
+          "english": "How many birds can you see?",
+          "chinese": "你能看见多少只鸟？",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用数量表达 How many。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "2年级",
+        "疑问句",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g2-05",
+      "grade": 2,
+      "order": 5,
+      "title": "Have / Has 的用法",
+      "category": "动词",
+      "summary": "掌握Have / Has 的用法，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。",
+      "examples": [
+        {
+          "id": "g2-05-e1",
+          "english": "She has a new bike.",
+          "chinese": "她有一辆新自行车。",
+          "note": null
+        },
+        {
+          "id": "g2-05-e2",
+          "english": "We have lunch at school.",
+          "chinese": "我们在学校吃午饭。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用Have / Has 的用法。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "2年级",
+        "动词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g2-06",
+      "grade": 2,
+      "order": 6,
+      "title": "情态动词 can",
+      "category": "情态动词",
+      "summary": "掌握情态动词 can，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。",
+      "examples": [
+        {
+          "id": "g2-06-e1",
+          "english": "I can swim.",
+          "chinese": "我会游泳。",
+          "note": null
+        },
+        {
+          "id": "g2-06-e2",
+          "english": "Can she dance?",
+          "chinese": "她会跳舞吗？",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用情态动词 can。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "2年级",
+        "情态动词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g2-07",
+      "grade": 2,
+      "order": 7,
+      "title": "简单方位介词",
+      "category": "介词",
+      "summary": "掌握简单方位介词，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "in表示在里面，on表示在上面，under表示在下面。",
+      "examples": [
+        {
+          "id": "g2-07-e1",
+          "english": "The ball is under the chair.",
+          "chinese": "球在椅子下面。",
+          "note": null
+        },
+        {
+          "id": "g2-07-e2",
+          "english": "The books are on the desk.",
+          "chinese": "书在桌上。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用简单方位介词。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "2年级",
+        "介词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g3-01",
+      "grade": 3,
+      "order": 1,
+      "title": "现在进行时",
+      "category": "时态",
+      "summary": "掌握现在进行时，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。",
+      "examples": [
+        {
+          "id": "g3-01-e1",
+          "english": "They are playing football.",
+          "chinese": "他们正在踢足球。",
+          "note": null
+        },
+        {
+          "id": "g3-01-e2",
+          "english": "Mum is cooking now.",
+          "chinese": "妈妈现在正在做饭。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用现在进行时。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "3年级",
+        "时态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g3-02",
+      "grade": 3,
+      "order": 2,
+      "title": "一般现在时",
+      "category": "时态",
+      "summary": "掌握一般现在时，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。",
+      "examples": [
+        {
+          "id": "g3-02-e1",
+          "english": "He goes to school by bus.",
+          "chinese": "他乘公交车上学。",
+          "note": null
+        },
+        {
+          "id": "g3-02-e2",
+          "english": "I get up at seven.",
+          "chinese": "我七点起床。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用一般现在时。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "3年级",
+        "时态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g3-03",
+      "grade": 3,
+      "order": 3,
+      "title": "There be 句型",
+      "category": "句型",
+      "summary": "掌握There be 句型，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "There is接单数或不可数名词，There are接复数名词。",
+      "examples": [
+        {
+          "id": "g3-03-e1",
+          "english": "There is some milk.",
+          "chinese": "有一些牛奶。",
+          "note": null
+        },
+        {
+          "id": "g3-03-e2",
+          "english": "There are two parks nearby.",
+          "chinese": "附近有两个公园。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用There be 句型。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "3年级",
+        "句型",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g3-04",
+      "grade": 3,
+      "order": 4,
+      "title": "可数名词与不可数名词",
+      "category": "名词",
+      "summary": "掌握可数名词与不可数名词，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。",
+      "examples": [
+        {
+          "id": "g3-04-e1",
+          "english": "I'd like some bread.",
+          "chinese": "我想要一些面包。",
+          "note": null
+        },
+        {
+          "id": "g3-04-e2",
+          "english": "There are three tomatoes.",
+          "chinese": "有三个番茄。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用可数名词与不可数名词。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "3年级",
+        "名词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g3-05",
+      "grade": 3,
+      "order": 5,
+      "title": "some / any 的用法",
+      "category": "限定词",
+      "summary": "掌握some / any 的用法，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。",
+      "examples": [
+        {
+          "id": "g3-05-e1",
+          "english": "We have some juice.",
+          "chinese": "我们有一些果汁。",
+          "note": null
+        },
+        {
+          "id": "g3-05-e2",
+          "english": "Do you have any questions?",
+          "chinese": "你有问题吗？",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用some / any 的用法。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "3年级",
+        "限定词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g3-06",
+      "grade": 3,
+      "order": 6,
+      "title": "How much / How many",
+      "category": "疑问句",
+      "summary": "掌握How much / How many，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。",
+      "examples": [
+        {
+          "id": "g3-06-e1",
+          "english": "How much rice do we need?",
+          "chinese": "我们需要多少米？",
+          "note": null
+        },
+        {
+          "id": "g3-06-e2",
+          "english": "How many lessons do you have?",
+          "chinese": "你有多少节课？",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用How much / How many。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "3年级",
+        "疑问句",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g3-07",
+      "grade": 3,
+      "order": 7,
+      "title": "名词所有格",
+      "category": "名词",
+      "summary": "掌握名词所有格，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。",
+      "examples": [
+        {
+          "id": "g3-07-e1",
+          "english": "This is Peter's coat.",
+          "chinese": "这是彼得的外套。",
+          "note": null
+        },
+        {
+          "id": "g3-07-e2",
+          "english": "The girls' room is clean.",
+          "chinese": "女孩们的房间很干净。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用名词所有格。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "3年级",
+        "名词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g3-08",
+      "grade": 3,
+      "order": 8,
+      "title": "时间介词 at / on / in",
+      "category": "介词",
+      "summary": "掌握时间介词 at / on / in，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。",
+      "examples": [
+        {
+          "id": "g3-08-e1",
+          "english": "We meet at eight.",
+          "chinese": "我们八点见面。",
+          "note": null
+        },
+        {
+          "id": "g3-08-e2",
+          "english": "School starts in September.",
+          "chinese": "学校九月开学。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用时间介词 at / on / in。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "3年级",
+        "介词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g4-01",
+      "grade": 4,
+      "order": 1,
+      "title": "一般过去时",
+      "category": "时态",
+      "summary": "掌握一般过去时，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。",
+      "examples": [
+        {
+          "id": "g4-01-e1",
+          "english": "We visited the museum yesterday.",
+          "chinese": "我们昨天参观了博物馆。",
+          "note": null
+        },
+        {
+          "id": "g4-01-e2",
+          "english": "She went home early.",
+          "chinese": "她很早回家了。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用一般过去时。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "4年级",
+        "时态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g4-02",
+      "grade": 4,
+      "order": 2,
+      "title": "一般将来时 be going to",
+      "category": "时态",
+      "summary": "掌握一般将来时 be going to，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。",
+      "examples": [
+        {
+          "id": "g4-02-e1",
+          "english": "I am going to read tonight.",
+          "chinese": "我今晚打算读书。",
+          "note": null
+        },
+        {
+          "id": "g4-02-e2",
+          "english": "It is going to rain.",
+          "chinese": "要下雨了。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用一般将来时 be going to。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "4年级",
+        "时态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g4-03",
+      "grade": 4,
+      "order": 3,
+      "title": "形容词比较级",
+      "category": "形容词",
+      "summary": "掌握形容词比较级，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。",
+      "examples": [
+        {
+          "id": "g4-03-e1",
+          "english": "My bag is heavier than yours.",
+          "chinese": "我的书包比你的重。",
+          "note": null
+        },
+        {
+          "id": "g4-03-e2",
+          "english": "This road is better.",
+          "chinese": "这条路更好。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用形容词比较级。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "4年级",
+        "形容词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g4-04",
+      "grade": 4,
+      "order": 4,
+      "title": "频度副词",
+      "category": "副词",
+      "summary": "掌握频度副词，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。",
+      "examples": [
+        {
+          "id": "g4-04-e1",
+          "english": "I often walk to school.",
+          "chinese": "我经常步行上学。",
+          "note": null
+        },
+        {
+          "id": "g4-04-e2",
+          "english": "She is always kind.",
+          "chinese": "她总是很友善。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用频度副词。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "4年级",
+        "副词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g4-05",
+      "grade": 4,
+      "order": 5,
+      "title": "must / should 的用法",
+      "category": "情态动词",
+      "summary": "掌握must / should 的用法，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。",
+      "examples": [
+        {
+          "id": "g4-05-e1",
+          "english": "You must follow the rules.",
+          "chinese": "你必须遵守规则。",
+          "note": null
+        },
+        {
+          "id": "g4-05-e2",
+          "english": "We should save water.",
+          "chinese": "我们应该节约用水。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用must / should 的用法。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "4年级",
+        "情态动词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g4-06",
+      "grade": 4,
+      "order": 6,
+      "title": "人称代词宾格",
+      "category": "代词",
+      "summary": "掌握人称代词宾格，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。",
+      "examples": [
+        {
+          "id": "g4-06-e1",
+          "english": "Please help me.",
+          "chinese": "请帮助我。",
+          "note": null
+        },
+        {
+          "id": "g4-06-e2",
+          "english": "I play with them.",
+          "chinese": "我和他们一起玩。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用人称代词宾格。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "4年级",
+        "代词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g4-07",
+      "grade": 4,
+      "order": 7,
+      "title": "动词不定式 to do",
+      "category": "非谓语",
+      "summary": "掌握动词不定式 to do，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。",
+      "examples": [
+        {
+          "id": "g4-07-e1",
+          "english": "I want to be a pilot.",
+          "chinese": "我想成为飞行员。",
+          "note": null
+        },
+        {
+          "id": "g4-07-e2",
+          "english": "She went out to buy milk.",
+          "chinese": "她出去买牛奶。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用动词不定式 to do。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "4年级",
+        "非谓语",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g4-08",
+      "grade": 4,
+      "order": 8,
+      "title": "并列连词 and / but / or",
+      "category": "连词",
+      "summary": "掌握并列连词 and / but / or，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "and表示并列，but表示转折，or表示选择。",
+      "examples": [
+        {
+          "id": "g4-08-e1",
+          "english": "I like tea, but he likes milk.",
+          "chinese": "我喜欢茶，但他喜欢牛奶。",
+          "note": null
+        },
+        {
+          "id": "g4-08-e2",
+          "english": "Hurry up, or you'll be late.",
+          "chinese": "快点，否则你会迟到。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用并列连词 and / but / or。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "4年级",
+        "连词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g5-01",
+      "grade": 5,
+      "order": 1,
+      "title": "现在完成时",
+      "category": "时态",
+      "summary": "掌握现在完成时，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。",
+      "examples": [
+        {
+          "id": "g5-01-e1",
+          "english": "I have finished my homework.",
+          "chinese": "我已经完成作业了。",
+          "note": null
+        },
+        {
+          "id": "g5-01-e2",
+          "english": "She has lived here for five years.",
+          "chinese": "她在这里住了五年。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用现在完成时。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "5年级",
+        "时态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g5-02",
+      "grade": 5,
+      "order": 2,
+      "title": "现在完成时与一般过去时",
+      "category": "时态",
+      "summary": "掌握现在完成时与一般过去时，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。",
+      "examples": [
+        {
+          "id": "g5-02-e1",
+          "english": "I saw the film last week.",
+          "chinese": "我上周看了这部电影。",
+          "note": null
+        },
+        {
+          "id": "g5-02-e2",
+          "english": "I have seen the film twice.",
+          "chinese": "这部电影我看过两次。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用现在完成时与一般过去时。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "5年级",
+        "时态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g5-03",
+      "grade": 5,
+      "order": 3,
+      "title": "形容词最高级",
+      "category": "形容词",
+      "summary": "掌握形容词最高级，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。",
+      "examples": [
+        {
+          "id": "g5-03-e1",
+          "english": "The Yangtze is the longest river in China.",
+          "chinese": "长江是中国最长的河流。",
+          "note": null
+        },
+        {
+          "id": "g5-03-e2",
+          "english": "This is the best answer.",
+          "chinese": "这是最好的答案。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用形容词最高级。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "5年级",
+        "形容词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g5-04",
+      "grade": 5,
+      "order": 4,
+      "title": "长形容词最高级",
+      "category": "形容词",
+      "summary": "掌握长形容词最高级，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "较长形容词的最高级通常使用the most加形容词原级。",
+      "examples": [
+        {
+          "id": "g5-04-e1",
+          "english": "It is the most interesting book.",
+          "chinese": "这是最有趣的书。",
+          "note": null
+        },
+        {
+          "id": "g5-04-e2",
+          "english": "She is the most careful student.",
+          "chinese": "她是最细心的学生。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用长形容词最高级。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "5年级",
+        "形容词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g5-05",
+      "grade": 5,
+      "order": 5,
+      "title": "could / would 的礼貌表达",
+      "category": "情态动词",
+      "summary": "掌握could / would 的礼貌表达，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。",
+      "examples": [
+        {
+          "id": "g5-05-e1",
+          "english": "Could you open the window?",
+          "chinese": "你能打开窗户吗？",
+          "note": null
+        },
+        {
+          "id": "g5-05-e2",
+          "english": "Would you like some tea?",
+          "chinese": "你想喝点茶吗？",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用could / would 的礼貌表达。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "5年级",
+        "情态动词",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g5-06",
+      "grade": 5,
+      "order": 6,
+      "title": "简单宾语从句",
+      "category": "复合句",
+      "summary": "掌握简单宾语从句，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。",
+      "examples": [
+        {
+          "id": "g5-06-e1",
+          "english": "I think that he is right.",
+          "chinese": "我认为他是对的。",
+          "note": null
+        },
+        {
+          "id": "g5-06-e2",
+          "english": "Do you know where she lives?",
+          "chinese": "你知道她住在哪里吗？",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用简单宾语从句。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "5年级",
+        "复合句",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g5-07",
+      "grade": 5,
+      "order": 7,
+      "title": "if 条件状语从句",
+      "category": "复合句",
+      "summary": "掌握if 条件状语从句，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。",
+      "examples": [
+        {
+          "id": "g5-07-e1",
+          "english": "If it rains, we will stay home.",
+          "chinese": "如果下雨，我们会待在家。",
+          "note": null
+        },
+        {
+          "id": "g5-07-e2",
+          "english": "I will call you if I arrive early.",
+          "chinese": "如果我早到会给你打电话。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用if 条件状语从句。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "5年级",
+        "复合句",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g5-08",
+      "grade": 5,
+      "order": 8,
+      "title": "一般现在时的被动语态",
+      "category": "被动语态",
+      "summary": "掌握一般现在时的被动语态，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "一般现在时被动语态由am/is/are加过去分词构成。",
+      "examples": [
+        {
+          "id": "g5-08-e1",
+          "english": "English is spoken in many countries.",
+          "chinese": "许多国家使用英语。",
+          "note": null
+        },
+        {
+          "id": "g5-08-e2",
+          "english": "These cars are made in China.",
+          "chinese": "这些汽车产自中国。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用一般现在时的被动语态。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "5年级",
+        "被动语态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g6-01",
+      "grade": 6,
+      "order": 1,
+      "title": "一般过去时的被动语态",
+      "category": "被动语态",
+      "summary": "掌握一般过去时的被动语态，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "一般过去时被动语态由was/were加过去分词构成。",
+      "examples": [
+        {
+          "id": "g6-01-e1",
+          "english": "The bridge was built in 2010.",
+          "chinese": "这座桥建于2010年。",
+          "note": null
+        },
+        {
+          "id": "g6-01-e2",
+          "english": "The windows were cleaned yesterday.",
+          "chinese": "窗户昨天被擦了。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用一般过去时的被动语态。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "6年级",
+        "被动语态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g6-02",
+      "grade": 6,
+      "order": 2,
+      "title": "一般将来时的被动语态",
+      "category": "被动语态",
+      "summary": "掌握一般将来时的被动语态，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "一般将来时被动语态由will be加过去分词构成。",
+      "examples": [
+        {
+          "id": "g6-02-e1",
+          "english": "The work will be finished tomorrow.",
+          "chinese": "工作明天会完成。",
+          "note": null
+        },
+        {
+          "id": "g6-02-e2",
+          "english": "A new school will be built here.",
+          "chinese": "这里将建一所新学校。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用一般将来时的被动语态。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "6年级",
+        "被动语态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g6-03",
+      "grade": 6,
+      "order": 3,
+      "title": "含情态动词的被动语态",
+      "category": "被动语态",
+      "summary": "掌握含情态动词的被动语态，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。",
+      "examples": [
+        {
+          "id": "g6-03-e1",
+          "english": "The problem can be solved.",
+          "chinese": "这个问题可以解决。",
+          "note": null
+        },
+        {
+          "id": "g6-03-e2",
+          "english": "Rules must be followed.",
+          "chinese": "规则必须遵守。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用含情态动词的被动语态。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "6年级",
+        "被动语态",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g6-04",
+      "grade": 6,
+      "order": 4,
+      "title": "定语从句",
+      "category": "复合句",
+      "summary": "掌握定语从句，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。",
+      "examples": [
+        {
+          "id": "g6-04-e1",
+          "english": "The girl who is singing is my sister.",
+          "chinese": "正在唱歌的女孩是我妹妹。",
+          "note": null
+        },
+        {
+          "id": "g6-04-e2",
+          "english": "This is the book that I bought.",
+          "chinese": "这是我买的书。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用定语从句。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "6年级",
+        "复合句",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g6-05",
+      "grade": 6,
+      "order": 5,
+      "title": "状语从句",
+      "category": "复合句",
+      "summary": "掌握状语从句，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "because表示原因，although表示让步，when和while表示时间。",
+      "examples": [
+        {
+          "id": "g6-05-e1",
+          "english": "I stayed home because I was ill.",
+          "chinese": "因为生病，我待在家里。",
+          "note": null
+        },
+        {
+          "id": "g6-05-e2",
+          "english": "Although it was cold, we went out.",
+          "chinese": "虽然天气冷，我们还是出门了。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用状语从句。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "6年级",
+        "复合句",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g6-06",
+      "grade": 6,
+      "order": 6,
+      "title": "间接引语陈述句",
+      "category": "间接引语",
+      "summary": "掌握间接引语陈述句，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。",
+      "examples": [
+        {
+          "id": "g6-06-e1",
+          "english": "She said that she was tired.",
+          "chinese": "她说她累了。",
+          "note": null
+        },
+        {
+          "id": "g6-06-e2",
+          "english": "Tom said that he liked music.",
+          "chinese": "汤姆说他喜欢音乐。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用间接引语陈述句。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "6年级",
+        "间接引语",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g6-07",
+      "grade": 6,
+      "order": 7,
+      "title": "间接引语疑问句",
+      "category": "间接引语",
+      "summary": "掌握间接引语疑问句，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。",
+      "examples": [
+        {
+          "id": "g6-07-e1",
+          "english": "He asked if I was ready.",
+          "chinese": "他问我是否准备好了。",
+          "note": null
+        },
+        {
+          "id": "g6-07-e2",
+          "english": "She asked where I lived.",
+          "chinese": "她问我住在哪里。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用间接引语疑问句。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "6年级",
+        "间接引语",
+        "沪教版"
+      ]
+    },
+    {
+      "id": "g6-08",
+      "grade": 6,
+      "order": 8,
+      "title": "虚拟语气初步",
+      "category": "虚拟语气",
+      "summary": "掌握虚拟语气初步，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。",
+      "examples": [
+        {
+          "id": "g6-08-e1",
+          "english": "I wish I could fly.",
+          "chinese": "我希望我会飞。",
+          "note": null
+        },
+        {
+          "id": "g6-08-e2",
+          "english": "If I were you, I would study harder.",
+          "chinese": "如果我是你，我会更努力学习。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用虚拟语气初步。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "6年级",
+        "虚拟语气",
+        "沪教版"
+      ]
+    }
+  ]
 }
