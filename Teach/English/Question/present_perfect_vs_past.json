@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g5-02",
@@ -24,7 +24,7 @@
               "saw"
             ]
           },
-          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 本题应填“saw”。",
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 可接受答案：saw。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "have seen"
             ]
           },
-          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 本题应填“have seen”。",
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 可接受答案：have seen。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "has lived"
             ]
           },
-          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 本题应填“has lived”。",
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 可接受答案：has lived。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "visited"
             ]
           },
-          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 本题应填“visited”。",
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 可接受答案：visited。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "Have you ever been"
             ]
           },
-          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 本题应填“Have you ever been”。",
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 可接受答案：Have you ever been。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "has lost"
             ]
           },
-          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 本题应填“has lost”。",
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 可接受答案：has lost。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "arrived"
             ]
           },
-          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 本题应填“arrived”。",
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 可接受答案：arrived。",
           "score": 1,
           "mediaPath": null
         },
