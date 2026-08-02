@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g1-05",
@@ -17,32 +17,9 @@
           "id": "q-g1-05-01",
           "type": "fillBlank",
           "stem": "___ pencil here is mine.",
-          "options": [
-            {
-              "id": "q-g1-05-01-o1",
-              "text": "This",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-01-o2",
-              "text": "That",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-01-o3",
-              "text": "Those",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-01-o4",
-              "text": "These",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-05-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "This"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g1-05-02",
           "type": "fillBlank",
           "stem": "Look at ___ cloud far above the hill.",
-          "options": [
-            {
-              "id": "q-g1-05-02-o1",
-              "text": "this",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-02-o2",
-              "text": "that",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-02-o3",
-              "text": "these",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-02-o4",
-              "text": "those",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-05-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "that"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g1-05-03",
           "type": "fillBlank",
           "stem": "___ shoes beside me are too small.",
-          "options": [
-            {
-              "id": "q-g1-05-03-o1",
-              "text": "This",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-03-o2",
-              "text": "That",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-03-o3",
-              "text": "These",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-03-o4",
-              "text": "It",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-05-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "These"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g1-05-04",
           "type": "fillBlank",
           "stem": "Who are ___ people across the street?",
-          "options": [
-            {
-              "id": "q-g1-05-04-o1",
-              "text": "this",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-04-o2",
-              "text": "that",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-04-o3",
-              "text": "it",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-04-o4",
-              "text": "those",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-05-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "those"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g1-05-05",
           "type": "fillBlank",
           "stem": "___ is the photo I am holding.",
-          "options": [
-            {
-              "id": "q-g1-05-05-o1",
-              "text": "This",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-05-o2",
-              "text": "Those",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-05-o3",
-              "text": "These",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-05-o4",
-              "text": "They",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-05-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "This"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g1-05-06",
           "type": "fillBlank",
           "stem": "Can you see ___ tower in the distance?",
-          "options": [
-            {
-              "id": "q-g1-05-06-o1",
-              "text": "this",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-06-o2",
-              "text": "that",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-06-o3",
-              "text": "these",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-06-o4",
-              "text": "it",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-05-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "that"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g1-05-07",
           "type": "fillBlank",
           "stem": "___ flowers in this vase smell lovely.",
-          "options": [
-            {
-              "id": "q-g1-05-07-o1",
-              "text": "This",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-07-o2",
-              "text": "That",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-07-o3",
-              "text": "These",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-05-07-o4",
-              "text": "It",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-05-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "These"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g1-05-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“指示代词 this / that”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“指示代词 this / that”的一项。",
           "options": [
             {
               "id": "q-g1-05-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g1-05-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“指示代词 this / that”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g1-05-09-o1",
