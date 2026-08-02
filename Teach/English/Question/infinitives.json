@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g4-07",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g4-07-01",
+          "id": "q2-g4-07-01",
           "type": "fillBlank",
           "stem": "I hope ___ the school newspaper.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-07-02",
+          "id": "q2-g4-07-02",
           "type": "fillBlank",
           "stem": "We went outside ___ the rainbow.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-07-03",
+          "id": "q2-g4-07-03",
           "type": "fillBlank",
           "stem": "Mia needs ___ her presentation.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-07-04",
+          "id": "q2-g4-07-04",
           "type": "fillBlank",
           "stem": "Dad taught me ___ a tyre.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-07-05",
+          "id": "q2-g4-07-05",
           "type": "fillBlank",
           "stem": "The class decided ___ less plastic.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-07-06",
+          "id": "q2-g4-07-06",
           "type": "fillBlank",
           "stem": "It is important ___ carefully.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-07-07",
+          "id": "q2-g4-07-07",
           "type": "fillBlank",
           "stem": "Ben saved money ___ a telescope.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-07-08",
+          "id": "q2-g4-07-08",
           "type": "singleChoice",
           "stem": "选择正确使用“动词不定式 to do”的一项。",
           "options": [
             {
-              "id": "q-g4-07-08-o1",
+              "id": "q2-g4-07-08-o1",
               "text": "I want to be a pilot.",
               "imagePath": null
             },
             {
-              "id": "q-g4-07-08-o2",
+              "id": "q2-g4-07-08-o2",
               "text": "I want be a pilot.",
               "imagePath": null
             },
             {
-              "id": "q-g4-07-08-o3",
+              "id": "q2-g4-07-08-o3",
               "text": "She went out to buying milk.",
               "imagePath": null
             },
             {
-              "id": "q-g4-07-08-o4",
+              "id": "q2-g4-07-08-o4",
               "text": "He needs to studies.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-07-08-o1"
+              "q2-g4-07-08-o1"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-07-09",
+          "id": "q2-g4-07-09",
           "type": "singleChoice",
           "stem": "再次辨析“动词不定式 to do”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g4-07-09-o1",
+              "id": "q2-g4-07-09-o1",
               "text": "She went out to buying milk.",
               "imagePath": null
             },
             {
-              "id": "q-g4-07-09-o2",
+              "id": "q2-g4-07-09-o2",
               "text": "She went out to buy milk.",
               "imagePath": null
             },
             {
-              "id": "q-g4-07-09-o3",
+              "id": "q2-g4-07-09-o3",
               "text": "He needs to studies.",
               "imagePath": null
             },
             {
-              "id": "q-g4-07-09-o4",
+              "id": "q2-g4-07-09-o4",
               "text": "I want be a pilot.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-07-09-o2"
+              "q2-g4-07-09-o2"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-07-10",
+          "id": "q2-g4-07-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“动词不定式 to do”最准确的总结。",
           "options": [
             {
-              "id": "q-g4-07-10-o1",
+              "id": "q2-g4-07-10-o1",
               "text": "to加动词原形可表示目的，也常跟在want、need、like等动词后。",
               "imagePath": null
             },
             {
-              "id": "q-g4-07-10-o2",
+              "id": "q2-g4-07-10-o2",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g4-07-10-o3",
+              "id": "q2-g4-07-10-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g4-07-10-o4",
+              "id": "q2-g4-07-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-07-10-o1"
+              "q2-g4-07-10-o1"
             ],
             "textAnswers": []
           },
