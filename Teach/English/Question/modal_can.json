@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g2-06",
+      "grade": 2,
+      "order": 6,
+      "title": "情态动词 can专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-06"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-06-01",
+          "type": "fillBlank",
+          "stem": "Penguins can ___, but they cannot fly.",
+          "options": [
+            {
+              "id": "q-g2-06-01-o1",
+              "text": "swim",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-01-o2",
+              "text": "swims",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-01-o3",
+              "text": "swimming",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-01-o4",
+              "text": "swam",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-01-o1"
+            ],
+            "textAnswers": [
+              "swim"
+            ]
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“swim”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-02",
+          "type": "fillBlank",
+          "stem": "___ you show me the way to the lab?",
+          "options": [
+            {
+              "id": "q-g2-06-02-o1",
+              "text": "Do",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-02-o2",
+              "text": "Can",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-02-o3",
+              "text": "Are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-02-o4",
+              "text": "Have",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-02-o2"
+            ],
+            "textAnswers": [
+              "Can"
+            ]
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“Can”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-03",
+          "type": "fillBlank",
+          "stem": "Mia ___ play chess very well.",
+          "options": [
+            {
+              "id": "q-g2-06-03-o1",
+              "text": "cans",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-03-o2",
+              "text": "is can",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-03-o3",
+              "text": "can",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-03-o4",
+              "text": "can to",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-03-o3"
+            ],
+            "textAnswers": [
+              "can"
+            ]
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“can”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-04",
+          "type": "fillBlank",
+          "stem": "We can't ___ food in the computer room.",
+          "options": [
+            {
+              "id": "q-g2-06-04-o1",
+              "text": "eats",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-04-o2",
+              "text": "eating",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-04-o3",
+              "text": "ate",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-04-o4",
+              "text": "eat",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-04-o4"
+            ],
+            "textAnswers": [
+              "eat"
+            ]
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“eat”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-05",
+          "type": "fillBlank",
+          "stem": "Can the robot ___ these words?",
+          "options": [
+            {
+              "id": "q-g2-06-05-o1",
+              "text": "read",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-05-o2",
+              "text": "reads",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-05-o3",
+              "text": "reading",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-05-o4",
+              "text": "to read",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-05-o1"
+            ],
+            "textAnswers": [
+              "read"
+            ]
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“read”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-06",
+          "type": "fillBlank",
+          "stem": "With this app, you ___ record your voice.",
+          "options": [
+            {
+              "id": "q-g2-06-06-o1",
+              "text": "are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-06-o2",
+              "text": "can",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-06-o3",
+              "text": "have",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-06-o4",
+              "text": "do",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-06-o2"
+            ],
+            "textAnswers": [
+              "can"
+            ]
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“can”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-07",
+          "type": "fillBlank",
+          "stem": "A baby bird ___ fly at first.",
+          "options": [
+            {
+              "id": "q-g2-06-07-o1",
+              "text": "doesn't can",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-07-o2",
+              "text": "isn't can",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-07-o3",
+              "text": "cannot",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-07-o4",
+              "text": "not can",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-07-o3"
+            ],
+            "textAnswers": [
+              "cannot"
+            ]
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“cannot”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“情态动词 can”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-06-08-o1",
+              "text": "I can swim.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-08-o2",
+              "text": "I can swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-08-o3",
+              "text": "Can she dances?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-08-o4",
+              "text": "He cans run.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-08-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确表达：I can swim.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-06-09-o1",
+              "text": "Can she dances?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-09-o2",
+              "text": "Can she dance?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-09-o3",
+              "text": "He cans run.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-09-o4",
+              "text": "I can swimming.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-09-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确表达：Can she dance?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“情态动词 can”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g2-06-10-o1",
+              "text": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-10-o2",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
