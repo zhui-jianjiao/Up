@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g1-03",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g1-03-01",
+          "id": "q2-g1-03-01",
           "type": "fillBlank",
           "stem": "We saw ___ owl in the old tree.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-03-02",
+          "id": "q2-g1-03-02",
           "type": "fillBlank",
           "stem": "Dad bought me ___ useful dictionary.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-03-03",
+          "id": "q2-g1-03-03",
           "type": "fillBlank",
           "stem": "Ella wants to be ___ engineer.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-03-04",
+          "id": "q2-g1-03-04",
           "type": "fillBlank",
           "stem": "There is ___ university near the museum.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-03-05",
+          "id": "q2-g1-03-05",
           "type": "fillBlank",
           "stem": "Please wait for ___ hour.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-03-06",
+          "id": "q2-g1-03-06",
           "type": "fillBlank",
           "stem": "Tom wears ___ blue uniform on Mondays.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-03-07",
+          "id": "q2-g1-03-07",
           "type": "fillBlank",
           "stem": "I need ___ umbrella because it is raining.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-03-08",
+          "id": "q2-g1-03-08",
           "type": "singleChoice",
           "stem": "选择正确使用“不定冠词 a / an”的一项。",
           "options": [
             {
-              "id": "q-g1-03-08-o1",
+              "id": "q2-g1-03-08-o1",
               "text": "It is a apple.",
               "imagePath": null
             },
             {
-              "id": "q-g1-03-08-o2",
+              "id": "q2-g1-03-08-o2",
               "text": "I have an book.",
               "imagePath": null
             },
             {
-              "id": "q-g1-03-08-o3",
+              "id": "q2-g1-03-08-o3",
               "text": "It is an apple.",
               "imagePath": null
             },
             {
-              "id": "q-g1-03-08-o4",
+              "id": "q2-g1-03-08-o4",
               "text": "She has a orange.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-03-08-o3"
+              "q2-g1-03-08-o3"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-03-09",
+          "id": "q2-g1-03-09",
           "type": "singleChoice",
           "stem": "再次辨析“不定冠词 a / an”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g1-03-09-o1",
+              "id": "q2-g1-03-09-o1",
               "text": "I have an book.",
               "imagePath": null
             },
             {
-              "id": "q-g1-03-09-o2",
+              "id": "q2-g1-03-09-o2",
               "text": "She has a orange.",
               "imagePath": null
             },
             {
-              "id": "q-g1-03-09-o3",
+              "id": "q2-g1-03-09-o3",
               "text": "It is a apple.",
               "imagePath": null
             },
             {
-              "id": "q-g1-03-09-o4",
+              "id": "q2-g1-03-09-o4",
               "text": "I have a book.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-03-09-o4"
+              "q2-g1-03-09-o4"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-03-10",
+          "id": "q2-g1-03-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“不定冠词 a / an”最准确的总结。",
           "options": [
             {
-              "id": "q-g1-03-10-o1",
+              "id": "q2-g1-03-10-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g1-03-10-o2",
+              "id": "q2-g1-03-10-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g1-03-10-o3",
+              "id": "q2-g1-03-10-o3",
               "text": "辅音音素开头的单数名词前用a，元音音素开头用an。",
               "imagePath": null
             },
             {
-              "id": "q-g1-03-10-o4",
+              "id": "q2-g1-03-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-03-10-o3"
+              "q2-g1-03-10-o3"
             ],
             "textAnswers": []
           },
