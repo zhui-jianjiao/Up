@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g2-04",
@@ -17,6 +17,7 @@
           "id": "q2-g2-04-01",
           "type": "fillBlank",
           "stem": "___ pencils are in your case?",
+          "keyword": "many",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g2-04-02",
           "type": "fillBlank",
           "stem": "___ students joined the choir?",
+          "keyword": "many",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g2-04-03",
           "type": "fillBlank",
           "stem": "How many ___ do we need for the game?",
+          "keyword": "ball",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g2-04-04",
           "type": "fillBlank",
           "stem": "___ pages did you read today?",
+          "keyword": "many",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g2-04-05",
           "type": "fillBlank",
           "stem": "How many ___ can you see in the pond?",
+          "keyword": "duck",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g2-04-06",
           "type": "fillBlank",
           "stem": "___ times do you brush your teeth each day?",
+          "keyword": "many",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g2-04-07",
           "type": "fillBlank",
           "stem": "How many ___ are there in February this year?",
+          "keyword": "day",
           "options": [],
           "answer": {
             "optionIDs": [],
