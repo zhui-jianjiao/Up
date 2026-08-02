@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g5-05",
@@ -17,6 +17,7 @@
           "id": "q2-g5-05-01",
           "type": "fillBlank",
           "stem": "___ you please lower your voice?",
+          "keyword": "could",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g5-05-02",
           "type": "fillBlank",
           "stem": "___ you like some more fruit?",
+          "keyword": "would",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g5-05-03",
           "type": "fillBlank",
           "stem": "Could I ___ your charger for a minute?",
+          "keyword": "borrow",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g5-05-04",
           "type": "fillBlank",
           "stem": "Would you mind ___ the window?",
+          "keyword": "close",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g5-05-05",
           "type": "fillBlank",
           "stem": "___ you help me find this address?",
+          "keyword": "could",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g5-05-06",
           "type": "fillBlank",
           "stem": "I ___ like to book two tickets.",
+          "keyword": "would",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g5-05-07",
           "type": "fillBlank",
           "stem": "Would you please ___ me the menu?",
+          "keyword": "show",
           "options": [],
           "answer": {
             "optionIDs": [],
