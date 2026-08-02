@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g5-01",
@@ -23,6 +23,18 @@
           "english": "She has lived here for five years.",
           "chinese": "她在这里住了五年。",
           "note": null
+        },
+        {
+          "id": "g5-01-e3",
+          "english": "She has gone to the library.",
+          "chinese": "她已经去图书馆了。",
+          "note": "go的过去分词是gone。"
+        },
+        {
+          "id": "g5-01-e4",
+          "english": "We have written three reports.",
+          "chinese": "我们已经写了三份报告。",
+          "note": "write的过去分词是written。"
         }
       ],
       "tips": [
@@ -87,7 +99,59 @@
           "correct": "She has lived here for five years.",
           "reason": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g5-01-sf1",
+          "title": "常用不规则过去分词",
+          "summary": "现在完成时使用have/has加过去分词。",
+          "items": [
+            {
+              "id": "g5-01-sf1-1",
+              "base": "go",
+              "form": "gone",
+              "usage": "去"
+            },
+            {
+              "id": "g5-01-sf1-2",
+              "base": "see",
+              "form": "seen",
+              "usage": "看见"
+            },
+            {
+              "id": "g5-01-sf1-3",
+              "base": "write",
+              "form": "written",
+              "usage": "写"
+            },
+            {
+              "id": "g5-01-sf1-4",
+              "base": "take",
+              "form": "taken",
+              "usage": "拿；带"
+            },
+            {
+              "id": "g5-01-sf1-5",
+              "base": "speak",
+              "form": "spoken",
+              "usage": "说"
+            },
+            {
+              "id": "g5-01-sf1-6",
+              "base": "break",
+              "form": "broken",
+              "usage": "打破"
+            },
+            {
+              "id": "g5-01-sf1-7",
+              "base": "do",
+              "form": "done",
+              "usage": "做"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
