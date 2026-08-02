@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.237Z",
+  "topics": [
+    {
+      "id": "g2-01",
+      "grade": 2,
+      "order": 1,
+      "title": "be动词的否定句和疑问句",
+      "category": "动词",
+      "summary": "掌握be动词的否定句和疑问句，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "否定句在be后加not；一般疑问句把be提到主语前。",
+      "examples": [
+        {
+          "id": "g2-01-e1",
+          "english": "She isn't at home.",
+          "chinese": "她不在家。",
+          "note": null
+        },
+        {
+          "id": "g2-01-e2",
+          "english": "Are you ready?",
+          "chinese": "你准备好了吗？",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用be动词的否定句和疑问句。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "2年级",
+        "动词",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "She isn't at home.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意动词结构前后的连读与自然停顿。",
+        "chant": "She isn't at home. Are you ready? Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g2-01-s1",
+          "title": "课堂开口说",
+          "dialogue": [
+            "A: She isn't at home.",
+            "B: Are you ready?"
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g2-01-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“She isn't at home.”，每轮替换一个人物、物品或时间词，保持be动词的否定句和疑问句的句型结构不变。"
+        },
+        {
+          "id": "g2-01-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用be动词的否定句和疑问句的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g2-01-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g2-01-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用be动词的否定句和疑问句独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g2-01-m1",
+          "wrong": "She doesn't at home.",
+          "correct": "She isn't at home.",
+          "reason": "否定句在be后加not；一般疑问句把be提到主语前。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g2-01-m2",
+          "wrong": "You are ready?",
+          "correct": "Are you ready?",
+          "reason": "否定句在be后加not；一般疑问句把be提到主语前。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    }
+  ]
+}
