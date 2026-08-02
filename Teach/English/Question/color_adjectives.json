@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g1-07",
@@ -17,6 +17,7 @@
           "id": "q2-g1-07-01",
           "type": "fillBlank",
           "stem": "Nina is wearing a ___ scarf.",
+          "keyword": "purple",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g1-07-02",
           "type": "fillBlank",
           "stem": "We picked three ___ leaves for the project.",
+          "keyword": "yellow",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g1-07-03",
           "type": "fillBlank",
           "stem": "The artist painted a ___ sky.",
+          "keyword": "blue",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g1-07-04",
           "type": "fillBlank",
           "stem": "Please put the books in the ___ box.",
+          "keyword": "green",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g1-07-05",
           "type": "fillBlank",
           "stem": "A ___ light means we must stop.",
+          "keyword": "red",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g1-07-06",
           "type": "fillBlank",
           "stem": "She drew two ___ pandas.",
+          "keyword": "black-and-white",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g1-07-07",
           "type": "fillBlank",
           "stem": "The puppy has a ___ tail.",
+          "keyword": "brown",
           "options": [],
           "answer": {
             "optionIDs": [],
