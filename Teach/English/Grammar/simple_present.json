@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g3-02",
@@ -23,6 +23,12 @@
           "english": "I get up at seven.",
           "chinese": "我七点起床。",
           "note": null
+        },
+        {
+          "id": "g3-02-e3",
+          "english": "Leo studies English every evening.",
+          "chinese": "利奥每天晚上学习英语。",
+          "note": "study变第三人称单数时改y为ies。"
         }
       ],
       "tips": [
@@ -87,7 +93,41 @@
           "correct": "I get up at seven.",
           "reason": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g3-02-sf1",
+          "title": "第三人称单数特殊变化",
+          "summary": "he/she/it作主语时要关注词尾。",
+          "items": [
+            {
+              "id": "g3-02-sf1-1",
+              "base": "do",
+              "form": "does",
+              "usage": "加-es"
+            },
+            {
+              "id": "g3-02-sf1-2",
+              "base": "go",
+              "form": "goes",
+              "usage": "加-es"
+            },
+            {
+              "id": "g3-02-sf1-3",
+              "base": "study",
+              "form": "studies",
+              "usage": "辅音字母+y变ies"
+            },
+            {
+              "id": "g3-02-sf1-4",
+              "base": "have",
+              "form": "has",
+              "usage": "不规则变化"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
