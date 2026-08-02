@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g6-02",
+      "grade": 6,
+      "order": 2,
+      "title": "一般将来时的被动语态专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-02"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-02-01",
+          "type": "fillBlank",
+          "stem": "The new library ___ next year.",
+          "options": [
+            {
+              "id": "q-g6-02-01-o1",
+              "text": "will be opened",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-01-o2",
+              "text": "will open it",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-01-o3",
+              "text": "will opened",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-01-o4",
+              "text": "is opening yesterday",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-01-o1"
+            ],
+            "textAnswers": [
+              "will be opened"
+            ]
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 本题应填“will be opened”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-02",
+          "type": "fillBlank",
+          "stem": "Your order ___ tomorrow.",
+          "options": [
+            {
+              "id": "q-g6-02-02-o1",
+              "text": "will deliver",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-02-o2",
+              "text": "will be delivered",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-02-o3",
+              "text": "will delivered",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-02-o4",
+              "text": "is delivered yesterday",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-02-o2"
+            ],
+            "textAnswers": [
+              "will be delivered"
+            ]
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 本题应填“will be delivered”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-03",
+          "type": "fillBlank",
+          "stem": "More trees ___ along this road.",
+          "options": [
+            {
+              "id": "q-g6-02-03-o1",
+              "text": "will plant",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-03-o2",
+              "text": "will planted",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-03-o3",
+              "text": "will be planted",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-03-o4",
+              "text": "are planting yesterday",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-03-o3"
+            ],
+            "textAnswers": [
+              "will be planted"
+            ]
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 本题应填“will be planted”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-04",
+          "type": "fillBlank",
+          "stem": "The winners ___ on Friday.",
+          "options": [
+            {
+              "id": "q-g6-02-04-o1",
+              "text": "will announce",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-04-o2",
+              "text": "will announced",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-04-o3",
+              "text": "are announce",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-04-o4",
+              "text": "will be announced",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-04-o4"
+            ],
+            "textAnswers": [
+              "will be announced"
+            ]
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 本题应填“will be announced”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-05",
+          "type": "fillBlank",
+          "stem": "When ___?",
+          "options": [
+            {
+              "id": "q-g6-02-05-o1",
+              "text": "will the work be finished",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-05-o2",
+              "text": "will the work finished",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-05-o3",
+              "text": "will be the work finish",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-05-o4",
+              "text": "is the work finish tomorrow",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-05-o1"
+            ],
+            "textAnswers": [
+              "will the work be finished"
+            ]
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 本题应填“will the work be finished”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-06",
+          "type": "fillBlank",
+          "stem": "A new app ___ for the project.",
+          "options": [
+            {
+              "id": "q-g6-02-06-o1",
+              "text": "will develop",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-06-o2",
+              "text": "will be developed",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-06-o3",
+              "text": "will developed",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-06-o4",
+              "text": "develops",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-06-o2"
+            ],
+            "textAnswers": [
+              "will be developed"
+            ]
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 本题应填“will be developed”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-07",
+          "type": "fillBlank",
+          "stem": "The old computers ___ safely.",
+          "options": [
+            {
+              "id": "q-g6-02-07-o1",
+              "text": "will recycle",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-07-o2",
+              "text": "will recycled",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-07-o3",
+              "text": "will be recycled",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-07-o4",
+              "text": "recycling",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-07-o3"
+            ],
+            "textAnswers": [
+              "will be recycled"
+            ]
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 本题应填“will be recycled”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“一般将来时的被动语态”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-02-08-o1",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-08-o2",
+              "text": "A new school will be build.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-08-o3",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-08-o4",
+              "text": "The work will be finished tomorrow.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确表达：The work will be finished tomorrow.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-02-09-o1",
+              "text": "A new school will be built here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-09-o2",
+              "text": "A new school will be build.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-09-o3",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-09-o4",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确表达：A new school will be built here.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“一般将来时的被动语态”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g6-02-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-10-o3",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-10-o4",
+              "text": "一般将来时被动语态由will be加过去分词构成。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-10-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
