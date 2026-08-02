@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.237Z",
+  "topics": [
+    {
+      "id": "g3-02",
+      "grade": 3,
+      "order": 2,
+      "title": "一般现在时",
+      "category": "时态",
+      "summary": "掌握一般现在时，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。",
+      "examples": [
+        {
+          "id": "g3-02-e1",
+          "english": "He goes to school by bus.",
+          "chinese": "他乘公交车上学。",
+          "note": null
+        },
+        {
+          "id": "g3-02-e2",
+          "english": "I get up at seven.",
+          "chinese": "我七点起床。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用一般现在时。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "3年级",
+        "时态",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "He goes to school by bus.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意时态结构前后的连读与自然停顿。",
+        "chant": "He goes to school by bus. I get up at seven. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g3-02-s1",
+          "title": "校园情境对话",
+          "dialogue": [
+            "A: He goes to school by bus.",
+            "B: I get up at seven."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g3-02-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“He goes to school by bus.”，每轮替换一个人物、物品或时间词，保持一般现在时的句型结构不变。"
+        },
+        {
+          "id": "g3-02-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用一般现在时的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g3-02-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g3-02-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用一般现在时独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g3-02-m1",
+          "wrong": "He go to school by bus.",
+          "correct": "He goes to school by bus.",
+          "reason": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g3-02-m2",
+          "wrong": "I gets up at seven.",
+          "correct": "I get up at seven.",
+          "reason": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    }
+  ]
+}
