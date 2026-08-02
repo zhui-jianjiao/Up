@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g1-05",
@@ -23,6 +23,12 @@
           "english": "That is a kite.",
           "chinese": "那是一只风筝。",
           "note": null
+        },
+        {
+          "id": "g1-05-e3",
+          "english": "These are my science notes.",
+          "chinese": "这些是我的科学笔记。",
+          "note": "these指近处的复数事物。"
         }
       ],
       "tips": [
@@ -87,7 +93,9 @@
           "correct": "That is a kite.",
           "reason": "this指近处的单数事物，that指远处的单数事物。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": null,
+      "markdownContent": "## 学习小结\n\n**核心规则：** this指近处的单数事物，that指远处的单数事物。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n"
     }
   ]
 }
