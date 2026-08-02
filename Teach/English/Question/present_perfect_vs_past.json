@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g5-02",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g5-02-01",
+          "id": "q2-g5-02-01",
           "type": "fillBlank",
           "stem": "I ___ the film last Saturday.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-02",
+          "id": "q2-g5-02-02",
           "type": "fillBlank",
           "stem": "I ___ that film three times.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-03",
+          "id": "q2-g5-02-03",
           "type": "fillBlank",
           "stem": "Mia ___ here since 2022.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-04",
+          "id": "q2-g5-02-04",
           "type": "fillBlank",
           "stem": "We ___ the museum two days ago.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-05",
+          "id": "q2-g5-02-05",
           "type": "fillBlank",
           "stem": "___ abroad?",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-06",
+          "id": "q2-g5-02-06",
           "type": "fillBlank",
           "stem": "Dad ___ his keys, so he cannot open the door.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-07",
+          "id": "q2-g5-02-07",
           "type": "fillBlank",
           "stem": "The train ___ ten minutes ago.",
           "options": [],
@@ -119,7 +119,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-08",
+          "id": "q2-g5-02-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：我上周看了这部电影。",
           "options": [],
@@ -134,34 +134,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-09",
+          "id": "q2-g5-02-09",
           "type": "singleChoice",
           "stem": "选择正确使用“现在完成时与一般过去时”的一项。",
           "options": [
             {
-              "id": "q-g5-02-09-o1",
+              "id": "q2-g5-02-09-o1",
               "text": "I have seen the film last week.",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-09-o2",
+              "id": "q2-g5-02-09-o2",
               "text": "I saw the film since Monday.",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-09-o3",
+              "id": "q2-g5-02-09-o3",
               "text": "She has went yesterday.",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-09-o4",
+              "id": "q2-g5-02-09-o4",
               "text": "I saw the film last week.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-02-09-o4"
+              "q2-g5-02-09-o4"
             ],
             "textAnswers": []
           },
@@ -170,34 +170,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-10",
+          "id": "q2-g5-02-10",
           "type": "singleChoice",
           "stem": "再次辨析“现在完成时与一般过去时”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g5-02-10-o1",
+              "id": "q2-g5-02-10-o1",
               "text": "I have seen the film twice.",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-10-o2",
+              "id": "q2-g5-02-10-o2",
               "text": "I saw the film since Monday.",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-10-o3",
+              "id": "q2-g5-02-10-o3",
               "text": "She has went yesterday.",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-10-o4",
+              "id": "q2-g5-02-10-o4",
               "text": "I have seen the film last week.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-02-10-o1"
+              "q2-g5-02-10-o1"
             ],
             "textAnswers": []
           },
@@ -206,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-11",
+          "id": "q2-g5-02-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“现在完成时与一般过去时”最准确的总结。",
           "options": [
             {
-              "id": "q-g5-02-11-o1",
+              "id": "q2-g5-02-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-11-o2",
+              "id": "q2-g5-02-11-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-11-o3",
+              "id": "q2-g5-02-11-o3",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-11-o4",
+              "id": "q2-g5-02-11-o4",
               "text": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-02-11-o4"
+              "q2-g5-02-11-o4"
             ],
             "textAnswers": []
           },
