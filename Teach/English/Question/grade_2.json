@@ -1,0 +1,2541 @@
+{
+  "schemaVersion": 2,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T09:53:35.956Z",
+  "sets": [
+    {
+      "id": "qs-g2-01",
+      "grade": 2,
+      "order": 1,
+      "title": "be动词的否定句和疑问句专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-01"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-01-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“be动词的否定句和疑问句”的句子。",
+          "options": [
+            {
+              "id": "q-g2-01-01-o1",
+              "text": "She isn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-01-o2",
+              "text": "She doesn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-01-o3",
+              "text": "You are ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-01-o4",
+              "text": "Is they ready?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 正确示例：She isn't at home.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-01-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“be动词的否定句和疑问句”规则？",
+          "options": [
+            {
+              "id": "q-g2-01-02-o1",
+              "text": "You are ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-02-o2",
+              "text": "Are you ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-02-o3",
+              "text": "Is they ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-02-o4",
+              "text": "She doesn't at home.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 正确示例：Are you ready?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-01-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g2-01-03-o1",
+              "text": "Is they ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-03-o2",
+              "text": "She doesn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-03-o3",
+              "text": "She isn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-03-o4",
+              "text": "You are ready?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 正确示例：She isn't at home.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-01-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-01-04-o1",
+              "text": "She doesn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-04-o2",
+              "text": "You are ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-04-o3",
+              "text": "Is they ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-04-o4",
+              "text": "Are you ready?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 正确示例：Are you ready?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-01-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g2-01-05-o1",
+              "text": "She isn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-05-o2",
+              "text": "You are ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-05-o3",
+              "text": "Is they ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-05-o4",
+              "text": "She doesn't at home.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 正确示例：She isn't at home.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-01-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“be动词的否定句和疑问句”的句子。",
+          "options": [
+            {
+              "id": "q-g2-01-06-o1",
+              "text": "Is they ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-06-o2",
+              "text": "Are you ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-06-o3",
+              "text": "She doesn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-06-o4",
+              "text": "You are ready?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 正确示例：Are you ready?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-01-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g2-01-07-o1",
+              "text": "She doesn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-07-o2",
+              "text": "You are ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-07-o3",
+              "text": "She isn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-07-o4",
+              "text": "Is they ready?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 正确示例：She isn't at home.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-01-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g2-01-08-o1",
+              "text": "You are ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-08-o2",
+              "text": "Is they ready?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-08-o3",
+              "text": "She doesn't at home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-08-o4",
+              "text": "Are you ready?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 正确示例：Are you ready?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-01-09",
+          "type": "singleChoice",
+          "stem": "关于“be动词的否定句和疑问句”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g2-01-09-o1",
+              "text": "否定句在be后加not；一般疑问句把be提到主语前。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-01-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“She isn't at home.”符合“be动词的否定句和疑问句”规则。",
+          "options": [
+            {
+              "id": "q-g2-01-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-01-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-01-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "She isn't at home. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g2-02",
+      "grade": 2,
+      "order": 2,
+      "title": "形容词性物主代词专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-02"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-02-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“形容词性物主代词”的句子。",
+          "options": [
+            {
+              "id": "q-g2-02-01-o1",
+              "text": "This is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-01-o2",
+              "text": "This book is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-01-o3",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-01-o4",
+              "text": "This is mine pen.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确示例：This is my book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“形容词性物主代词”规则？",
+          "options": [
+            {
+              "id": "q-g2-02-02-o1",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-02-o2",
+              "text": "Their classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-02-o3",
+              "text": "This is mine pen.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-02-o4",
+              "text": "This book is my book.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确示例：Their classroom is big.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g2-02-03-o1",
+              "text": "This is mine pen.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-03-o2",
+              "text": "This book is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-03-o3",
+              "text": "This is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-03-o4",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确示例：This is my book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-02-04-o1",
+              "text": "This book is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-04-o2",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-04-o3",
+              "text": "This is mine pen.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-04-o4",
+              "text": "Their classroom is big.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确示例：Their classroom is big.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g2-02-05-o1",
+              "text": "This is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-05-o2",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-05-o3",
+              "text": "This is mine pen.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-05-o4",
+              "text": "This book is my book.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确示例：This is my book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“形容词性物主代词”的句子。",
+          "options": [
+            {
+              "id": "q-g2-02-06-o1",
+              "text": "This is mine pen.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-06-o2",
+              "text": "Their classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-06-o3",
+              "text": "This book is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-06-o4",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确示例：Their classroom is big.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g2-02-07-o1",
+              "text": "This book is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-07-o2",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-07-o3",
+              "text": "This is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-07-o4",
+              "text": "This is mine pen.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确示例：This is my book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g2-02-08-o1",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-08-o2",
+              "text": "This is mine pen.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-08-o3",
+              "text": "This book is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-08-o4",
+              "text": "Their classroom is big.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确示例：Their classroom is big.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-09",
+          "type": "singleChoice",
+          "stem": "关于“形容词性物主代词”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g2-02-09-o1",
+              "text": "my、your、his、her、its、our、their后面必须接名词。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“This is my book.”符合“形容词性物主代词”规则。",
+          "options": [
+            {
+              "id": "q-g2-02-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "This is my book. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g2-03",
+      "grade": 2,
+      "order": 3,
+      "title": "名词复数规则变化专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-03"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-03-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“名词复数规则变化”的句子。",
+          "options": [
+            {
+              "id": "q-g2-03-01-o1",
+              "text": "I have two boxes.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-01-o2",
+              "text": "I have two boxs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-01-o3",
+              "text": "There are three babys.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-01-o4",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确示例：I have two boxes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“名词复数规则变化”规则？",
+          "options": [
+            {
+              "id": "q-g2-03-02-o1",
+              "text": "There are three babys.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-02-o2",
+              "text": "There are three babies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-02-o3",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-02-o4",
+              "text": "I have two boxs.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确示例：There are three babies.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g2-03-03-o1",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-03-o2",
+              "text": "I have two boxs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-03-o3",
+              "text": "I have two boxes.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-03-o4",
+              "text": "There are three babys.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确示例：I have two boxes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-03-04-o1",
+              "text": "I have two boxs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-04-o2",
+              "text": "There are three babys.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-04-o3",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-04-o4",
+              "text": "There are three babies.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确示例：There are three babies.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g2-03-05-o1",
+              "text": "I have two boxes.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-05-o2",
+              "text": "There are three babys.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-05-o3",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-05-o4",
+              "text": "I have two boxs.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确示例：I have two boxes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“名词复数规则变化”的句子。",
+          "options": [
+            {
+              "id": "q-g2-03-06-o1",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-06-o2",
+              "text": "There are three babies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-06-o3",
+              "text": "I have two boxs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-06-o4",
+              "text": "There are three babys.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确示例：There are three babies.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g2-03-07-o1",
+              "text": "I have two boxs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-07-o2",
+              "text": "There are three babys.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-07-o3",
+              "text": "I have two boxes.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-07-o4",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确示例：I have two boxes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g2-03-08-o1",
+              "text": "There are three babys.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-08-o2",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-08-o3",
+              "text": "I have two boxs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-08-o4",
+              "text": "There are three babies.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确示例：There are three babies.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-09",
+          "type": "singleChoice",
+          "stem": "关于“名词复数规则变化”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g2-03-09-o1",
+              "text": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I have two boxes.”符合“名词复数规则变化”规则。",
+          "options": [
+            {
+              "id": "q-g2-03-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I have two boxes. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g2-04",
+      "grade": 2,
+      "order": 4,
+      "title": "数量表达 How many专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-04"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-04-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“数量表达 How many”的句子。",
+          "options": [
+            {
+              "id": "q-g2-04-01-o1",
+              "text": "How many books do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-01-o2",
+              "text": "How many book do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-01-o3",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-01-o4",
+              "text": "How many water is there?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确示例：How many books do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“数量表达 How many”规则？",
+          "options": [
+            {
+              "id": "q-g2-04-02-o1",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-02-o2",
+              "text": "How many birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-02-o3",
+              "text": "How many water is there?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-02-o4",
+              "text": "How many book do you have?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确示例：How many birds can you see?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g2-04-03-o1",
+              "text": "How many water is there?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-03-o2",
+              "text": "How many book do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-03-o3",
+              "text": "How many books do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-03-o4",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确示例：How many books do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-04-04-o1",
+              "text": "How many book do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-04-o2",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-04-o3",
+              "text": "How many water is there?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-04-o4",
+              "text": "How many birds can you see?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确示例：How many birds can you see?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g2-04-05-o1",
+              "text": "How many books do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-05-o2",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-05-o3",
+              "text": "How many water is there?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-05-o4",
+              "text": "How many book do you have?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确示例：How many books do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“数量表达 How many”的句子。",
+          "options": [
+            {
+              "id": "q-g2-04-06-o1",
+              "text": "How many water is there?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-06-o2",
+              "text": "How many birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-06-o3",
+              "text": "How many book do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-06-o4",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确示例：How many birds can you see?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g2-04-07-o1",
+              "text": "How many book do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-07-o2",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-07-o3",
+              "text": "How many books do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-07-o4",
+              "text": "How many water is there?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确示例：How many books do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g2-04-08-o1",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-08-o2",
+              "text": "How many water is there?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-08-o3",
+              "text": "How many book do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-08-o4",
+              "text": "How many birds can you see?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确示例：How many birds can you see?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-09",
+          "type": "singleChoice",
+          "stem": "关于“数量表达 How many”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g2-04-09-o1",
+              "text": "How many后接可数名词复数，用来询问数量。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“How many books do you have?”符合“数量表达 How many”规则。",
+          "options": [
+            {
+              "id": "q-g2-04-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many books do you have? 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g2-05",
+      "grade": 2,
+      "order": 5,
+      "title": "Have / Has 的用法专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-05"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-05-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“Have / Has 的用法”的句子。",
+          "options": [
+            {
+              "id": "q-g2-05-01-o1",
+              "text": "She has a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-01-o2",
+              "text": "She have a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-01-o3",
+              "text": "We has lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-01-o4",
+              "text": "Tom have two dogs.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确示例：She has a new bike.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“Have / Has 的用法”规则？",
+          "options": [
+            {
+              "id": "q-g2-05-02-o1",
+              "text": "We has lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-02-o2",
+              "text": "We have lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-02-o3",
+              "text": "Tom have two dogs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-02-o4",
+              "text": "She have a new bike.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确示例：We have lunch at school.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g2-05-03-o1",
+              "text": "Tom have two dogs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-03-o2",
+              "text": "She have a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-03-o3",
+              "text": "She has a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-03-o4",
+              "text": "We has lunch at school.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确示例：She has a new bike.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-05-04-o1",
+              "text": "She have a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-04-o2",
+              "text": "We has lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-04-o3",
+              "text": "Tom have two dogs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-04-o4",
+              "text": "We have lunch at school.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确示例：We have lunch at school.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g2-05-05-o1",
+              "text": "She has a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-05-o2",
+              "text": "We has lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-05-o3",
+              "text": "Tom have two dogs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-05-o4",
+              "text": "She have a new bike.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确示例：She has a new bike.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“Have / Has 的用法”的句子。",
+          "options": [
+            {
+              "id": "q-g2-05-06-o1",
+              "text": "Tom have two dogs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-06-o2",
+              "text": "We have lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-06-o3",
+              "text": "She have a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-06-o4",
+              "text": "We has lunch at school.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确示例：We have lunch at school.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g2-05-07-o1",
+              "text": "She have a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-07-o2",
+              "text": "We has lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-07-o3",
+              "text": "She has a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-07-o4",
+              "text": "Tom have two dogs.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确示例：She has a new bike.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g2-05-08-o1",
+              "text": "We has lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-08-o2",
+              "text": "Tom have two dogs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-08-o3",
+              "text": "She have a new bike.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-08-o4",
+              "text": "We have lunch at school.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确示例：We have lunch at school.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-09",
+          "type": "singleChoice",
+          "stem": "关于“Have / Has 的用法”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g2-05-09-o1",
+              "text": "I、you和复数主语用have；he、she、it等第三人称单数用has。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“She has a new bike.”符合“Have / Has 的用法”规则。",
+          "options": [
+            {
+              "id": "q-g2-05-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "She has a new bike. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g2-06",
+      "grade": 2,
+      "order": 6,
+      "title": "情态动词 can专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-06"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-06-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“情态动词 can”的句子。",
+          "options": [
+            {
+              "id": "q-g2-06-01-o1",
+              "text": "I can swim.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-01-o2",
+              "text": "I can swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-01-o3",
+              "text": "Can she dances?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-01-o4",
+              "text": "He cans run.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确示例：I can swim.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“情态动词 can”规则？",
+          "options": [
+            {
+              "id": "q-g2-06-02-o1",
+              "text": "Can she dances?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-02-o2",
+              "text": "Can she dance?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-02-o3",
+              "text": "He cans run.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-02-o4",
+              "text": "I can swimming.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确示例：Can she dance?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g2-06-03-o1",
+              "text": "He cans run.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-03-o2",
+              "text": "I can swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-03-o3",
+              "text": "I can swim.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-03-o4",
+              "text": "Can she dances?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确示例：I can swim.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-06-04-o1",
+              "text": "I can swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-04-o2",
+              "text": "Can she dances?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-04-o3",
+              "text": "He cans run.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-04-o4",
+              "text": "Can she dance?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确示例：Can she dance?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g2-06-05-o1",
+              "text": "I can swim.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-05-o2",
+              "text": "Can she dances?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-05-o3",
+              "text": "He cans run.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-05-o4",
+              "text": "I can swimming.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确示例：I can swim.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“情态动词 can”的句子。",
+          "options": [
+            {
+              "id": "q-g2-06-06-o1",
+              "text": "He cans run.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-06-o2",
+              "text": "Can she dance?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-06-o3",
+              "text": "I can swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-06-o4",
+              "text": "Can she dances?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确示例：Can she dance?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g2-06-07-o1",
+              "text": "I can swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-07-o2",
+              "text": "Can she dances?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-07-o3",
+              "text": "I can swim.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-07-o4",
+              "text": "He cans run.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确示例：I can swim.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g2-06-08-o1",
+              "text": "Can she dances?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-08-o2",
+              "text": "He cans run.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-08-o3",
+              "text": "I can swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-08-o4",
+              "text": "Can she dance?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 正确示例：Can she dance?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-09",
+          "type": "singleChoice",
+          "stem": "关于“情态动词 can”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g2-06-09-o1",
+              "text": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-06-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I can swim.”符合“情态动词 can”规则。",
+          "options": [
+            {
+              "id": "q-g2-06-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-06-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-06-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I can swim. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g2-07",
+      "grade": 2,
+      "order": 7,
+      "title": "简单方位介词专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-07"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-07-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“简单方位介词”的句子。",
+          "options": [
+            {
+              "id": "q-g2-07-01-o1",
+              "text": "The ball is under the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-01-o2",
+              "text": "The ball is under of the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-01-o3",
+              "text": "The books are in the desk top.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-01-o4",
+              "text": "The cat is on the box inside.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 正确示例：The ball is under the chair.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“简单方位介词”规则？",
+          "options": [
+            {
+              "id": "q-g2-07-02-o1",
+              "text": "The books are in the desk top.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-02-o2",
+              "text": "The books are on the desk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-02-o3",
+              "text": "The cat is on the box inside.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-02-o4",
+              "text": "The ball is under of the chair.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 正确示例：The books are on the desk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g2-07-03-o1",
+              "text": "The cat is on the box inside.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-03-o2",
+              "text": "The ball is under of the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-03-o3",
+              "text": "The ball is under the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-03-o4",
+              "text": "The books are in the desk top.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 正确示例：The ball is under the chair.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-07-04-o1",
+              "text": "The ball is under of the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-04-o2",
+              "text": "The books are in the desk top.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-04-o3",
+              "text": "The cat is on the box inside.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-04-o4",
+              "text": "The books are on the desk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 正确示例：The books are on the desk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g2-07-05-o1",
+              "text": "The ball is under the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-05-o2",
+              "text": "The books are in the desk top.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-05-o3",
+              "text": "The cat is on the box inside.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-05-o4",
+              "text": "The ball is under of the chair.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 正确示例：The ball is under the chair.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“简单方位介词”的句子。",
+          "options": [
+            {
+              "id": "q-g2-07-06-o1",
+              "text": "The cat is on the box inside.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-06-o2",
+              "text": "The books are on the desk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-06-o3",
+              "text": "The ball is under of the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-06-o4",
+              "text": "The books are in the desk top.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 正确示例：The books are on the desk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g2-07-07-o1",
+              "text": "The ball is under of the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-07-o2",
+              "text": "The books are in the desk top.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-07-o3",
+              "text": "The ball is under the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-07-o4",
+              "text": "The cat is on the box inside.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 正确示例：The ball is under the chair.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g2-07-08-o1",
+              "text": "The books are in the desk top.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-08-o2",
+              "text": "The cat is on the box inside.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-08-o3",
+              "text": "The ball is under of the chair.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-08-o4",
+              "text": "The books are on the desk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 正确示例：The books are on the desk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-09",
+          "type": "singleChoice",
+          "stem": "关于“简单方位介词”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g2-07-09-o1",
+              "text": "in表示在里面，on表示在上面，under表示在下面。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“The ball is under the chair.”符合“简单方位介词”规则。",
+          "options": [
+            {
+              "id": "q-g2-07-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-07-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-07-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "The ball is under the chair. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
