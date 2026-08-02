@@ -1,0 +1,2903 @@
+{
+  "schemaVersion": 2,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T09:53:35.956Z",
+  "sets": [
+    {
+      "id": "qs-g4-01",
+      "grade": 4,
+      "order": 1,
+      "title": "一般过去时专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-01"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-01-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“一般过去时”的句子。",
+          "options": [
+            {
+              "id": "q-g4-01-01-o1",
+              "text": "We visited the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-01-o2",
+              "text": "We visit the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-01-o3",
+              "text": "She goed home early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-01-o4",
+              "text": "He goes there last week.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 正确示例：We visited the museum yesterday.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-01-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“一般过去时”规则？",
+          "options": [
+            {
+              "id": "q-g4-01-02-o1",
+              "text": "She goed home early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-02-o2",
+              "text": "She went home early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-02-o3",
+              "text": "He goes there last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-02-o4",
+              "text": "We visit the museum yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 正确示例：She went home early.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-01-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g4-01-03-o1",
+              "text": "He goes there last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-03-o2",
+              "text": "We visit the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-03-o3",
+              "text": "We visited the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-03-o4",
+              "text": "She goed home early.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 正确示例：We visited the museum yesterday.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-01-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-01-04-o1",
+              "text": "We visit the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-04-o2",
+              "text": "She goed home early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-04-o3",
+              "text": "He goes there last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-04-o4",
+              "text": "She went home early.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 正确示例：She went home early.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-01-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g4-01-05-o1",
+              "text": "We visited the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-05-o2",
+              "text": "She goed home early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-05-o3",
+              "text": "He goes there last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-05-o4",
+              "text": "We visit the museum yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 正确示例：We visited the museum yesterday.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-01-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“一般过去时”的句子。",
+          "options": [
+            {
+              "id": "q-g4-01-06-o1",
+              "text": "He goes there last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-06-o2",
+              "text": "She went home early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-06-o3",
+              "text": "We visit the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-06-o4",
+              "text": "She goed home early.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 正确示例：She went home early.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-01-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g4-01-07-o1",
+              "text": "We visit the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-07-o2",
+              "text": "She goed home early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-07-o3",
+              "text": "We visited the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-07-o4",
+              "text": "He goes there last week.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 正确示例：We visited the museum yesterday.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-01-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g4-01-08-o1",
+              "text": "She goed home early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-08-o2",
+              "text": "He goes there last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-08-o3",
+              "text": "We visit the museum yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-08-o4",
+              "text": "She went home early.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 正确示例：She went home early.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-01-09",
+          "type": "singleChoice",
+          "stem": "关于“一般过去时”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g4-01-09-o1",
+              "text": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-01-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“We visited the museum yesterday.”符合“一般过去时”规则。",
+          "options": [
+            {
+              "id": "q-g4-01-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-01-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-01-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "We visited the museum yesterday. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g4-02",
+      "grade": 4,
+      "order": 2,
+      "title": "一般将来时 be going to专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-02"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-02-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“一般将来时 be going to”的句子。",
+          "options": [
+            {
+              "id": "q-g4-02-01-o1",
+              "text": "I am going to read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-01-o2",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-01-o3",
+              "text": "It going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-01-o4",
+              "text": "She is going to reads.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确示例：I am going to read tonight.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“一般将来时 be going to”规则？",
+          "options": [
+            {
+              "id": "q-g4-02-02-o1",
+              "text": "It going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-02-o2",
+              "text": "It is going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-02-o3",
+              "text": "She is going to reads.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-02-o4",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确示例：It is going to rain.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g4-02-03-o1",
+              "text": "She is going to reads.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-03-o2",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-03-o3",
+              "text": "I am going to read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-03-o4",
+              "text": "It going to rain.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确示例：I am going to read tonight.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-02-04-o1",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-04-o2",
+              "text": "It going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-04-o3",
+              "text": "She is going to reads.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-04-o4",
+              "text": "It is going to rain.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确示例：It is going to rain.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g4-02-05-o1",
+              "text": "I am going to read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-05-o2",
+              "text": "It going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-05-o3",
+              "text": "She is going to reads.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-05-o4",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确示例：I am going to read tonight.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“一般将来时 be going to”的句子。",
+          "options": [
+            {
+              "id": "q-g4-02-06-o1",
+              "text": "She is going to reads.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-06-o2",
+              "text": "It is going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-06-o3",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-06-o4",
+              "text": "It going to rain.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确示例：It is going to rain.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g4-02-07-o1",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-07-o2",
+              "text": "It going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-07-o3",
+              "text": "I am going to read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-07-o4",
+              "text": "She is going to reads.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确示例：I am going to read tonight.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g4-02-08-o1",
+              "text": "It going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-08-o2",
+              "text": "She is going to reads.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-08-o3",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-08-o4",
+              "text": "It is going to rain.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确示例：It is going to rain.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-09",
+          "type": "singleChoice",
+          "stem": "关于“一般将来时 be going to”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g4-02-09-o1",
+              "text": "be going to加动词原形表示计划、打算或有迹象将发生的事情。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I am going to read tonight.”符合“一般将来时 be going to”规则。",
+          "options": [
+            {
+              "id": "q-g4-02-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I am going to read tonight. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g4-03",
+      "grade": 4,
+      "order": 3,
+      "title": "形容词比较级专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-03"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-03-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“形容词比较级”的句子。",
+          "options": [
+            {
+              "id": "q-g4-03-01-o1",
+              "text": "My bag is heavier than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-01-o2",
+              "text": "My bag is more heavy than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-01-o3",
+              "text": "This road is gooder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-01-o4",
+              "text": "He is tallest than me.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 正确示例：My bag is heavier than yours.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-03-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“形容词比较级”规则？",
+          "options": [
+            {
+              "id": "q-g4-03-02-o1",
+              "text": "This road is gooder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-02-o2",
+              "text": "This road is better.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-02-o3",
+              "text": "He is tallest than me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-02-o4",
+              "text": "My bag is more heavy than yours.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 正确示例：This road is better.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-03-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g4-03-03-o1",
+              "text": "He is tallest than me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-03-o2",
+              "text": "My bag is more heavy than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-03-o3",
+              "text": "My bag is heavier than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-03-o4",
+              "text": "This road is gooder.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 正确示例：My bag is heavier than yours.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-03-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-03-04-o1",
+              "text": "My bag is more heavy than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-04-o2",
+              "text": "This road is gooder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-04-o3",
+              "text": "He is tallest than me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-04-o4",
+              "text": "This road is better.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 正确示例：This road is better.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-03-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g4-03-05-o1",
+              "text": "My bag is heavier than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-05-o2",
+              "text": "This road is gooder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-05-o3",
+              "text": "He is tallest than me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-05-o4",
+              "text": "My bag is more heavy than yours.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 正确示例：My bag is heavier than yours.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-03-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“形容词比较级”的句子。",
+          "options": [
+            {
+              "id": "q-g4-03-06-o1",
+              "text": "He is tallest than me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-06-o2",
+              "text": "This road is better.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-06-o3",
+              "text": "My bag is more heavy than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-06-o4",
+              "text": "This road is gooder.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 正确示例：This road is better.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-03-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g4-03-07-o1",
+              "text": "My bag is more heavy than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-07-o2",
+              "text": "This road is gooder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-07-o3",
+              "text": "My bag is heavier than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-07-o4",
+              "text": "He is tallest than me.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 正确示例：My bag is heavier than yours.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-03-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g4-03-08-o1",
+              "text": "This road is gooder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-08-o2",
+              "text": "He is tallest than me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-08-o3",
+              "text": "My bag is more heavy than yours.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-08-o4",
+              "text": "This road is better.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 正确示例：This road is better.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-03-09",
+          "type": "singleChoice",
+          "stem": "关于“形容词比较级”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g4-03-09-o1",
+              "text": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-03-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“My bag is heavier than yours.”符合“形容词比较级”规则。",
+          "options": [
+            {
+              "id": "q-g4-03-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-03-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-03-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "My bag is heavier than yours. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g4-04",
+      "grade": 4,
+      "order": 4,
+      "title": "频度副词专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-04"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-04-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“频度副词”的句子。",
+          "options": [
+            {
+              "id": "q-g4-04-01-o1",
+              "text": "I often walk to school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-01-o2",
+              "text": "I walk often to school every.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-01-o3",
+              "text": "She always is kind.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-01-o4",
+              "text": "He go usually swimming.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 正确示例：I often walk to school.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“频度副词”规则？",
+          "options": [
+            {
+              "id": "q-g4-04-02-o1",
+              "text": "She always is kind.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-02-o2",
+              "text": "She is always kind.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-02-o3",
+              "text": "He go usually swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-02-o4",
+              "text": "I walk often to school every.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 正确示例：She is always kind.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g4-04-03-o1",
+              "text": "He go usually swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-03-o2",
+              "text": "I walk often to school every.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-03-o3",
+              "text": "I often walk to school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-03-o4",
+              "text": "She always is kind.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 正确示例：I often walk to school.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-04-04-o1",
+              "text": "I walk often to school every.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-04-o2",
+              "text": "She always is kind.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-04-o3",
+              "text": "He go usually swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-04-o4",
+              "text": "She is always kind.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 正确示例：She is always kind.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g4-04-05-o1",
+              "text": "I often walk to school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-05-o2",
+              "text": "She always is kind.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-05-o3",
+              "text": "He go usually swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-05-o4",
+              "text": "I walk often to school every.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 正确示例：I often walk to school.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“频度副词”的句子。",
+          "options": [
+            {
+              "id": "q-g4-04-06-o1",
+              "text": "He go usually swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-06-o2",
+              "text": "She is always kind.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-06-o3",
+              "text": "I walk often to school every.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-06-o4",
+              "text": "She always is kind.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 正确示例：She is always kind.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g4-04-07-o1",
+              "text": "I walk often to school every.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-07-o2",
+              "text": "She always is kind.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-07-o3",
+              "text": "I often walk to school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-07-o4",
+              "text": "He go usually swimming.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 正确示例：I often walk to school.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g4-04-08-o1",
+              "text": "She always is kind.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-08-o2",
+              "text": "He go usually swimming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-08-o3",
+              "text": "I walk often to school every.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-08-o4",
+              "text": "She is always kind.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 正确示例：She is always kind.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-09",
+          "type": "singleChoice",
+          "stem": "关于“频度副词”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g4-04-09-o1",
+              "text": "always、usually、often、sometimes等通常位于实义动词前、be动词后。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I often walk to school.”符合“频度副词”规则。",
+          "options": [
+            {
+              "id": "q-g4-04-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-04-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-04-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I often walk to school. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g4-05",
+      "grade": 4,
+      "order": 5,
+      "title": "must / should 的用法专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-05"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-05-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“must / should 的用法”的句子。",
+          "options": [
+            {
+              "id": "q-g4-05-01-o1",
+              "text": "You must follow the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-01-o2",
+              "text": "You must follows the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-01-o3",
+              "text": "We should saving water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-01-o4",
+              "text": "He should to rest.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 正确示例：You must follow the rules.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-05-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“must / should 的用法”规则？",
+          "options": [
+            {
+              "id": "q-g4-05-02-o1",
+              "text": "We should saving water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-02-o2",
+              "text": "We should save water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-02-o3",
+              "text": "He should to rest.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-02-o4",
+              "text": "You must follows the rules.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 正确示例：We should save water.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-05-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g4-05-03-o1",
+              "text": "He should to rest.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-03-o2",
+              "text": "You must follows the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-03-o3",
+              "text": "You must follow the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-03-o4",
+              "text": "We should saving water.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 正确示例：You must follow the rules.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-05-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-05-04-o1",
+              "text": "You must follows the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-04-o2",
+              "text": "We should saving water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-04-o3",
+              "text": "He should to rest.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-04-o4",
+              "text": "We should save water.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 正确示例：We should save water.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-05-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g4-05-05-o1",
+              "text": "You must follow the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-05-o2",
+              "text": "We should saving water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-05-o3",
+              "text": "He should to rest.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-05-o4",
+              "text": "You must follows the rules.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 正确示例：You must follow the rules.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-05-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“must / should 的用法”的句子。",
+          "options": [
+            {
+              "id": "q-g4-05-06-o1",
+              "text": "He should to rest.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-06-o2",
+              "text": "We should save water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-06-o3",
+              "text": "You must follows the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-06-o4",
+              "text": "We should saving water.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 正确示例：We should save water.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-05-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g4-05-07-o1",
+              "text": "You must follows the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-07-o2",
+              "text": "We should saving water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-07-o3",
+              "text": "You must follow the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-07-o4",
+              "text": "He should to rest.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 正确示例：You must follow the rules.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-05-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g4-05-08-o1",
+              "text": "We should saving water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-08-o2",
+              "text": "He should to rest.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-08-o3",
+              "text": "You must follows the rules.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-08-o4",
+              "text": "We should save water.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 正确示例：We should save water.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-05-09",
+          "type": "singleChoice",
+          "stem": "关于“must / should 的用法”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g4-05-09-o1",
+              "text": "must表示强制或必要，should表示建议；后面都接动词原形。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-05-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“You must follow the rules.”符合“must / should 的用法”规则。",
+          "options": [
+            {
+              "id": "q-g4-05-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-05-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-05-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "You must follow the rules. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g4-06",
+      "grade": 4,
+      "order": 6,
+      "title": "人称代词宾格专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-06"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-06-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“人称代词宾格”的句子。",
+          "options": [
+            {
+              "id": "q-g4-06-01-o1",
+              "text": "Please help me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-01-o2",
+              "text": "Please help I.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-01-o3",
+              "text": "I play with they.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-01-o4",
+              "text": "Give she the book.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确示例：Please help me.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“人称代词宾格”规则？",
+          "options": [
+            {
+              "id": "q-g4-06-02-o1",
+              "text": "I play with they.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-02-o2",
+              "text": "I play with them.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-02-o3",
+              "text": "Give she the book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-02-o4",
+              "text": "Please help I.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确示例：I play with them.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g4-06-03-o1",
+              "text": "Give she the book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-03-o2",
+              "text": "Please help I.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-03-o3",
+              "text": "Please help me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-03-o4",
+              "text": "I play with they.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确示例：Please help me.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-06-04-o1",
+              "text": "Please help I.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-04-o2",
+              "text": "I play with they.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-04-o3",
+              "text": "Give she the book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-04-o4",
+              "text": "I play with them.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确示例：I play with them.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g4-06-05-o1",
+              "text": "Please help me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-05-o2",
+              "text": "I play with they.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-05-o3",
+              "text": "Give she the book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-05-o4",
+              "text": "Please help I.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确示例：Please help me.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“人称代词宾格”的句子。",
+          "options": [
+            {
+              "id": "q-g4-06-06-o1",
+              "text": "Give she the book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-06-o2",
+              "text": "I play with them.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-06-o3",
+              "text": "Please help I.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-06-o4",
+              "text": "I play with they.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确示例：I play with them.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g4-06-07-o1",
+              "text": "Please help I.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-07-o2",
+              "text": "I play with they.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-07-o3",
+              "text": "Please help me.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-07-o4",
+              "text": "Give she the book.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确示例：Please help me.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g4-06-08-o1",
+              "text": "I play with they.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-08-o2",
+              "text": "Give she the book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-08-o3",
+              "text": "Please help I.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-08-o4",
+              "text": "I play with them.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确示例：I play with them.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-09",
+          "type": "singleChoice",
+          "stem": "关于“人称代词宾格”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g4-06-09-o1",
+              "text": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“Please help me.”符合“人称代词宾格”规则。",
+          "options": [
+            {
+              "id": "q-g4-06-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Please help me. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g4-07",
+      "grade": 4,
+      "order": 7,
+      "title": "动词不定式 to do专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-07"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-07-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“动词不定式 to do”的句子。",
+          "options": [
+            {
+              "id": "q-g4-07-01-o1",
+              "text": "I want to be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-01-o2",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-01-o3",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-01-o4",
+              "text": "He needs to studies.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确示例：I want to be a pilot.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“动词不定式 to do”规则？",
+          "options": [
+            {
+              "id": "q-g4-07-02-o1",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-02-o2",
+              "text": "She went out to buy milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-02-o3",
+              "text": "He needs to studies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-02-o4",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确示例：She went out to buy milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g4-07-03-o1",
+              "text": "He needs to studies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-03-o2",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-03-o3",
+              "text": "I want to be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-03-o4",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确示例：I want to be a pilot.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-07-04-o1",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-04-o2",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-04-o3",
+              "text": "He needs to studies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-04-o4",
+              "text": "She went out to buy milk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确示例：She went out to buy milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g4-07-05-o1",
+              "text": "I want to be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-05-o2",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-05-o3",
+              "text": "He needs to studies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-05-o4",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确示例：I want to be a pilot.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“动词不定式 to do”的句子。",
+          "options": [
+            {
+              "id": "q-g4-07-06-o1",
+              "text": "He needs to studies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-06-o2",
+              "text": "She went out to buy milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-06-o3",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-06-o4",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确示例：She went out to buy milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g4-07-07-o1",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-07-o2",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-07-o3",
+              "text": "I want to be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-07-o4",
+              "text": "He needs to studies.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确示例：I want to be a pilot.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g4-07-08-o1",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-08-o2",
+              "text": "He needs to studies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-08-o3",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-08-o4",
+              "text": "She went out to buy milk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确示例：She went out to buy milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-09",
+          "type": "singleChoice",
+          "stem": "关于“动词不定式 to do”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g4-07-09-o1",
+              "text": "to加动词原形可表示目的，也常跟在want、need、like等动词后。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I want to be a pilot.”符合“动词不定式 to do”规则。",
+          "options": [
+            {
+              "id": "q-g4-07-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I want to be a pilot. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g4-08",
+      "grade": 4,
+      "order": 8,
+      "title": "并列连词 and / but / or专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-08"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-08-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“并列连词 and / but / or”的句子。",
+          "options": [
+            {
+              "id": "q-g4-08-01-o1",
+              "text": "I like tea, but he likes milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-01-o2",
+              "text": "I like tea, or he likes milk however.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-01-o3",
+              "text": "Hurry up, and you'll be late.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-01-o4",
+              "text": "She is tired but so she rests.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "and表示并列，but表示转折，or表示选择。 正确示例：I like tea, but he likes milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-08-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“并列连词 and / but / or”规则？",
+          "options": [
+            {
+              "id": "q-g4-08-02-o1",
+              "text": "Hurry up, and you'll be late.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-02-o2",
+              "text": "Hurry up, or you'll be late.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-02-o3",
+              "text": "She is tired but so she rests.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-02-o4",
+              "text": "I like tea, or he likes milk however.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "and表示并列，but表示转折，or表示选择。 正确示例：Hurry up, or you'll be late.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-08-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g4-08-03-o1",
+              "text": "She is tired but so she rests.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-03-o2",
+              "text": "I like tea, or he likes milk however.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-03-o3",
+              "text": "I like tea, but he likes milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-03-o4",
+              "text": "Hurry up, and you'll be late.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "and表示并列，but表示转折，or表示选择。 正确示例：I like tea, but he likes milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-08-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-08-04-o1",
+              "text": "I like tea, or he likes milk however.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-04-o2",
+              "text": "Hurry up, and you'll be late.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-04-o3",
+              "text": "She is tired but so she rests.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-04-o4",
+              "text": "Hurry up, or you'll be late.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "and表示并列，but表示转折，or表示选择。 正确示例：Hurry up, or you'll be late.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-08-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g4-08-05-o1",
+              "text": "I like tea, but he likes milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-05-o2",
+              "text": "Hurry up, and you'll be late.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-05-o3",
+              "text": "She is tired but so she rests.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-05-o4",
+              "text": "I like tea, or he likes milk however.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "and表示并列，but表示转折，or表示选择。 正确示例：I like tea, but he likes milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-08-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“并列连词 and / but / or”的句子。",
+          "options": [
+            {
+              "id": "q-g4-08-06-o1",
+              "text": "She is tired but so she rests.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-06-o2",
+              "text": "Hurry up, or you'll be late.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-06-o3",
+              "text": "I like tea, or he likes milk however.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-06-o4",
+              "text": "Hurry up, and you'll be late.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "and表示并列，but表示转折，or表示选择。 正确示例：Hurry up, or you'll be late.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-08-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g4-08-07-o1",
+              "text": "I like tea, or he likes milk however.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-07-o2",
+              "text": "Hurry up, and you'll be late.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-07-o3",
+              "text": "I like tea, but he likes milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-07-o4",
+              "text": "She is tired but so she rests.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "and表示并列，but表示转折，or表示选择。 正确示例：I like tea, but he likes milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-08-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g4-08-08-o1",
+              "text": "Hurry up, and you'll be late.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-08-o2",
+              "text": "She is tired but so she rests.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-08-o3",
+              "text": "I like tea, or he likes milk however.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-08-o4",
+              "text": "Hurry up, or you'll be late.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "and表示并列，but表示转折，or表示选择。 正确示例：Hurry up, or you'll be late.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-08-09",
+          "type": "singleChoice",
+          "stem": "关于“并列连词 and / but / or”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g4-08-09-o1",
+              "text": "and表示并列，but表示转折，or表示选择。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "and表示并列，but表示转折，or表示选择。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-08-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I like tea, but he likes milk.”符合“并列连词 and / but / or”规则。",
+          "options": [
+            {
+              "id": "q-g4-08-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-08-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-08-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I like tea, but he likes milk. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
