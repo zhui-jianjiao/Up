@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g4-02",
@@ -17,6 +17,7 @@
           "id": "q2-g4-02-01",
           "type": "fillBlank",
           "stem": "I am going to ___ a model bridge.",
+          "keyword": "build / make",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -33,6 +34,7 @@
           "id": "q2-g4-02-02",
           "type": "fillBlank",
           "stem": "Look at those clouds. It ___ rain.",
+          "keyword": "go",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -48,6 +50,7 @@
           "id": "q2-g4-02-03",
           "type": "fillBlank",
           "stem": "We ___ visit the science centre on Saturday.",
+          "keyword": "go",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -63,6 +66,7 @@
           "id": "q2-g4-02-04",
           "type": "fillBlank",
           "stem": "What is Amy going to ___ for the show?",
+          "keyword": "wear",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -78,6 +82,7 @@
           "id": "q2-g4-02-05",
           "type": "fillBlank",
           "stem": "Dad isn't going to ___ tonight.",
+          "keyword": "drive",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -93,6 +98,7 @@
           "id": "q2-g4-02-06",
           "type": "fillBlank",
           "stem": "The team ___ practise after class.",
+          "keyword": "go",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -108,6 +114,7 @@
           "id": "q2-g4-02-07",
           "type": "fillBlank",
           "stem": "Are you going to ___ the competition?",
+          "keyword": "enter",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -123,6 +130,7 @@
           "id": "q2-g4-02-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：我今晚打算读书。",
+          "keyword": "go",
           "options": [],
           "answer": {
             "optionIDs": [],
