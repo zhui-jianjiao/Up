@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g4-03",
@@ -24,7 +24,7 @@
               "heavier"
             ]
           },
-          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 本题应填“heavier”。",
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 可接受答案：heavier。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "shorter"
             ]
           },
-          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 本题应填“shorter”。",
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 可接受答案：shorter。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "hotter"
             ]
           },
-          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 本题应填“hotter”。",
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 可接受答案：hotter。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "faster"
             ]
           },
-          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 本题应填“faster”。",
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 可接受答案：faster。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "easier"
             ]
           },
-          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 本题应填“easier”。",
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 可接受答案：easier。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "better"
             ]
           },
-          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 本题应填“better”。",
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 可接受答案：better。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "larger"
             ]
           },
-          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 本题应填“larger”。",
+          "explanation": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 可接受答案：larger。",
           "score": 1,
           "mediaPath": null
         },
