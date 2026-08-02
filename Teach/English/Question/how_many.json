@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g2-04",
+      "grade": 2,
+      "order": 4,
+      "title": "数量表达 How many专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-04"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-04-01",
+          "type": "fillBlank",
+          "stem": "___ pencils are in your case?",
+          "options": [
+            {
+              "id": "q-g2-04-01-o1",
+              "text": "How many",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-01-o2",
+              "text": "How much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-01-o3",
+              "text": "How old",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-01-o4",
+              "text": "How long",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-01-o1"
+            ],
+            "textAnswers": [
+              "How many"
+            ]
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“How many”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-02",
+          "type": "fillBlank",
+          "stem": "___ students joined the choir?",
+          "options": [
+            {
+              "id": "q-g2-04-02-o1",
+              "text": "How much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-02-o2",
+              "text": "How many",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-02-o3",
+              "text": "How often",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-02-o4",
+              "text": "How far",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-02-o2"
+            ],
+            "textAnswers": [
+              "How many"
+            ]
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“How many”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-03",
+          "type": "fillBlank",
+          "stem": "How many ___ do we need for the game?",
+          "options": [
+            {
+              "id": "q-g2-04-03-o1",
+              "text": "ball",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-03-o2",
+              "text": "water",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-03-o3",
+              "text": "balls",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-03-o4",
+              "text": "rice",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-03-o3"
+            ],
+            "textAnswers": [
+              "balls"
+            ]
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“balls”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-04",
+          "type": "fillBlank",
+          "stem": "___ pages did you read today?",
+          "options": [
+            {
+              "id": "q-g2-04-04-o1",
+              "text": "How much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-04-o2",
+              "text": "What much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-04-o3",
+              "text": "How",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-04-o4",
+              "text": "How many",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-04-o4"
+            ],
+            "textAnswers": [
+              "How many"
+            ]
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“How many”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-05",
+          "type": "fillBlank",
+          "stem": "How many ___ can you see in the pond?",
+          "options": [
+            {
+              "id": "q-g2-04-05-o1",
+              "text": "ducks",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-05-o2",
+              "text": "duck",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-05-o3",
+              "text": "milk",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-05-o4",
+              "text": "bread",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-05-o1"
+            ],
+            "textAnswers": [
+              "ducks"
+            ]
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“ducks”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-06",
+          "type": "fillBlank",
+          "stem": "___ times do you brush your teeth each day?",
+          "options": [
+            {
+              "id": "q-g2-04-06-o1",
+              "text": "How much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-06-o2",
+              "text": "How many",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-06-o3",
+              "text": "How long",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-06-o4",
+              "text": "How old",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-06-o2"
+            ],
+            "textAnswers": [
+              "How many"
+            ]
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“How many”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-07",
+          "type": "fillBlank",
+          "stem": "How many ___ are there in February this year?",
+          "options": [
+            {
+              "id": "q-g2-04-07-o1",
+              "text": "day",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-07-o2",
+              "text": "time",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-07-o3",
+              "text": "days",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-07-o4",
+              "text": "snow",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-07-o3"
+            ],
+            "textAnswers": [
+              "days"
+            ]
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“days”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“数量表达 How many”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-04-08-o1",
+              "text": "How many book do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-08-o2",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-08-o3",
+              "text": "How many books do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-08-o4",
+              "text": "How many water is there?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-08-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确表达：How many books do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-04-09-o1",
+              "text": "How much birds can you see?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-09-o2",
+              "text": "How many water is there?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-09-o3",
+              "text": "How many book do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-09-o4",
+              "text": "How many birds can you see?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。 正确表达：How many birds can you see?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-04-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“数量表达 How many”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g2-04-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-10-o3",
+              "text": "How many后接可数名词复数，用来询问数量。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-04-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-04-10-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How many后接可数名词复数，用来询问数量。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
