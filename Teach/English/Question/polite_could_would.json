@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g5-05",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g5-05-01",
+          "id": "q2-g5-05-01",
           "type": "fillBlank",
           "stem": "___ you please lower your voice?",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-05-02",
+          "id": "q2-g5-05-02",
           "type": "fillBlank",
           "stem": "___ you like some more fruit?",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-05-03",
+          "id": "q2-g5-05-03",
           "type": "fillBlank",
           "stem": "Could I ___ your charger for a minute?",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-05-04",
+          "id": "q2-g5-05-04",
           "type": "fillBlank",
           "stem": "Would you mind ___ the window?",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-05-05",
+          "id": "q2-g5-05-05",
           "type": "fillBlank",
           "stem": "___ you help me find this address?",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-05-06",
+          "id": "q2-g5-05-06",
           "type": "fillBlank",
           "stem": "I ___ like to book two tickets.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-05-07",
+          "id": "q2-g5-05-07",
           "type": "fillBlank",
           "stem": "Would you please ___ me the menu?",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-05-08",
+          "id": "q2-g5-05-08",
           "type": "singleChoice",
           "stem": "选择正确使用“could / would 的礼貌表达”的一项。",
           "options": [
             {
-              "id": "q-g5-05-08-o1",
+              "id": "q2-g5-05-08-o1",
               "text": "Could you opened the window?",
               "imagePath": null
             },
             {
-              "id": "q-g5-05-08-o2",
+              "id": "q2-g5-05-08-o2",
               "text": "Would you liking tea?",
               "imagePath": null
             },
             {
-              "id": "q-g5-05-08-o3",
+              "id": "q2-g5-05-08-o3",
               "text": "Could you open the window?",
               "imagePath": null
             },
             {
-              "id": "q-g5-05-08-o4",
+              "id": "q2-g5-05-08-o4",
               "text": "Could she to help?",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-05-08-o3"
+              "q2-g5-05-08-o3"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-05-09",
+          "id": "q2-g5-05-09",
           "type": "singleChoice",
           "stem": "再次辨析“could / would 的礼貌表达”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g5-05-09-o1",
+              "id": "q2-g5-05-09-o1",
               "text": "Would you liking tea?",
               "imagePath": null
             },
             {
-              "id": "q-g5-05-09-o2",
+              "id": "q2-g5-05-09-o2",
               "text": "Could she to help?",
               "imagePath": null
             },
             {
-              "id": "q-g5-05-09-o3",
+              "id": "q2-g5-05-09-o3",
               "text": "Could you opened the window?",
               "imagePath": null
             },
             {
-              "id": "q-g5-05-09-o4",
+              "id": "q2-g5-05-09-o4",
               "text": "Would you like some tea?",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-05-09-o4"
+              "q2-g5-05-09-o4"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-05-10",
+          "id": "q2-g5-05-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“could / would 的礼貌表达”最准确的总结。",
           "options": [
             {
-              "id": "q-g5-05-10-o1",
+              "id": "q2-g5-05-10-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g5-05-10-o2",
+              "id": "q2-g5-05-10-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g5-05-10-o3",
+              "id": "q2-g5-05-10-o3",
               "text": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。",
               "imagePath": null
             },
             {
-              "id": "q-g5-05-10-o4",
+              "id": "q2-g5-05-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-05-10-o3"
+              "q2-g5-05-10-o3"
             ],
             "textAnswers": []
           },
