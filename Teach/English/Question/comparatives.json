@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g4-03",
@@ -17,32 +17,9 @@
           "id": "q-g4-03-01",
           "type": "fillBlank",
           "stem": "This suitcase is ___ than mine.",
-          "options": [
-            {
-              "id": "q-g4-03-01-o1",
-              "text": "heavier",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-01-o2",
-              "text": "heavy",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-01-o3",
-              "text": "heaviest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-01-o4",
-              "text": "more heavy",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-03-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "heavier"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g4-03-02",
           "type": "fillBlank",
           "stem": "The new route is ___ than the old one.",
-          "options": [
-            {
-              "id": "q-g4-03-02-o1",
-              "text": "short",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-02-o2",
-              "text": "shorter",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-02-o3",
-              "text": "shortest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-02-o4",
-              "text": "more short",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-03-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "shorter"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g4-03-03",
           "type": "fillBlank",
           "stem": "Today is ___ than yesterday.",
-          "options": [
-            {
-              "id": "q-g4-03-03-o1",
-              "text": "hot",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-03-o2",
-              "text": "hottest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-03-o3",
-              "text": "hotter",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-03-o4",
-              "text": "more hot",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-03-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "hotter"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g4-03-04",
           "type": "fillBlank",
           "stem": "A train is usually ___ than a bus.",
-          "options": [
-            {
-              "id": "q-g4-03-04-o1",
-              "text": "fast",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-04-o2",
-              "text": "fastest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-04-o3",
-              "text": "more fast",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-04-o4",
-              "text": "faster",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-03-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "faster"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g4-03-05",
           "type": "fillBlank",
           "stem": "This puzzle is ___ than it looks.",
-          "options": [
-            {
-              "id": "q-g4-03-05-o1",
-              "text": "easier",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-05-o2",
-              "text": "easy",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-05-o3",
-              "text": "easiest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-05-o4",
-              "text": "more easy",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-03-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "easier"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g4-03-06",
           "type": "fillBlank",
           "stem": "My second idea is ___ than my first one.",
-          "options": [
-            {
-              "id": "q-g4-03-06-o1",
-              "text": "good",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-06-o2",
-              "text": "better",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-06-o3",
-              "text": "best",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-06-o4",
-              "text": "gooder",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-03-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "better"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g4-03-07",
           "type": "fillBlank",
           "stem": "The blue whale is ___ than an elephant.",
-          "options": [
-            {
-              "id": "q-g4-03-07-o1",
-              "text": "large",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-07-o2",
-              "text": "largest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-07-o3",
-              "text": "larger",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-03-07-o4",
-              "text": "more large",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-03-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "larger"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g4-03-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“形容词比较级”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“形容词比较级”的一项。",
           "options": [
             {
               "id": "q-g4-03-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g4-03-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“形容词比较级”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g4-03-09-o1",
