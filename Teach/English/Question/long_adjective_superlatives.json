@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g5-04",
@@ -17,32 +17,9 @@
           "id": "q-g5-04-01",
           "type": "fillBlank",
           "stem": "This is the ___ experiment in the book.",
-          "options": [
-            {
-              "id": "q-g5-04-01-o1",
-              "text": "most interesting",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-01-o2",
-              "text": "interestinger",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-01-o3",
-              "text": "more interesting",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-01-o4",
-              "text": "interesting",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-04-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "most interesting"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g5-04-02",
           "type": "fillBlank",
           "stem": "Mia chose the ___ design.",
-          "options": [
-            {
-              "id": "q-g5-04-02-o1",
-              "text": "practicalest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-02-o2",
-              "text": "most practical",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-02-o3",
-              "text": "more practical",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-02-o4",
-              "text": "practical",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-04-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "most practical"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g5-04-03",
           "type": "fillBlank",
           "stem": "It was the ___ journey of our holiday.",
-          "options": [
-            {
-              "id": "q-g5-04-03-o1",
-              "text": "excitingest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-03-o2",
-              "text": "more exciting",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-03-o3",
-              "text": "most exciting",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-03-o4",
-              "text": "exciting",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-04-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "most exciting"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g5-04-04",
           "type": "fillBlank",
           "stem": "She is the ___ speaker in the group.",
-          "options": [
-            {
-              "id": "q-g5-04-04-o1",
-              "text": "confidentest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-04-o2",
-              "text": "more confident",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-04-o3",
-              "text": "confident",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-04-o4",
-              "text": "most confident",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-04-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "most confident"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g5-04-05",
           "type": "fillBlank",
           "stem": "That is the ___ solution we discussed.",
-          "options": [
-            {
-              "id": "q-g5-04-05-o1",
-              "text": "most effective",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-05-o2",
-              "text": "effectivest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-05-o3",
-              "text": "more effective",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-05-o4",
-              "text": "effective",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-04-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "most effective"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g5-04-06",
           "type": "fillBlank",
           "stem": "The library is the ___ place in our school.",
-          "options": [
-            {
-              "id": "q-g5-04-06-o1",
-              "text": "peacefulest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-06-o2",
-              "text": "most peaceful",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-06-o3",
-              "text": "more peaceful",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-06-o4",
-              "text": "peaceful",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-04-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "most peaceful"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g5-04-07",
           "type": "fillBlank",
           "stem": "This documentary is the ___ of the three.",
-          "options": [
-            {
-              "id": "q-g5-04-07-o1",
-              "text": "educationalest",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-07-o2",
-              "text": "more educational",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-07-o3",
-              "text": "most educational",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-04-07-o4",
-              "text": "educational",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-04-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "most educational"
             ]
@@ -281,33 +120,48 @@
         },
         {
           "id": "q-g5-04-08",
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：这是最有趣的书。",
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "It is the most interesting book."
+            ]
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。 参考表达：It is the most interesting book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-09",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“长形容词最高级”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“长形容词最高级”的一项。",
           "options": [
             {
-              "id": "q-g5-04-08-o1",
+              "id": "q-g5-04-09-o1",
               "text": "It is the interestingest book.",
               "imagePath": null
             },
             {
-              "id": "q-g5-04-08-o2",
+              "id": "q-g5-04-09-o2",
               "text": "It is the most interesting book.",
               "imagePath": null
             },
             {
-              "id": "q-g5-04-08-o3",
+              "id": "q-g5-04-09-o3",
               "text": "She is most careful student.",
               "imagePath": null
             },
             {
-              "id": "q-g5-04-08-o4",
+              "id": "q-g5-04-09-o4",
               "text": "This is the more beautiful one of all.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-04-08-o2"
+              "q-g5-04-09-o2"
             ],
             "textAnswers": []
           },
@@ -316,34 +170,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-04-09",
+          "id": "q-g5-04-10",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“长形容词最高级”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g5-04-09-o1",
+              "id": "q-g5-04-10-o1",
               "text": "She is most careful student.",
               "imagePath": null
             },
             {
-              "id": "q-g5-04-09-o2",
+              "id": "q-g5-04-10-o2",
               "text": "This is the more beautiful one of all.",
               "imagePath": null
             },
             {
-              "id": "q-g5-04-09-o3",
+              "id": "q-g5-04-10-o3",
               "text": "She is the most careful student.",
               "imagePath": null
             },
             {
-              "id": "q-g5-04-09-o4",
+              "id": "q-g5-04-10-o4",
               "text": "It is the interestingest book.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-04-09-o3"
+              "q-g5-04-10-o3"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-04-10",
+          "id": "q-g5-04-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“长形容词最高级”最准确的总结。",
           "options": [
             {
-              "id": "q-g5-04-10-o1",
+              "id": "q-g5-04-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g5-04-10-o2",
+              "id": "q-g5-04-11-o2",
               "text": "较长形容词的最高级通常使用the most加形容词原级。",
               "imagePath": null
             },
             {
-              "id": "q-g5-04-10-o3",
+              "id": "q-g5-04-11-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g5-04-10-o4",
+              "id": "q-g5-04-11-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-04-10-o2"
+              "q-g5-04-11-o2"
             ],
             "textAnswers": []
           },
