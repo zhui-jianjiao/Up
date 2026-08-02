@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g4-05",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g4-05-01",
+          "id": "q2-g4-05-01",
           "type": "fillBlank",
           "stem": "Cyclists ___ stop at a red light.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-05-02",
+          "id": "q2-g4-05-02",
           "type": "fillBlank",
           "stem": "You look tired. You ___ take a short break.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-05-03",
+          "id": "q2-g4-05-03",
           "type": "fillBlank",
           "stem": "Visitors ___ touch the paintings.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-05-04",
+          "id": "q2-g4-05-04",
           "type": "fillBlank",
           "stem": "We ___ save water whenever possible.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-05-05",
+          "id": "q2-g4-05-05",
           "type": "fillBlank",
           "stem": "Students ___ wear safety glasses in the lab.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-05-06",
+          "id": "q2-g4-05-06",
           "type": "fillBlank",
           "stem": "You ___ share your password with anyone.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-05-07",
+          "id": "q2-g4-05-07",
           "type": "fillBlank",
           "stem": "Must I ___ the form today?",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-05-08",
+          "id": "q2-g4-05-08",
           "type": "singleChoice",
           "stem": "选择正确使用“must / should 的用法”的一项。",
           "options": [
             {
-              "id": "q-g4-05-08-o1",
+              "id": "q2-g4-05-08-o1",
               "text": "You must follows the rules.",
               "imagePath": null
             },
             {
-              "id": "q-g4-05-08-o2",
+              "id": "q2-g4-05-08-o2",
               "text": "We should saving water.",
               "imagePath": null
             },
             {
-              "id": "q-g4-05-08-o3",
+              "id": "q2-g4-05-08-o3",
               "text": "You must follow the rules.",
               "imagePath": null
             },
             {
-              "id": "q-g4-05-08-o4",
+              "id": "q2-g4-05-08-o4",
               "text": "He should to rest.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-05-08-o3"
+              "q2-g4-05-08-o3"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-05-09",
+          "id": "q2-g4-05-09",
           "type": "singleChoice",
           "stem": "再次辨析“must / should 的用法”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g4-05-09-o1",
+              "id": "q2-g4-05-09-o1",
               "text": "We should saving water.",
               "imagePath": null
             },
             {
-              "id": "q-g4-05-09-o2",
+              "id": "q2-g4-05-09-o2",
               "text": "He should to rest.",
               "imagePath": null
             },
             {
-              "id": "q-g4-05-09-o3",
+              "id": "q2-g4-05-09-o3",
               "text": "You must follows the rules.",
               "imagePath": null
             },
             {
-              "id": "q-g4-05-09-o4",
+              "id": "q2-g4-05-09-o4",
               "text": "We should save water.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-05-09-o4"
+              "q2-g4-05-09-o4"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-05-10",
+          "id": "q2-g4-05-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“must / should 的用法”最准确的总结。",
           "options": [
             {
-              "id": "q-g4-05-10-o1",
+              "id": "q2-g4-05-10-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g4-05-10-o2",
+              "id": "q2-g4-05-10-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g4-05-10-o3",
+              "id": "q2-g4-05-10-o3",
               "text": "must表示强制或必要，should表示建议；后面都接动词原形。",
               "imagePath": null
             },
             {
-              "id": "q-g4-05-10-o4",
+              "id": "q2-g4-05-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-05-10-o3"
+              "q2-g4-05-10-o3"
             ],
             "textAnswers": []
           },
