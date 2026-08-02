@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g3-06",
@@ -17,6 +17,7 @@
           "id": "q2-g3-06-01",
           "type": "fillBlank",
           "stem": "___ flour do we need for the cake?",
+          "keyword": "much",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g3-06-02",
           "type": "fillBlank",
           "stem": "___ oranges are in the bag?",
+          "keyword": "many",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g3-06-03",
           "type": "fillBlank",
           "stem": "___ is this notebook?",
+          "keyword": "much",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g3-06-04",
           "type": "fillBlank",
           "stem": "How many ___ did the team score?",
+          "keyword": "point",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g3-06-05",
           "type": "fillBlank",
           "stem": "How much ___ should I add?",
+          "keyword": "salt",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g3-06-06",
           "type": "fillBlank",
           "stem": "___ bottles of water did you buy?",
+          "keyword": "many",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g3-06-07",
           "type": "fillBlank",
           "stem": "___ time is left before the train?",
+          "keyword": "much",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -122,6 +129,7 @@
           "id": "q2-g3-06-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：我们需要多少米？",
+          "keyword": "much",
           "options": [],
           "answer": {
             "optionIDs": [],
