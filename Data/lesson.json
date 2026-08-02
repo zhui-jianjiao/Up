@@ -1,78 +1,7 @@
 {
   "lessonsByStudent" : {
     "KQJWDX" : [
-      {
-        "grammarCompleted" : false,
-        "grammarItems" : [
-          "g1-01",
-          "g1-02"
-        ],
-        "id" : "YW2Q44",
-        "questionAnswers" : {
-          "q-g1-01-01" : "q-g1-01-01-o1",
-          "q-g1-01-02" : "q-g1-01-02-o2",
-          "q-g1-01-03" : "q-g1-01-03-o1",
-          "q-g1-01-04" : "q-g1-01-04-o2",
-          "q-g1-01-05" : "q-g1-01-05-o1",
-          "q-g1-01-06" : "q-g1-01-06-o2",
-          "q-g1-01-07" : "q-g1-01-07-o4",
-          "q-g1-01-08" : "q-g1-01-08-o2",
-          "q-g1-01-09" : "q-g1-01-09-o2",
-          "q-g1-01-10" : "q-g1-01-10-o1"
-        },
-        "questionItems" : [
-          "qs-g1-01",
-          "qs-g1-02"
-        ],
-        "questionsCompleted" : false,
-        "subtitle" : "待配置的新课次",
-        "summary" : "娜姐就斤斤计较",
-        "title" : "Lesson 1"
-      },
-      {
-        "grammarCompleted" : false,
-        "grammarItems" : [
-          "g1-05"
-        ],
-        "id" : "J4AH3S",
-        "questionAnswers" : {
-          "q-g1-05-01" : "q-g1-05-01-o1",
-          "q-g1-05-02" : "q-g1-05-02-o2",
-          "q-g1-05-03" : "q-g1-05-03-o3",
-          "q-g1-05-04" : "q-g1-05-04-o4",
-          "q-g1-05-05" : "q-g1-05-05-o2",
-          "q-g1-05-06" : "q-g1-05-06-o2",
-          "q-g1-05-08" : "q-g1-05-08-o3",
-          "q-g1-05-10" : "q-g1-05-10-o1"
-        },
-        "questionItems" : [
-          "qs-g1-05"
-        ],
-        "questionsCompleted" : false,
-        "subtitle" : "待配置的新课次",
-        "title" : "Lesson 2",
-        "wrongQuestionAnswers" : {
-          "q-g1-05-05" : [
-            "q-g1-05-05-o2"
-          ],
-          "q-g1-05-08" : [
-            "q-g1-05-08-o3"
-          ]
-        }
-      },
-      {
-        "grammarCompleted" : false,
-        "grammarItems" : [
 
-        ],
-        "id" : "DD6LVP",
-        "questionItems" : [
-
-        ],
-        "questionsCompleted" : false,
-        "subtitle" : "待配置的新课次",
-        "title" : "Lesson 3"
-      }
     ]
   },
   "schemaVersion" : 1
