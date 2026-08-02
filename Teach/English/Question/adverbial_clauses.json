@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g6-05",
@@ -17,6 +17,7 @@
           "id": "q2-g6-05-01",
           "type": "fillBlank",
           "stem": "I stayed home ___ I had a fever.",
+          "keyword": "because",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g6-05-02",
           "type": "fillBlank",
           "stem": "___ it was raining, the match continued.",
+          "keyword": "although",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g6-05-03",
           "type": "fillBlank",
           "stem": "Please call me ___ you arrive.",
+          "keyword": "when",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g6-05-04",
           "type": "fillBlank",
           "stem": "Mia read quietly ___ her brother was sleeping.",
+          "keyword": "while",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g6-05-05",
           "type": "fillBlank",
           "stem": "We left early ___ we could catch the first train.",
+          "keyword": "so that",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g6-05-06",
           "type": "fillBlank",
           "stem": "___ you finish the task, check it again.",
+          "keyword": "after",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g6-05-07",
           "type": "fillBlank",
           "stem": "The lights came on ___ it became dark.",
+          "keyword": "as",
           "options": [],
           "answer": {
             "optionIDs": [],
