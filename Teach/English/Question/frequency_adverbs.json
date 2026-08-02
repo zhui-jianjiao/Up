@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g4-04",
@@ -17,6 +17,7 @@
           "id": "q2-g4-04-01",
           "type": "fillBlank",
           "stem": "I ___ check my schoolbag before leaving.",
+          "keyword": "always",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g4-04-02",
           "type": "fillBlank",
           "stem": "Mia is ___ late for class; she arrives early.",
+          "keyword": "never",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g4-04-03",
           "type": "fillBlank",
           "stem": "We ___ go hiking, perhaps twice a month.",
+          "keyword": "sometimes",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g4-04-04",
           "type": "fillBlank",
           "stem": "Dad ___ drinks coffee after lunch.",
+          "keyword": "usually",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g4-04-05",
           "type": "fillBlank",
           "stem": "Our teacher is ___ patient with questions.",
+          "keyword": "always",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g4-04-06",
           "type": "fillBlank",
           "stem": "I ___ watch TV on school nights.",
+          "keyword": "rarely",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g4-04-07",
           "type": "fillBlank",
           "stem": "They ___ practise before a performance.",
+          "keyword": "often",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -122,6 +129,7 @@
           "id": "q2-g4-04-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：我经常步行上学。",
+          "keyword": "often",
           "options": [],
           "answer": {
             "optionIDs": [],
