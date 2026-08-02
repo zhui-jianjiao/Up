@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g3-03",
@@ -24,7 +24,7 @@
               "is"
             ]
           },
-          "explanation": "There is接单数或不可数名词，There are接复数名词。 本题应填“is”。",
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 可接受答案：is。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "are"
             ]
           },
-          "explanation": "There is接单数或不可数名词，There are接复数名词。 本题应填“are”。",
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 可接受答案：are。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "Is"
             ]
           },
-          "explanation": "There is接单数或不可数名词，There are接复数名词。 本题应填“Is”。",
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 可接受答案：Is。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "are"
             ]
           },
-          "explanation": "There is接单数或不可数名词，There are接复数名词。 本题应填“are”。",
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 可接受答案：are。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "is"
             ]
           },
-          "explanation": "There is接单数或不可数名词，There are接复数名词。 本题应填“is”。",
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 可接受答案：is。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "are"
             ]
           },
-          "explanation": "There is接单数或不可数名词，There are接复数名词。 本题应填“are”。",
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 可接受答案：are。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "is"
             ]
           },
-          "explanation": "There is接单数或不可数名词，There are接复数名词。 本题应填“is”。",
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 可接受答案：is。",
           "score": 1,
           "mediaPath": null
         },
