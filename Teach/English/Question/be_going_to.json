@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g4-02",
+      "grade": 4,
+      "order": 2,
+      "title": "一般将来时 be going to专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-02"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-02-01",
+          "type": "fillBlank",
+          "stem": "I am going to ___ a model bridge.",
+          "options": [
+            {
+              "id": "q-g4-02-01-o1",
+              "text": "build",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-01-o2",
+              "text": "built",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-01-o3",
+              "text": "building",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-01-o4",
+              "text": "builds",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-01-o1"
+            ],
+            "textAnswers": [
+              "build"
+            ]
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“build”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-02",
+          "type": "fillBlank",
+          "stem": "Look at those clouds. It ___ rain.",
+          "options": [
+            {
+              "id": "q-g4-02-02-o1",
+              "text": "are going to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-02-o2",
+              "text": "is going to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-02-o3",
+              "text": "goes to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-02-o4",
+              "text": "going",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-02-o2"
+            ],
+            "textAnswers": [
+              "is going to"
+            ]
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“is going to”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-03",
+          "type": "fillBlank",
+          "stem": "We ___ visit the science centre on Saturday.",
+          "options": [
+            {
+              "id": "q-g4-02-03-o1",
+              "text": "is going to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-03-o2",
+              "text": "going",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-03-o3",
+              "text": "are going to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-03-o4",
+              "text": "go to",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-03-o3"
+            ],
+            "textAnswers": [
+              "are going to"
+            ]
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“are going to”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-04",
+          "type": "fillBlank",
+          "stem": "What is Amy going to ___ for the show?",
+          "options": [
+            {
+              "id": "q-g4-02-04-o1",
+              "text": "wears",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-04-o2",
+              "text": "wore",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-04-o3",
+              "text": "wearing",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-04-o4",
+              "text": "wear",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-04-o4"
+            ],
+            "textAnswers": [
+              "wear"
+            ]
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“wear”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-05",
+          "type": "fillBlank",
+          "stem": "Dad isn't going to ___ tonight.",
+          "options": [
+            {
+              "id": "q-g4-02-05-o1",
+              "text": "drive",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-05-o2",
+              "text": "drives",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-05-o3",
+              "text": "drove",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-05-o4",
+              "text": "driving",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-05-o1"
+            ],
+            "textAnswers": [
+              "drive"
+            ]
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“drive”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-06",
+          "type": "fillBlank",
+          "stem": "The team ___ practise after class.",
+          "options": [
+            {
+              "id": "q-g4-02-06-o1",
+              "text": "are going",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-06-o2",
+              "text": "is going to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-06-o3",
+              "text": "going to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-06-o4",
+              "text": "goes to",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-06-o2"
+            ],
+            "textAnswers": [
+              "is going to"
+            ]
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“is going to”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-07",
+          "type": "fillBlank",
+          "stem": "Are you going to ___ the competition?",
+          "options": [
+            {
+              "id": "q-g4-02-07-o1",
+              "text": "entered",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-07-o2",
+              "text": "enters",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-07-o3",
+              "text": "enter",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-07-o4",
+              "text": "entering",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-07-o3"
+            ],
+            "textAnswers": [
+              "enter"
+            ]
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“enter”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“一般将来时 be going to”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-02-08-o1",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-08-o2",
+              "text": "It going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-08-o3",
+              "text": "She is going to reads.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-08-o4",
+              "text": "I am going to read tonight.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确表达：I am going to read tonight.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-02-09-o1",
+              "text": "It is going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-09-o2",
+              "text": "It going to rain.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-09-o3",
+              "text": "She is going to reads.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-09-o4",
+              "text": "I am going read tonight.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 正确表达：It is going to rain.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-02-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“一般将来时 be going to”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g4-02-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-10-o3",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-02-10-o4",
+              "text": "be going to加动词原形表示计划、打算或有迹象将发生的事情。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-02-10-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
