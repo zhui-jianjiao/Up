@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g3-06",
@@ -17,32 +17,9 @@
           "id": "q-g3-06-01",
           "type": "fillBlank",
           "stem": "___ flour do we need for the cake?",
-          "options": [
-            {
-              "id": "q-g3-06-01-o1",
-              "text": "How much",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-01-o2",
-              "text": "How many",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-01-o3",
-              "text": "How often",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-01-o4",
-              "text": "How long",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-06-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "How much"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g3-06-02",
           "type": "fillBlank",
           "stem": "___ oranges are in the bag?",
-          "options": [
-            {
-              "id": "q-g3-06-02-o1",
-              "text": "How much",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-02-o2",
-              "text": "How many",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-02-o3",
-              "text": "How far",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-02-o4",
-              "text": "How old",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-06-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "How many"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g3-06-03",
           "type": "fillBlank",
           "stem": "___ is this notebook?",
-          "options": [
-            {
-              "id": "q-g3-06-03-o1",
-              "text": "How many",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-03-o2",
-              "text": "How often",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-03-o3",
-              "text": "How much",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-03-o4",
-              "text": "How long",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-06-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "How much"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g3-06-04",
           "type": "fillBlank",
           "stem": "How many ___ did the team score?",
-          "options": [
-            {
-              "id": "q-g3-06-04-o1",
-              "text": "water",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-04-o2",
-              "text": "money",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-04-o3",
-              "text": "rice",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-04-o4",
-              "text": "points",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-06-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "points"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g3-06-05",
           "type": "fillBlank",
           "stem": "How much ___ should I add?",
-          "options": [
-            {
-              "id": "q-g3-06-05-o1",
-              "text": "salt",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-05-o2",
-              "text": "eggs",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-05-o3",
-              "text": "apples",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-05-o4",
-              "text": "cups",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-06-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "salt"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g3-06-06",
           "type": "fillBlank",
           "stem": "___ bottles of water did you buy?",
-          "options": [
-            {
-              "id": "q-g3-06-06-o1",
-              "text": "How much",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-06-o2",
-              "text": "How many",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-06-o3",
-              "text": "What much",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-06-o4",
-              "text": "How long",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-06-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "How many"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g3-06-07",
           "type": "fillBlank",
           "stem": "___ time is left before the train?",
-          "options": [
-            {
-              "id": "q-g3-06-07-o1",
-              "text": "How many",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-07-o2",
-              "text": "How often",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-07-o3",
-              "text": "How much",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-07-o4",
-              "text": "How far",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-06-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "How much"
             ]
@@ -281,48 +120,27 @@
         },
         {
           "id": "q-g3-06-08",
-          "type": "singleChoice",
-          "stem": "校园英语角需要一个“How much / How many”示例，选择表达正确的一项。",
-          "options": [
-            {
-              "id": "q-g3-06-08-o1",
-              "text": "How many rice do we need?",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-08-o2",
-              "text": "How much lessons do you have?",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-08-o3",
-              "text": "How many money is it?",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-06-08-o4",
-              "text": "How much rice do we need?",
-              "imagePath": null
-            }
-          ],
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：我们需要多少米？",
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-06-08-o4"
-            ],
-            "textAnswers": []
+            "optionIDs": [],
+            "textAnswers": [
+              "How much rice do we need?"
+            ]
           },
-          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确表达：How much rice do we need?",
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 参考表达：How much rice do we need?",
           "score": 1,
           "mediaPath": null
         },
         {
           "id": "q-g3-06-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "选择正确使用“How much / How many”的一项。",
           "options": [
             {
               "id": "q-g3-06-09-o1",
-              "text": "How many lessons do you have?",
+              "text": "How many rice do we need?",
               "imagePath": null
             },
             {
@@ -337,13 +155,49 @@
             },
             {
               "id": "q-g3-06-09-o4",
+              "text": "How much rice do we need?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确表达：How much rice do we need?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-10",
+          "type": "singleChoice",
+          "stem": "再次辨析“How much / How many”，选择结构正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-06-10-o1",
+              "text": "How many lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-10-o2",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-10-o3",
+              "text": "How many money is it?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-10-o4",
               "text": "How many rice do we need?",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g3-06-09-o1"
+              "q-g3-06-10-o1"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-06-10",
+          "id": "q-g3-06-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“How much / How many”最准确的总结。",
           "options": [
             {
-              "id": "q-g3-06-10-o1",
+              "id": "q-g3-06-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g3-06-10-o2",
+              "id": "q-g3-06-11-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g3-06-10-o3",
+              "id": "q-g3-06-11-o3",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             },
             {
-              "id": "q-g3-06-10-o4",
+              "id": "q-g3-06-11-o4",
               "text": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g3-06-10-o4"
+              "q-g3-06-11-o4"
             ],
             "textAnswers": []
           },
