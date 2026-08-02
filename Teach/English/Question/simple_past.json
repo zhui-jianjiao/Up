@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g4-01",
@@ -17,32 +17,9 @@
           "id": "q-g4-01-01",
           "type": "fillBlank",
           "stem": "We ___ the wetland museum yesterday.",
-          "options": [
-            {
-              "id": "q-g4-01-01-o1",
-              "text": "visited",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-01-o2",
-              "text": "visit",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-01-o3",
-              "text": "visits",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-01-o4",
-              "text": "visiting",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-01-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "visited"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g4-01-02",
           "type": "fillBlank",
           "stem": "Mia ___ a wallet on her way home.",
-          "options": [
-            {
-              "id": "q-g4-01-02-o1",
-              "text": "find",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-02-o2",
-              "text": "found",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-02-o3",
-              "text": "finds",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-02-o4",
-              "text": "finding",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-01-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "found"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g4-01-03",
           "type": "fillBlank",
           "stem": "The rain ___ before noon.",
-          "options": [
-            {
-              "id": "q-g4-01-03-o1",
-              "text": "stop",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-03-o2",
-              "text": "stops",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-03-o3",
-              "text": "stopped",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-03-o4",
-              "text": "stopping",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-01-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "stopped"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g4-01-04",
           "type": "fillBlank",
           "stem": "Dad ___ us a funny story last night.",
-          "options": [
-            {
-              "id": "q-g4-01-04-o1",
-              "text": "tell",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-04-o2",
-              "text": "tells",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-04-o3",
-              "text": "telling",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-04-o4",
-              "text": "told",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-01-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "told"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g4-01-05",
           "type": "fillBlank",
           "stem": "I ___ my homework before dinner.",
-          "options": [
-            {
-              "id": "q-g4-01-05-o1",
-              "text": "finished",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-05-o2",
-              "text": "finish",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-05-o3",
-              "text": "finishes",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-05-o4",
-              "text": "finishing",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-01-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "finished"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g4-01-06",
           "type": "fillBlank",
           "stem": "Did you ___ the school concert?",
-          "options": [
-            {
-              "id": "q-g4-01-06-o1",
-              "text": "enjoyed",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-06-o2",
-              "text": "enjoy",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-06-o3",
-              "text": "enjoys",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-06-o4",
-              "text": "enjoying",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-01-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "enjoy"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g4-01-07",
           "type": "fillBlank",
           "stem": "The class ___ a time capsule last term.",
-          "options": [
-            {
-              "id": "q-g4-01-07-o1",
-              "text": "make",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-07-o2",
-              "text": "makes",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-07-o3",
-              "text": "made",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-01-07-o4",
-              "text": "making",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-01-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "made"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g4-01-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“一般过去时”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“一般过去时”的一项。",
           "options": [
             {
               "id": "q-g4-01-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g4-01-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“一般过去时”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g4-01-09-o1",
