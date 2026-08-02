@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g5-06",
+      "grade": 5,
+      "order": 6,
+      "title": "简单宾语从句专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-06"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-06-01",
+          "type": "fillBlank",
+          "stem": "I think ___ the plan will work.",
+          "options": [
+            {
+              "id": "q-g5-06-01-o1",
+              "text": "that",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-01-o2",
+              "text": "what",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-01-o3",
+              "text": "where",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-01-o4",
+              "text": "who",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-01-o1"
+            ],
+            "textAnswers": [
+              "that"
+            ]
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 本题应填“that”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-02",
+          "type": "fillBlank",
+          "stem": "Do you know where the bus ___?",
+          "options": [
+            {
+              "id": "q-g5-06-02-o1",
+              "text": "does stop",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-02-o2",
+              "text": "stops",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-02-o3",
+              "text": "stop does",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-02-o4",
+              "text": "stopping",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-02-o2"
+            ],
+            "textAnswers": [
+              "stops"
+            ]
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 本题应填“stops”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-03",
+          "type": "fillBlank",
+          "stem": "Mia believes that everyone ___ help.",
+          "options": [
+            {
+              "id": "q-g5-06-03-o1",
+              "text": "can to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-03-o2",
+              "text": "cans",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-03-o3",
+              "text": "can",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-03-o4",
+              "text": "is can",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-03-o3"
+            ],
+            "textAnswers": [
+              "can"
+            ]
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 本题应填“can”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-04",
+          "type": "fillBlank",
+          "stem": "Please tell me what you ___.",
+          "options": [
+            {
+              "id": "q-g5-06-04-o1",
+              "text": "do need what",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-04-o2",
+              "text": "needs",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-04-o3",
+              "text": "needed what",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-04-o4",
+              "text": "need",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-04-o4"
+            ],
+            "textAnswers": [
+              "need"
+            ]
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 本题应填“need”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-05",
+          "type": "fillBlank",
+          "stem": "I wonder whether the shop ___ open.",
+          "options": [
+            {
+              "id": "q-g5-06-05-o1",
+              "text": "is",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-05-o2",
+              "text": "is it",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-05-o3",
+              "text": "does",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-05-o4",
+              "text": "it",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-05-o1"
+            ],
+            "textAnswers": [
+              "is"
+            ]
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 本题应填“is”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-06",
+          "type": "fillBlank",
+          "stem": "Can you explain why the sky ___ blue?",
+          "options": [
+            {
+              "id": "q-g5-06-06-o1",
+              "text": "does look",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-06-o2",
+              "text": "looks",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-06-o3",
+              "text": "look does",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-06-o4",
+              "text": "looking",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-06-o2"
+            ],
+            "textAnswers": [
+              "looks"
+            ]
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 本题应填“looks”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-07",
+          "type": "fillBlank",
+          "stem": "We hope that you ___ join us.",
+          "options": [
+            {
+              "id": "q-g5-06-07-o1",
+              "text": "are will",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-07-o2",
+              "text": "will to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-07-o3",
+              "text": "will",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-07-o4",
+              "text": "do will",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-07-o3"
+            ],
+            "textAnswers": [
+              "will"
+            ]
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 本题应填“will”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“简单宾语从句”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-06-08-o1",
+              "text": "I think that is he right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-08-o2",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-08-o3",
+              "text": "She says is it easy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-08-o4",
+              "text": "I think that he is right.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确表达：I think that he is right.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-06-09-o1",
+              "text": "Do you know where she lives?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-09-o2",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-09-o3",
+              "text": "She says is it easy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-09-o4",
+              "text": "I think that is he right.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确表达：Do you know where she lives?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“简单宾语从句”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g5-06-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-10-o3",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-10-o4",
+              "text": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-10-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
