@@ -1,11 +1,11 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "updatedAt": "2026-08-02T16:01:05.815Z",
   "sets": [
     {
       "id": "qs-g2-07",
-      "grade": 2,
+      "unit": 2,
       "order": 7,
       "title": "简单方位介词专项练习",
       "difficulty": "easy",
