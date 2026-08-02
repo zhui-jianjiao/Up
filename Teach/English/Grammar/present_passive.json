@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g5-08",
@@ -23,6 +23,12 @@
           "english": "These cars are made in China.",
           "chinese": "这些汽车产自中国。",
           "note": null
+        },
+        {
+          "id": "g5-08-e3",
+          "english": "The homework is written in English.",
+          "chinese": "这份作业是用英语写的。",
+          "note": "write的过去分词是written。"
         }
       ],
       "tips": [
@@ -87,7 +93,41 @@
           "correct": "These cars are made in China.",
           "reason": "一般现在时被动语态由am/is/are加过去分词构成。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g5-08-sf1",
+          "title": "被动语态常用过去分词",
+          "summary": "am/is/are后接过去分词。",
+          "items": [
+            {
+              "id": "g5-08-sf1-1",
+              "base": "write",
+              "form": "written",
+              "usage": "写"
+            },
+            {
+              "id": "g5-08-sf1-2",
+              "base": "make",
+              "form": "made",
+              "usage": "制作"
+            },
+            {
+              "id": "g5-08-sf1-3",
+              "base": "speak",
+              "form": "spoken",
+              "usage": "说"
+            },
+            {
+              "id": "g5-08-sf1-4",
+              "base": "grow",
+              "form": "grown",
+              "usage": "种植"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 一般现在时被动语态由am/is/are加过去分词构成。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
