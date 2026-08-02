@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g1-05",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g1-05-01",
+          "id": "q2-g1-05-01",
           "type": "fillBlank",
           "stem": "___ pencil here is mine.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-05-02",
+          "id": "q2-g1-05-02",
           "type": "fillBlank",
           "stem": "Look at ___ cloud far above the hill.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-05-03",
+          "id": "q2-g1-05-03",
           "type": "fillBlank",
           "stem": "___ shoes beside me are too small.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-05-04",
+          "id": "q2-g1-05-04",
           "type": "fillBlank",
           "stem": "Who are ___ people across the street?",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-05-05",
+          "id": "q2-g1-05-05",
           "type": "fillBlank",
           "stem": "___ is the photo I am holding.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-05-06",
+          "id": "q2-g1-05-06",
           "type": "fillBlank",
           "stem": "Can you see ___ tower in the distance?",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-05-07",
+          "id": "q2-g1-05-07",
           "type": "fillBlank",
           "stem": "___ flowers in this vase smell lovely.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-05-08",
+          "id": "q2-g1-05-08",
           "type": "singleChoice",
           "stem": "选择正确使用“指示代词 this / that”的一项。",
           "options": [
             {
-              "id": "q-g1-05-08-o1",
+              "id": "q2-g1-05-08-o1",
               "text": "This is my pencil.",
               "imagePath": null
             },
             {
-              "id": "q-g1-05-08-o2",
+              "id": "q2-g1-05-08-o2",
               "text": "This are my pencil.",
               "imagePath": null
             },
             {
-              "id": "q-g1-05-08-o3",
+              "id": "q2-g1-05-08-o3",
               "text": "Those is a kite.",
               "imagePath": null
             },
             {
-              "id": "q-g1-05-08-o4",
+              "id": "q2-g1-05-08-o4",
               "text": "That are a cat.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-05-08-o1"
+              "q2-g1-05-08-o1"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-05-09",
+          "id": "q2-g1-05-09",
           "type": "singleChoice",
           "stem": "再次辨析“指示代词 this / that”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g1-05-09-o1",
+              "id": "q2-g1-05-09-o1",
               "text": "Those is a kite.",
               "imagePath": null
             },
             {
-              "id": "q-g1-05-09-o2",
+              "id": "q2-g1-05-09-o2",
               "text": "That is a kite.",
               "imagePath": null
             },
             {
-              "id": "q-g1-05-09-o3",
+              "id": "q2-g1-05-09-o3",
               "text": "That are a cat.",
               "imagePath": null
             },
             {
-              "id": "q-g1-05-09-o4",
+              "id": "q2-g1-05-09-o4",
               "text": "This are my pencil.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-05-09-o2"
+              "q2-g1-05-09-o2"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-05-10",
+          "id": "q2-g1-05-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“指示代词 this / that”最准确的总结。",
           "options": [
             {
-              "id": "q-g1-05-10-o1",
+              "id": "q2-g1-05-10-o1",
               "text": "this指近处的单数事物，that指远处的单数事物。",
               "imagePath": null
             },
             {
-              "id": "q-g1-05-10-o2",
+              "id": "q2-g1-05-10-o2",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g1-05-10-o3",
+              "id": "q2-g1-05-10-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g1-05-10-o4",
+              "id": "q2-g1-05-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-05-10-o1"
+              "q2-g1-05-10-o1"
             ],
             "textAnswers": []
           },
