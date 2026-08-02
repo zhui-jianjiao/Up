@@ -1,0 +1,2903 @@
+{
+  "schemaVersion": 2,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T09:53:35.956Z",
+  "sets": [
+    {
+      "id": "qs-g5-01",
+      "grade": 5,
+      "order": 1,
+      "title": "现在完成时专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-01"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-01-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“现在完成时”的句子。",
+          "options": [
+            {
+              "id": "q-g5-01-01-o1",
+              "text": "I have finished my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-01-o2",
+              "text": "I have finish my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-01-o3",
+              "text": "She have lived here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-01-o4",
+              "text": "He has went home.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 正确示例：I have finished my homework.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-01-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“现在完成时”规则？",
+          "options": [
+            {
+              "id": "q-g5-01-02-o1",
+              "text": "She have lived here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-02-o2",
+              "text": "She has lived here for five years.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-02-o3",
+              "text": "He has went home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-02-o4",
+              "text": "I have finish my homework.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 正确示例：She has lived here for five years.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-01-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g5-01-03-o1",
+              "text": "He has went home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-03-o2",
+              "text": "I have finish my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-03-o3",
+              "text": "I have finished my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-03-o4",
+              "text": "She have lived here.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 正确示例：I have finished my homework.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-01-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-01-04-o1",
+              "text": "I have finish my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-04-o2",
+              "text": "She have lived here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-04-o3",
+              "text": "He has went home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-04-o4",
+              "text": "She has lived here for five years.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 正确示例：She has lived here for five years.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-01-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g5-01-05-o1",
+              "text": "I have finished my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-05-o2",
+              "text": "She have lived here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-05-o3",
+              "text": "He has went home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-05-o4",
+              "text": "I have finish my homework.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 正确示例：I have finished my homework.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-01-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“现在完成时”的句子。",
+          "options": [
+            {
+              "id": "q-g5-01-06-o1",
+              "text": "He has went home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-06-o2",
+              "text": "She has lived here for five years.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-06-o3",
+              "text": "I have finish my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-06-o4",
+              "text": "She have lived here.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 正确示例：She has lived here for five years.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-01-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g5-01-07-o1",
+              "text": "I have finish my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-07-o2",
+              "text": "She have lived here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-07-o3",
+              "text": "I have finished my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-07-o4",
+              "text": "He has went home.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 正确示例：I have finished my homework.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-01-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g5-01-08-o1",
+              "text": "She have lived here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-08-o2",
+              "text": "He has went home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-08-o3",
+              "text": "I have finish my homework.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-08-o4",
+              "text": "She has lived here for five years.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 正确示例：She has lived here for five years.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-01-09",
+          "type": "singleChoice",
+          "stem": "关于“现在完成时”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g5-01-09-o1",
+              "text": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-01-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I have finished my homework.”符合“现在完成时”规则。",
+          "options": [
+            {
+              "id": "q-g5-01-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-01-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-01-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I have finished my homework. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g5-02",
+      "grade": 5,
+      "order": 2,
+      "title": "现在完成时与一般过去时专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-02"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-02-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“现在完成时与一般过去时”的句子。",
+          "options": [
+            {
+              "id": "q-g5-02-01-o1",
+              "text": "I saw the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-01-o2",
+              "text": "I have seen the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-01-o3",
+              "text": "I saw the film since Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-01-o4",
+              "text": "She has went yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确示例：I saw the film last week.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“现在完成时与一般过去时”规则？",
+          "options": [
+            {
+              "id": "q-g5-02-02-o1",
+              "text": "I saw the film since Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-02-o2",
+              "text": "I have seen the film twice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-02-o3",
+              "text": "She has went yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-02-o4",
+              "text": "I have seen the film last week.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确示例：I have seen the film twice.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g5-02-03-o1",
+              "text": "She has went yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-03-o2",
+              "text": "I have seen the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-03-o3",
+              "text": "I saw the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-03-o4",
+              "text": "I saw the film since Monday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确示例：I saw the film last week.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-02-04-o1",
+              "text": "I have seen the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-04-o2",
+              "text": "I saw the film since Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-04-o3",
+              "text": "She has went yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-04-o4",
+              "text": "I have seen the film twice.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确示例：I have seen the film twice.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g5-02-05-o1",
+              "text": "I saw the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-05-o2",
+              "text": "I saw the film since Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-05-o3",
+              "text": "She has went yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-05-o4",
+              "text": "I have seen the film last week.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确示例：I saw the film last week.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“现在完成时与一般过去时”的句子。",
+          "options": [
+            {
+              "id": "q-g5-02-06-o1",
+              "text": "She has went yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-06-o2",
+              "text": "I have seen the film twice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-06-o3",
+              "text": "I have seen the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-06-o4",
+              "text": "I saw the film since Monday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确示例：I have seen the film twice.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g5-02-07-o1",
+              "text": "I have seen the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-07-o2",
+              "text": "I saw the film since Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-07-o3",
+              "text": "I saw the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-07-o4",
+              "text": "She has went yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确示例：I saw the film last week.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g5-02-08-o1",
+              "text": "I saw the film since Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-08-o2",
+              "text": "She has went yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-08-o3",
+              "text": "I have seen the film last week.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-08-o4",
+              "text": "I have seen the film twice.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确示例：I have seen the film twice.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-09",
+          "type": "singleChoice",
+          "stem": "关于“现在完成时与一般过去时”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g5-02-09-o1",
+              "text": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I saw the film last week.”符合“现在完成时与一般过去时”规则。",
+          "options": [
+            {
+              "id": "q-g5-02-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I saw the film last week. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g5-03",
+      "grade": 5,
+      "order": 3,
+      "title": "形容词最高级专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-03"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-03-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“形容词最高级”的句子。",
+          "options": [
+            {
+              "id": "q-g5-03-01-o1",
+              "text": "The Yangtze is the longest river in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-01-o2",
+              "text": "The Yangtze is longest river.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-01-o3",
+              "text": "This is the goodest answer.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-01-o4",
+              "text": "He is the taller in class.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 正确示例：The Yangtze is the longest river in China.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-03-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“形容词最高级”规则？",
+          "options": [
+            {
+              "id": "q-g5-03-02-o1",
+              "text": "This is the goodest answer.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-02-o2",
+              "text": "This is the best answer.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-02-o3",
+              "text": "He is the taller in class.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-02-o4",
+              "text": "The Yangtze is longest river.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 正确示例：This is the best answer.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-03-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g5-03-03-o1",
+              "text": "He is the taller in class.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-03-o2",
+              "text": "The Yangtze is longest river.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-03-o3",
+              "text": "The Yangtze is the longest river in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-03-o4",
+              "text": "This is the goodest answer.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 正确示例：The Yangtze is the longest river in China.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-03-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-03-04-o1",
+              "text": "The Yangtze is longest river.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-04-o2",
+              "text": "This is the goodest answer.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-04-o3",
+              "text": "He is the taller in class.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-04-o4",
+              "text": "This is the best answer.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 正确示例：This is the best answer.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-03-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g5-03-05-o1",
+              "text": "The Yangtze is the longest river in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-05-o2",
+              "text": "This is the goodest answer.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-05-o3",
+              "text": "He is the taller in class.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-05-o4",
+              "text": "The Yangtze is longest river.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 正确示例：The Yangtze is the longest river in China.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-03-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“形容词最高级”的句子。",
+          "options": [
+            {
+              "id": "q-g5-03-06-o1",
+              "text": "He is the taller in class.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-06-o2",
+              "text": "This is the best answer.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-06-o3",
+              "text": "The Yangtze is longest river.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-06-o4",
+              "text": "This is the goodest answer.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 正确示例：This is the best answer.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-03-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g5-03-07-o1",
+              "text": "The Yangtze is longest river.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-07-o2",
+              "text": "This is the goodest answer.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-07-o3",
+              "text": "The Yangtze is the longest river in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-07-o4",
+              "text": "He is the taller in class.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 正确示例：The Yangtze is the longest river in China.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-03-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g5-03-08-o1",
+              "text": "This is the goodest answer.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-08-o2",
+              "text": "He is the taller in class.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-08-o3",
+              "text": "The Yangtze is longest river.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-08-o4",
+              "text": "This is the best answer.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 正确示例：This is the best answer.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-03-09",
+          "type": "singleChoice",
+          "stem": "关于“形容词最高级”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g5-03-09-o1",
+              "text": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-03-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“The Yangtze is the longest river in China.”符合“形容词最高级”规则。",
+          "options": [
+            {
+              "id": "q-g5-03-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-03-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-03-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "The Yangtze is the longest river in China. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g5-04",
+      "grade": 5,
+      "order": 4,
+      "title": "长形容词最高级专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-04"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-04-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“长形容词最高级”的句子。",
+          "options": [
+            {
+              "id": "q-g5-04-01-o1",
+              "text": "It is the most interesting book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-01-o2",
+              "text": "It is the interestingest book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-01-o3",
+              "text": "She is most careful student.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-01-o4",
+              "text": "This is the more beautiful one of all.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。 正确示例：It is the most interesting book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“长形容词最高级”规则？",
+          "options": [
+            {
+              "id": "q-g5-04-02-o1",
+              "text": "She is most careful student.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-02-o2",
+              "text": "She is the most careful student.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-02-o3",
+              "text": "This is the more beautiful one of all.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-02-o4",
+              "text": "It is the interestingest book.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。 正确示例：She is the most careful student.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g5-04-03-o1",
+              "text": "This is the more beautiful one of all.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-03-o2",
+              "text": "It is the interestingest book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-03-o3",
+              "text": "It is the most interesting book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-03-o4",
+              "text": "She is most careful student.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。 正确示例：It is the most interesting book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-04-04-o1",
+              "text": "It is the interestingest book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-04-o2",
+              "text": "She is most careful student.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-04-o3",
+              "text": "This is the more beautiful one of all.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-04-o4",
+              "text": "She is the most careful student.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。 正确示例：She is the most careful student.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g5-04-05-o1",
+              "text": "It is the most interesting book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-05-o2",
+              "text": "She is most careful student.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-05-o3",
+              "text": "This is the more beautiful one of all.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-05-o4",
+              "text": "It is the interestingest book.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。 正确示例：It is the most interesting book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“长形容词最高级”的句子。",
+          "options": [
+            {
+              "id": "q-g5-04-06-o1",
+              "text": "This is the more beautiful one of all.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-06-o2",
+              "text": "She is the most careful student.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-06-o3",
+              "text": "It is the interestingest book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-06-o4",
+              "text": "She is most careful student.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。 正确示例：She is the most careful student.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g5-04-07-o1",
+              "text": "It is the interestingest book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-07-o2",
+              "text": "She is most careful student.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-07-o3",
+              "text": "It is the most interesting book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-07-o4",
+              "text": "This is the more beautiful one of all.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。 正确示例：It is the most interesting book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g5-04-08-o1",
+              "text": "She is most careful student.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-08-o2",
+              "text": "This is the more beautiful one of all.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-08-o3",
+              "text": "It is the interestingest book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-08-o4",
+              "text": "She is the most careful student.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。 正确示例：She is the most careful student.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-09",
+          "type": "singleChoice",
+          "stem": "关于“长形容词最高级”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g5-04-09-o1",
+              "text": "较长形容词的最高级通常使用the most加形容词原级。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "较长形容词的最高级通常使用the most加形容词原级。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-04-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“It is the most interesting book.”符合“长形容词最高级”规则。",
+          "options": [
+            {
+              "id": "q-g5-04-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-04-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-04-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "It is the most interesting book. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g5-05",
+      "grade": 5,
+      "order": 5,
+      "title": "could / would 的礼貌表达专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-05"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-05-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“could / would 的礼貌表达”的句子。",
+          "options": [
+            {
+              "id": "q-g5-05-01-o1",
+              "text": "Could you open the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-01-o2",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-01-o3",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-01-o4",
+              "text": "Could she to help?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确示例：Could you open the window?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“could / would 的礼貌表达”规则？",
+          "options": [
+            {
+              "id": "q-g5-05-02-o1",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-02-o2",
+              "text": "Would you like some tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-02-o3",
+              "text": "Could she to help?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-02-o4",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确示例：Would you like some tea?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g5-05-03-o1",
+              "text": "Could she to help?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-03-o2",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-03-o3",
+              "text": "Could you open the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-03-o4",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确示例：Could you open the window?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-05-04-o1",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-04-o2",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-04-o3",
+              "text": "Could she to help?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-04-o4",
+              "text": "Would you like some tea?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确示例：Would you like some tea?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g5-05-05-o1",
+              "text": "Could you open the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-05-o2",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-05-o3",
+              "text": "Could she to help?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-05-o4",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确示例：Could you open the window?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“could / would 的礼貌表达”的句子。",
+          "options": [
+            {
+              "id": "q-g5-05-06-o1",
+              "text": "Could she to help?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-06-o2",
+              "text": "Would you like some tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-06-o3",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-06-o4",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确示例：Would you like some tea?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g5-05-07-o1",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-07-o2",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-07-o3",
+              "text": "Could you open the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-07-o4",
+              "text": "Could she to help?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确示例：Could you open the window?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g5-05-08-o1",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-08-o2",
+              "text": "Could she to help?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-08-o3",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-08-o4",
+              "text": "Would you like some tea?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确示例：Would you like some tea?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-09",
+          "type": "singleChoice",
+          "stem": "关于“could / would 的礼貌表达”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g5-05-09-o1",
+              "text": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“Could you open the window?”符合“could / would 的礼貌表达”规则。",
+          "options": [
+            {
+              "id": "q-g5-05-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you open the window? 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g5-06",
+      "grade": 5,
+      "order": 6,
+      "title": "简单宾语从句专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-06"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-06-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“简单宾语从句”的句子。",
+          "options": [
+            {
+              "id": "q-g5-06-01-o1",
+              "text": "I think that he is right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-01-o2",
+              "text": "I think that is he right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-01-o3",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-01-o4",
+              "text": "She says is it easy.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确示例：I think that he is right.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“简单宾语从句”规则？",
+          "options": [
+            {
+              "id": "q-g5-06-02-o1",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-02-o2",
+              "text": "Do you know where she lives?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-02-o3",
+              "text": "She says is it easy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-02-o4",
+              "text": "I think that is he right.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确示例：Do you know where she lives?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g5-06-03-o1",
+              "text": "She says is it easy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-03-o2",
+              "text": "I think that is he right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-03-o3",
+              "text": "I think that he is right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-03-o4",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确示例：I think that he is right.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-06-04-o1",
+              "text": "I think that is he right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-04-o2",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-04-o3",
+              "text": "She says is it easy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-04-o4",
+              "text": "Do you know where she lives?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确示例：Do you know where she lives?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g5-06-05-o1",
+              "text": "I think that he is right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-05-o2",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-05-o3",
+              "text": "She says is it easy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-05-o4",
+              "text": "I think that is he right.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确示例：I think that he is right.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“简单宾语从句”的句子。",
+          "options": [
+            {
+              "id": "q-g5-06-06-o1",
+              "text": "She says is it easy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-06-o2",
+              "text": "Do you know where she lives?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-06-o3",
+              "text": "I think that is he right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-06-o4",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确示例：Do you know where she lives?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g5-06-07-o1",
+              "text": "I think that is he right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-07-o2",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-07-o3",
+              "text": "I think that he is right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-07-o4",
+              "text": "She says is it easy.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确示例：I think that he is right.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g5-06-08-o1",
+              "text": "Do you know where does she live?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-08-o2",
+              "text": "She says is it easy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-08-o3",
+              "text": "I think that is he right.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-08-o4",
+              "text": "Do you know where she lives?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 正确示例：Do you know where she lives?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-09",
+          "type": "singleChoice",
+          "stem": "关于“简单宾语从句”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g5-06-09-o1",
+              "text": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-06-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I think that he is right.”符合“简单宾语从句”规则。",
+          "options": [
+            {
+              "id": "q-g5-06-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-06-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-06-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I think that he is right. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g5-07",
+      "grade": 5,
+      "order": 7,
+      "title": "if 条件状语从句专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-07"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-07-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“if 条件状语从句”的句子。",
+          "options": [
+            {
+              "id": "q-g5-07-01-o1",
+              "text": "If it rains, we will stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-01-o2",
+              "text": "If it will rain, we stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-01-o3",
+              "text": "I call you if I will arrive.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-01-o4",
+              "text": "If she came tomorrow, we will meet yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。 正确示例：If it rains, we will stay home.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-07-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“if 条件状语从句”规则？",
+          "options": [
+            {
+              "id": "q-g5-07-02-o1",
+              "text": "I call you if I will arrive.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-02-o2",
+              "text": "I will call you if I arrive early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-02-o3",
+              "text": "If she came tomorrow, we will meet yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-02-o4",
+              "text": "If it will rain, we stay home.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。 正确示例：I will call you if I arrive early.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-07-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g5-07-03-o1",
+              "text": "If she came tomorrow, we will meet yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-03-o2",
+              "text": "If it will rain, we stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-03-o3",
+              "text": "If it rains, we will stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-03-o4",
+              "text": "I call you if I will arrive.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。 正确示例：If it rains, we will stay home.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-07-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-07-04-o1",
+              "text": "If it will rain, we stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-04-o2",
+              "text": "I call you if I will arrive.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-04-o3",
+              "text": "If she came tomorrow, we will meet yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-04-o4",
+              "text": "I will call you if I arrive early.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。 正确示例：I will call you if I arrive early.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-07-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g5-07-05-o1",
+              "text": "If it rains, we will stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-05-o2",
+              "text": "I call you if I will arrive.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-05-o3",
+              "text": "If she came tomorrow, we will meet yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-05-o4",
+              "text": "If it will rain, we stay home.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。 正确示例：If it rains, we will stay home.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-07-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“if 条件状语从句”的句子。",
+          "options": [
+            {
+              "id": "q-g5-07-06-o1",
+              "text": "If she came tomorrow, we will meet yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-06-o2",
+              "text": "I will call you if I arrive early.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-06-o3",
+              "text": "If it will rain, we stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-06-o4",
+              "text": "I call you if I will arrive.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。 正确示例：I will call you if I arrive early.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-07-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g5-07-07-o1",
+              "text": "If it will rain, we stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-07-o2",
+              "text": "I call you if I will arrive.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-07-o3",
+              "text": "If it rains, we will stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-07-o4",
+              "text": "If she came tomorrow, we will meet yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。 正确示例：If it rains, we will stay home.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-07-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g5-07-08-o1",
+              "text": "I call you if I will arrive.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-08-o2",
+              "text": "If she came tomorrow, we will meet yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-08-o3",
+              "text": "If it will rain, we stay home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-08-o4",
+              "text": "I will call you if I arrive early.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。 正确示例：I will call you if I arrive early.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-07-09",
+          "type": "singleChoice",
+          "stem": "关于“if 条件状语从句”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g5-07-09-o1",
+              "text": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "表示真实条件时，if从句常用一般现在时，主句可用一般将来时。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-07-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“If it rains, we will stay home.”符合“if 条件状语从句”规则。",
+          "options": [
+            {
+              "id": "q-g5-07-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-07-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-07-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "If it rains, we will stay home. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g5-08",
+      "grade": 5,
+      "order": 8,
+      "title": "一般现在时的被动语态专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-08"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-08-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“一般现在时的被动语态”的句子。",
+          "options": [
+            {
+              "id": "q-g5-08-01-o1",
+              "text": "English is spoken in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-01-o2",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-01-o3",
+              "text": "These cars made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-01-o4",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确示例：English is spoken in many countries.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“一般现在时的被动语态”规则？",
+          "options": [
+            {
+              "id": "q-g5-08-02-o1",
+              "text": "These cars made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-02-o2",
+              "text": "These cars are made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-02-o3",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-02-o4",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确示例：These cars are made in China.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g5-08-03-o1",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-03-o2",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-03-o3",
+              "text": "English is spoken in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-03-o4",
+              "text": "These cars made in China.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确示例：English is spoken in many countries.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-08-04-o1",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-04-o2",
+              "text": "These cars made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-04-o3",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-04-o4",
+              "text": "These cars are made in China.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确示例：These cars are made in China.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g5-08-05-o1",
+              "text": "English is spoken in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-05-o2",
+              "text": "These cars made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-05-o3",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-05-o4",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确示例：English is spoken in many countries.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“一般现在时的被动语态”的句子。",
+          "options": [
+            {
+              "id": "q-g5-08-06-o1",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-06-o2",
+              "text": "These cars are made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-06-o3",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-06-o4",
+              "text": "These cars made in China.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确示例：These cars are made in China.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g5-08-07-o1",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-07-o2",
+              "text": "These cars made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-07-o3",
+              "text": "English is spoken in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-07-o4",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确示例：English is spoken in many countries.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g5-08-08-o1",
+              "text": "These cars made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-08-o2",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-08-o3",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-08-o4",
+              "text": "These cars are made in China.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确示例：These cars are made in China.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-09",
+          "type": "singleChoice",
+          "stem": "关于“一般现在时的被动语态”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g5-08-09-o1",
+              "text": "一般现在时被动语态由am/is/are加过去分词构成。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“English is spoken in many countries.”符合“一般现在时的被动语态”规则。",
+          "options": [
+            {
+              "id": "q-g5-08-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "English is spoken in many countries. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
