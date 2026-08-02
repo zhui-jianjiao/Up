@@ -1,6 +1,15 @@
 {
   "schemaVersion" : 1,
+  "selectedStudentID" : "6ZNH7N",
   "students" : [
-
+    {
+      "avatar" : "🚀",
+      "colorName" : "blue",
+      "grade" : 1,
+      "id" : "6ZNH7N",
+      "learningGoal" : "是我的最",
+      "learningPlan" : "同步巩固",
+      "name" : "可可"
+    }
   ]
 }
