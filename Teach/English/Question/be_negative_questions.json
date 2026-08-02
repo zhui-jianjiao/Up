@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g2-01",
@@ -24,7 +24,7 @@
               "aren't"
             ]
           },
-          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 本题应填“aren't”。",
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 可接受答案：aren't。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "Is"
             ]
           },
-          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 本题应填“Is”。",
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 可接受答案：Is。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "am not"
             ]
           },
-          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 本题应填“am not”。",
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 可接受答案：am not。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "Are"
             ]
           },
-          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 本题应填“Are”。",
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 可接受答案：Are。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "isn't"
             ]
           },
-          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 本题应填“isn't”。",
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 可接受答案：isn't。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "isn't"
             ]
           },
-          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 本题应填“isn't”。",
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 可接受答案：isn't。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "Am"
             ]
           },
-          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 本题应填“Am”。",
+          "explanation": "否定句在be后加not；一般疑问句把be提到主语前。 可接受答案：Am。",
           "score": 1,
           "mediaPath": null
         },
