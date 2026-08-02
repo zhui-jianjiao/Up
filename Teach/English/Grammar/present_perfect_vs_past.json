@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g5-02",
@@ -23,6 +23,12 @@
           "english": "I have seen the film twice.",
           "chinese": "这部电影我看过两次。",
           "note": null
+        },
+        {
+          "id": "g5-02-e3",
+          "english": "I went there in May, and I have visited it twice.",
+          "chinese": "我五月去过那里，目前一共参观过两次。",
+          "note": "明确过去时间用went，经历次数用have visited。"
         }
       ],
       "tips": [
@@ -87,7 +93,41 @@
           "correct": "I have seen the film twice.",
           "reason": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g5-02-sf1",
+          "title": "过去式与过去分词对比",
+          "summary": "两种时态使用的动词形式不同。",
+          "items": [
+            {
+              "id": "g5-02-sf1-1",
+              "base": "go",
+              "form": "went / gone",
+              "usage": "过去式 / 过去分词"
+            },
+            {
+              "id": "g5-02-sf1-2",
+              "base": "see",
+              "form": "saw / seen",
+              "usage": "过去式 / 过去分词"
+            },
+            {
+              "id": "g5-02-sf1-3",
+              "base": "write",
+              "form": "wrote / written",
+              "usage": "过去式 / 过去分词"
+            },
+            {
+              "id": "g5-02-sf1-4",
+              "base": "take",
+              "form": "took / taken",
+              "usage": "过去式 / 过去分词"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
