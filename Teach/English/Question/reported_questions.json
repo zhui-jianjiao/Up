@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g6-07",
@@ -24,7 +24,7 @@
               "was"
             ]
           },
-          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 本题应填“was”。",
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 可接受答案：was。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "lived"
             ]
           },
-          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 本题应填“lived”。",
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 可接受答案：lived。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "had"
             ]
           },
-          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 本题应填“had”。",
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 可接受答案：had。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "was"
             ]
           },
-          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 本题应填“was”。",
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 可接受答案：was。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "wanted"
             ]
           },
-          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 本题应填“wanted”。",
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 可接受答案：wanted。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "could"
             ]
           },
-          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 本题应填“could”。",
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 可接受答案：could。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "would arrive"
             ]
           },
-          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 本题应填“would arrive”。",
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 可接受答案：would arrive。",
           "score": 1,
           "mediaPath": null
         },
