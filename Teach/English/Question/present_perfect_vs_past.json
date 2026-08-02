@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g5-02",
@@ -17,6 +17,7 @@
           "id": "q2-g5-02-01",
           "type": "fillBlank",
           "stem": "I ___ the film last Saturday.",
+          "keyword": "see",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g5-02-02",
           "type": "fillBlank",
           "stem": "I ___ that film three times.",
+          "keyword": "see",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g5-02-03",
           "type": "fillBlank",
           "stem": "Mia ___ here since 2022.",
+          "keyword": "live",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g5-02-04",
           "type": "fillBlank",
           "stem": "We ___ the museum two days ago.",
+          "keyword": "visit",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g5-02-05",
           "type": "fillBlank",
           "stem": "___ abroad?",
+          "keyword": "be",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g5-02-06",
           "type": "fillBlank",
           "stem": "Dad ___ his keys, so he cannot open the door.",
+          "keyword": "lose",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g5-02-07",
           "type": "fillBlank",
           "stem": "The train ___ ten minutes ago.",
+          "keyword": "arrive",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -122,6 +129,7 @@
           "id": "q2-g5-02-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：我上周看了这部电影。",
+          "keyword": "see",
           "options": [],
           "answer": {
             "optionIDs": [],
