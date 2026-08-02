@@ -1,0 +1,2903 @@
+{
+  "schemaVersion": 2,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T09:53:35.956Z",
+  "sets": [
+    {
+      "id": "qs-g6-01",
+      "grade": 6,
+      "order": 1,
+      "title": "一般过去时的被动语态专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-01"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-01-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“一般过去时的被动语态”的句子。",
+          "options": [
+            {
+              "id": "q-g6-01-01-o1",
+              "text": "The bridge was built in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-01-o2",
+              "text": "The bridge was build in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-01-o3",
+              "text": "The windows cleaned yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-01-o4",
+              "text": "The letter were written by Tom.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 正确示例：The bridge was built in 2010.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-01-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“一般过去时的被动语态”规则？",
+          "options": [
+            {
+              "id": "q-g6-01-02-o1",
+              "text": "The windows cleaned yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-02-o2",
+              "text": "The windows were cleaned yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-02-o3",
+              "text": "The letter were written by Tom.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-02-o4",
+              "text": "The bridge was build in 2010.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 正确示例：The windows were cleaned yesterday.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-01-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g6-01-03-o1",
+              "text": "The letter were written by Tom.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-03-o2",
+              "text": "The bridge was build in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-03-o3",
+              "text": "The bridge was built in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-03-o4",
+              "text": "The windows cleaned yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 正确示例：The bridge was built in 2010.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-01-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-01-04-o1",
+              "text": "The bridge was build in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-04-o2",
+              "text": "The windows cleaned yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-04-o3",
+              "text": "The letter were written by Tom.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-04-o4",
+              "text": "The windows were cleaned yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 正确示例：The windows were cleaned yesterday.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-01-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g6-01-05-o1",
+              "text": "The bridge was built in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-05-o2",
+              "text": "The windows cleaned yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-05-o3",
+              "text": "The letter were written by Tom.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-05-o4",
+              "text": "The bridge was build in 2010.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 正确示例：The bridge was built in 2010.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-01-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“一般过去时的被动语态”的句子。",
+          "options": [
+            {
+              "id": "q-g6-01-06-o1",
+              "text": "The letter were written by Tom.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-06-o2",
+              "text": "The windows were cleaned yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-06-o3",
+              "text": "The bridge was build in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-06-o4",
+              "text": "The windows cleaned yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 正确示例：The windows were cleaned yesterday.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-01-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g6-01-07-o1",
+              "text": "The bridge was build in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-07-o2",
+              "text": "The windows cleaned yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-07-o3",
+              "text": "The bridge was built in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-07-o4",
+              "text": "The letter were written by Tom.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 正确示例：The bridge was built in 2010.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-01-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g6-01-08-o1",
+              "text": "The windows cleaned yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-08-o2",
+              "text": "The letter were written by Tom.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-08-o3",
+              "text": "The bridge was build in 2010.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-08-o4",
+              "text": "The windows were cleaned yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 正确示例：The windows were cleaned yesterday.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-01-09",
+          "type": "singleChoice",
+          "stem": "关于“一般过去时的被动语态”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g6-01-09-o1",
+              "text": "一般过去时被动语态由was/were加过去分词构成。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-01-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“The bridge was built in 2010.”符合“一般过去时的被动语态”规则。",
+          "options": [
+            {
+              "id": "q-g6-01-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-01-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-01-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "The bridge was built in 2010. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g6-02",
+      "grade": 6,
+      "order": 2,
+      "title": "一般将来时的被动语态专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-02"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-02-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“一般将来时的被动语态”的句子。",
+          "options": [
+            {
+              "id": "q-g6-02-01-o1",
+              "text": "The work will be finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-01-o2",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-01-o3",
+              "text": "A new school will be build.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-01-o4",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确示例：The work will be finished tomorrow.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“一般将来时的被动语态”规则？",
+          "options": [
+            {
+              "id": "q-g6-02-02-o1",
+              "text": "A new school will be build.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-02-o2",
+              "text": "A new school will be built here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-02-o3",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-02-o4",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确示例：A new school will be built here.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g6-02-03-o1",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-03-o2",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-03-o3",
+              "text": "The work will be finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-03-o4",
+              "text": "A new school will be build.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确示例：The work will be finished tomorrow.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-02-04-o1",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-04-o2",
+              "text": "A new school will be build.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-04-o3",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-04-o4",
+              "text": "A new school will be built here.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确示例：A new school will be built here.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g6-02-05-o1",
+              "text": "The work will be finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-05-o2",
+              "text": "A new school will be build.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-05-o3",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-05-o4",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确示例：The work will be finished tomorrow.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“一般将来时的被动语态”的句子。",
+          "options": [
+            {
+              "id": "q-g6-02-06-o1",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-06-o2",
+              "text": "A new school will be built here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-06-o3",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-06-o4",
+              "text": "A new school will be build.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确示例：A new school will be built here.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g6-02-07-o1",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-07-o2",
+              "text": "A new school will be build.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-07-o3",
+              "text": "The work will be finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-07-o4",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确示例：The work will be finished tomorrow.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g6-02-08-o1",
+              "text": "A new school will be build.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-08-o2",
+              "text": "The room will be cleaning.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-08-o3",
+              "text": "The work will finished tomorrow.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-08-o4",
+              "text": "A new school will be built here.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。 正确示例：A new school will be built here.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-09",
+          "type": "singleChoice",
+          "stem": "关于“一般将来时的被动语态”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g6-02-09-o1",
+              "text": "一般将来时被动语态由will be加过去分词构成。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般将来时被动语态由will be加过去分词构成。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-02-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“The work will be finished tomorrow.”符合“一般将来时的被动语态”规则。",
+          "options": [
+            {
+              "id": "q-g6-02-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-02-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-02-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "The work will be finished tomorrow. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g6-03",
+      "grade": 6,
+      "order": 3,
+      "title": "含情态动词的被动语态专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-03"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-03-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“含情态动词的被动语态”的句子。",
+          "options": [
+            {
+              "id": "q-g6-03-01-o1",
+              "text": "The problem can be solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-01-o2",
+              "text": "The problem can solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-01-o3",
+              "text": "Rules must followed.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-01-o4",
+              "text": "It should be do today.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。 正确示例：The problem can be solved.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-03-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“含情态动词的被动语态”规则？",
+          "options": [
+            {
+              "id": "q-g6-03-02-o1",
+              "text": "Rules must followed.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-02-o2",
+              "text": "Rules must be followed.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-02-o3",
+              "text": "It should be do today.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-02-o4",
+              "text": "The problem can solved.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。 正确示例：Rules must be followed.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-03-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g6-03-03-o1",
+              "text": "It should be do today.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-03-o2",
+              "text": "The problem can solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-03-o3",
+              "text": "The problem can be solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-03-o4",
+              "text": "Rules must followed.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。 正确示例：The problem can be solved.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-03-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-03-04-o1",
+              "text": "The problem can solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-04-o2",
+              "text": "Rules must followed.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-04-o3",
+              "text": "It should be do today.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-04-o4",
+              "text": "Rules must be followed.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。 正确示例：Rules must be followed.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-03-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g6-03-05-o1",
+              "text": "The problem can be solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-05-o2",
+              "text": "Rules must followed.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-05-o3",
+              "text": "It should be do today.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-05-o4",
+              "text": "The problem can solved.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。 正确示例：The problem can be solved.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-03-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“含情态动词的被动语态”的句子。",
+          "options": [
+            {
+              "id": "q-g6-03-06-o1",
+              "text": "It should be do today.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-06-o2",
+              "text": "Rules must be followed.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-06-o3",
+              "text": "The problem can solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-06-o4",
+              "text": "Rules must followed.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。 正确示例：Rules must be followed.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-03-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g6-03-07-o1",
+              "text": "The problem can solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-07-o2",
+              "text": "Rules must followed.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-07-o3",
+              "text": "The problem can be solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-07-o4",
+              "text": "It should be do today.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。 正确示例：The problem can be solved.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-03-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g6-03-08-o1",
+              "text": "Rules must followed.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-08-o2",
+              "text": "It should be do today.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-08-o3",
+              "text": "The problem can solved.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-08-o4",
+              "text": "Rules must be followed.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。 正确示例：Rules must be followed.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-03-09",
+          "type": "singleChoice",
+          "stem": "关于“含情态动词的被动语态”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g6-03-09-o1",
+              "text": "含情态动词的被动语态由情态动词加be加过去分词构成。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "含情态动词的被动语态由情态动词加be加过去分词构成。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-03-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“The problem can be solved.”符合“含情态动词的被动语态”规则。",
+          "options": [
+            {
+              "id": "q-g6-03-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-03-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-03-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "The problem can be solved. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g6-04",
+      "grade": 6,
+      "order": 4,
+      "title": "定语从句专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-04"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-04-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“定语从句”的句子。",
+          "options": [
+            {
+              "id": "q-g6-04-01-o1",
+              "text": "The girl who is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-01-o2",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-01-o3",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-01-o4",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确示例：The girl who is singing is my sister.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“定语从句”规则？",
+          "options": [
+            {
+              "id": "q-g6-04-02-o1",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-02-o2",
+              "text": "This is the book that I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-02-o3",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-02-o4",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确示例：This is the book that I bought.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g6-04-03-o1",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-03-o2",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-03-o3",
+              "text": "The girl who is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-03-o4",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确示例：The girl who is singing is my sister.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-04-04-o1",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-04-o2",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-04-o3",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-04-o4",
+              "text": "This is the book that I bought.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确示例：This is the book that I bought.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g6-04-05-o1",
+              "text": "The girl who is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-05-o2",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-05-o3",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-05-o4",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确示例：The girl who is singing is my sister.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“定语从句”的句子。",
+          "options": [
+            {
+              "id": "q-g6-04-06-o1",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-06-o2",
+              "text": "This is the book that I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-06-o3",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-06-o4",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确示例：This is the book that I bought.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g6-04-07-o1",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-07-o2",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-07-o3",
+              "text": "The girl who is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-07-o4",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确示例：The girl who is singing is my sister.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g6-04-08-o1",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-08-o2",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-08-o3",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-08-o4",
+              "text": "This is the book that I bought.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确示例：This is the book that I bought.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-09",
+          "type": "singleChoice",
+          "stem": "关于“定语从句”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g6-04-09-o1",
+              "text": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“The girl who is singing is my sister.”符合“定语从句”规则。",
+          "options": [
+            {
+              "id": "q-g6-04-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "The girl who is singing is my sister. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g6-05",
+      "grade": 6,
+      "order": 5,
+      "title": "状语从句专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-05"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-05-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“状语从句”的句子。",
+          "options": [
+            {
+              "id": "q-g6-05-01-o1",
+              "text": "I stayed home because I was ill.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-01-o2",
+              "text": "Because I was ill, so I stayed home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-01-o3",
+              "text": "Although it was cold, but we went out.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-01-o4",
+              "text": "When I will arrive, I called you.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 正确示例：I stayed home because I was ill.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-05-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“状语从句”规则？",
+          "options": [
+            {
+              "id": "q-g6-05-02-o1",
+              "text": "Although it was cold, but we went out.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-02-o2",
+              "text": "Although it was cold, we went out.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-02-o3",
+              "text": "When I will arrive, I called you.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-02-o4",
+              "text": "Because I was ill, so I stayed home.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 正确示例：Although it was cold, we went out.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-05-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g6-05-03-o1",
+              "text": "When I will arrive, I called you.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-03-o2",
+              "text": "Because I was ill, so I stayed home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-03-o3",
+              "text": "I stayed home because I was ill.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-03-o4",
+              "text": "Although it was cold, but we went out.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 正确示例：I stayed home because I was ill.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-05-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-05-04-o1",
+              "text": "Because I was ill, so I stayed home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-04-o2",
+              "text": "Although it was cold, but we went out.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-04-o3",
+              "text": "When I will arrive, I called you.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-04-o4",
+              "text": "Although it was cold, we went out.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 正确示例：Although it was cold, we went out.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-05-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g6-05-05-o1",
+              "text": "I stayed home because I was ill.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-05-o2",
+              "text": "Although it was cold, but we went out.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-05-o3",
+              "text": "When I will arrive, I called you.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-05-o4",
+              "text": "Because I was ill, so I stayed home.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 正确示例：I stayed home because I was ill.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-05-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“状语从句”的句子。",
+          "options": [
+            {
+              "id": "q-g6-05-06-o1",
+              "text": "When I will arrive, I called you.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-06-o2",
+              "text": "Although it was cold, we went out.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-06-o3",
+              "text": "Because I was ill, so I stayed home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-06-o4",
+              "text": "Although it was cold, but we went out.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 正确示例：Although it was cold, we went out.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-05-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g6-05-07-o1",
+              "text": "Because I was ill, so I stayed home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-07-o2",
+              "text": "Although it was cold, but we went out.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-07-o3",
+              "text": "I stayed home because I was ill.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-07-o4",
+              "text": "When I will arrive, I called you.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 正确示例：I stayed home because I was ill.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-05-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g6-05-08-o1",
+              "text": "Although it was cold, but we went out.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-08-o2",
+              "text": "When I will arrive, I called you.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-08-o3",
+              "text": "Because I was ill, so I stayed home.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-08-o4",
+              "text": "Although it was cold, we went out.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 正确示例：Although it was cold, we went out.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-05-09",
+          "type": "singleChoice",
+          "stem": "关于“状语从句”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g6-05-09-o1",
+              "text": "because表示原因，although表示让步，when和while表示时间。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "because表示原因，although表示让步，when和while表示时间。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-05-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I stayed home because I was ill.”符合“状语从句”规则。",
+          "options": [
+            {
+              "id": "q-g6-05-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-05-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-05-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I stayed home because I was ill. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g6-06",
+      "grade": 6,
+      "order": 6,
+      "title": "间接引语陈述句专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-06"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-06-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“间接引语陈述句”的句子。",
+          "options": [
+            {
+              "id": "q-g6-06-01-o1",
+              "text": "She said that she was tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-01-o2",
+              "text": "She said that I am tired herself.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-01-o3",
+              "text": "Tom said he likes music yesterday then.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-01-o4",
+              "text": "She said that was she tired.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确示例：She said that she was tired.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“间接引语陈述句”规则？",
+          "options": [
+            {
+              "id": "q-g6-06-02-o1",
+              "text": "Tom said he likes music yesterday then.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-02-o2",
+              "text": "Tom said that he liked music.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-02-o3",
+              "text": "She said that was she tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-02-o4",
+              "text": "She said that I am tired herself.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确示例：Tom said that he liked music.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g6-06-03-o1",
+              "text": "She said that was she tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-03-o2",
+              "text": "She said that I am tired herself.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-03-o3",
+              "text": "She said that she was tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-03-o4",
+              "text": "Tom said he likes music yesterday then.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确示例：She said that she was tired.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-06-04-o1",
+              "text": "She said that I am tired herself.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-04-o2",
+              "text": "Tom said he likes music yesterday then.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-04-o3",
+              "text": "She said that was she tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-04-o4",
+              "text": "Tom said that he liked music.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确示例：Tom said that he liked music.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g6-06-05-o1",
+              "text": "She said that she was tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-05-o2",
+              "text": "Tom said he likes music yesterday then.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-05-o3",
+              "text": "She said that was she tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-05-o4",
+              "text": "She said that I am tired herself.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确示例：She said that she was tired.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“间接引语陈述句”的句子。",
+          "options": [
+            {
+              "id": "q-g6-06-06-o1",
+              "text": "She said that was she tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-06-o2",
+              "text": "Tom said that he liked music.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-06-o3",
+              "text": "She said that I am tired herself.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-06-o4",
+              "text": "Tom said he likes music yesterday then.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确示例：Tom said that he liked music.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g6-06-07-o1",
+              "text": "She said that I am tired herself.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-07-o2",
+              "text": "Tom said he likes music yesterday then.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-07-o3",
+              "text": "She said that she was tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-07-o4",
+              "text": "She said that was she tired.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确示例：She said that she was tired.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g6-06-08-o1",
+              "text": "Tom said he likes music yesterday then.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-08-o2",
+              "text": "She said that was she tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-08-o3",
+              "text": "She said that I am tired herself.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-08-o4",
+              "text": "Tom said that he liked music.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确示例：Tom said that he liked music.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-09",
+          "type": "singleChoice",
+          "stem": "关于“间接引语陈述句”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g6-06-09-o1",
+              "text": "转述陈述句常用that连接，并根据语境调整人称和时态。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“She said that she was tired.”符合“间接引语陈述句”规则。",
+          "options": [
+            {
+              "id": "q-g6-06-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "She said that she was tired. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g6-07",
+      "grade": 6,
+      "order": 7,
+      "title": "间接引语疑问句专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-07"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-07-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“间接引语疑问句”的句子。",
+          "options": [
+            {
+              "id": "q-g6-07-01-o1",
+              "text": "He asked if I was ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-01-o2",
+              "text": "He asked if was I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-01-o3",
+              "text": "She asked where did I live.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-01-o4",
+              "text": "He asked that am I ready.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 正确示例：He asked if I was ready.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-07-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“间接引语疑问句”规则？",
+          "options": [
+            {
+              "id": "q-g6-07-02-o1",
+              "text": "She asked where did I live.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-02-o2",
+              "text": "She asked where I lived.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-02-o3",
+              "text": "He asked that am I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-02-o4",
+              "text": "He asked if was I ready.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 正确示例：She asked where I lived.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-07-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g6-07-03-o1",
+              "text": "He asked that am I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-03-o2",
+              "text": "He asked if was I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-03-o3",
+              "text": "He asked if I was ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-03-o4",
+              "text": "She asked where did I live.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 正确示例：He asked if I was ready.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-07-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-07-04-o1",
+              "text": "He asked if was I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-04-o2",
+              "text": "She asked where did I live.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-04-o3",
+              "text": "He asked that am I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-04-o4",
+              "text": "She asked where I lived.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 正确示例：She asked where I lived.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-07-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g6-07-05-o1",
+              "text": "He asked if I was ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-05-o2",
+              "text": "She asked where did I live.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-05-o3",
+              "text": "He asked that am I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-05-o4",
+              "text": "He asked if was I ready.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 正确示例：He asked if I was ready.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-07-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“间接引语疑问句”的句子。",
+          "options": [
+            {
+              "id": "q-g6-07-06-o1",
+              "text": "He asked that am I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-06-o2",
+              "text": "She asked where I lived.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-06-o3",
+              "text": "He asked if was I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-06-o4",
+              "text": "She asked where did I live.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 正确示例：She asked where I lived.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-07-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g6-07-07-o1",
+              "text": "He asked if was I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-07-o2",
+              "text": "She asked where did I live.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-07-o3",
+              "text": "He asked if I was ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-07-o4",
+              "text": "He asked that am I ready.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 正确示例：He asked if I was ready.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-07-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g6-07-08-o1",
+              "text": "She asked where did I live.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-08-o2",
+              "text": "He asked that am I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-08-o3",
+              "text": "He asked if was I ready.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-08-o4",
+              "text": "She asked where I lived.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 正确示例：She asked where I lived.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-07-09",
+          "type": "singleChoice",
+          "stem": "关于“间接引语疑问句”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g6-07-09-o1",
+              "text": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-07-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“He asked if I was ready.”符合“间接引语疑问句”规则。",
+          "options": [
+            {
+              "id": "q-g6-07-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-07-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-07-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "He asked if I was ready. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g6-08",
+      "grade": 6,
+      "order": 8,
+      "title": "虚拟语气初步专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-08"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-08-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“虚拟语气初步”的句子。",
+          "options": [
+            {
+              "id": "q-g6-08-01-o1",
+              "text": "I wish I could fly.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-01-o2",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-01-o3",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-01-o4",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确示例：I wish I could fly.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“虚拟语气初步”规则？",
+          "options": [
+            {
+              "id": "q-g6-08-02-o1",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-02-o2",
+              "text": "If I were you, I would study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-02-o3",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-02-o4",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确示例：If I were you, I would study harder.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g6-08-03-o1",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-03-o2",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-03-o3",
+              "text": "I wish I could fly.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-03-o4",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确示例：I wish I could fly.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-08-04-o1",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-04-o2",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-04-o3",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-04-o4",
+              "text": "If I were you, I would study harder.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确示例：If I were you, I would study harder.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g6-08-05-o1",
+              "text": "I wish I could fly.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-05-o2",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-05-o3",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-05-o4",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确示例：I wish I could fly.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“虚拟语气初步”的句子。",
+          "options": [
+            {
+              "id": "q-g6-08-06-o1",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-06-o2",
+              "text": "If I were you, I would study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-06-o3",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-06-o4",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确示例：If I were you, I would study harder.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g6-08-07-o1",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-07-o2",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-07-o3",
+              "text": "I wish I could fly.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-07-o4",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确示例：I wish I could fly.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g6-08-08-o1",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-08-o2",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-08-o3",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-08-o4",
+              "text": "If I were you, I would study harder.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确示例：If I were you, I would study harder.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-09",
+          "type": "singleChoice",
+          "stem": "关于“虚拟语气初步”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g6-08-09-o1",
+              "text": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I wish I could fly.”符合“虚拟语气初步”规则。",
+          "options": [
+            {
+              "id": "q-g6-08-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I wish I could fly. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
