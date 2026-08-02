@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g6-05",
@@ -24,7 +24,7 @@
               "because"
             ]
           },
-          "explanation": "because表示原因，although表示让步，when和while表示时间。 本题应填“because”。",
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 可接受答案：because。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "Although"
             ]
           },
-          "explanation": "because表示原因，although表示让步，when和while表示时间。 本题应填“Although”。",
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 可接受答案：Although。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "when"
             ]
           },
-          "explanation": "because表示原因，although表示让步，when和while表示时间。 本题应填“when”。",
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 可接受答案：when。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "while"
             ]
           },
-          "explanation": "because表示原因，although表示让步，when和while表示时间。 本题应填“while”。",
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 可接受答案：while。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "so that"
             ]
           },
-          "explanation": "because表示原因，although表示让步，when和while表示时间。 本题应填“so that”。",
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 可接受答案：so that。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "After"
             ]
           },
-          "explanation": "because表示原因，although表示让步，when和while表示时间。 本题应填“After”。",
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 可接受答案：After。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "as"
             ]
           },
-          "explanation": "because表示原因，although表示让步，when和while表示时间。 本题应填“as”。",
+          "explanation": "because表示原因，although表示让步，when和while表示时间。 可接受答案：as。",
           "score": 1,
           "mediaPath": null
         },
