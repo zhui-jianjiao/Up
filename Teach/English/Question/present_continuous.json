@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g3-01",
+      "grade": 3,
+      "order": 1,
+      "title": "现在进行时专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-01"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-01-01",
+          "type": "fillBlank",
+          "stem": "Listen! Someone ___ the piano.",
+          "options": [
+            {
+              "id": "q-g3-01-01-o1",
+              "text": "is playing",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-01-o2",
+              "text": "plays",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-01-o3",
+              "text": "played",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-01-o4",
+              "text": "play",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-01-o1"
+            ],
+            "textAnswers": [
+              "is playing"
+            ]
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“is playing”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-02",
+          "type": "fillBlank",
+          "stem": "The students ___ a science experiment now.",
+          "options": [
+            {
+              "id": "q-g3-01-02-o1",
+              "text": "do",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-02-o2",
+              "text": "are doing",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-02-o3",
+              "text": "does",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-02-o4",
+              "text": "did",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-02-o2"
+            ],
+            "textAnswers": [
+              "are doing"
+            ]
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“are doing”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-03",
+          "type": "fillBlank",
+          "stem": "I ___ for the school bus at the moment.",
+          "options": [
+            {
+              "id": "q-g3-01-03-o1",
+              "text": "wait",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-03-o2",
+              "text": "waits",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-03-o3",
+              "text": "am waiting",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-03-o4",
+              "text": "waited",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-03-o3"
+            ],
+            "textAnswers": [
+              "am waiting"
+            ]
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“am waiting”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-04",
+          "type": "fillBlank",
+          "stem": "Look! The snow ___ quickly.",
+          "options": [
+            {
+              "id": "q-g3-01-04-o1",
+              "text": "melts",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-04-o2",
+              "text": "melted",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-04-o3",
+              "text": "melt",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-04-o4",
+              "text": "is melting",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-04-o4"
+            ],
+            "textAnswers": [
+              "is melting"
+            ]
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“is melting”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-05",
+          "type": "fillBlank",
+          "stem": "Why ___ so fast?",
+          "options": [
+            {
+              "id": "q-g3-01-05-o1",
+              "text": "are you running",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-05-o2",
+              "text": "do you run",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-05-o3",
+              "text": "is you running",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-05-o4",
+              "text": "did you ran",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-05-o1"
+            ],
+            "textAnswers": [
+              "are you running"
+            ]
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“are you running”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-06",
+          "type": "fillBlank",
+          "stem": "Mum isn't cooking; she ___ a book.",
+          "options": [
+            {
+              "id": "q-g3-01-06-o1",
+              "text": "reads",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-06-o2",
+              "text": "is reading",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-06-o3",
+              "text": "read",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-06-o4",
+              "text": "reading",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-06-o2"
+            ],
+            "textAnswers": [
+              "is reading"
+            ]
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“is reading”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-07",
+          "type": "fillBlank",
+          "stem": "We ___ our costumes this week.",
+          "options": [
+            {
+              "id": "q-g3-01-07-o1",
+              "text": "prepare",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-07-o2",
+              "text": "prepared",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-07-o3",
+              "text": "are preparing",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-07-o4",
+              "text": "prepares",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-07-o3"
+            ],
+            "textAnswers": [
+              "are preparing"
+            ]
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“are preparing”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“现在进行时”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-01-08-o1",
+              "text": "They playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-08-o2",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-08-o3",
+              "text": "They are playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-08-o4",
+              "text": "He are reading.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-08-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确表达：They are playing football.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-01-09-o1",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-09-o2",
+              "text": "He are reading.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-09-o3",
+              "text": "They playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-09-o4",
+              "text": "Mum is cooking now.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确表达：Mum is cooking now.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“现在进行时”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g3-01-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-10-o3",
+              "text": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-10-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
