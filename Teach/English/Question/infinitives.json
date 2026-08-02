@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g4-07",
@@ -17,6 +17,7 @@
           "id": "q2-g4-07-01",
           "type": "fillBlank",
           "stem": "I hope ___ the school newspaper.",
+          "keyword": "join",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g4-07-02",
           "type": "fillBlank",
           "stem": "We went outside ___ the rainbow.",
+          "keyword": "see",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g4-07-03",
           "type": "fillBlank",
           "stem": "Mia needs ___ her presentation.",
+          "keyword": "finish",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g4-07-04",
           "type": "fillBlank",
           "stem": "Dad taught me ___ a tyre.",
+          "keyword": "change",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g4-07-05",
           "type": "fillBlank",
           "stem": "The class decided ___ less plastic.",
+          "keyword": "use",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g4-07-06",
           "type": "fillBlank",
           "stem": "It is important ___ carefully.",
+          "keyword": "listen",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g4-07-07",
           "type": "fillBlank",
           "stem": "Ben saved money ___ a telescope.",
+          "keyword": "buy",
           "options": [],
           "answer": {
             "optionIDs": [],
