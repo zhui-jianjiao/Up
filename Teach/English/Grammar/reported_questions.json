@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g6-07",
@@ -23,6 +23,12 @@
           "english": "She asked where I lived.",
           "chinese": "她问我住在哪里。",
           "note": null
+        },
+        {
+          "id": "g6-07-e3",
+          "english": "She asked whether I could swim.",
+          "chinese": "她问我是否会游泳。",
+          "note": "转述一般疑问句使用whether或if。"
         }
       ],
       "tips": [
@@ -87,7 +93,35 @@
           "correct": "She asked where I lived.",
           "reason": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g6-07-sf1",
+          "title": "直接问句与转述问句",
+          "summary": "转述问句改用陈述句语序。",
+          "items": [
+            {
+              "id": "g6-07-sf1-1",
+              "base": "Where do you live?",
+              "form": "She asked where I lived.",
+              "usage": "特殊疑问句"
+            },
+            {
+              "id": "g6-07-sf1-2",
+              "base": "Are you ready?",
+              "form": "He asked if I was ready.",
+              "usage": "一般疑问句"
+            },
+            {
+              "id": "g6-07-sf1-3",
+              "base": "Can you swim?",
+              "form": "She asked whether I could swim.",
+              "usage": "情态动词变化"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
