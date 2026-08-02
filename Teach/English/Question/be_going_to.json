@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g4-02",
@@ -21,10 +21,11 @@
           "answer": {
             "optionIDs": [],
             "textAnswers": [
-              "build"
+              "build",
+              "make"
             ]
           },
-          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“build”。",
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 可接受答案：build / make。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +40,7 @@
               "is going to"
             ]
           },
-          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“is going to”。",
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 可接受答案：is going to。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +55,7 @@
               "are going to"
             ]
           },
-          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“are going to”。",
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 可接受答案：are going to。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +70,7 @@
               "wear"
             ]
           },
-          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“wear”。",
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 可接受答案：wear。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +85,7 @@
               "drive"
             ]
           },
-          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“drive”。",
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 可接受答案：drive。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +100,7 @@
               "is going to"
             ]
           },
-          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“is going to”。",
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 可接受答案：is going to。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +115,7 @@
               "enter"
             ]
           },
-          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 本题应填“enter”。",
+          "explanation": "be going to加动词原形表示计划、打算或有迹象将发生的事情。 可接受答案：enter。",
           "score": 1,
           "mediaPath": null
         },
