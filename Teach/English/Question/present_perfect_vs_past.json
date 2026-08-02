@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g5-02",
@@ -17,32 +17,9 @@
           "id": "q-g5-02-01",
           "type": "fillBlank",
           "stem": "I ___ the film last Saturday.",
-          "options": [
-            {
-              "id": "q-g5-02-01-o1",
-              "text": "saw",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-01-o2",
-              "text": "have seen",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-01-o3",
-              "text": "see",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-01-o4",
-              "text": "am seeing",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-02-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "saw"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g5-02-02",
           "type": "fillBlank",
           "stem": "I ___ that film three times.",
-          "options": [
-            {
-              "id": "q-g5-02-02-o1",
-              "text": "saw yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-02-o2",
-              "text": "have seen",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-02-o3",
-              "text": "see last week",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-02-o4",
-              "text": "am seeing",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-02-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "have seen"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g5-02-03",
           "type": "fillBlank",
           "stem": "Mia ___ here since 2022.",
-          "options": [
-            {
-              "id": "q-g5-02-03-o1",
-              "text": "lived yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-03-o2",
-              "text": "lives last year",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-03-o3",
-              "text": "has lived",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-03-o4",
-              "text": "is living ago",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-02-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "has lived"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g5-02-04",
           "type": "fillBlank",
           "stem": "We ___ the museum two days ago.",
-          "options": [
-            {
-              "id": "q-g5-02-04-o1",
-              "text": "have visited",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-04-o2",
-              "text": "visit",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-04-o3",
-              "text": "are visiting",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-04-o4",
-              "text": "visited",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-02-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "visited"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g5-02-05",
           "type": "fillBlank",
           "stem": "___ abroad?",
-          "options": [
-            {
-              "id": "q-g5-02-05-o1",
-              "text": "Have you ever been",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-05-o2",
-              "text": "Did you ever been",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-05-o3",
-              "text": "Have you ever went",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-05-o4",
-              "text": "Were you ever go",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-02-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "Have you ever been"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g5-02-06",
           "type": "fillBlank",
           "stem": "Dad ___ his keys, so he cannot open the door.",
-          "options": [
-            {
-              "id": "q-g5-02-06-o1",
-              "text": "lost last year",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-06-o2",
-              "text": "has lost",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-06-o3",
-              "text": "loses yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-06-o4",
-              "text": "is losing ago",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-02-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "has lost"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g5-02-07",
           "type": "fillBlank",
           "stem": "The train ___ ten minutes ago.",
-          "options": [
-            {
-              "id": "q-g5-02-07-o1",
-              "text": "has arrived",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-07-o2",
-              "text": "arrives",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-07-o3",
-              "text": "arrived",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-07-o4",
-              "text": "is arriving",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-02-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "arrived"
             ]
@@ -281,48 +120,27 @@
         },
         {
           "id": "q-g5-02-08",
-          "type": "singleChoice",
-          "stem": "校园英语角需要一个“现在完成时与一般过去时”示例，选择表达正确的一项。",
-          "options": [
-            {
-              "id": "q-g5-02-08-o1",
-              "text": "I have seen the film last week.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-08-o2",
-              "text": "I saw the film since Monday.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-08-o3",
-              "text": "She has went yesterday.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-02-08-o4",
-              "text": "I saw the film last week.",
-              "imagePath": null
-            }
-          ],
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：我上周看了这部电影。",
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-02-08-o4"
-            ],
-            "textAnswers": []
+            "optionIDs": [],
+            "textAnswers": [
+              "I saw the film last week."
+            ]
           },
-          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确表达：I saw the film last week.",
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 参考表达：I saw the film last week.",
           "score": 1,
           "mediaPath": null
         },
         {
           "id": "q-g5-02-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "选择正确使用“现在完成时与一般过去时”的一项。",
           "options": [
             {
               "id": "q-g5-02-09-o1",
-              "text": "I have seen the film twice.",
+              "text": "I have seen the film last week.",
               "imagePath": null
             },
             {
@@ -337,13 +155,49 @@
             },
             {
               "id": "q-g5-02-09-o4",
+              "text": "I saw the film last week.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-02-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。 正确表达：I saw the film last week.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-02-10",
+          "type": "singleChoice",
+          "stem": "再次辨析“现在完成时与一般过去时”，选择结构正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-02-10-o1",
+              "text": "I have seen the film twice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-10-o2",
+              "text": "I saw the film since Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-10-o3",
+              "text": "She has went yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-02-10-o4",
               "text": "I have seen the film last week.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-02-09-o1"
+              "q-g5-02-10-o1"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-02-10",
+          "id": "q-g5-02-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“现在完成时与一般过去时”最准确的总结。",
           "options": [
             {
-              "id": "q-g5-02-10-o1",
+              "id": "q-g5-02-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-10-o2",
+              "id": "q-g5-02-11-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-10-o3",
+              "id": "q-g5-02-11-o3",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             },
             {
-              "id": "q-g5-02-10-o4",
+              "id": "q-g5-02-11-o4",
               "text": "一般过去时强调明确的过去时间；现在完成时强调经历或对现在的影响。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-02-10-o4"
+              "q-g5-02-11-o4"
             ],
             "textAnswers": []
           },
