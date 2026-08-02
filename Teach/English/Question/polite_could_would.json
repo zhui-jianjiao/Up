@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g5-05",
+      "grade": 5,
+      "order": 5,
+      "title": "could / would 的礼貌表达专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-05"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-05-01",
+          "type": "fillBlank",
+          "stem": "___ you please lower your voice?",
+          "options": [
+            {
+              "id": "q-g5-05-01-o1",
+              "text": "Could",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-01-o2",
+              "text": "Must",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-01-o3",
+              "text": "Should",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-01-o4",
+              "text": "Did",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-01-o1"
+            ],
+            "textAnswers": [
+              "Could"
+            ]
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 本题应填“Could”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-02",
+          "type": "fillBlank",
+          "stem": "___ you like some more fruit?",
+          "options": [
+            {
+              "id": "q-g5-05-02-o1",
+              "text": "Could to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-02-o2",
+              "text": "Would",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-02-o3",
+              "text": "Do liked",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-02-o4",
+              "text": "Are",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-02-o2"
+            ],
+            "textAnswers": [
+              "Would"
+            ]
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 本题应填“Would”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-03",
+          "type": "fillBlank",
+          "stem": "Could I ___ your charger for a minute?",
+          "options": [
+            {
+              "id": "q-g5-05-03-o1",
+              "text": "borrows",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-03-o2",
+              "text": "borrowed",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-03-o3",
+              "text": "borrow",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-03-o4",
+              "text": "borrowing",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-03-o3"
+            ],
+            "textAnswers": [
+              "borrow"
+            ]
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 本题应填“borrow”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-04",
+          "type": "fillBlank",
+          "stem": "Would you mind ___ the window?",
+          "options": [
+            {
+              "id": "q-g5-05-04-o1",
+              "text": "close",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-04-o2",
+              "text": "closed",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-04-o3",
+              "text": "closes",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-04-o4",
+              "text": "closing",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-04-o4"
+            ],
+            "textAnswers": [
+              "closing"
+            ]
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 本题应填“closing”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-05",
+          "type": "fillBlank",
+          "stem": "___ you help me find this address?",
+          "options": [
+            {
+              "id": "q-g5-05-05-o1",
+              "text": "Could",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-05-o2",
+              "text": "Must",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-05-o3",
+              "text": "Are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-05-o4",
+              "text": "Have",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-05-o1"
+            ],
+            "textAnswers": [
+              "Could"
+            ]
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 本题应填“Could”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-06",
+          "type": "fillBlank",
+          "stem": "I ___ like to book two tickets.",
+          "options": [
+            {
+              "id": "q-g5-05-06-o1",
+              "text": "could to",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-06-o2",
+              "text": "would",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-06-o3",
+              "text": "am",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-06-o4",
+              "text": "did",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-06-o2"
+            ],
+            "textAnswers": [
+              "would"
+            ]
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 本题应填“would”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-07",
+          "type": "fillBlank",
+          "stem": "Would you please ___ me the menu?",
+          "options": [
+            {
+              "id": "q-g5-05-07-o1",
+              "text": "shows",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-07-o2",
+              "text": "showed",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-07-o3",
+              "text": "show",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-07-o4",
+              "text": "showing",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-07-o3"
+            ],
+            "textAnswers": [
+              "show"
+            ]
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 本题应填“show”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“could / would 的礼貌表达”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-05-08-o1",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-08-o2",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-08-o3",
+              "text": "Could you open the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-08-o4",
+              "text": "Could she to help?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-08-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确表达：Could you open the window?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-05-09-o1",
+              "text": "Would you liking tea?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-09-o2",
+              "text": "Could she to help?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-09-o3",
+              "text": "Could you opened the window?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-09-o4",
+              "text": "Would you like some tea?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。 正确表达：Would you like some tea?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-05-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“could / would 的礼貌表达”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g5-05-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-10-o3",
+              "text": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-05-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-05-10-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "Could you和Would you常用于礼貌请求，语气比can和will更委婉。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
