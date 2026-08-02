@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g6-02",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g6-02-01",
+          "id": "q2-g6-02-01",
           "type": "fillBlank",
           "stem": "The new library ___ next year.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-02",
+          "id": "q2-g6-02-02",
           "type": "fillBlank",
           "stem": "Your order ___ tomorrow.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-03",
+          "id": "q2-g6-02-03",
           "type": "fillBlank",
           "stem": "More trees ___ along this road.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-04",
+          "id": "q2-g6-02-04",
           "type": "fillBlank",
           "stem": "The winners ___ on Friday.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-05",
+          "id": "q2-g6-02-05",
           "type": "fillBlank",
           "stem": "When ___?",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-06",
+          "id": "q2-g6-02-06",
           "type": "fillBlank",
           "stem": "A new app ___ for the project.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-07",
+          "id": "q2-g6-02-07",
           "type": "fillBlank",
           "stem": "The old computers ___ safely.",
           "options": [],
@@ -119,7 +119,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-08",
+          "id": "q2-g6-02-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：工作明天会完成。",
           "options": [],
@@ -134,34 +134,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-09",
+          "id": "q2-g6-02-09",
           "type": "singleChoice",
           "stem": "选择正确使用“一般将来时的被动语态”的一项。",
           "options": [
             {
-              "id": "q-g6-02-09-o1",
+              "id": "q2-g6-02-09-o1",
               "text": "The work will finished tomorrow.",
               "imagePath": null
             },
             {
-              "id": "q-g6-02-09-o2",
+              "id": "q2-g6-02-09-o2",
               "text": "A new school will be build.",
               "imagePath": null
             },
             {
-              "id": "q-g6-02-09-o3",
+              "id": "q2-g6-02-09-o3",
               "text": "The room will be cleaning.",
               "imagePath": null
             },
             {
-              "id": "q-g6-02-09-o4",
+              "id": "q2-g6-02-09-o4",
               "text": "The work will be finished tomorrow.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-02-09-o4"
+              "q2-g6-02-09-o4"
             ],
             "textAnswers": []
           },
@@ -170,34 +170,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-10",
+          "id": "q2-g6-02-10",
           "type": "singleChoice",
           "stem": "再次辨析“一般将来时的被动语态”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g6-02-10-o1",
+              "id": "q2-g6-02-10-o1",
               "text": "A new school will be built here.",
               "imagePath": null
             },
             {
-              "id": "q-g6-02-10-o2",
+              "id": "q2-g6-02-10-o2",
               "text": "A new school will be build.",
               "imagePath": null
             },
             {
-              "id": "q-g6-02-10-o3",
+              "id": "q2-g6-02-10-o3",
               "text": "The room will be cleaning.",
               "imagePath": null
             },
             {
-              "id": "q-g6-02-10-o4",
+              "id": "q2-g6-02-10-o4",
               "text": "The work will finished tomorrow.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-02-10-o1"
+              "q2-g6-02-10-o1"
             ],
             "textAnswers": []
           },
@@ -206,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-02-11",
+          "id": "q2-g6-02-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“一般将来时的被动语态”最准确的总结。",
           "options": [
             {
-              "id": "q-g6-02-11-o1",
+              "id": "q2-g6-02-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g6-02-11-o2",
+              "id": "q2-g6-02-11-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g6-02-11-o3",
+              "id": "q2-g6-02-11-o3",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             },
             {
-              "id": "q-g6-02-11-o4",
+              "id": "q2-g6-02-11-o4",
               "text": "一般将来时被动语态由will be加过去分词构成。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-02-11-o4"
+              "q2-g6-02-11-o4"
             ],
             "textAnswers": []
           },
