@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g1-04",
@@ -23,6 +23,12 @@
           "english": "Stand up, please.",
           "chinese": "请起立。",
           "note": null
+        },
+        {
+          "id": "g1-04-e3",
+          "english": "Don't run in the corridor.",
+          "chinese": "不要在走廊里奔跑。",
+          "note": "否定祈使句使用Don't加动词原形。"
         }
       ],
       "tips": [
@@ -87,7 +93,9 @@
           "correct": "Stand up, please.",
           "reason": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": null,
+      "markdownContent": "## 学习小结\n\n**核心规则：** 祈使句通常以动词原形开头，用来表达指令、请求或建议。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n"
     }
   ]
 }
