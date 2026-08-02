@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g1-07",
+      "grade": 1,
+      "order": 7,
+      "title": "颜色形容词修饰名词专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g1-07"
+      ],
+      "questions": [
+        {
+          "id": "q-g1-07-01",
+          "type": "fillBlank",
+          "stem": "Nina is wearing a ___ scarf.",
+          "options": [
+            {
+              "id": "q-g1-07-01-o1",
+              "text": "purple",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-01-o2",
+              "text": "purplely",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-01-o3",
+              "text": "a purple",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-01-o4",
+              "text": "scarf purple",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-01-o1"
+            ],
+            "textAnswers": [
+              "purple"
+            ]
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。 本题应填“purple”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-07-02",
+          "type": "fillBlank",
+          "stem": "We picked three ___ leaves for the project.",
+          "options": [
+            {
+              "id": "q-g1-07-02-o1",
+              "text": "yellows",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-02-o2",
+              "text": "yellow",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-02-o3",
+              "text": "yellowly",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-02-o4",
+              "text": "leaves yellow",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-02-o2"
+            ],
+            "textAnswers": [
+              "yellow"
+            ]
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。 本题应填“yellow”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-07-03",
+          "type": "fillBlank",
+          "stem": "The artist painted a ___ sky.",
+          "options": [
+            {
+              "id": "q-g1-07-03-o1",
+              "text": "brightly blue",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-03-o2",
+              "text": "blue brightly",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-03-o3",
+              "text": "bright blue",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-03-o4",
+              "text": "a blue",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-03-o3"
+            ],
+            "textAnswers": [
+              "bright blue"
+            ]
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。 本题应填“bright blue”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-07-04",
+          "type": "fillBlank",
+          "stem": "Please put the books in the ___ box.",
+          "options": [
+            {
+              "id": "q-g1-07-04-o1",
+              "text": "greenness",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-04-o2",
+              "text": "greenly",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-04-o3",
+              "text": "box green",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-04-o4",
+              "text": "green",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-04-o4"
+            ],
+            "textAnswers": [
+              "green"
+            ]
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。 本题应填“green”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-07-05",
+          "type": "fillBlank",
+          "stem": "A ___ light means we must stop.",
+          "options": [
+            {
+              "id": "q-g1-07-05-o1",
+              "text": "red",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-05-o2",
+              "text": "redly",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-05-o3",
+              "text": "a red",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-05-o4",
+              "text": "light red",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-05-o1"
+            ],
+            "textAnswers": [
+              "red"
+            ]
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。 本题应填“red”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-07-06",
+          "type": "fillBlank",
+          "stem": "She drew two ___ pandas.",
+          "options": [
+            {
+              "id": "q-g1-07-06-o1",
+              "text": "black-and-whites",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-06-o2",
+              "text": "black-and-white",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-06-o3",
+              "text": "blackly white",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-06-o4",
+              "text": "pandas black",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-06-o2"
+            ],
+            "textAnswers": [
+              "black-and-white"
+            ]
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。 本题应填“black-and-white”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-07-07",
+          "type": "fillBlank",
+          "stem": "The puppy has a ___ tail.",
+          "options": [
+            {
+              "id": "q-g1-07-07-o1",
+              "text": "brownly",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-07-o2",
+              "text": "a brown",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-07-o3",
+              "text": "brown",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-07-o4",
+              "text": "tail brown",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-07-o3"
+            ],
+            "textAnswers": [
+              "brown"
+            ]
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。 本题应填“brown”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-07-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“颜色形容词修饰名词”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-07-08-o1",
+              "text": "It is an apple red.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-08-o2",
+              "text": "I have a bag blue.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-08-o3",
+              "text": "It is a red apple.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-08-o4",
+              "text": "She likes yellow a dress.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-08-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。 正确表达：It is a red apple.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-07-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-07-09-o1",
+              "text": "I have a bag blue.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-09-o2",
+              "text": "She likes yellow a dress.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-09-o3",
+              "text": "It is an apple red.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-09-o4",
+              "text": "I have a blue bag.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。 正确表达：I have a blue bag.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-07-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“颜色形容词修饰名词”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g1-07-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-10-o3",
+              "text": "英语形容词通常放在名词前，颜色词可直接修饰名词。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-07-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-07-10-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
