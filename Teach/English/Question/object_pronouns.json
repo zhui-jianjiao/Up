@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g4-06",
@@ -24,7 +24,7 @@
               "me"
             ]
           },
-          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 本题应填“me”。",
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 可接受答案：me。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "him"
             ]
           },
-          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 本题应填“him”。",
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 可接受答案：him。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "her"
             ]
           },
-          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 本题应填“her”。",
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 可接受答案：her。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "us"
             ]
           },
-          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 本题应填“us”。",
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 可接受答案：us。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "them"
             ]
           },
-          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 本题应填“them”。",
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 可接受答案：them。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "it"
             ]
           },
-          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 本题应填“it”。",
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 可接受答案：it。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "you"
             ]
           },
-          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 本题应填“you”。",
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 可接受答案：you。",
           "score": 1,
           "mediaPath": null
         },
