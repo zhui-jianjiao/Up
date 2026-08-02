@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g4-05",
@@ -17,32 +17,9 @@
           "id": "q-g4-05-01",
           "type": "fillBlank",
           "stem": "Cyclists ___ stop at a red light.",
-          "options": [
-            {
-              "id": "q-g4-05-01-o1",
-              "text": "must",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-01-o2",
-              "text": "should to",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-01-o3",
-              "text": "must to",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-01-o4",
-              "text": "are",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-05-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "must"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g4-05-02",
           "type": "fillBlank",
           "stem": "You look tired. You ___ take a short break.",
-          "options": [
-            {
-              "id": "q-g4-05-02-o1",
-              "text": "mustn't",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-02-o2",
-              "text": "should",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-02-o3",
-              "text": "should to",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-02-o4",
-              "text": "are",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-05-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "should"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g4-05-03",
           "type": "fillBlank",
           "stem": "Visitors ___ touch the paintings.",
-          "options": [
-            {
-              "id": "q-g4-05-03-o1",
-              "text": "should",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-03-o2",
-              "text": "don't must",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-03-o3",
-              "text": "mustn't",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-03-o4",
-              "text": "aren't",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-05-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "mustn't"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g4-05-04",
           "type": "fillBlank",
           "stem": "We ___ save water whenever possible.",
-          "options": [
-            {
-              "id": "q-g4-05-04-o1",
-              "text": "should to",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-04-o2",
-              "text": "must to",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-04-o3",
-              "text": "are",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-04-o4",
-              "text": "should",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-05-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "should"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g4-05-05",
           "type": "fillBlank",
           "stem": "Students ___ wear safety glasses in the lab.",
-          "options": [
-            {
-              "id": "q-g4-05-05-o1",
-              "text": "must",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-05-o2",
-              "text": "must to",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-05-o3",
-              "text": "shoulding",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-05-o4",
-              "text": "do",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-05-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "must"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g4-05-06",
           "type": "fillBlank",
           "stem": "You ___ share your password with anyone.",
-          "options": [
-            {
-              "id": "q-g4-05-06-o1",
-              "text": "should",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-06-o2",
-              "text": "shouldn't",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-06-o3",
-              "text": "must to",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-06-o4",
-              "text": "aren't",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-05-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "shouldn't"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g4-05-07",
           "type": "fillBlank",
           "stem": "Must I ___ the form today?",
-          "options": [
-            {
-              "id": "q-g4-05-07-o1",
-              "text": "submits",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-07-o2",
-              "text": "submitted",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-07-o3",
-              "text": "submit",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-05-07-o4",
-              "text": "submitting",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-05-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "submit"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g4-05-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“must / should 的用法”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“must / should 的用法”的一项。",
           "options": [
             {
               "id": "q-g4-05-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g4-05-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“must / should 的用法”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g4-05-09-o1",
