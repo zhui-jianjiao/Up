@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g6-01",
@@ -24,7 +24,7 @@
               "was built"
             ]
           },
-          "explanation": "一般过去时被动语态由was/were加过去分词构成。 本题应填“was built”。",
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 可接受答案：was built。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "were taken"
             ]
           },
-          "explanation": "一般过去时被动语态由was/were加过去分词构成。 本题应填“were taken”。",
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 可接受答案：were taken。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "was broken"
             ]
           },
-          "explanation": "一般过去时被动语态由was/were加过去分词构成。 本题应填“was broken”。",
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 可接受答案：was broken。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "were given"
             ]
           },
-          "explanation": "一般过去时被动语态由was/were加过去分词构成。 本题应填“were given”。",
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 可接受答案：were given。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "was the museum opened"
             ]
           },
-          "explanation": "一般过去时被动语态由was/were加过去分词构成。 本题应填“was the museum opened”。",
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 可接受答案：was the museum opened。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "were designed"
             ]
           },
-          "explanation": "一般过去时被动语态由was/were加过去分词构成。 本题应填“were designed”。",
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 可接受答案：were designed。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "was found"
             ]
           },
-          "explanation": "一般过去时被动语态由was/were加过去分词构成。 本题应填“was found”。",
+          "explanation": "一般过去时被动语态由was/were加过去分词构成。 可接受答案：was found。",
           "score": 1,
           "mediaPath": null
         },
