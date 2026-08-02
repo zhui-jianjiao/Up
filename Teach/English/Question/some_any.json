@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g3-05",
@@ -24,7 +24,7 @@
               "some"
             ]
           },
-          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 本题应填“some”。",
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 可接受答案：some。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "any"
             ]
           },
-          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 本题应填“any”。",
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 可接受答案：any。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "some"
             ]
           },
-          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 本题应填“some”。",
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 可接受答案：some。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "any"
             ]
           },
-          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 本题应填“any”。",
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 可接受答案：any。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "some"
             ]
           },
-          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 本题应填“some”。",
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 可接受答案：some。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "any"
             ]
           },
-          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 本题应填“any”。",
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 可接受答案：any。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "some"
             ]
           },
-          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 本题应填“some”。",
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 可接受答案：some。",
           "score": 1,
           "mediaPath": null
         },
