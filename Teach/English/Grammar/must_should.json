@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.237Z",
+  "topics": [
+    {
+      "id": "g4-05",
+      "grade": 4,
+      "order": 5,
+      "title": "must / should 的用法",
+      "category": "情态动词",
+      "summary": "掌握must / should 的用法，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。",
+      "examples": [
+        {
+          "id": "g4-05-e1",
+          "english": "You must follow the rules.",
+          "chinese": "你必须遵守规则。",
+          "note": null
+        },
+        {
+          "id": "g4-05-e2",
+          "english": "We should save water.",
+          "chinese": "我们应该节约用水。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用must / should 的用法。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "4年级",
+        "情态动词",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "You must follow the rules.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意情态动词结构前后的连读与自然停顿。",
+        "chant": "You must follow the rules. We should save water. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g4-05-s1",
+          "title": "校园情境对话",
+          "dialogue": [
+            "A: You must follow the rules.",
+            "B: We should save water."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g4-05-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“You must follow the rules.”，每轮替换一个人物、物品或时间词，保持must / should 的用法的句型结构不变。"
+        },
+        {
+          "id": "g4-05-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用must / should 的用法的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g4-05-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g4-05-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用must / should 的用法独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g4-05-m1",
+          "wrong": "You must follows the rules.",
+          "correct": "You must follow the rules.",
+          "reason": "must表示强制或必要，should表示建议；后面都接动词原形。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g4-05-m2",
+          "wrong": "We should saving water.",
+          "correct": "We should save water.",
+          "reason": "must表示强制或必要，should表示建议；后面都接动词原形。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    }
+  ]
+}
