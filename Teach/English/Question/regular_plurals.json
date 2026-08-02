@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g2-03",
+      "grade": 2,
+      "order": 3,
+      "title": "名词复数规则变化专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-03"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-03-01",
+          "type": "fillBlank",
+          "stem": "There are five ___ on the shelf. (box)",
+          "options": [
+            {
+              "id": "q-g2-03-01-o1",
+              "text": "boxes",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-01-o2",
+              "text": "boxs",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-01-o3",
+              "text": "box",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-01-o4",
+              "text": "boxies",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-01-o1"
+            ],
+            "textAnswers": [
+              "boxes"
+            ]
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 本题应填“boxes”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-02",
+          "type": "fillBlank",
+          "stem": "Two ___ are waiting at the stop. (bus)",
+          "options": [
+            {
+              "id": "q-g2-03-02-o1",
+              "text": "buss",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-02-o2",
+              "text": "buses",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-02-o3",
+              "text": "bus",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-02-o4",
+              "text": "busies",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-02-o2"
+            ],
+            "textAnswers": [
+              "buses"
+            ]
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 本题应填“buses”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-03",
+          "type": "fillBlank",
+          "stem": "The farmer grows many ___. (potato)",
+          "options": [
+            {
+              "id": "q-g2-03-03-o1",
+              "text": "potatos",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-03-o2",
+              "text": "potato",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-03-o3",
+              "text": "potatoes",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-03-o4",
+              "text": "potatoies",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-03-o3"
+            ],
+            "textAnswers": [
+              "potatoes"
+            ]
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 本题应填“potatoes”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-04",
+          "type": "fillBlank",
+          "stem": "Three ___ are flying over the lake. (butterfly)",
+          "options": [
+            {
+              "id": "q-g2-03-04-o1",
+              "text": "butterflys",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-04-o2",
+              "text": "butterfly",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-04-o3",
+              "text": "butterflyes",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-04-o4",
+              "text": "butterflies",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-04-o4"
+            ],
+            "textAnswers": [
+              "butterflies"
+            ]
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 本题应填“butterflies”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-05",
+          "type": "fillBlank",
+          "stem": "Please wash the ___. (dish)",
+          "options": [
+            {
+              "id": "q-g2-03-05-o1",
+              "text": "dishes",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-05-o2",
+              "text": "dishs",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-05-o3",
+              "text": "dish",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-05-o4",
+              "text": "dishies",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-05-o1"
+            ],
+            "textAnswers": [
+              "dishes"
+            ]
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 本题应填“dishes”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-06",
+          "type": "fillBlank",
+          "stem": "Our class has six ___. (team)",
+          "options": [
+            {
+              "id": "q-g2-03-06-o1",
+              "text": "teames",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-06-o2",
+              "text": "teams",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-06-o3",
+              "text": "team",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-06-o4",
+              "text": "teamies",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-06-o2"
+            ],
+            "textAnswers": [
+              "teams"
+            ]
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 本题应填“teams”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-07",
+          "type": "fillBlank",
+          "stem": "The babies have tiny ___. (tooth)",
+          "options": [
+            {
+              "id": "q-g2-03-07-o1",
+              "text": "tooths",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-07-o2",
+              "text": "toothes",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-07-o3",
+              "text": "teeth",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-07-o4",
+              "text": "tooth",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-07-o3"
+            ],
+            "textAnswers": [
+              "teeth"
+            ]
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 本题应填“teeth”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“名词复数规则变化”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-03-08-o1",
+              "text": "I have two boxs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-08-o2",
+              "text": "I have two boxes.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-08-o3",
+              "text": "There are three babys.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-08-o4",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-08-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确表达：I have two boxes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-03-09-o1",
+              "text": "There are three babys.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-09-o2",
+              "text": "Two bus are coming.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-09-o3",
+              "text": "There are three babies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-09-o4",
+              "text": "I have two boxs.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-09-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。 正确表达：There are three babies.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-03-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“名词复数规则变化”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g2-03-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-10-o2",
+              "text": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-03-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-03-10-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般加-s；以s、x、ch、sh结尾通常加-es；辅音字母+y变ies。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
