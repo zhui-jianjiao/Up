@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g4-08",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g4-08-01",
+          "id": "q2-g4-08-01",
           "type": "fillBlank",
           "stem": "I wanted to cycle, ___ it began to rain.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-02",
+          "id": "q2-g4-08-02",
           "type": "fillBlank",
           "stem": "Wear a coat, ___ you may feel cold.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-03",
+          "id": "q2-g4-08-03",
           "type": "fillBlank",
           "stem": "Mia packed sandwiches ___ fruit.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-04",
+          "id": "q2-g4-08-04",
           "type": "fillBlank",
           "stem": "Would you like tea ___ hot chocolate?",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-05",
+          "id": "q2-g4-08-05",
           "type": "fillBlank",
           "stem": "The task was difficult, ___ we completed it.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-06",
+          "id": "q2-g4-08-06",
           "type": "fillBlank",
           "stem": "Please turn off the lights ___ close the windows.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-07",
+          "id": "q2-g4-08-07",
           "type": "fillBlank",
           "stem": "Hurry up, ___ we will miss the opening.",
           "options": [],
@@ -119,7 +119,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-08",
+          "id": "q2-g4-08-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：我喜欢茶，但他喜欢牛奶。",
           "options": [],
@@ -134,34 +134,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-09",
+          "id": "q2-g4-08-09",
           "type": "singleChoice",
           "stem": "选择正确使用“并列连词 and / but / or”的一项。",
           "options": [
             {
-              "id": "q-g4-08-09-o1",
+              "id": "q2-g4-08-09-o1",
               "text": "I like tea, or he likes milk however.",
               "imagePath": null
             },
             {
-              "id": "q-g4-08-09-o2",
+              "id": "q2-g4-08-09-o2",
               "text": "I like tea, but he likes milk.",
               "imagePath": null
             },
             {
-              "id": "q-g4-08-09-o3",
+              "id": "q2-g4-08-09-o3",
               "text": "Hurry up, and you'll be late.",
               "imagePath": null
             },
             {
-              "id": "q-g4-08-09-o4",
+              "id": "q2-g4-08-09-o4",
               "text": "She is tired but so she rests.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-08-09-o2"
+              "q2-g4-08-09-o2"
             ],
             "textAnswers": []
           },
@@ -170,34 +170,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-10",
+          "id": "q2-g4-08-10",
           "type": "singleChoice",
           "stem": "再次辨析“并列连词 and / but / or”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g4-08-10-o1",
+              "id": "q2-g4-08-10-o1",
               "text": "Hurry up, and you'll be late.",
               "imagePath": null
             },
             {
-              "id": "q-g4-08-10-o2",
+              "id": "q2-g4-08-10-o2",
               "text": "She is tired but so she rests.",
               "imagePath": null
             },
             {
-              "id": "q-g4-08-10-o3",
+              "id": "q2-g4-08-10-o3",
               "text": "Hurry up, or you'll be late.",
               "imagePath": null
             },
             {
-              "id": "q-g4-08-10-o4",
+              "id": "q2-g4-08-10-o4",
               "text": "I like tea, or he likes milk however.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-08-10-o3"
+              "q2-g4-08-10-o3"
             ],
             "textAnswers": []
           },
@@ -206,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-08-11",
+          "id": "q2-g4-08-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“并列连词 and / but / or”最准确的总结。",
           "options": [
             {
-              "id": "q-g4-08-11-o1",
+              "id": "q2-g4-08-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g4-08-11-o2",
+              "id": "q2-g4-08-11-o2",
               "text": "and表示并列，but表示转折，or表示选择。",
               "imagePath": null
             },
             {
-              "id": "q-g4-08-11-o3",
+              "id": "q2-g4-08-11-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g4-08-11-o4",
+              "id": "q2-g4-08-11-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-08-11-o2"
+              "q2-g4-08-11-o2"
             ],
             "textAnswers": []
           },
