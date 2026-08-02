@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g5-06",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g5-06-01",
+          "id": "q2-g5-06-01",
           "type": "fillBlank",
           "stem": "I think ___ the plan will work.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-02",
+          "id": "q2-g5-06-02",
           "type": "fillBlank",
           "stem": "Do you know where the bus ___?",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-03",
+          "id": "q2-g5-06-03",
           "type": "fillBlank",
           "stem": "Mia believes that everyone ___ help.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-04",
+          "id": "q2-g5-06-04",
           "type": "fillBlank",
           "stem": "Please tell me what you ___.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-05",
+          "id": "q2-g5-06-05",
           "type": "fillBlank",
           "stem": "I wonder whether the shop ___ open.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-06",
+          "id": "q2-g5-06-06",
           "type": "fillBlank",
           "stem": "Can you explain why the sky ___ blue?",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-07",
+          "id": "q2-g5-06-07",
           "type": "fillBlank",
           "stem": "We hope that you ___ join us.",
           "options": [],
@@ -119,7 +119,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-08",
+          "id": "q2-g5-06-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：我认为他是对的。",
           "options": [],
@@ -134,34 +134,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-09",
+          "id": "q2-g5-06-09",
           "type": "singleChoice",
           "stem": "选择正确使用“简单宾语从句”的一项。",
           "options": [
             {
-              "id": "q-g5-06-09-o1",
+              "id": "q2-g5-06-09-o1",
               "text": "I think that is he right.",
               "imagePath": null
             },
             {
-              "id": "q-g5-06-09-o2",
+              "id": "q2-g5-06-09-o2",
               "text": "Do you know where does she live?",
               "imagePath": null
             },
             {
-              "id": "q-g5-06-09-o3",
+              "id": "q2-g5-06-09-o3",
               "text": "She says is it easy.",
               "imagePath": null
             },
             {
-              "id": "q-g5-06-09-o4",
+              "id": "q2-g5-06-09-o4",
               "text": "I think that he is right.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-06-09-o4"
+              "q2-g5-06-09-o4"
             ],
             "textAnswers": []
           },
@@ -170,34 +170,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-10",
+          "id": "q2-g5-06-10",
           "type": "singleChoice",
           "stem": "再次辨析“简单宾语从句”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g5-06-10-o1",
+              "id": "q2-g5-06-10-o1",
               "text": "Do you know where she lives?",
               "imagePath": null
             },
             {
-              "id": "q-g5-06-10-o2",
+              "id": "q2-g5-06-10-o2",
               "text": "Do you know where does she live?",
               "imagePath": null
             },
             {
-              "id": "q-g5-06-10-o3",
+              "id": "q2-g5-06-10-o3",
               "text": "She says is it easy.",
               "imagePath": null
             },
             {
-              "id": "q-g5-06-10-o4",
+              "id": "q2-g5-06-10-o4",
               "text": "I think that is he right.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-06-10-o1"
+              "q2-g5-06-10-o1"
             ],
             "textAnswers": []
           },
@@ -206,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-06-11",
+          "id": "q2-g5-06-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“简单宾语从句”最准确的总结。",
           "options": [
             {
-              "id": "q-g5-06-11-o1",
+              "id": "q2-g5-06-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g5-06-11-o2",
+              "id": "q2-g5-06-11-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g5-06-11-o3",
+              "id": "q2-g5-06-11-o3",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             },
             {
-              "id": "q-g5-06-11-o4",
+              "id": "q2-g5-06-11-o4",
               "text": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-06-11-o4"
+              "q2-g5-06-11-o4"
             ],
             "textAnswers": []
           },
