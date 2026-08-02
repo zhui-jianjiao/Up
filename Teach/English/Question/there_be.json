@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g3-03",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g3-03-01",
+          "id": "q2-g3-03-01",
           "type": "fillBlank",
           "stem": "There ___ a notice on the door.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-03-02",
+          "id": "q2-g3-03-02",
           "type": "fillBlank",
           "stem": "There ___ three recycling bins downstairs.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-03-03",
+          "id": "q2-g3-03-03",
           "type": "fillBlank",
           "stem": "___ there any juice in the bottle?",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-03-04",
+          "id": "q2-g3-03-04",
           "type": "fillBlank",
           "stem": "There ___ not enough chairs for everyone.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-03-05",
+          "id": "q2-g3-03-05",
           "type": "fillBlank",
           "stem": "There ___ some useful advice in the article.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-03-06",
+          "id": "q2-g3-03-06",
           "type": "fillBlank",
           "stem": "How many trees ___ there in the park?",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-03-07",
+          "id": "q2-g3-03-07",
           "type": "fillBlank",
           "stem": "There ___ a concert and two workshops tomorrow.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-03-08",
+          "id": "q2-g3-03-08",
           "type": "singleChoice",
           "stem": "选择正确使用“There be 句型”的一项。",
           "options": [
             {
-              "id": "q-g3-03-08-o1",
+              "id": "q2-g3-03-08-o1",
               "text": "There is some milk.",
               "imagePath": null
             },
             {
-              "id": "q-g3-03-08-o2",
+              "id": "q2-g3-03-08-o2",
               "text": "There are some milk.",
               "imagePath": null
             },
             {
-              "id": "q-g3-03-08-o3",
+              "id": "q2-g3-03-08-o3",
               "text": "There is two parks.",
               "imagePath": null
             },
             {
-              "id": "q-g3-03-08-o4",
+              "id": "q2-g3-03-08-o4",
               "text": "Have a book on the desk.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g3-03-08-o1"
+              "q2-g3-03-08-o1"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-03-09",
+          "id": "q2-g3-03-09",
           "type": "singleChoice",
           "stem": "再次辨析“There be 句型”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g3-03-09-o1",
+              "id": "q2-g3-03-09-o1",
               "text": "There is two parks.",
               "imagePath": null
             },
             {
-              "id": "q-g3-03-09-o2",
+              "id": "q2-g3-03-09-o2",
               "text": "There are two parks nearby.",
               "imagePath": null
             },
             {
-              "id": "q-g3-03-09-o3",
+              "id": "q2-g3-03-09-o3",
               "text": "Have a book on the desk.",
               "imagePath": null
             },
             {
-              "id": "q-g3-03-09-o4",
+              "id": "q2-g3-03-09-o4",
               "text": "There are some milk.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g3-03-09-o2"
+              "q2-g3-03-09-o2"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-03-10",
+          "id": "q2-g3-03-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“There be 句型”最准确的总结。",
           "options": [
             {
-              "id": "q-g3-03-10-o1",
+              "id": "q2-g3-03-10-o1",
               "text": "There is接单数或不可数名词，There are接复数名词。",
               "imagePath": null
             },
             {
-              "id": "q-g3-03-10-o2",
+              "id": "q2-g3-03-10-o2",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g3-03-10-o3",
+              "id": "q2-g3-03-10-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g3-03-10-o4",
+              "id": "q2-g3-03-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g3-03-10-o1"
+              "q2-g3-03-10-o1"
             ],
             "textAnswers": []
           },
