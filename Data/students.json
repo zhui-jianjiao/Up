@@ -1,24 +1,6 @@
 {
   "schemaVersion" : 1,
-  "selectedStudentID" : "KQJWDX",
   "students" : [
-    {
-      "avatar" : "sun.max.fill",
-      "colorName" : "blue",
-      "grade" : 2,
-      "id" : "KQJWDX",
-      "learningGoal" : "让反反复复婷婷",
-      "learningPlan" : "同步巩固",
-      "name" : "小小",
-      "rewards" : [
-        {
-          "awardedAt" : 807361651.20509601,
-          "id" : "GH4893",
-          "sourceQuestionSetID" : "qs-g1-01",
-          "title" : "小红花",
-          "type" : "redFlower"
-        }
-      ]
-    }
+
   ]
 }
