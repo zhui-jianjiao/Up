@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g1-05",
+      "grade": 1,
+      "order": 5,
+      "title": "指示代词 this / that专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g1-05"
+      ],
+      "questions": [
+        {
+          "id": "q-g1-05-01",
+          "type": "fillBlank",
+          "stem": "___ pencil here is mine.",
+          "options": [
+            {
+              "id": "q-g1-05-01-o1",
+              "text": "This",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-01-o2",
+              "text": "That",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-01-o3",
+              "text": "Those",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-01-o4",
+              "text": "These",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-01-o1"
+            ],
+            "textAnswers": [
+              "This"
+            ]
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。 本题应填“This”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-05-02",
+          "type": "fillBlank",
+          "stem": "Look at ___ cloud far above the hill.",
+          "options": [
+            {
+              "id": "q-g1-05-02-o1",
+              "text": "this",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-02-o2",
+              "text": "that",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-02-o3",
+              "text": "these",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-02-o4",
+              "text": "those",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-02-o2"
+            ],
+            "textAnswers": [
+              "that"
+            ]
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。 本题应填“that”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-05-03",
+          "type": "fillBlank",
+          "stem": "___ shoes beside me are too small.",
+          "options": [
+            {
+              "id": "q-g1-05-03-o1",
+              "text": "This",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-03-o2",
+              "text": "That",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-03-o3",
+              "text": "These",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-03-o4",
+              "text": "It",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-03-o3"
+            ],
+            "textAnswers": [
+              "These"
+            ]
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。 本题应填“These”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-05-04",
+          "type": "fillBlank",
+          "stem": "Who are ___ people across the street?",
+          "options": [
+            {
+              "id": "q-g1-05-04-o1",
+              "text": "this",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-04-o2",
+              "text": "that",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-04-o3",
+              "text": "it",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-04-o4",
+              "text": "those",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-04-o4"
+            ],
+            "textAnswers": [
+              "those"
+            ]
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。 本题应填“those”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-05-05",
+          "type": "fillBlank",
+          "stem": "___ is the photo I am holding.",
+          "options": [
+            {
+              "id": "q-g1-05-05-o1",
+              "text": "This",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-05-o2",
+              "text": "Those",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-05-o3",
+              "text": "These",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-05-o4",
+              "text": "They",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-05-o1"
+            ],
+            "textAnswers": [
+              "This"
+            ]
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。 本题应填“This”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-05-06",
+          "type": "fillBlank",
+          "stem": "Can you see ___ tower in the distance?",
+          "options": [
+            {
+              "id": "q-g1-05-06-o1",
+              "text": "this",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-06-o2",
+              "text": "that",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-06-o3",
+              "text": "these",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-06-o4",
+              "text": "it",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-06-o2"
+            ],
+            "textAnswers": [
+              "that"
+            ]
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。 本题应填“that”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-05-07",
+          "type": "fillBlank",
+          "stem": "___ flowers in this vase smell lovely.",
+          "options": [
+            {
+              "id": "q-g1-05-07-o1",
+              "text": "This",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-07-o2",
+              "text": "That",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-07-o3",
+              "text": "These",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-07-o4",
+              "text": "It",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-07-o3"
+            ],
+            "textAnswers": [
+              "These"
+            ]
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。 本题应填“These”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-05-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“指示代词 this / that”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-05-08-o1",
+              "text": "This is my pencil.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-08-o2",
+              "text": "This are my pencil.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-08-o3",
+              "text": "Those is a kite.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-08-o4",
+              "text": "That are a cat.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-08-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。 正确表达：This is my pencil.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-05-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-05-09-o1",
+              "text": "Those is a kite.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-09-o2",
+              "text": "That is a kite.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-09-o3",
+              "text": "That are a cat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-09-o4",
+              "text": "This are my pencil.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-09-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。 正确表达：That is a kite.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-05-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“指示代词 this / that”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g1-05-10-o1",
+              "text": "this指近处的单数事物，that指远处的单数事物。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-10-o2",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-05-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-05-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "this指近处的单数事物，that指远处的单数事物。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
