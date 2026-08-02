@@ -9,6 +9,9 @@
           "g1-06"
         ],
         "id" : "YW2Q44",
+        "questionAnswers" : {
+          "q-g1-04-01" : "q-g1-04-01-o1"
+        },
         "questionItems" : [
           "qs-g1-04",
           "qs-g1-05",
