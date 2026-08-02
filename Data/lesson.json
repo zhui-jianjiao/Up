@@ -41,6 +41,19 @@
         "questionsCompleted" : false,
         "subtitle" : "待配置的新课次",
         "title" : "Lesson 2"
+      },
+      {
+        "grammarCompleted" : false,
+        "grammarItems" : [
+
+        ],
+        "id" : "DD6LVP",
+        "questionItems" : [
+
+        ],
+        "questionsCompleted" : false,
+        "subtitle" : "待配置的新课次",
+        "title" : "Lesson 3"
       }
     ],
     "M9QVUQ" : [
