@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g6-06",
@@ -17,32 +17,9 @@
           "id": "q-g6-06-01",
           "type": "fillBlank",
           "stem": "Mia said that she ___ tired.",
-          "options": [
-            {
-              "id": "q-g6-06-01-o1",
-              "text": "was",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-01-o2",
-              "text": "is yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-01-o3",
-              "text": "were she",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-01-o4",
-              "text": "be",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-06-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "was"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g6-06-02",
           "type": "fillBlank",
           "stem": "Tom said that he ___ jazz.",
-          "options": [
-            {
-              "id": "q-g6-06-02-o1",
-              "text": "likes yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-02-o2",
-              "text": "liked",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-02-o3",
-              "text": "liking",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-02-o4",
-              "text": "like he",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-06-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "liked"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g6-06-03",
           "type": "fillBlank",
           "stem": "Dad told me that the shop ___ closed.",
-          "options": [
-            {
-              "id": "q-g6-06-03-o1",
-              "text": "is tomorrow yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-03-o2",
-              "text": "were",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-03-o3",
-              "text": "was",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-03-o4",
-              "text": "be",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-06-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "was"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g6-06-04",
           "type": "fillBlank",
           "stem": "They said they ___ help us.",
-          "options": [
-            {
-              "id": "q-g6-06-04-o1",
-              "text": "will yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-04-o2",
-              "text": "are",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-04-o3",
-              "text": "did would",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-04-o4",
-              "text": "would",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-06-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "would"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g6-06-05",
           "type": "fillBlank",
           "stem": "Amy explained that she ___ her key.",
-          "options": [
-            {
-              "id": "q-g6-06-05-o1",
-              "text": "had lost",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-05-o2",
-              "text": "has lose yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-05-o3",
-              "text": "losing",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-05-o4",
-              "text": "lose",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-06-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "had lost"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g6-06-06",
           "type": "fillBlank",
           "stem": "Our teacher said that water ___ at 100°C.",
-          "options": [
-            {
-              "id": "q-g6-06-06-o1",
-              "text": "boiled always",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-06-o2",
-              "text": "boils",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-06-o3",
-              "text": "is boil",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-06-o4",
-              "text": "boiling",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-06-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "boils"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g6-06-07",
           "type": "fillBlank",
           "stem": "Ben said, “I can swim.” Ben said that he ___ swim.",
-          "options": [
-            {
-              "id": "q-g6-06-07-o1",
-              "text": "can yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-07-o2",
-              "text": "is can",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-07-o3",
-              "text": "could",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-07-o4",
-              "text": "could to",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-06-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "could"
             ]
@@ -281,48 +120,27 @@
         },
         {
           "id": "q-g6-06-08",
-          "type": "singleChoice",
-          "stem": "校园英语角需要一个“间接引语陈述句”示例，选择表达正确的一项。",
-          "options": [
-            {
-              "id": "q-g6-06-08-o1",
-              "text": "She said that I am tired herself.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-08-o2",
-              "text": "Tom said he likes music yesterday then.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-08-o3",
-              "text": "She said that was she tired.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-06-08-o4",
-              "text": "She said that she was tired.",
-              "imagePath": null
-            }
-          ],
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：她说她累了。",
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-06-08-o4"
-            ],
-            "textAnswers": []
+            "optionIDs": [],
+            "textAnswers": [
+              "She said that she was tired."
+            ]
           },
-          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确表达：She said that she was tired.",
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 参考表达：She said that she was tired.",
           "score": 1,
           "mediaPath": null
         },
         {
           "id": "q-g6-06-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "选择正确使用“间接引语陈述句”的一项。",
           "options": [
             {
               "id": "q-g6-06-09-o1",
-              "text": "Tom said that he liked music.",
+              "text": "She said that I am tired herself.",
               "imagePath": null
             },
             {
@@ -337,13 +155,49 @@
             },
             {
               "id": "q-g6-06-09-o4",
+              "text": "She said that she was tired.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-06-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "转述陈述句常用that连接，并根据语境调整人称和时态。 正确表达：She said that she was tired.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-06-10",
+          "type": "singleChoice",
+          "stem": "再次辨析“间接引语陈述句”，选择结构正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-06-10-o1",
+              "text": "Tom said that he liked music.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-10-o2",
+              "text": "Tom said he likes music yesterday then.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-10-o3",
+              "text": "She said that was she tired.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-06-10-o4",
               "text": "She said that I am tired herself.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-06-09-o1"
+              "q-g6-06-10-o1"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-06-10",
+          "id": "q-g6-06-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“间接引语陈述句”最准确的总结。",
           "options": [
             {
-              "id": "q-g6-06-10-o1",
+              "id": "q-g6-06-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g6-06-10-o2",
+              "id": "q-g6-06-11-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g6-06-10-o3",
+              "id": "q-g6-06-11-o3",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             },
             {
-              "id": "q-g6-06-10-o4",
+              "id": "q-g6-06-11-o4",
               "text": "转述陈述句常用that连接，并根据语境调整人称和时态。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-06-10-o4"
+              "q-g6-06-11-o4"
             ],
             "textAnswers": []
           },
