@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g4-07",
@@ -17,32 +17,9 @@
           "id": "q-g4-07-01",
           "type": "fillBlank",
           "stem": "I hope ___ the school newspaper.",
-          "options": [
-            {
-              "id": "q-g4-07-01-o1",
-              "text": "to join",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-01-o2",
-              "text": "joining",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-01-o3",
-              "text": "join",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-01-o4",
-              "text": "joined",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-07-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "to join"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g4-07-02",
           "type": "fillBlank",
           "stem": "We went outside ___ the rainbow.",
-          "options": [
-            {
-              "id": "q-g4-07-02-o1",
-              "text": "seeing",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-02-o2",
-              "text": "to see",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-02-o3",
-              "text": "saw",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-02-o4",
-              "text": "sees",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-07-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "to see"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g4-07-03",
           "type": "fillBlank",
           "stem": "Mia needs ___ her presentation.",
-          "options": [
-            {
-              "id": "q-g4-07-03-o1",
-              "text": "finishing",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-03-o2",
-              "text": "finished",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-03-o3",
-              "text": "to finish",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-03-o4",
-              "text": "finishes",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-07-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "to finish"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g4-07-04",
           "type": "fillBlank",
           "stem": "Dad taught me ___ a tyre.",
-          "options": [
-            {
-              "id": "q-g4-07-04-o1",
-              "text": "changing",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-04-o2",
-              "text": "changed",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-04-o3",
-              "text": "changes",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-04-o4",
-              "text": "to change",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-07-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "to change"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g4-07-05",
           "type": "fillBlank",
           "stem": "The class decided ___ less plastic.",
-          "options": [
-            {
-              "id": "q-g4-07-05-o1",
-              "text": "to use",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-05-o2",
-              "text": "using",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-05-o3",
-              "text": "used",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-05-o4",
-              "text": "uses",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-07-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "to use"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g4-07-06",
           "type": "fillBlank",
           "stem": "It is important ___ carefully.",
-          "options": [
-            {
-              "id": "q-g4-07-06-o1",
-              "text": "listening",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-06-o2",
-              "text": "to listen",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-06-o3",
-              "text": "listened",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-06-o4",
-              "text": "listens",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-07-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "to listen"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g4-07-07",
           "type": "fillBlank",
           "stem": "Ben saved money ___ a telescope.",
-          "options": [
-            {
-              "id": "q-g4-07-07-o1",
-              "text": "buying",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-07-o2",
-              "text": "bought",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-07-o3",
-              "text": "to buy",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-07-07-o4",
-              "text": "buys",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-07-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "to buy"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g4-07-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“动词不定式 to do”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“动词不定式 to do”的一项。",
           "options": [
             {
               "id": "q-g4-07-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g4-07-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“动词不定式 to do”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g4-07-09-o1",
