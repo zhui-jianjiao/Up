@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g1-04",
+      "grade": 1,
+      "order": 4,
+      "title": "祈使句与课堂指令专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g1-04"
+      ],
+      "questions": [
+        {
+          "id": "q-g1-04-01",
+          "type": "fillBlank",
+          "stem": "___ your hands before lunch.",
+          "options": [
+            {
+              "id": "q-g1-04-01-o1",
+              "text": "Wash",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-01-o2",
+              "text": "Washes",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-01-o3",
+              "text": "Washing",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-01-o4",
+              "text": "Washed",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-01-o1"
+            ],
+            "textAnswers": [
+              "Wash"
+            ]
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Wash”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-04-02",
+          "type": "fillBlank",
+          "stem": "Please ___ quietly in the reading room.",
+          "options": [
+            {
+              "id": "q-g1-04-02-o1",
+              "text": "speaks",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-02-o2",
+              "text": "speak",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-02-o3",
+              "text": "speaking",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-02-o4",
+              "text": "spoke",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-02-o2"
+            ],
+            "textAnswers": [
+              "speak"
+            ]
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“speak”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-04-03",
+          "type": "fillBlank",
+          "stem": "___ forget to bring your art tools.",
+          "options": [
+            {
+              "id": "q-g1-04-03-o1",
+              "text": "Doesn't",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-03-o2",
+              "text": "Not",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-03-o3",
+              "text": "Don't",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-03-o4",
+              "text": "Didn't",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-03-o3"
+            ],
+            "textAnswers": [
+              "Don't"
+            ]
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Don't”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-04-04",
+          "type": "fillBlank",
+          "stem": "___ left at the second crossing.",
+          "options": [
+            {
+              "id": "q-g1-04-04-o1",
+              "text": "Turns",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-04-o2",
+              "text": "Turning",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-04-o3",
+              "text": "Turned",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-04-o4",
+              "text": "Turn",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-04-o4"
+            ],
+            "textAnswers": [
+              "Turn"
+            ]
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Turn”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-04-05",
+          "type": "fillBlank",
+          "stem": "___ careful when you cross the road.",
+          "options": [
+            {
+              "id": "q-g1-04-05-o1",
+              "text": "Be",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-05-o2",
+              "text": "Is",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-05-o3",
+              "text": "Are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-05-o4",
+              "text": "Being",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-05-o1"
+            ],
+            "textAnswers": [
+              "Be"
+            ]
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Be”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-04-06",
+          "type": "fillBlank",
+          "stem": "Let's ___ the problem as a team.",
+          "options": [
+            {
+              "id": "q-g1-04-06-o1",
+              "text": "solves",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-06-o2",
+              "text": "solve",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-06-o3",
+              "text": "solving",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-06-o4",
+              "text": "solved",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-06-o2"
+            ],
+            "textAnswers": [
+              "solve"
+            ]
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“solve”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-04-07",
+          "type": "fillBlank",
+          "stem": "___ the button to start the machine.",
+          "options": [
+            {
+              "id": "q-g1-04-07-o1",
+              "text": "Presses",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-07-o2",
+              "text": "Pressed",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-07-o3",
+              "text": "Press",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-07-o4",
+              "text": "Pressing",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-07-o3"
+            ],
+            "textAnswers": [
+              "Press"
+            ]
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Press”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-04-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“祈使句与课堂指令”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-04-08-o1",
+              "text": "Opens your book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-08-o2",
+              "text": "You stand up please.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-08-o3",
+              "text": "Standing up please.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-08-o4",
+              "text": "Open your book, please.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 正确表达：Open your book, please.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-04-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-04-09-o1",
+              "text": "Stand up, please.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-09-o2",
+              "text": "You stand up please.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-09-o3",
+              "text": "Standing up please.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-09-o4",
+              "text": "Opens your book.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 正确表达：Stand up, please.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-04-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“祈使句与课堂指令”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g1-04-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-10-o3",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-04-10-o4",
+              "text": "祈使句通常以动词原形开头，用来表达指令、请求或建议。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-04-10-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
