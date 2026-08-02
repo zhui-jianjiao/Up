@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g5-01",
@@ -17,6 +17,7 @@
           "id": "q2-g5-01-01",
           "type": "fillBlank",
           "stem": "I ___ already finished the poster.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g5-01-02",
           "type": "fillBlank",
           "stem": "Mia has ___ three books this month.",
+          "keyword": "read",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g5-01-03",
           "type": "fillBlank",
           "stem": "We ___ never visited that island.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g5-01-04",
           "type": "fillBlank",
           "stem": "The bus has just ___.",
+          "keyword": "leave",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g5-01-05",
           "type": "fillBlank",
           "stem": "___ you ever tried ice skating?",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g5-01-06",
           "type": "fillBlank",
           "stem": "Dad ___ worked here for ten years.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g5-01-07",
           "type": "fillBlank",
           "stem": "They haven't ___ the answer yet.",
+          "keyword": "find",
           "options": [],
           "answer": {
             "optionIDs": [],
