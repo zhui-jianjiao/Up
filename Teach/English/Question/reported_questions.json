@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g6-07",
@@ -17,6 +17,7 @@
           "id": "q2-g6-07-01",
           "type": "fillBlank",
           "stem": "He asked if I ___ ready.",
+          "keyword": "be",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g6-07-02",
           "type": "fillBlank",
           "stem": "Mia asked where I ___.",
+          "keyword": "live",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g6-07-03",
           "type": "fillBlank",
           "stem": "Dad asked whether we ___ the tickets.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g6-07-04",
           "type": "fillBlank",
           "stem": "The teacher asked why Leo ___ late.",
+          "keyword": "be",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g6-07-05",
           "type": "fillBlank",
           "stem": "She asked me what I ___.",
+          "keyword": "want",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g6-07-06",
           "type": "fillBlank",
           "stem": "Tom asked, “Can you help?” Tom asked if I ___ help.",
+          "keyword": "could",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g6-07-07",
           "type": "fillBlank",
           "stem": "Mum asked when the train ___.",
+          "keyword": "arrive",
           "options": [],
           "answer": {
             "optionIDs": [],
