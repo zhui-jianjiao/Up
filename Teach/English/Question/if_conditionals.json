@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g5-07",
@@ -17,6 +17,7 @@
           "id": "q2-g5-07-01",
           "type": "fillBlank",
           "stem": "If it ___ tomorrow, we will stay indoors.",
+          "keyword": "rain",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g5-07-02",
           "type": "fillBlank",
           "stem": "You will improve if you ___ every day.",
+          "keyword": "practise",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g5-07-03",
           "type": "fillBlank",
           "stem": "If Mia arrives early, she ___ us.",
+          "keyword": "call",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g5-07-04",
           "type": "fillBlank",
           "stem": "We won't go unless the weather ___ better.",
+          "keyword": "get",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g5-07-05",
           "type": "fillBlank",
           "stem": "If you heat ice, it ___.",
+          "keyword": "melt",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g5-07-06",
           "type": "fillBlank",
           "stem": "What will you do if you ___ the contest?",
+          "keyword": "win",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g5-07-07",
           "type": "fillBlank",
           "stem": "If everyone saves water, our city ___ less.",
+          "keyword": "waste",
           "options": [],
           "answer": {
             "optionIDs": [],
