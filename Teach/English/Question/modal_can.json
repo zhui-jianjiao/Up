@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g2-06",
@@ -24,7 +24,7 @@
               "swim"
             ]
           },
-          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“swim”。",
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 可接受答案：swim。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "Can"
             ]
           },
-          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“Can”。",
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 可接受答案：Can。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "can"
             ]
           },
-          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“can”。",
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 可接受答案：can。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "eat"
             ]
           },
-          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“eat”。",
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 可接受答案：eat。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "read"
             ]
           },
-          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“read”。",
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 可接受答案：read。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "can"
             ]
           },
-          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“can”。",
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 可接受答案：can。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "cannot"
             ]
           },
-          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 本题应填“cannot”。",
+          "explanation": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 可接受答案：cannot。",
           "score": 1,
           "mediaPath": null
         },
