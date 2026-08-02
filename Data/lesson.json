@@ -1,4 +1,24 @@
 {
-  "schemaVersion": 1,
-  "lessonsByStudent": {}
+  "lessonsByStudent" : {
+    "KQJWDX" : [
+      {
+        "grammarCompleted" : false,
+        "grammarItems" : [
+          "g1-04",
+          "g1-05",
+          "g1-06"
+        ],
+        "id" : "YW2Q44",
+        "questionItems" : [
+          "qs-g1-04",
+          "qs-g1-05",
+          "qs-g1-06"
+        ],
+        "questionsCompleted" : false,
+        "subtitle" : "待配置的新课次",
+        "title" : "Lesson 1"
+      }
+    ]
+  },
+  "schemaVersion" : 1
 }
