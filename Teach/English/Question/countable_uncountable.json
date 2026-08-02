@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g3-04",
+      "grade": 3,
+      "order": 4,
+      "title": "可数名词与不可数名词专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-04"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-04-01",
+          "type": "fillBlank",
+          "stem": "We need some ___ to make sandwiches.",
+          "options": [
+            {
+              "id": "q-g3-04-01-o1",
+              "text": "bread",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-01-o2",
+              "text": "breads",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-01-o3",
+              "text": "a bread",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-01-o4",
+              "text": "two bread",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-01-o1"
+            ],
+            "textAnswers": [
+              "bread"
+            ]
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“bread”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-02",
+          "type": "fillBlank",
+          "stem": "Please buy three ___ at the market.",
+          "options": [
+            {
+              "id": "q-g3-04-02-o1",
+              "text": "tomato",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-02-o2",
+              "text": "tomatoes",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-02-o3",
+              "text": "tomatos",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-02-o4",
+              "text": "tomatoe",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-02-o2"
+            ],
+            "textAnswers": [
+              "tomatoes"
+            ]
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“tomatoes”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-03",
+          "type": "fillBlank",
+          "stem": "There isn't much ___ in the fridge.",
+          "options": [
+            {
+              "id": "q-g3-04-03-o1",
+              "text": "milks",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-03-o2",
+              "text": "a milk",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-03-o3",
+              "text": "milk",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-03-o4",
+              "text": "two milk",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-03-o3"
+            ],
+            "textAnswers": [
+              "milk"
+            ]
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“milk”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-04",
+          "type": "fillBlank",
+          "stem": "I found useful ___ on the website.",
+          "options": [
+            {
+              "id": "q-g3-04-04-o1",
+              "text": "informations",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-04-o2",
+              "text": "an information",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-04-o3",
+              "text": "two information",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-04-o4",
+              "text": "information",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-04-o4"
+            ],
+            "textAnswers": [
+              "information"
+            ]
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“information”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-05",
+          "type": "fillBlank",
+          "stem": "She packed two ___ for the trip.",
+          "options": [
+            {
+              "id": "q-g3-04-05-o1",
+              "text": "sandwiches",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-05-o2",
+              "text": "bread",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-05-o3",
+              "text": "rice",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-05-o4",
+              "text": "water",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-05-o1"
+            ],
+            "textAnswers": [
+              "sandwiches"
+            ]
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“sandwiches”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-06",
+          "type": "fillBlank",
+          "stem": "Could I have a piece of ___?",
+          "options": [
+            {
+              "id": "q-g3-04-06-o1",
+              "text": "papers",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-06-o2",
+              "text": "paper",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-06-o3",
+              "text": "a paper",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-06-o4",
+              "text": "two paper",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-06-o2"
+            ],
+            "textAnswers": [
+              "paper"
+            ]
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“paper”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-07",
+          "type": "fillBlank",
+          "stem": "The teacher gave us some ___.",
+          "options": [
+            {
+              "id": "q-g3-04-07-o1",
+              "text": "homeworks",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-07-o2",
+              "text": "a homework",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-07-o3",
+              "text": "homework",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-07-o4",
+              "text": "two homework",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-07-o3"
+            ],
+            "textAnswers": [
+              "homework"
+            ]
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“homework”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“可数名词与不可数名词”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-04-08-o1",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-08-o2",
+              "text": "I'd like some bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-08-o3",
+              "text": "There are three tomato.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-08-o4",
+              "text": "I need two water.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-08-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确表达：I'd like some bread.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-04-09-o1",
+              "text": "There are three tomato.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-09-o2",
+              "text": "I need two water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-09-o3",
+              "text": "There are three tomatoes.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-09-o4",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-09-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确表达：There are three tomatoes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“可数名词与不可数名词”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g3-04-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-10-o2",
+              "text": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-10-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
