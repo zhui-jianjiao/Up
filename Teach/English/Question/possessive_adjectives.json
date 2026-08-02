@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g2-02",
@@ -24,7 +24,7 @@
               "My"
             ]
           },
-          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“My”。",
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 可接受答案：My。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "her"
             ]
           },
-          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“her”。",
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 可接受答案：her。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "our"
             ]
           },
-          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“our”。",
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 可接受答案：our。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "its"
             ]
           },
-          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“its”。",
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 可接受答案：its。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "their"
             ]
           },
-          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“their”。",
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 可接受答案：their。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "your"
             ]
           },
-          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“your”。",
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 可接受答案：your。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "his"
             ]
           },
-          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“his”。",
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 可接受答案：his。",
           "score": 1,
           "mediaPath": null
         },
