@@ -1,0 +1,2903 @@
+{
+  "schemaVersion": 2,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T09:53:35.956Z",
+  "sets": [
+    {
+      "id": "qs-g3-01",
+      "grade": 3,
+      "order": 1,
+      "title": "现在进行时专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-01"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-01-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“现在进行时”的句子。",
+          "options": [
+            {
+              "id": "q-g3-01-01-o1",
+              "text": "They are playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-01-o2",
+              "text": "They playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-01-o3",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-01-o4",
+              "text": "He are reading.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确示例：They are playing football.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“现在进行时”规则？",
+          "options": [
+            {
+              "id": "q-g3-01-02-o1",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-02-o2",
+              "text": "Mum is cooking now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-02-o3",
+              "text": "He are reading.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-02-o4",
+              "text": "They playing football.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确示例：Mum is cooking now.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g3-01-03-o1",
+              "text": "He are reading.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-03-o2",
+              "text": "They playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-03-o3",
+              "text": "They are playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-03-o4",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确示例：They are playing football.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-01-04-o1",
+              "text": "They playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-04-o2",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-04-o3",
+              "text": "He are reading.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-04-o4",
+              "text": "Mum is cooking now.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确示例：Mum is cooking now.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g3-01-05-o1",
+              "text": "They are playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-05-o2",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-05-o3",
+              "text": "He are reading.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-05-o4",
+              "text": "They playing football.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确示例：They are playing football.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“现在进行时”的句子。",
+          "options": [
+            {
+              "id": "q-g3-01-06-o1",
+              "text": "He are reading.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-06-o2",
+              "text": "Mum is cooking now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-06-o3",
+              "text": "They playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-06-o4",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确示例：Mum is cooking now.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g3-01-07-o1",
+              "text": "They playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-07-o2",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-07-o3",
+              "text": "They are playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-07-o4",
+              "text": "He are reading.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确示例：They are playing football.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g3-01-08-o1",
+              "text": "Mum is cook now.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-08-o2",
+              "text": "He are reading.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-08-o3",
+              "text": "They playing football.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-08-o4",
+              "text": "Mum is cooking now.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 正确示例：Mum is cooking now.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-09",
+          "type": "singleChoice",
+          "stem": "关于“现在进行时”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g3-01-09-o1",
+              "text": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-01-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“They are playing football.”符合“现在进行时”规则。",
+          "options": [
+            {
+              "id": "q-g3-01-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-01-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-01-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "They are playing football. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g3-02",
+      "grade": 3,
+      "order": 2,
+      "title": "一般现在时专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-02"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-02-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“一般现在时”的句子。",
+          "options": [
+            {
+              "id": "q-g3-02-01-o1",
+              "text": "He goes to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-01-o2",
+              "text": "He go to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-01-o3",
+              "text": "I gets up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-01-o4",
+              "text": "She watch TV every day.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确示例：He goes to school by bus.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“一般现在时”规则？",
+          "options": [
+            {
+              "id": "q-g3-02-02-o1",
+              "text": "I gets up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-02-o2",
+              "text": "I get up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-02-o3",
+              "text": "She watch TV every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-02-o4",
+              "text": "He go to school by bus.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确示例：I get up at seven.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g3-02-03-o1",
+              "text": "She watch TV every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-03-o2",
+              "text": "He go to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-03-o3",
+              "text": "He goes to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-03-o4",
+              "text": "I gets up at seven.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确示例：He goes to school by bus.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-02-04-o1",
+              "text": "He go to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-04-o2",
+              "text": "I gets up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-04-o3",
+              "text": "She watch TV every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-04-o4",
+              "text": "I get up at seven.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确示例：I get up at seven.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g3-02-05-o1",
+              "text": "He goes to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-05-o2",
+              "text": "I gets up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-05-o3",
+              "text": "She watch TV every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-05-o4",
+              "text": "He go to school by bus.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确示例：He goes to school by bus.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“一般现在时”的句子。",
+          "options": [
+            {
+              "id": "q-g3-02-06-o1",
+              "text": "She watch TV every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-06-o2",
+              "text": "I get up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-06-o3",
+              "text": "He go to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-06-o4",
+              "text": "I gets up at seven.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确示例：I get up at seven.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g3-02-07-o1",
+              "text": "He go to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-07-o2",
+              "text": "I gets up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-07-o3",
+              "text": "He goes to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-07-o4",
+              "text": "She watch TV every day.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确示例：He goes to school by bus.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g3-02-08-o1",
+              "text": "I gets up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-08-o2",
+              "text": "She watch TV every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-08-o3",
+              "text": "He go to school by bus.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-08-o4",
+              "text": "I get up at seven.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确示例：I get up at seven.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-09",
+          "type": "singleChoice",
+          "stem": "关于“一般现在时”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g3-02-09-o1",
+              "text": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“He goes to school by bus.”符合“一般现在时”规则。",
+          "options": [
+            {
+              "id": "q-g3-02-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "He goes to school by bus. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g3-03",
+      "grade": 3,
+      "order": 3,
+      "title": "There be 句型专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-03"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-03-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“There be 句型”的句子。",
+          "options": [
+            {
+              "id": "q-g3-03-01-o1",
+              "text": "There is some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-01-o2",
+              "text": "There are some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-01-o3",
+              "text": "There is two parks.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-01-o4",
+              "text": "Have a book on the desk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 正确示例：There is some milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-03-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“There be 句型”规则？",
+          "options": [
+            {
+              "id": "q-g3-03-02-o1",
+              "text": "There is two parks.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-02-o2",
+              "text": "There are two parks nearby.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-02-o3",
+              "text": "Have a book on the desk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-02-o4",
+              "text": "There are some milk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 正确示例：There are two parks nearby.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-03-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g3-03-03-o1",
+              "text": "Have a book on the desk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-03-o2",
+              "text": "There are some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-03-o3",
+              "text": "There is some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-03-o4",
+              "text": "There is two parks.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 正确示例：There is some milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-03-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-03-04-o1",
+              "text": "There are some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-04-o2",
+              "text": "There is two parks.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-04-o3",
+              "text": "Have a book on the desk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-04-o4",
+              "text": "There are two parks nearby.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 正确示例：There are two parks nearby.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-03-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g3-03-05-o1",
+              "text": "There is some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-05-o2",
+              "text": "There is two parks.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-05-o3",
+              "text": "Have a book on the desk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-05-o4",
+              "text": "There are some milk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 正确示例：There is some milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-03-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“There be 句型”的句子。",
+          "options": [
+            {
+              "id": "q-g3-03-06-o1",
+              "text": "Have a book on the desk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-06-o2",
+              "text": "There are two parks nearby.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-06-o3",
+              "text": "There are some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-06-o4",
+              "text": "There is two parks.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 正确示例：There are two parks nearby.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-03-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g3-03-07-o1",
+              "text": "There are some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-07-o2",
+              "text": "There is two parks.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-07-o3",
+              "text": "There is some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-07-o4",
+              "text": "Have a book on the desk.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 正确示例：There is some milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-03-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g3-03-08-o1",
+              "text": "There is two parks.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-08-o2",
+              "text": "Have a book on the desk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-08-o3",
+              "text": "There are some milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-08-o4",
+              "text": "There are two parks nearby.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is接单数或不可数名词，There are接复数名词。 正确示例：There are two parks nearby.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-03-09",
+          "type": "singleChoice",
+          "stem": "关于“There be 句型”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g3-03-09-o1",
+              "text": "There is接单数或不可数名词，There are接复数名词。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is接单数或不可数名词，There are接复数名词。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-03-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“There is some milk.”符合“There be 句型”规则。",
+          "options": [
+            {
+              "id": "q-g3-03-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-03-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-03-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "There is some milk. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g3-04",
+      "grade": 3,
+      "order": 4,
+      "title": "可数名词与不可数名词专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-04"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-04-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“可数名词与不可数名词”的句子。",
+          "options": [
+            {
+              "id": "q-g3-04-01-o1",
+              "text": "I'd like some bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-01-o2",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-01-o3",
+              "text": "There are three tomato.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-01-o4",
+              "text": "I need two water.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确示例：I'd like some bread.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“可数名词与不可数名词”规则？",
+          "options": [
+            {
+              "id": "q-g3-04-02-o1",
+              "text": "There are three tomato.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-02-o2",
+              "text": "There are three tomatoes.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-02-o3",
+              "text": "I need two water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-02-o4",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确示例：There are three tomatoes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g3-04-03-o1",
+              "text": "I need two water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-03-o2",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-03-o3",
+              "text": "I'd like some bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-03-o4",
+              "text": "There are three tomato.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确示例：I'd like some bread.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-04-04-o1",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-04-o2",
+              "text": "There are three tomato.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-04-o3",
+              "text": "I need two water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-04-o4",
+              "text": "There are three tomatoes.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确示例：There are three tomatoes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g3-04-05-o1",
+              "text": "I'd like some bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-05-o2",
+              "text": "There are three tomato.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-05-o3",
+              "text": "I need two water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-05-o4",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确示例：I'd like some bread.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“可数名词与不可数名词”的句子。",
+          "options": [
+            {
+              "id": "q-g3-04-06-o1",
+              "text": "I need two water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-06-o2",
+              "text": "There are three tomatoes.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-06-o3",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-06-o4",
+              "text": "There are three tomato.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确示例：There are three tomatoes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g3-04-07-o1",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-07-o2",
+              "text": "There are three tomato.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-07-o3",
+              "text": "I'd like some bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-07-o4",
+              "text": "I need two water.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确示例：I'd like some bread.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g3-04-08-o1",
+              "text": "There are three tomato.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-08-o2",
+              "text": "I need two water.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-08-o3",
+              "text": "I'd like a bread.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-08-o4",
+              "text": "There are three tomatoes.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 正确示例：There are three tomatoes.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-09",
+          "type": "singleChoice",
+          "stem": "关于“可数名词与不可数名词”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g3-04-09-o1",
+              "text": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-04-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“I'd like some bread.”符合“可数名词与不可数名词”规则。",
+          "options": [
+            {
+              "id": "q-g3-04-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-04-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-04-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I'd like some bread. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g3-05",
+      "grade": 3,
+      "order": 5,
+      "title": "some / any 的用法专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-05"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-05-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“some / any 的用法”的句子。",
+          "options": [
+            {
+              "id": "q-g3-05-01-o1",
+              "text": "We have some juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-01-o2",
+              "text": "We have any juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-01-o3",
+              "text": "Do you have some questions always?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-01-o4",
+              "text": "I don't have some pencils.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 正确示例：We have some juice.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-05-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“some / any 的用法”规则？",
+          "options": [
+            {
+              "id": "q-g3-05-02-o1",
+              "text": "Do you have some questions always?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-02-o2",
+              "text": "Do you have any questions?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-02-o3",
+              "text": "I don't have some pencils.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-02-o4",
+              "text": "We have any juice.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 正确示例：Do you have any questions?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-05-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g3-05-03-o1",
+              "text": "I don't have some pencils.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-03-o2",
+              "text": "We have any juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-03-o3",
+              "text": "We have some juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-03-o4",
+              "text": "Do you have some questions always?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 正确示例：We have some juice.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-05-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-05-04-o1",
+              "text": "We have any juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-04-o2",
+              "text": "Do you have some questions always?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-04-o3",
+              "text": "I don't have some pencils.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-04-o4",
+              "text": "Do you have any questions?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 正确示例：Do you have any questions?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-05-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g3-05-05-o1",
+              "text": "We have some juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-05-o2",
+              "text": "Do you have some questions always?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-05-o3",
+              "text": "I don't have some pencils.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-05-o4",
+              "text": "We have any juice.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 正确示例：We have some juice.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-05-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“some / any 的用法”的句子。",
+          "options": [
+            {
+              "id": "q-g3-05-06-o1",
+              "text": "I don't have some pencils.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-06-o2",
+              "text": "Do you have any questions?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-06-o3",
+              "text": "We have any juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-06-o4",
+              "text": "Do you have some questions always?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 正确示例：Do you have any questions?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-05-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g3-05-07-o1",
+              "text": "We have any juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-07-o2",
+              "text": "Do you have some questions always?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-07-o3",
+              "text": "We have some juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-07-o4",
+              "text": "I don't have some pencils.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 正确示例：We have some juice.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-05-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g3-05-08-o1",
+              "text": "Do you have some questions always?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-08-o2",
+              "text": "I don't have some pencils.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-08-o3",
+              "text": "We have any juice.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-08-o4",
+              "text": "Do you have any questions?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。 正确示例：Do you have any questions?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-05-09",
+          "type": "singleChoice",
+          "stem": "关于“some / any 的用法”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g3-05-09-o1",
+              "text": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "some多用于肯定句，any多用于否定句和疑问句；请求中也可用some。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-05-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“We have some juice.”符合“some / any 的用法”规则。",
+          "options": [
+            {
+              "id": "q-g3-05-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-05-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-05-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "We have some juice. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g3-06",
+      "grade": 3,
+      "order": 6,
+      "title": "How much / How many专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-06"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-06-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“How much / How many”的句子。",
+          "options": [
+            {
+              "id": "q-g3-06-01-o1",
+              "text": "How much rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-01-o2",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-01-o3",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-01-o4",
+              "text": "How many money is it?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确示例：How much rice do we need?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“How much / How many”规则？",
+          "options": [
+            {
+              "id": "q-g3-06-02-o1",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-02-o2",
+              "text": "How many lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-02-o3",
+              "text": "How many money is it?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-02-o4",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确示例：How many lessons do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g3-06-03-o1",
+              "text": "How many money is it?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-03-o2",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-03-o3",
+              "text": "How much rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-03-o4",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确示例：How much rice do we need?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-06-04-o1",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-04-o2",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-04-o3",
+              "text": "How many money is it?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-04-o4",
+              "text": "How many lessons do you have?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确示例：How many lessons do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g3-06-05-o1",
+              "text": "How much rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-05-o2",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-05-o3",
+              "text": "How many money is it?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-05-o4",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确示例：How much rice do we need?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“How much / How many”的句子。",
+          "options": [
+            {
+              "id": "q-g3-06-06-o1",
+              "text": "How many money is it?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-06-o2",
+              "text": "How many lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-06-o3",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-06-o4",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确示例：How many lessons do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g3-06-07-o1",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-07-o2",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-07-o3",
+              "text": "How much rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-07-o4",
+              "text": "How many money is it?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确示例：How much rice do we need?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g3-06-08-o1",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-08-o2",
+              "text": "How many money is it?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-08-o3",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-08-o4",
+              "text": "How many lessons do you have?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确示例：How many lessons do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-09",
+          "type": "singleChoice",
+          "stem": "关于“How much / How many”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g3-06-09-o1",
+              "text": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“How much rice do we need?”符合“How much / How many”规则。",
+          "options": [
+            {
+              "id": "q-g3-06-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much rice do we need? 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g3-07",
+      "grade": 3,
+      "order": 7,
+      "title": "名词所有格专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-07"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-07-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“名词所有格”的句子。",
+          "options": [
+            {
+              "id": "q-g3-07-01-o1",
+              "text": "This is Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-01-o2",
+              "text": "This is Peter coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-01-o3",
+              "text": "The girl's room are for all girls.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-01-o4",
+              "text": "This is coat of Peter's coat.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 正确示例：This is Peter's coat.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-07-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“名词所有格”规则？",
+          "options": [
+            {
+              "id": "q-g3-07-02-o1",
+              "text": "The girl's room are for all girls.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-02-o2",
+              "text": "The girls' room is clean.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-02-o3",
+              "text": "This is coat of Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-02-o4",
+              "text": "This is Peter coat.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 正确示例：The girls' room is clean.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-07-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g3-07-03-o1",
+              "text": "This is coat of Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-03-o2",
+              "text": "This is Peter coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-03-o3",
+              "text": "This is Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-03-o4",
+              "text": "The girl's room are for all girls.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 正确示例：This is Peter's coat.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-07-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-07-04-o1",
+              "text": "This is Peter coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-04-o2",
+              "text": "The girl's room are for all girls.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-04-o3",
+              "text": "This is coat of Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-04-o4",
+              "text": "The girls' room is clean.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 正确示例：The girls' room is clean.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-07-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g3-07-05-o1",
+              "text": "This is Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-05-o2",
+              "text": "The girl's room are for all girls.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-05-o3",
+              "text": "This is coat of Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-05-o4",
+              "text": "This is Peter coat.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 正确示例：This is Peter's coat.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-07-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“名词所有格”的句子。",
+          "options": [
+            {
+              "id": "q-g3-07-06-o1",
+              "text": "This is coat of Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-06-o2",
+              "text": "The girls' room is clean.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-06-o3",
+              "text": "This is Peter coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-06-o4",
+              "text": "The girl's room are for all girls.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 正确示例：The girls' room is clean.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-07-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g3-07-07-o1",
+              "text": "This is Peter coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-07-o2",
+              "text": "The girl's room are for all girls.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-07-o3",
+              "text": "This is Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-07-o4",
+              "text": "This is coat of Peter's coat.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 正确示例：This is Peter's coat.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-07-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g3-07-08-o1",
+              "text": "The girl's room are for all girls.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-08-o2",
+              "text": "This is coat of Peter's coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-08-o3",
+              "text": "This is Peter coat.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-08-o4",
+              "text": "The girls' room is clean.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 正确示例：The girls' room is clean.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-07-09",
+          "type": "singleChoice",
+          "stem": "关于“名词所有格”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g3-07-09-o1",
+              "text": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-07-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“This is Peter's coat.”符合“名词所有格”规则。",
+          "options": [
+            {
+              "id": "q-g3-07-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-07-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-07-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "This is Peter's coat. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    },
+    {
+      "id": "qs-g3-08",
+      "grade": 3,
+      "order": 8,
+      "title": "时间介词 at / on / in专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-08"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-08-01",
+          "type": "singleChoice",
+          "stem": "选择正确运用“时间介词 at / on / in”的句子。",
+          "options": [
+            {
+              "id": "q-g3-08-01-o1",
+              "text": "We meet at eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-01-o2",
+              "text": "We meet on eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-01-o3",
+              "text": "School starts at September.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-01-o4",
+              "text": "I was born in Monday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-01-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 正确示例：We meet at eight.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-08-02",
+          "type": "singleChoice",
+          "stem": "课堂交流时，哪句话符合“时间介词 at / on / in”规则？",
+          "options": [
+            {
+              "id": "q-g3-08-02-o1",
+              "text": "School starts at September.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-02-o2",
+              "text": "School starts in September.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-02-o3",
+              "text": "I was born in Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-02-o4",
+              "text": "We meet on eight.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-02-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 正确示例：School starts in September.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-08-03",
+          "type": "singleChoice",
+          "stem": "下面哪句话可以放进英语学习手册？",
+          "options": [
+            {
+              "id": "q-g3-08-03-o1",
+              "text": "I was born in Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-03-o2",
+              "text": "We meet on eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-03-o3",
+              "text": "We meet at eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-03-o4",
+              "text": "School starts at September.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-03-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 正确示例：We meet at eight.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-08-04",
+          "type": "singleChoice",
+          "stem": "选择语法结构和表达都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-08-04-o1",
+              "text": "We meet on eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-04-o2",
+              "text": "School starts at September.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-04-o3",
+              "text": "I was born in Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-04-o4",
+              "text": "School starts in September.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-04-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 正确示例：School starts in September.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-08-05",
+          "type": "singleChoice",
+          "stem": "完成情境任务：哪句话表达正确？",
+          "options": [
+            {
+              "id": "q-g3-08-05-o1",
+              "text": "We meet at eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-05-o2",
+              "text": "School starts at September.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-05-o3",
+              "text": "I was born in Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-05-o4",
+              "text": "We meet on eight.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-05-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 正确示例：We meet at eight.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-08-06",
+          "type": "singleChoice",
+          "stem": "找出能够准确体现“时间介词 at / on / in”的句子。",
+          "options": [
+            {
+              "id": "q-g3-08-06-o1",
+              "text": "I was born in Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-06-o2",
+              "text": "School starts in September.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-06-o3",
+              "text": "We meet on eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-06-o4",
+              "text": "School starts at September.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-06-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 正确示例：School starts in September.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-08-07",
+          "type": "singleChoice",
+          "stem": "同学正在修改错句，应该保留哪一项？",
+          "options": [
+            {
+              "id": "q-g3-08-07-o1",
+              "text": "We meet on eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-07-o2",
+              "text": "School starts at September.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-07-o3",
+              "text": "We meet at eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-07-o4",
+              "text": "I was born in Monday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-07-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 正确示例：We meet at eight.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-08-08",
+          "type": "singleChoice",
+          "stem": "朗读比赛中，哪句话的结构正确？",
+          "options": [
+            {
+              "id": "q-g3-08-08-o1",
+              "text": "School starts at September.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-08-o2",
+              "text": "I was born in Monday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-08-o3",
+              "text": "We meet on eight.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-08-o4",
+              "text": "School starts in September.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 正确示例：School starts in September.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-08-09",
+          "type": "singleChoice",
+          "stem": "关于“时间介词 at / on / in”，以下说法正确的是哪一项？",
+          "options": [
+            {
+              "id": "q-g3-08-09-o1",
+              "text": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-09-o2",
+              "text": "只需要记住单词拼写，与句子结构无关。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-09-o3",
+              "text": "所有主语和时态都使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-09-o4",
+              "text": "中文语序可以直接逐字替换成英文。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-08-10",
+          "type": "trueFalse",
+          "stem": "判断：句子“We meet at eight.”符合“时间介词 at / on / in”规则。",
+          "options": [
+            {
+              "id": "q-g3-08-10-o1",
+              "text": "正确",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-08-10-o2",
+              "text": "错误",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-08-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "We meet at eight. 是该语法点的正确示例。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
