@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g6-01",
@@ -23,6 +23,18 @@
           "english": "The windows were cleaned yesterday.",
           "chinese": "窗户昨天被擦了。",
           "note": null
+        },
+        {
+          "id": "g6-01-e3",
+          "english": "The first computer was built decades ago.",
+          "chinese": "第一台计算机是几十年前制造的。",
+          "note": "build的过去分词是built。"
+        },
+        {
+          "id": "g6-01-e4",
+          "english": "The photos were taken by Mia.",
+          "chinese": "这些照片是米娅拍的。",
+          "note": "take的过去分词是taken。"
         }
       ],
       "tips": [
@@ -87,7 +99,41 @@
           "correct": "The windows were cleaned yesterday.",
           "reason": "一般过去时被动语态由was/were加过去分词构成。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g6-01-sf1",
+          "title": "过去式被动常用变化",
+          "summary": "was/were后接过去分词。",
+          "items": [
+            {
+              "id": "g6-01-sf1-1",
+              "base": "build",
+              "form": "built",
+              "usage": "建造"
+            },
+            {
+              "id": "g6-01-sf1-2",
+              "base": "take",
+              "form": "taken",
+              "usage": "拍摄；拿"
+            },
+            {
+              "id": "g6-01-sf1-3",
+              "base": "give",
+              "form": "given",
+              "usage": "给予"
+            },
+            {
+              "id": "g6-01-sf1-4",
+              "base": "find",
+              "form": "found",
+              "usage": "找到"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 一般过去时被动语态由was/were加过去分词构成。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
