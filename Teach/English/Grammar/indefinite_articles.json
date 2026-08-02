@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.237Z",
+  "topics": [
+    {
+      "id": "g1-03",
+      "grade": 1,
+      "order": 3,
+      "title": "不定冠词 a / an",
+      "category": "冠词",
+      "summary": "掌握不定冠词 a / an，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。",
+      "examples": [
+        {
+          "id": "g1-03-e1",
+          "english": "It is an apple.",
+          "chinese": "它是一个苹果。",
+          "note": null
+        },
+        {
+          "id": "g1-03-e2",
+          "english": "I have a book.",
+          "chinese": "我有一本书。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用不定冠词 a / an。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "冠词",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "It is an apple.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意冠词结构前后的连读与自然停顿。",
+        "chant": "It is an apple. I have a book. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g1-03-s1",
+          "title": "课堂开口说",
+          "dialogue": [
+            "A: It is an apple.",
+            "B: I have a book."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g1-03-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“It is an apple.”，每轮替换一个人物、物品或时间词，保持不定冠词 a / an的句型结构不变。"
+        },
+        {
+          "id": "g1-03-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用不定冠词 a / an的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g1-03-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g1-03-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用不定冠词 a / an独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g1-03-m1",
+          "wrong": "It is a apple.",
+          "correct": "It is an apple.",
+          "reason": "辅音音素开头的单数名词前用a，元音音素开头用an。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g1-03-m2",
+          "wrong": "I have an book.",
+          "correct": "I have a book.",
+          "reason": "辅音音素开头的单数名词前用a，元音音素开头用an。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    }
+  ]
+}
