@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g1-04",
@@ -24,7 +24,7 @@
               "Wash"
             ]
           },
-          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Wash”。",
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 可接受答案：Wash。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "speak"
             ]
           },
-          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“speak”。",
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 可接受答案：speak。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "Don't"
             ]
           },
-          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Don't”。",
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 可接受答案：Don't。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "Turn"
             ]
           },
-          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Turn”。",
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 可接受答案：Turn。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "Be"
             ]
           },
-          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Be”。",
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 可接受答案：Be。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "solve"
             ]
           },
-          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“solve”。",
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 可接受答案：solve。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "Press"
             ]
           },
-          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 本题应填“Press”。",
+          "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 可接受答案：Press。",
           "score": 1,
           "mediaPath": null
         },
