@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g1-05",
@@ -17,6 +17,7 @@
           "id": "q2-g1-05-01",
           "type": "fillBlank",
           "stem": "___ pencil here is mine.",
+          "keyword": "this",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g1-05-02",
           "type": "fillBlank",
           "stem": "Look at ___ cloud far above the hill.",
+          "keyword": "that",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g1-05-03",
           "type": "fillBlank",
           "stem": "___ shoes beside me are too small.",
+          "keyword": "these",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g1-05-04",
           "type": "fillBlank",
           "stem": "Who are ___ people across the street?",
+          "keyword": "those",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g1-05-05",
           "type": "fillBlank",
           "stem": "___ is the photo I am holding.",
+          "keyword": "this",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g1-05-06",
           "type": "fillBlank",
           "stem": "Can you see ___ tower in the distance?",
+          "keyword": "that",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g1-05-07",
           "type": "fillBlank",
           "stem": "___ flowers in this vase smell lovely.",
+          "keyword": "these",
           "options": [],
           "answer": {
             "optionIDs": [],
