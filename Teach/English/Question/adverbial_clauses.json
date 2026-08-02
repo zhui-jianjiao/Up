@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g6-05",
@@ -17,32 +17,9 @@
           "id": "q-g6-05-01",
           "type": "fillBlank",
           "stem": "I stayed home ___ I had a fever.",
-          "options": [
-            {
-              "id": "q-g6-05-01-o1",
-              "text": "because",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-01-o2",
-              "text": "although",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-01-o3",
-              "text": "but",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-01-o4",
-              "text": "so",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-05-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "because"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g6-05-02",
           "type": "fillBlank",
           "stem": "___ it was raining, the match continued.",
-          "options": [
-            {
-              "id": "q-g6-05-02-o1",
-              "text": "Because",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-02-o2",
-              "text": "Although",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-02-o3",
-              "text": "So",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-02-o4",
-              "text": "But",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-05-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "Although"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g6-05-03",
           "type": "fillBlank",
           "stem": "Please call me ___ you arrive.",
-          "options": [
-            {
-              "id": "q-g6-05-03-o1",
-              "text": "because",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-03-o2",
-              "text": "although",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-03-o3",
-              "text": "when",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-03-o4",
-              "text": "but",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-05-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "when"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g6-05-04",
           "type": "fillBlank",
           "stem": "Mia read quietly ___ her brother was sleeping.",
-          "options": [
-            {
-              "id": "q-g6-05-04-o1",
-              "text": "because of",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-04-o2",
-              "text": "but",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-04-o3",
-              "text": "so",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-04-o4",
-              "text": "while",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-05-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "while"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g6-05-05",
           "type": "fillBlank",
           "stem": "We left early ___ we could catch the first train.",
-          "options": [
-            {
-              "id": "q-g6-05-05-o1",
-              "text": "so that",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-05-o2",
-              "text": "although",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-05-o3",
-              "text": "but",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-05-o4",
-              "text": "because of",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-05-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "so that"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g6-05-06",
           "type": "fillBlank",
           "stem": "___ you finish the task, check it again.",
-          "options": [
-            {
-              "id": "q-g6-05-06-o1",
-              "text": "Although",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-06-o2",
-              "text": "After",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-06-o3",
-              "text": "Because of",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-06-o4",
-              "text": "But",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-05-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "After"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g6-05-07",
           "type": "fillBlank",
           "stem": "The lights came on ___ it became dark.",
-          "options": [
-            {
-              "id": "q-g6-05-07-o1",
-              "text": "although",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-07-o2",
-              "text": "but",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-07-o3",
-              "text": "as",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-05-07-o4",
-              "text": "or",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-05-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "as"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g6-05-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“状语从句”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“状语从句”的一项。",
           "options": [
             {
               "id": "q-g6-05-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g6-05-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“状语从句”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g6-05-09-o1",
