@@ -1,11 +1,11 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "updatedAt": "2026-08-02T16:01:05.815Z",
   "sets": [
     {
       "id": "qs-g5-07",
-      "grade": 5,
+      "unit": 5,
       "order": 7,
       "title": "if 条件状语从句专项练习",
       "difficulty": "hard",
