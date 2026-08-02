@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g4-04",
@@ -24,7 +24,7 @@
               "always"
             ]
           },
-          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 本题应填“always”。",
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 可接受答案：always。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "never"
             ]
           },
-          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 本题应填“never”。",
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 可接受答案：never。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "sometimes"
             ]
           },
-          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 本题应填“sometimes”。",
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 可接受答案：sometimes。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "usually"
             ]
           },
-          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 本题应填“usually”。",
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 可接受答案：usually。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "always"
             ]
           },
-          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 本题应填“always”。",
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 可接受答案：always。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "rarely"
             ]
           },
-          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 本题应填“rarely”。",
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 可接受答案：rarely。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "often"
             ]
           },
-          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 本题应填“often”。",
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 可接受答案：often。",
           "score": 1,
           "mediaPath": null
         },
