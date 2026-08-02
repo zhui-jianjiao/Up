@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g4-01",
@@ -23,6 +23,18 @@
           "english": "She went home early.",
           "chinese": "她很早回家了。",
           "note": null
+        },
+        {
+          "id": "g4-01-e3",
+          "english": "He went to the library yesterday.",
+          "chinese": "他昨天去了图书馆。",
+          "note": "go的过去式是went，不是goed。"
+        },
+        {
+          "id": "g4-01-e4",
+          "english": "Mia took many photos on the trip.",
+          "chinese": "米娅旅行时拍了很多照片。",
+          "note": "take的过去式是took。"
         }
       ],
       "tips": [
@@ -87,7 +99,65 @@
           "correct": "She went home early.",
           "reason": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g4-01-sf1",
+          "title": "常用不规则过去式",
+          "summary": "不规则动词需要整体记忆，不能直接加-ed。",
+          "items": [
+            {
+              "id": "g4-01-sf1-1",
+              "base": "go",
+              "form": "went",
+              "usage": "去"
+            },
+            {
+              "id": "g4-01-sf1-2",
+              "base": "do",
+              "form": "did",
+              "usage": "做"
+            },
+            {
+              "id": "g4-01-sf1-3",
+              "base": "have",
+              "form": "had",
+              "usage": "有"
+            },
+            {
+              "id": "g4-01-sf1-4",
+              "base": "see",
+              "form": "saw",
+              "usage": "看见"
+            },
+            {
+              "id": "g4-01-sf1-5",
+              "base": "take",
+              "form": "took",
+              "usage": "拿；带"
+            },
+            {
+              "id": "g4-01-sf1-6",
+              "base": "make",
+              "form": "made",
+              "usage": "制作"
+            },
+            {
+              "id": "g4-01-sf1-7",
+              "base": "come",
+              "form": "came",
+              "usage": "来"
+            },
+            {
+              "id": "g4-01-sf1-8",
+              "base": "eat",
+              "form": "ate",
+              "usage": "吃"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
