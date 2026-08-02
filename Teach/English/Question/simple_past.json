@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g4-01",
@@ -24,7 +24,7 @@
               "visited"
             ]
           },
-          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 本题应填“visited”。",
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 可接受答案：visited。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "found"
             ]
           },
-          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 本题应填“found”。",
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 可接受答案：found。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "stopped"
             ]
           },
-          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 本题应填“stopped”。",
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 可接受答案：stopped。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "told"
             ]
           },
-          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 本题应填“told”。",
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 可接受答案：told。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "finished"
             ]
           },
-          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 本题应填“finished”。",
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 可接受答案：finished。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "enjoy"
             ]
           },
-          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 本题应填“enjoy”。",
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 可接受答案：enjoy。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "made"
             ]
           },
-          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 本题应填“made”。",
+          "explanation": "一般过去时表示过去发生的动作，规则动词加-ed，不规则动词需单独记忆。 可接受答案：made。",
           "score": 1,
           "mediaPath": null
         },
