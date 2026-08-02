@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g5-03",
@@ -17,6 +17,7 @@
           "id": "q2-g5-03-01",
           "type": "fillBlank",
           "stem": "Jupiter is the ___ planet in our solar system.",
+          "keyword": "large",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g5-03-02",
           "type": "fillBlank",
           "stem": "This is the ___ route to the station.",
+          "keyword": "short",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g5-03-03",
           "type": "fillBlank",
           "stem": "Mia ran the ___ in her team.",
+          "keyword": "fast",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g5-03-04",
           "type": "fillBlank",
           "stem": "February is the ___ month of the year.",
+          "keyword": "short",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g5-03-05",
           "type": "fillBlank",
           "stem": "That was the ___ meal I have ever had.",
+          "keyword": "good",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g5-03-06",
           "type": "fillBlank",
           "stem": "The blue whale is the ___ animal on Earth.",
+          "keyword": "heavy",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g5-03-07",
           "type": "fillBlank",
           "stem": "Which is the ___ building in Shanghai?",
+          "keyword": "tall",
           "options": [],
           "answer": {
             "optionIDs": [],
