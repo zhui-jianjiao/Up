@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g6-04",
+      "grade": 6,
+      "order": 4,
+      "title": "定语从句专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-04"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-04-01",
+          "type": "fillBlank",
+          "stem": "The girl ___ won the race is my cousin.",
+          "options": [
+            {
+              "id": "q-g6-04-01-o1",
+              "text": "who",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-01-o2",
+              "text": "which",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-01-o3",
+              "text": "where",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-01-o4",
+              "text": "when",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-01-o1"
+            ],
+            "textAnswers": [
+              "who"
+            ]
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 本题应填“who”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-02",
+          "type": "fillBlank",
+          "stem": "This is the camera ___ I borrowed.",
+          "options": [
+            {
+              "id": "q-g6-04-02-o1",
+              "text": "who",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-02-o2",
+              "text": "that",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-02-o3",
+              "text": "where",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-02-o4",
+              "text": "when",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-02-o2"
+            ],
+            "textAnswers": [
+              "that"
+            ]
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 本题应填“that”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-03",
+          "type": "fillBlank",
+          "stem": "The park ___ we met has a large lake.",
+          "options": [
+            {
+              "id": "q-g6-04-03-o1",
+              "text": "who",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-03-o2",
+              "text": "which person",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-03-o3",
+              "text": "where",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-03-o4",
+              "text": "when",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-03-o3"
+            ],
+            "textAnswers": [
+              "where"
+            ]
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 本题应填“where”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-04",
+          "type": "fillBlank",
+          "stem": "I remember the day ___ our team first won.",
+          "options": [
+            {
+              "id": "q-g6-04-04-o1",
+              "text": "who",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-04-o2",
+              "text": "where person",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-04-o3",
+              "text": "which boy",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-04-o4",
+              "text": "when",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-04-o4"
+            ],
+            "textAnswers": [
+              "when"
+            ]
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 本题应填“when”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-05",
+          "type": "fillBlank",
+          "stem": "The book ___ is on the desk belongs to Mia.",
+          "options": [
+            {
+              "id": "q-g6-04-05-o1",
+              "text": "which",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-05-o2",
+              "text": "who",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-05-o3",
+              "text": "where",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-05-o4",
+              "text": "when",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-05-o1"
+            ],
+            "textAnswers": [
+              "which"
+            ]
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 本题应填“which”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-06",
+          "type": "fillBlank",
+          "stem": "Students ___ recycle paper can earn points.",
+          "options": [
+            {
+              "id": "q-g6-04-06-o1",
+              "text": "which",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-06-o2",
+              "text": "who",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-06-o3",
+              "text": "where",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-06-o4",
+              "text": "when",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-06-o2"
+            ],
+            "textAnswers": [
+              "who"
+            ]
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 本题应填“who”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-07",
+          "type": "fillBlank",
+          "stem": "The song that we ___ was written by our teacher.",
+          "options": [
+            {
+              "id": "q-g6-04-07-o1",
+              "text": "singing",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-07-o2",
+              "text": "sings it",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-07-o3",
+              "text": "sang",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-07-o4",
+              "text": "was sing",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-07-o3"
+            ],
+            "textAnswers": [
+              "sang"
+            ]
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 本题应填“sang”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“定语从句”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-04-08-o1",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-08-o2",
+              "text": "The girl who is singing is my sister.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-08-o3",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-08-o4",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-08-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确表达：The girl who is singing is my sister.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-04-09-o1",
+              "text": "This is the book who I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-09-o2",
+              "text": "The man which he came is here.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-09-o3",
+              "text": "This is the book that I bought.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-09-o4",
+              "text": "The girl which is singing is my sister.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-09-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 正确表达：This is the book that I bought.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-04-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“定语从句”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g6-04-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-10-o2",
+              "text": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-04-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-04-10-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
