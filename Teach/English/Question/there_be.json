@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g3-03",
@@ -17,32 +17,9 @@
           "id": "q-g3-03-01",
           "type": "fillBlank",
           "stem": "There ___ a notice on the door.",
-          "options": [
-            {
-              "id": "q-g3-03-01-o1",
-              "text": "is",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-01-o2",
-              "text": "are",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-01-o3",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-01-o4",
-              "text": "has",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-03-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "is"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g3-03-02",
           "type": "fillBlank",
           "stem": "There ___ three recycling bins downstairs.",
-          "options": [
-            {
-              "id": "q-g3-03-02-o1",
-              "text": "is",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-02-o2",
-              "text": "are",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-02-o3",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-02-o4",
-              "text": "have",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-03-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "are"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g3-03-03",
           "type": "fillBlank",
           "stem": "___ there any juice in the bottle?",
-          "options": [
-            {
-              "id": "q-g3-03-03-o1",
-              "text": "Are",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-03-o2",
-              "text": "Does",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-03-o3",
-              "text": "Is",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-03-o4",
-              "text": "Has",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-03-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "Is"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g3-03-04",
           "type": "fillBlank",
           "stem": "There ___ not enough chairs for everyone.",
-          "options": [
-            {
-              "id": "q-g3-03-04-o1",
-              "text": "is",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-04-o2",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-04-o3",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-04-o4",
-              "text": "are",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-03-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "are"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g3-03-05",
           "type": "fillBlank",
           "stem": "There ___ some useful advice in the article.",
-          "options": [
-            {
-              "id": "q-g3-03-05-o1",
-              "text": "is",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-05-o2",
-              "text": "are",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-05-o3",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-05-o4",
-              "text": "were",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-03-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "is"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g3-03-06",
           "type": "fillBlank",
           "stem": "How many trees ___ there in the park?",
-          "options": [
-            {
-              "id": "q-g3-03-06-o1",
-              "text": "is",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-06-o2",
-              "text": "are",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-06-o3",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-06-o4",
-              "text": "has",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-03-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "are"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g3-03-07",
           "type": "fillBlank",
           "stem": "There ___ a concert and two workshops tomorrow.",
-          "options": [
-            {
-              "id": "q-g3-03-07-o1",
-              "text": "are",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-07-o2",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-07-o3",
-              "text": "is",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-03-07-o4",
-              "text": "be",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-03-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "is"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g3-03-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“There be 句型”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“There be 句型”的一项。",
           "options": [
             {
               "id": "q-g3-03-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g3-03-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“There be 句型”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g3-03-09-o1",
