@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g2-04",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g2-04-01",
+          "id": "q2-g2-04-01",
           "type": "fillBlank",
           "stem": "___ pencils are in your case?",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-04-02",
+          "id": "q2-g2-04-02",
           "type": "fillBlank",
           "stem": "___ students joined the choir?",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-04-03",
+          "id": "q2-g2-04-03",
           "type": "fillBlank",
           "stem": "How many ___ do we need for the game?",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-04-04",
+          "id": "q2-g2-04-04",
           "type": "fillBlank",
           "stem": "___ pages did you read today?",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-04-05",
+          "id": "q2-g2-04-05",
           "type": "fillBlank",
           "stem": "How many ___ can you see in the pond?",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-04-06",
+          "id": "q2-g2-04-06",
           "type": "fillBlank",
           "stem": "___ times do you brush your teeth each day?",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-04-07",
+          "id": "q2-g2-04-07",
           "type": "fillBlank",
           "stem": "How many ___ are there in February this year?",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-04-08",
+          "id": "q2-g2-04-08",
           "type": "singleChoice",
           "stem": "选择正确使用“数量表达 How many”的一项。",
           "options": [
             {
-              "id": "q-g2-04-08-o1",
+              "id": "q2-g2-04-08-o1",
               "text": "How many book do you have?",
               "imagePath": null
             },
             {
-              "id": "q-g2-04-08-o2",
+              "id": "q2-g2-04-08-o2",
               "text": "How much birds can you see?",
               "imagePath": null
             },
             {
-              "id": "q-g2-04-08-o3",
+              "id": "q2-g2-04-08-o3",
               "text": "How many books do you have?",
               "imagePath": null
             },
             {
-              "id": "q-g2-04-08-o4",
+              "id": "q2-g2-04-08-o4",
               "text": "How many water is there?",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-04-08-o3"
+              "q2-g2-04-08-o3"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-04-09",
+          "id": "q2-g2-04-09",
           "type": "singleChoice",
           "stem": "再次辨析“数量表达 How many”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g2-04-09-o1",
+              "id": "q2-g2-04-09-o1",
               "text": "How much birds can you see?",
               "imagePath": null
             },
             {
-              "id": "q-g2-04-09-o2",
+              "id": "q2-g2-04-09-o2",
               "text": "How many water is there?",
               "imagePath": null
             },
             {
-              "id": "q-g2-04-09-o3",
+              "id": "q2-g2-04-09-o3",
               "text": "How many book do you have?",
               "imagePath": null
             },
             {
-              "id": "q-g2-04-09-o4",
+              "id": "q2-g2-04-09-o4",
               "text": "How many birds can you see?",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-04-09-o4"
+              "q2-g2-04-09-o4"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-04-10",
+          "id": "q2-g2-04-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“数量表达 How many”最准确的总结。",
           "options": [
             {
-              "id": "q-g2-04-10-o1",
+              "id": "q2-g2-04-10-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g2-04-10-o2",
+              "id": "q2-g2-04-10-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g2-04-10-o3",
+              "id": "q2-g2-04-10-o3",
               "text": "How many后接可数名词复数，用来询问数量。",
               "imagePath": null
             },
             {
-              "id": "q-g2-04-10-o4",
+              "id": "q2-g2-04-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-04-10-o3"
+              "q2-g2-04-10-o3"
             ],
             "textAnswers": []
           },
