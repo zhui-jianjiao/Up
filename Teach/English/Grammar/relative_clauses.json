@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g6-04",
@@ -23,6 +23,12 @@
           "english": "This is the book that I bought.",
           "chinese": "这是我买的书。",
           "note": null
+        },
+        {
+          "id": "g6-04-e3",
+          "english": "The man who helped us is a doctor.",
+          "chinese": "帮助我们的那位男士是一名医生。",
+          "note": "who指人并引导定语从句。"
         }
       ],
       "tips": [
@@ -87,7 +93,9 @@
           "correct": "This is the book that I bought.",
           "reason": "who指人，which指物，that可指人或物，引导从句修饰前面的名词。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": null,
+      "markdownContent": "## 学习小结\n\n**核心规则：** who指人，which指物，that可指人或物，引导从句修饰前面的名词。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n"
     }
   ]
 }
