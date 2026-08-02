@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g3-07",
@@ -17,32 +17,9 @@
           "id": "q-g3-07-01",
           "type": "fillBlank",
           "stem": "This is ___ violin. (Lucy)",
-          "options": [
-            {
-              "id": "q-g3-07-01-o1",
-              "text": "Lucy's",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-01-o2",
-              "text": "Lucys",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-01-o3",
-              "text": "Lucy",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-01-o4",
-              "text": "Lucys'",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-07-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "Lucy's"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g3-07-02",
           "type": "fillBlank",
           "stem": "The ___ playground is behind the library. (children)",
-          "options": [
-            {
-              "id": "q-g3-07-02-o1",
-              "text": "childrens'",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-02-o2",
-              "text": "children's",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-02-o3",
-              "text": "childrens",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-02-o4",
-              "text": "children",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-07-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "children's"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g3-07-03",
           "type": "fillBlank",
           "stem": "Our ___ room is on the second floor. (teachers)",
-          "options": [
-            {
-              "id": "q-g3-07-03-o1",
-              "text": "teacher's",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-03-o2",
-              "text": "teachers",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-03-o3",
-              "text": "teachers'",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-03-o4",
-              "text": "teacher",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-07-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "teachers'"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g3-07-04",
           "type": "fillBlank",
           "stem": "I borrowed ___ ruler. (Ben)",
-          "options": [
-            {
-              "id": "q-g3-07-04-o1",
-              "text": "Bens",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-04-o2",
-              "text": "Bens'",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-04-o3",
-              "text": "Ben",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-04-o4",
-              "text": "Ben's",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-07-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "Ben's"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g3-07-05",
           "type": "fillBlank",
           "stem": "The two ___ bikes are outside. (girls)",
-          "options": [
-            {
-              "id": "q-g3-07-05-o1",
-              "text": "girls'",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-05-o2",
-              "text": "girl's",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-05-o3",
-              "text": "girls",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-05-o4",
-              "text": "girl",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-07-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "girls'"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g3-07-06",
           "type": "fillBlank",
           "stem": "That is my ___ favourite chair. (grandfather)",
-          "options": [
-            {
-              "id": "q-g3-07-06-o1",
-              "text": "grandfathers",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-06-o2",
-              "text": "grandfather's",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-06-o3",
-              "text": "grandfathers'",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-06-o4",
-              "text": "grandfather",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-07-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "grandfather's"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g3-07-07",
           "type": "fillBlank",
           "stem": "The ___ nest is high in the tree. (bird)",
-          "options": [
-            {
-              "id": "q-g3-07-07-o1",
-              "text": "birds",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-07-o2",
-              "text": "birds'",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-07-o3",
-              "text": "bird's",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-07-07-o4",
-              "text": "bird",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-07-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "bird's"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g3-07-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“名词所有格”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“名词所有格”的一项。",
           "options": [
             {
               "id": "q-g3-07-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g3-07-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“名词所有格”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g3-07-09-o1",
