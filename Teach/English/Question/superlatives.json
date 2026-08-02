@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g5-03",
@@ -24,7 +24,7 @@
               "largest"
             ]
           },
-          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 本题应填“largest”。",
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 可接受答案：largest。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "shortest"
             ]
           },
-          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 本题应填“shortest”。",
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 可接受答案：shortest。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "fastest"
             ]
           },
-          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 本题应填“fastest”。",
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 可接受答案：fastest。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "shortest"
             ]
           },
-          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 本题应填“shortest”。",
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 可接受答案：shortest。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "best"
             ]
           },
-          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 本题应填“best”。",
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 可接受答案：best。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "heaviest"
             ]
           },
-          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 本题应填“heaviest”。",
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 可接受答案：heaviest。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "tallest"
             ]
           },
-          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 本题应填“tallest”。",
+          "explanation": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 可接受答案：tallest。",
           "score": 1,
           "mediaPath": null
         },
