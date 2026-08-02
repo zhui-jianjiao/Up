@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g6-08",
@@ -17,6 +17,7 @@
           "id": "q2-g6-08-01",
           "type": "fillBlank",
           "stem": "I wish I ___ play the violin.",
+          "keyword": "could",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g6-08-02",
           "type": "fillBlank",
           "stem": "If I ___ you, I would apologise.",
+          "keyword": "be",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g6-08-03",
           "type": "fillBlank",
           "stem": "Mia wishes she ___ more free time.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g6-08-04",
           "type": "fillBlank",
           "stem": "If we lived near the sea, we ___ every day.",
+          "keyword": "swim",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g6-08-05",
           "type": "fillBlank",
           "stem": "I wish it ___ raining now.",
+          "keyword": "be",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g6-08-06",
           "type": "fillBlank",
           "stem": "If he ___ more carefully, he would notice the clue.",
+          "keyword": "look",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g6-08-07",
           "type": "fillBlank",
           "stem": "She talks as if she ___ everything.",
+          "keyword": "know",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -122,6 +129,7 @@
           "id": "q2-g6-08-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：我希望我会飞。",
+          "keyword": "could",
           "options": [],
           "answer": {
             "optionIDs": [],
