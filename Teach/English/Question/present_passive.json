@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g5-08",
+      "grade": 5,
+      "order": 8,
+      "title": "一般现在时的被动语态专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g5-08"
+      ],
+      "questions": [
+        {
+          "id": "q-g5-08-01",
+          "type": "fillBlank",
+          "stem": "English ___ in many countries.",
+          "options": [
+            {
+              "id": "q-g5-08-01-o1",
+              "text": "is spoken",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-01-o2",
+              "text": "speaks",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-01-o3",
+              "text": "is speaking",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-01-o4",
+              "text": "spoken",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-01-o1"
+            ],
+            "textAnswers": [
+              "is spoken"
+            ]
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“is spoken”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-02",
+          "type": "fillBlank",
+          "stem": "These bottles ___ from recycled plastic.",
+          "options": [
+            {
+              "id": "q-g5-08-02-o1",
+              "text": "make",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-02-o2",
+              "text": "are made",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-02-o3",
+              "text": "is made",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-02-o4",
+              "text": "made",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-02-o2"
+            ],
+            "textAnswers": [
+              "are made"
+            ]
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“are made”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-03",
+          "type": "fillBlank",
+          "stem": "The classroom ___ every afternoon.",
+          "options": [
+            {
+              "id": "q-g5-08-03-o1",
+              "text": "cleans",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-03-o2",
+              "text": "is cleaning",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-03-o3",
+              "text": "is cleaned",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-03-o4",
+              "text": "cleaned",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-03-o3"
+            ],
+            "textAnswers": [
+              "is cleaned"
+            ]
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“is cleaned”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-04",
+          "type": "fillBlank",
+          "stem": "How ___?",
+          "options": [
+            {
+              "id": "q-g5-08-04-o1",
+              "text": "does paper recycle",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-04-o2",
+              "text": "are paper recycled",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-04-o3",
+              "text": "is paper recycle",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-04-o4",
+              "text": "is paper recycled",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-04-o4"
+            ],
+            "textAnswers": [
+              "is paper recycled"
+            ]
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“is paper recycled”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-05",
+          "type": "fillBlank",
+          "stem": "School uniforms ___ on weekdays.",
+          "options": [
+            {
+              "id": "q-g5-08-05-o1",
+              "text": "are worn",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-05-o2",
+              "text": "wear",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-05-o3",
+              "text": "is worn",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-05-o4",
+              "text": "wore",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-05-o1"
+            ],
+            "textAnswers": [
+              "are worn"
+            ]
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“are worn”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-06",
+          "type": "fillBlank",
+          "stem": "Rice ___ in southern China.",
+          "options": [
+            {
+              "id": "q-g5-08-06-o1",
+              "text": "grows it",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-06-o2",
+              "text": "is grown",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-06-o3",
+              "text": "are grown",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-06-o4",
+              "text": "grew",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-06-o2"
+            ],
+            "textAnswers": [
+              "is grown"
+            ]
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“is grown”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-07",
+          "type": "fillBlank",
+          "stem": "The results ___ online each Friday.",
+          "options": [
+            {
+              "id": "q-g5-08-07-o1",
+              "text": "publish",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-07-o2",
+              "text": "is published",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-07-o3",
+              "text": "are published",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-07-o4",
+              "text": "published",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-07-o3"
+            ],
+            "textAnswers": [
+              "are published"
+            ]
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“are published”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“一般现在时的被动语态”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-08-08-o1",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-08-o2",
+              "text": "English is spoken in many countries.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-08-o3",
+              "text": "These cars made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-08-o4",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-08-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确表达：English is spoken in many countries.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g5-08-09-o1",
+              "text": "These cars made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-09-o2",
+              "text": "The room are cleaned every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-09-o3",
+              "text": "These cars are made in China.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-09-o4",
+              "text": "English is speak in many countries.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-09-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 正确表达：These cars are made in China.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g5-08-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“一般现在时的被动语态”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g5-08-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-10-o2",
+              "text": "一般现在时被动语态由am/is/are加过去分词构成。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g5-08-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g5-08-10-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
