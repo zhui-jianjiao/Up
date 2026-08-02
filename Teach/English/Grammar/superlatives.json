@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g5-03",
@@ -23,6 +23,18 @@
           "english": "This is the best answer.",
           "chinese": "这是最好的答案。",
           "note": null
+        },
+        {
+          "id": "g5-03-e3",
+          "english": "This is the best solution.",
+          "chinese": "这是最好的解决方案。",
+          "note": "good的最高级是best。"
+        },
+        {
+          "id": "g5-03-e4",
+          "english": "Tom is the tallest boy in his class.",
+          "chinese": "汤姆是班里最高的男孩。",
+          "note": "最高级前通常使用the。"
         }
       ],
       "tips": [
@@ -87,7 +99,47 @@
           "correct": "This is the best answer.",
           "reason": "三者及以上比较使用最高级，前面通常加the，并注意不规则变化。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g5-03-sf1",
+          "title": "最高级特殊变化",
+          "summary": "这些形容词的最高级需要单独记忆。",
+          "items": [
+            {
+              "id": "g5-03-sf1-1",
+              "base": "good / well",
+              "form": "best",
+              "usage": "最好"
+            },
+            {
+              "id": "g5-03-sf1-2",
+              "base": "bad / ill",
+              "form": "worst",
+              "usage": "最差"
+            },
+            {
+              "id": "g5-03-sf1-3",
+              "base": "many / much",
+              "form": "most",
+              "usage": "最多"
+            },
+            {
+              "id": "g5-03-sf1-4",
+              "base": "little",
+              "form": "least",
+              "usage": "最少"
+            },
+            {
+              "id": "g5-03-sf1-5",
+              "base": "far",
+              "form": "farthest / furthest",
+              "usage": "最远"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 三者及以上比较使用最高级，前面通常加the，并注意不规则变化。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
