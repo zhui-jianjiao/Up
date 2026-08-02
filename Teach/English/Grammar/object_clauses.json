@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g5-06",
@@ -23,6 +23,12 @@
           "english": "Do you know where she lives?",
           "chinese": "你知道她住在哪里吗？",
           "note": null
+        },
+        {
+          "id": "g5-06-e3",
+          "english": "I don't know whether he will come.",
+          "chinese": "我不知道他是否会来。",
+          "note": "whether引导宾语从句并使用陈述语序。"
         }
       ],
       "tips": [
@@ -87,7 +93,9 @@
           "correct": "Do you know where she lives?",
           "reason": "宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": null,
+      "markdownContent": "## 学习小结\n\n**核心规则：** 宾语从句置于动词后作宾语，陈述句语序保持主语在谓语前。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n"
     }
   ]
 }
