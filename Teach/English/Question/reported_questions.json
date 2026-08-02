@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g6-07",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g6-07-01",
+          "id": "q2-g6-07-01",
           "type": "fillBlank",
           "stem": "He asked if I ___ ready.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-07-02",
+          "id": "q2-g6-07-02",
           "type": "fillBlank",
           "stem": "Mia asked where I ___.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-07-03",
+          "id": "q2-g6-07-03",
           "type": "fillBlank",
           "stem": "Dad asked whether we ___ the tickets.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-07-04",
+          "id": "q2-g6-07-04",
           "type": "fillBlank",
           "stem": "The teacher asked why Leo ___ late.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-07-05",
+          "id": "q2-g6-07-05",
           "type": "fillBlank",
           "stem": "She asked me what I ___.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-07-06",
+          "id": "q2-g6-07-06",
           "type": "fillBlank",
           "stem": "Tom asked, “Can you help?” Tom asked if I ___ help.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-07-07",
+          "id": "q2-g6-07-07",
           "type": "fillBlank",
           "stem": "Mum asked when the train ___.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-07-08",
+          "id": "q2-g6-07-08",
           "type": "singleChoice",
           "stem": "选择正确使用“间接引语疑问句”的一项。",
           "options": [
             {
-              "id": "q-g6-07-08-o1",
+              "id": "q2-g6-07-08-o1",
               "text": "He asked if I was ready.",
               "imagePath": null
             },
             {
-              "id": "q-g6-07-08-o2",
+              "id": "q2-g6-07-08-o2",
               "text": "He asked if was I ready.",
               "imagePath": null
             },
             {
-              "id": "q-g6-07-08-o3",
+              "id": "q2-g6-07-08-o3",
               "text": "She asked where did I live.",
               "imagePath": null
             },
             {
-              "id": "q-g6-07-08-o4",
+              "id": "q2-g6-07-08-o4",
               "text": "He asked that am I ready.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-07-08-o1"
+              "q2-g6-07-08-o1"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-07-09",
+          "id": "q2-g6-07-09",
           "type": "singleChoice",
           "stem": "再次辨析“间接引语疑问句”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g6-07-09-o1",
+              "id": "q2-g6-07-09-o1",
               "text": "She asked where did I live.",
               "imagePath": null
             },
             {
-              "id": "q-g6-07-09-o2",
+              "id": "q2-g6-07-09-o2",
               "text": "She asked where I lived.",
               "imagePath": null
             },
             {
-              "id": "q-g6-07-09-o3",
+              "id": "q2-g6-07-09-o3",
               "text": "He asked that am I ready.",
               "imagePath": null
             },
             {
-              "id": "q-g6-07-09-o4",
+              "id": "q2-g6-07-09-o4",
               "text": "He asked if was I ready.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-07-09-o2"
+              "q2-g6-07-09-o2"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-07-10",
+          "id": "q2-g6-07-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“间接引语疑问句”最准确的总结。",
           "options": [
             {
-              "id": "q-g6-07-10-o1",
+              "id": "q2-g6-07-10-o1",
               "text": "转述疑问句使用陈述句语序，一般疑问句可用if或whether连接。",
               "imagePath": null
             },
             {
-              "id": "q-g6-07-10-o2",
+              "id": "q2-g6-07-10-o2",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g6-07-10-o3",
+              "id": "q2-g6-07-10-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g6-07-10-o4",
+              "id": "q2-g6-07-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-07-10-o1"
+              "q2-g6-07-10-o1"
             ],
             "textAnswers": []
           },
