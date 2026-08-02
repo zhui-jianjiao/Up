@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g5-01",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g5-01-01",
+          "id": "q2-g5-01-01",
           "type": "fillBlank",
           "stem": "I ___ already finished the poster.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-01-02",
+          "id": "q2-g5-01-02",
           "type": "fillBlank",
           "stem": "Mia has ___ three books this month.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-01-03",
+          "id": "q2-g5-01-03",
           "type": "fillBlank",
           "stem": "We ___ never visited that island.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-01-04",
+          "id": "q2-g5-01-04",
           "type": "fillBlank",
           "stem": "The bus has just ___.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-01-05",
+          "id": "q2-g5-01-05",
           "type": "fillBlank",
           "stem": "___ you ever tried ice skating?",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-01-06",
+          "id": "q2-g5-01-06",
           "type": "fillBlank",
           "stem": "Dad ___ worked here for ten years.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-01-07",
+          "id": "q2-g5-01-07",
           "type": "fillBlank",
           "stem": "They haven't ___ the answer yet.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-01-08",
+          "id": "q2-g5-01-08",
           "type": "singleChoice",
           "stem": "选择正确使用“现在完成时”的一项。",
           "options": [
             {
-              "id": "q-g5-01-08-o1",
+              "id": "q2-g5-01-08-o1",
               "text": "I have finish my homework.",
               "imagePath": null
             },
             {
-              "id": "q-g5-01-08-o2",
+              "id": "q2-g5-01-08-o2",
               "text": "She have lived here.",
               "imagePath": null
             },
             {
-              "id": "q-g5-01-08-o3",
+              "id": "q2-g5-01-08-o3",
               "text": "I have finished my homework.",
               "imagePath": null
             },
             {
-              "id": "q-g5-01-08-o4",
+              "id": "q2-g5-01-08-o4",
               "text": "He has went home.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-01-08-o3"
+              "q2-g5-01-08-o3"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-01-09",
+          "id": "q2-g5-01-09",
           "type": "singleChoice",
           "stem": "再次辨析“现在完成时”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g5-01-09-o1",
+              "id": "q2-g5-01-09-o1",
               "text": "She have lived here.",
               "imagePath": null
             },
             {
-              "id": "q-g5-01-09-o2",
+              "id": "q2-g5-01-09-o2",
               "text": "He has went home.",
               "imagePath": null
             },
             {
-              "id": "q-g5-01-09-o3",
+              "id": "q2-g5-01-09-o3",
               "text": "I have finish my homework.",
               "imagePath": null
             },
             {
-              "id": "q-g5-01-09-o4",
+              "id": "q2-g5-01-09-o4",
               "text": "She has lived here for five years.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-01-09-o4"
+              "q2-g5-01-09-o4"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g5-01-10",
+          "id": "q2-g5-01-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“现在完成时”最准确的总结。",
           "options": [
             {
-              "id": "q-g5-01-10-o1",
+              "id": "q2-g5-01-10-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g5-01-10-o2",
+              "id": "q2-g5-01-10-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g5-01-10-o3",
+              "id": "q2-g5-01-10-o3",
               "text": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。",
               "imagePath": null
             },
             {
-              "id": "q-g5-01-10-o4",
+              "id": "q2-g5-01-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g5-01-10-o3"
+              "q2-g5-01-10-o3"
             ],
             "textAnswers": []
           },
