@@ -1,5 +1,14 @@
 {
-  "schemaVersion": 1,
-  "students": [],
-  "selectedStudentID": null
+  "schemaVersion" : 1,
+  "selectedStudentID" : "KQJWDX",
+  "students" : [
+    {
+      "avatar" : "sun.max.fill",
+      "colorName" : "blue",
+      "grade" : 2,
+      "id" : "KQJWDX",
+      "learningPlan" : "同步巩固",
+      "name" : "小小"
+    }
+  ]
 }
