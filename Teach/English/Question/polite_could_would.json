@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g5-05",
@@ -17,32 +17,9 @@
           "id": "q-g5-05-01",
           "type": "fillBlank",
           "stem": "___ you please lower your voice?",
-          "options": [
-            {
-              "id": "q-g5-05-01-o1",
-              "text": "Could",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-01-o2",
-              "text": "Must",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-01-o3",
-              "text": "Should",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-01-o4",
-              "text": "Did",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-05-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "Could"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g5-05-02",
           "type": "fillBlank",
           "stem": "___ you like some more fruit?",
-          "options": [
-            {
-              "id": "q-g5-05-02-o1",
-              "text": "Could to",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-02-o2",
-              "text": "Would",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-02-o3",
-              "text": "Do liked",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-02-o4",
-              "text": "Are",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-05-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "Would"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g5-05-03",
           "type": "fillBlank",
           "stem": "Could I ___ your charger for a minute?",
-          "options": [
-            {
-              "id": "q-g5-05-03-o1",
-              "text": "borrows",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-03-o2",
-              "text": "borrowed",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-03-o3",
-              "text": "borrow",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-03-o4",
-              "text": "borrowing",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-05-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "borrow"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g5-05-04",
           "type": "fillBlank",
           "stem": "Would you mind ___ the window?",
-          "options": [
-            {
-              "id": "q-g5-05-04-o1",
-              "text": "close",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-04-o2",
-              "text": "closed",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-04-o3",
-              "text": "closes",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-04-o4",
-              "text": "closing",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-05-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "closing"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g5-05-05",
           "type": "fillBlank",
           "stem": "___ you help me find this address?",
-          "options": [
-            {
-              "id": "q-g5-05-05-o1",
-              "text": "Could",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-05-o2",
-              "text": "Must",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-05-o3",
-              "text": "Are",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-05-o4",
-              "text": "Have",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-05-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "Could"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g5-05-06",
           "type": "fillBlank",
           "stem": "I ___ like to book two tickets.",
-          "options": [
-            {
-              "id": "q-g5-05-06-o1",
-              "text": "could to",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-06-o2",
-              "text": "would",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-06-o3",
-              "text": "am",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-06-o4",
-              "text": "did",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-05-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "would"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g5-05-07",
           "type": "fillBlank",
           "stem": "Would you please ___ me the menu?",
-          "options": [
-            {
-              "id": "q-g5-05-07-o1",
-              "text": "shows",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-07-o2",
-              "text": "showed",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-07-o3",
-              "text": "show",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-05-07-o4",
-              "text": "showing",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-05-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "show"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g5-05-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“could / would 的礼貌表达”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“could / would 的礼貌表达”的一项。",
           "options": [
             {
               "id": "q-g5-05-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g5-05-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“could / would 的礼貌表达”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g5-05-09-o1",
