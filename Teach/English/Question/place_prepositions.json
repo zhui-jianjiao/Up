@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g2-07",
@@ -17,32 +17,9 @@
           "id": "q-g2-07-01",
           "type": "fillBlank",
           "stem": "The keys are ___ the drawer.",
-          "options": [
-            {
-              "id": "q-g2-07-01-o1",
-              "text": "in",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-01-o2",
-              "text": "on",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-01-o3",
-              "text": "under",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-01-o4",
-              "text": "between",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-07-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "in"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g2-07-02",
           "type": "fillBlank",
           "stem": "A calendar hangs ___ the wall.",
-          "options": [
-            {
-              "id": "q-g2-07-02-o1",
-              "text": "in",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-02-o2",
-              "text": "on",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-02-o3",
-              "text": "under",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-02-o4",
-              "text": "between",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-07-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "on"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g2-07-03",
           "type": "fillBlank",
           "stem": "The cat is sleeping ___ the sofa.",
-          "options": [
-            {
-              "id": "q-g2-07-03-o1",
-              "text": "in",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-03-o2",
-              "text": "on",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-03-o3",
-              "text": "under",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-03-o4",
-              "text": "at",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-07-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "under"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g2-07-04",
           "type": "fillBlank",
           "stem": "Our library is ___ the hall and the office.",
-          "options": [
-            {
-              "id": "q-g2-07-04-o1",
-              "text": "under",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-04-o2",
-              "text": "in",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-04-o3",
-              "text": "on",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-04-o4",
-              "text": "between",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-07-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "between"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g2-07-05",
           "type": "fillBlank",
           "stem": "Amy is standing ___ her parents.",
-          "options": [
-            {
-              "id": "q-g2-07-05-o1",
-              "text": "between",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-05-o2",
-              "text": "inside",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-05-o3",
-              "text": "on",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-05-o4",
-              "text": "under",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-07-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "between"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g2-07-06",
           "type": "fillBlank",
           "stem": "There is a bridge ___ the river.",
-          "options": [
-            {
-              "id": "q-g2-07-06-o1",
-              "text": "in",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-06-o2",
-              "text": "over",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-06-o3",
-              "text": "under",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-06-o4",
-              "text": "between",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-07-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "over"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g2-07-07",
           "type": "fillBlank",
           "stem": "The bus stop is ___ the school gate.",
-          "options": [
-            {
-              "id": "q-g2-07-07-o1",
-              "text": "inside",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-07-o2",
-              "text": "on",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-07-o3",
-              "text": "near",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-07-07-o4",
-              "text": "under",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-07-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "near"
             ]
@@ -281,33 +120,48 @@
         },
         {
           "id": "q-g2-07-08",
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：球在椅子下面。",
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "The ball is under the chair."
+            ]
+          },
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 参考表达：The ball is under the chair.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-07-09",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“简单方位介词”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“简单方位介词”的一项。",
           "options": [
             {
-              "id": "q-g2-07-08-o1",
+              "id": "q-g2-07-09-o1",
               "text": "The ball is under of the chair.",
               "imagePath": null
             },
             {
-              "id": "q-g2-07-08-o2",
+              "id": "q-g2-07-09-o2",
               "text": "The ball is under the chair.",
               "imagePath": null
             },
             {
-              "id": "q-g2-07-08-o3",
+              "id": "q-g2-07-09-o3",
               "text": "The books are in the desk top.",
               "imagePath": null
             },
             {
-              "id": "q-g2-07-08-o4",
+              "id": "q-g2-07-09-o4",
               "text": "The cat is on the box inside.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-07-08-o2"
+              "q-g2-07-09-o2"
             ],
             "textAnswers": []
           },
@@ -316,34 +170,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-07-09",
+          "id": "q-g2-07-10",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“简单方位介词”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g2-07-09-o1",
+              "id": "q-g2-07-10-o1",
               "text": "The books are in the desk top.",
               "imagePath": null
             },
             {
-              "id": "q-g2-07-09-o2",
+              "id": "q-g2-07-10-o2",
               "text": "The cat is on the box inside.",
               "imagePath": null
             },
             {
-              "id": "q-g2-07-09-o3",
+              "id": "q-g2-07-10-o3",
               "text": "The books are on the desk.",
               "imagePath": null
             },
             {
-              "id": "q-g2-07-09-o4",
+              "id": "q-g2-07-10-o4",
               "text": "The ball is under of the chair.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-07-09-o3"
+              "q-g2-07-10-o3"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-07-10",
+          "id": "q-g2-07-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“简单方位介词”最准确的总结。",
           "options": [
             {
-              "id": "q-g2-07-10-o1",
+              "id": "q-g2-07-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g2-07-10-o2",
+              "id": "q-g2-07-11-o2",
               "text": "in表示在里面，on表示在上面，under表示在下面。",
               "imagePath": null
             },
             {
-              "id": "q-g2-07-10-o3",
+              "id": "q-g2-07-11-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g2-07-10-o4",
+              "id": "q-g2-07-11-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-07-10-o2"
+              "q-g2-07-11-o2"
             ],
             "textAnswers": []
           },
