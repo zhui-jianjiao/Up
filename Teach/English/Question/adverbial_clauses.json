@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g6-05",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g6-05-01",
+          "id": "q2-g6-05-01",
           "type": "fillBlank",
           "stem": "I stayed home ___ I had a fever.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-05-02",
+          "id": "q2-g6-05-02",
           "type": "fillBlank",
           "stem": "___ it was raining, the match continued.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-05-03",
+          "id": "q2-g6-05-03",
           "type": "fillBlank",
           "stem": "Please call me ___ you arrive.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-05-04",
+          "id": "q2-g6-05-04",
           "type": "fillBlank",
           "stem": "Mia read quietly ___ her brother was sleeping.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-05-05",
+          "id": "q2-g6-05-05",
           "type": "fillBlank",
           "stem": "We left early ___ we could catch the first train.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-05-06",
+          "id": "q2-g6-05-06",
           "type": "fillBlank",
           "stem": "___ you finish the task, check it again.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-05-07",
+          "id": "q2-g6-05-07",
           "type": "fillBlank",
           "stem": "The lights came on ___ it became dark.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-05-08",
+          "id": "q2-g6-05-08",
           "type": "singleChoice",
           "stem": "选择正确使用“状语从句”的一项。",
           "options": [
             {
-              "id": "q-g6-05-08-o1",
+              "id": "q2-g6-05-08-o1",
               "text": "Because I was ill, so I stayed home.",
               "imagePath": null
             },
             {
-              "id": "q-g6-05-08-o2",
+              "id": "q2-g6-05-08-o2",
               "text": "Although it was cold, but we went out.",
               "imagePath": null
             },
             {
-              "id": "q-g6-05-08-o3",
+              "id": "q2-g6-05-08-o3",
               "text": "I stayed home because I was ill.",
               "imagePath": null
             },
             {
-              "id": "q-g6-05-08-o4",
+              "id": "q2-g6-05-08-o4",
               "text": "When I will arrive, I called you.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-05-08-o3"
+              "q2-g6-05-08-o3"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-05-09",
+          "id": "q2-g6-05-09",
           "type": "singleChoice",
           "stem": "再次辨析“状语从句”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g6-05-09-o1",
+              "id": "q2-g6-05-09-o1",
               "text": "Although it was cold, but we went out.",
               "imagePath": null
             },
             {
-              "id": "q-g6-05-09-o2",
+              "id": "q2-g6-05-09-o2",
               "text": "When I will arrive, I called you.",
               "imagePath": null
             },
             {
-              "id": "q-g6-05-09-o3",
+              "id": "q2-g6-05-09-o3",
               "text": "Because I was ill, so I stayed home.",
               "imagePath": null
             },
             {
-              "id": "q-g6-05-09-o4",
+              "id": "q2-g6-05-09-o4",
               "text": "Although it was cold, we went out.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-05-09-o4"
+              "q2-g6-05-09-o4"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-05-10",
+          "id": "q2-g6-05-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“状语从句”最准确的总结。",
           "options": [
             {
-              "id": "q-g6-05-10-o1",
+              "id": "q2-g6-05-10-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g6-05-10-o2",
+              "id": "q2-g6-05-10-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g6-05-10-o3",
+              "id": "q2-g6-05-10-o3",
               "text": "because表示原因，although表示让步，when和while表示时间。",
               "imagePath": null
             },
             {
-              "id": "q-g6-05-10-o4",
+              "id": "q2-g6-05-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-05-10-o3"
+              "q2-g6-05-10-o3"
             ],
             "textAnswers": []
           },
