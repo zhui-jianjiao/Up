@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g5-01",
@@ -17,32 +17,9 @@
           "id": "q-g5-01-01",
           "type": "fillBlank",
           "stem": "I ___ already finished the poster.",
-          "options": [
-            {
-              "id": "q-g5-01-01-o1",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-01-o2",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-01-o3",
-              "text": "had yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-01-o4",
-              "text": "am",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-01-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "have"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g5-01-02",
           "type": "fillBlank",
           "stem": "Mia has ___ three books this month.",
-          "options": [
-            {
-              "id": "q-g5-01-02-o1",
-              "text": "reads",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-02-o2",
-              "text": "read",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-02-o3",
-              "text": "reading",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-02-o4",
-              "text": "readed",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-01-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "read"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g5-01-03",
           "type": "fillBlank",
           "stem": "We ___ never visited that island.",
-          "options": [
-            {
-              "id": "q-g5-01-03-o1",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-03-o2",
-              "text": "did",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-03-o3",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-03-o4",
-              "text": "are",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-01-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "have"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g5-01-04",
           "type": "fillBlank",
           "stem": "The bus has just ___.",
-          "options": [
-            {
-              "id": "q-g5-01-04-o1",
-              "text": "leave",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-04-o2",
-              "text": "leaves",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-04-o3",
-              "text": "leaving",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-04-o4",
-              "text": "left",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-01-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "left"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g5-01-05",
           "type": "fillBlank",
           "stem": "___ you ever tried ice skating?",
-          "options": [
-            {
-              "id": "q-g5-01-05-o1",
-              "text": "Have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-05-o2",
-              "text": "Did",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-05-o3",
-              "text": "Has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-05-o4",
-              "text": "Are",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-01-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "Have"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g5-01-06",
           "type": "fillBlank",
           "stem": "Dad ___ worked here for ten years.",
-          "options": [
-            {
-              "id": "q-g5-01-06-o1",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-06-o2",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-06-o3",
-              "text": "is",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-06-o4",
-              "text": "did",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-01-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "has"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g5-01-07",
           "type": "fillBlank",
           "stem": "They haven't ___ the answer yet.",
-          "options": [
-            {
-              "id": "q-g5-01-07-o1",
-              "text": "find",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-07-o2",
-              "text": "finds",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-07-o3",
-              "text": "found",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-01-07-o4",
-              "text": "finding",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-01-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "found"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g5-01-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“现在完成时”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“现在完成时”的一项。",
           "options": [
             {
               "id": "q-g5-01-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g5-01-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“现在完成时”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g5-01-09-o1",
