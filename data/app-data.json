@@ -58,6 +58,19 @@
         "questionsCompleted" : false,
         "subtitle" : "待配置的新课次",
         "title" : "Lesson 4"
+      },
+      {
+        "grammarCompleted" : false,
+        "grammarItems" : [
+
+        ],
+        "id" : "70104E2C-5B1F-43D3-A969-5A3DBA75A150",
+        "questionItems" : [
+
+        ],
+        "questionsCompleted" : false,
+        "subtitle" : "待配置的新课次",
+        "title" : "Lesson 5"
       }
     ],
     "22222222-2222-4222-8222-222222222222" : [
