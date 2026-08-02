@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g4-05",
@@ -24,7 +24,7 @@
               "must"
             ]
           },
-          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 本题应填“must”。",
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 可接受答案：must。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "should"
             ]
           },
-          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 本题应填“should”。",
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 可接受答案：should。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "mustn't"
             ]
           },
-          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 本题应填“mustn't”。",
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 可接受答案：mustn't。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "should"
             ]
           },
-          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 本题应填“should”。",
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 可接受答案：should。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "must"
             ]
           },
-          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 本题应填“must”。",
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 可接受答案：must。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "shouldn't"
             ]
           },
-          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 本题应填“shouldn't”。",
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 可接受答案：shouldn't。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "submit"
             ]
           },
-          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 本题应填“submit”。",
+          "explanation": "must表示强制或必要，should表示建议；后面都接动词原形。 可接受答案：submit。",
           "score": 1,
           "mediaPath": null
         },
