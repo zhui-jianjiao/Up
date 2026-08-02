@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g2-07",
@@ -24,7 +24,7 @@
               "in"
             ]
           },
-          "explanation": "in表示在里面，on表示在上面，under表示在下面。 本题应填“in”。",
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 可接受答案：in。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "on"
             ]
           },
-          "explanation": "in表示在里面，on表示在上面，under表示在下面。 本题应填“on”。",
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 可接受答案：on。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "under"
             ]
           },
-          "explanation": "in表示在里面，on表示在上面，under表示在下面。 本题应填“under”。",
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 可接受答案：under。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "between"
             ]
           },
-          "explanation": "in表示在里面，on表示在上面，under表示在下面。 本题应填“between”。",
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 可接受答案：between。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "between"
             ]
           },
-          "explanation": "in表示在里面，on表示在上面，under表示在下面。 本题应填“between”。",
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 可接受答案：between。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "over"
             ]
           },
-          "explanation": "in表示在里面，on表示在上面，under表示在下面。 本题应填“over”。",
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 可接受答案：over。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "near"
             ]
           },
-          "explanation": "in表示在里面，on表示在上面，under表示在下面。 本题应填“near”。",
+          "explanation": "in表示在里面，on表示在上面，under表示在下面。 可接受答案：near。",
           "score": 1,
           "mediaPath": null
         },
