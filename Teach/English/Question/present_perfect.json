@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g5-01",
@@ -24,7 +24,7 @@
               "have"
             ]
           },
-          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 本题应填“have”。",
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 可接受答案：have。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "read"
             ]
           },
-          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 本题应填“read”。",
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 可接受答案：read。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "have"
             ]
           },
-          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 本题应填“have”。",
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 可接受答案：have。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "left"
             ]
           },
-          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 本题应填“left”。",
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 可接受答案：left。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "Have"
             ]
           },
-          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 本题应填“Have”。",
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 可接受答案：Have。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "has"
             ]
           },
-          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 本题应填“has”。",
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 可接受答案：has。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "found"
             ]
           },
-          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 本题应填“found”。",
+          "explanation": "现在完成时由have/has加过去分词构成，强调过去动作与现在的联系。 可接受答案：found。",
           "score": 1,
           "mediaPath": null
         },
