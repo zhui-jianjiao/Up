@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g2-06",
@@ -17,6 +17,7 @@
           "id": "q2-g2-06-01",
           "type": "fillBlank",
           "stem": "Penguins can ___, but they cannot fly.",
+          "keyword": "swim",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g2-06-02",
           "type": "fillBlank",
           "stem": "___ you show me the way to the lab?",
+          "keyword": "can",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g2-06-03",
           "type": "fillBlank",
           "stem": "Mia ___ play chess very well.",
+          "keyword": "can",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g2-06-04",
           "type": "fillBlank",
           "stem": "We can't ___ food in the computer room.",
+          "keyword": "eat",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g2-06-05",
           "type": "fillBlank",
           "stem": "Can the robot ___ these words?",
+          "keyword": "read",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g2-06-06",
           "type": "fillBlank",
           "stem": "With this app, you ___ record your voice.",
+          "keyword": "can",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g2-06-07",
           "type": "fillBlank",
           "stem": "A baby bird ___ fly at first.",
+          "keyword": "can",
           "options": [],
           "answer": {
             "optionIDs": [],
