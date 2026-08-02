@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g3-04",
@@ -24,7 +24,7 @@
               "bread"
             ]
           },
-          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“bread”。",
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 可接受答案：bread。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "tomatoes"
             ]
           },
-          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“tomatoes”。",
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 可接受答案：tomatoes。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "milk"
             ]
           },
-          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“milk”。",
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 可接受答案：milk。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "information"
             ]
           },
-          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“information”。",
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 可接受答案：information。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "sandwiches"
             ]
           },
-          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“sandwiches”。",
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 可接受答案：sandwiches。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "paper"
             ]
           },
-          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“paper”。",
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 可接受答案：paper。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "homework"
             ]
           },
-          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 本题应填“homework”。",
+          "explanation": "可数名词有单复数；不可数名词通常不能直接与数字或a/an连用。 可接受答案：homework。",
           "score": 1,
           "mediaPath": null
         },
