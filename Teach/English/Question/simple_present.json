@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g3-02",
@@ -17,32 +17,9 @@
           "id": "q-g3-02-01",
           "type": "fillBlank",
           "stem": "The Earth ___ around the Sun.",
-          "options": [
-            {
-              "id": "q-g3-02-01-o1",
-              "text": "moves",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-01-o2",
-              "text": "move",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-01-o3",
-              "text": "is moving",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-01-o4",
-              "text": "moved",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-02-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "moves"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g3-02-02",
           "type": "fillBlank",
           "stem": "Leo usually ___ his bike to school.",
-          "options": [
-            {
-              "id": "q-g3-02-02-o1",
-              "text": "ride",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-02-o2",
-              "text": "rides",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-02-o3",
-              "text": "riding",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-02-o4",
-              "text": "rode",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-02-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "rides"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g3-02-03",
           "type": "fillBlank",
           "stem": "We ___ English every weekday.",
-          "options": [
-            {
-              "id": "q-g3-02-03-o1",
-              "text": "studies",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-03-o2",
-              "text": "studying",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-03-o3",
-              "text": "study",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-03-o4",
-              "text": "studied",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-02-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "study"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g3-02-04",
           "type": "fillBlank",
           "stem": "My aunt ___ in a children's hospital.",
-          "options": [
-            {
-              "id": "q-g3-02-04-o1",
-              "text": "work",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-04-o2",
-              "text": "working",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-04-o3",
-              "text": "worked",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-04-o4",
-              "text": "works",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-02-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "works"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g3-02-05",
           "type": "fillBlank",
           "stem": "Water ___ at 100 degrees Celsius.",
-          "options": [
-            {
-              "id": "q-g3-02-05-o1",
-              "text": "boils",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-05-o2",
-              "text": "boil",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-05-o3",
-              "text": "is boiling",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-05-o4",
-              "text": "boiled",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-02-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "boils"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g3-02-06",
           "type": "fillBlank",
           "stem": "Does Amy ___ comics after dinner?",
-          "options": [
-            {
-              "id": "q-g3-02-06-o1",
-              "text": "reads",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-06-o2",
-              "text": "read",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-06-o3",
-              "text": "reading",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-06-o4",
-              "text": "readed",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-02-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "read"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g3-02-07",
           "type": "fillBlank",
           "stem": "The shop ___ at nine every morning.",
-          "options": [
-            {
-              "id": "q-g3-02-07-o1",
-              "text": "open",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-07-o2",
-              "text": "opening",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-07-o3",
-              "text": "opens",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-07-o4",
-              "text": "opened",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-02-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "opens"
             ]
@@ -281,48 +120,27 @@
         },
         {
           "id": "q-g3-02-08",
-          "type": "singleChoice",
-          "stem": "校园英语角需要一个“一般现在时”示例，选择表达正确的一项。",
-          "options": [
-            {
-              "id": "q-g3-02-08-o1",
-              "text": "He go to school by bus.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-08-o2",
-              "text": "I gets up at seven.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-08-o3",
-              "text": "She watch TV every day.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g3-02-08-o4",
-              "text": "He goes to school by bus.",
-              "imagePath": null
-            }
-          ],
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：他乘公交车上学。",
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g3-02-08-o4"
-            ],
-            "textAnswers": []
+            "optionIDs": [],
+            "textAnswers": [
+              "He goes to school by bus."
+            ]
           },
-          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确表达：He goes to school by bus.",
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 参考表达：He goes to school by bus.",
           "score": 1,
           "mediaPath": null
         },
         {
           "id": "q-g3-02-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "选择正确使用“一般现在时”的一项。",
           "options": [
             {
               "id": "q-g3-02-09-o1",
-              "text": "I get up at seven.",
+              "text": "He go to school by bus.",
               "imagePath": null
             },
             {
@@ -337,13 +155,49 @@
             },
             {
               "id": "q-g3-02-09-o4",
+              "text": "He goes to school by bus.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-02-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。 正确表达：He goes to school by bus.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-02-10",
+          "type": "singleChoice",
+          "stem": "再次辨析“一般现在时”，选择结构正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-02-10-o1",
+              "text": "I get up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-10-o2",
+              "text": "I gets up at seven.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-10-o3",
+              "text": "She watch TV every day.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-02-10-o4",
               "text": "He go to school by bus.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g3-02-09-o1"
+              "q-g3-02-10-o1"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g3-02-10",
+          "id": "q-g3-02-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“一般现在时”最准确的总结。",
           "options": [
             {
-              "id": "q-g3-02-10-o1",
+              "id": "q-g3-02-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g3-02-10-o2",
+              "id": "q-g3-02-11-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g3-02-10-o3",
+              "id": "q-g3-02-11-o3",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             },
             {
-              "id": "q-g3-02-10-o4",
+              "id": "q-g3-02-11-o4",
               "text": "一般现在时表示习惯、事实；第三人称单数谓语通常加-s或-es。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g3-02-10-o4"
+              "q-g3-02-11-o4"
             ],
             "textAnswers": []
           },
