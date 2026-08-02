@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g6-03",
@@ -17,32 +17,9 @@
           "id": "q-g6-03-01",
           "type": "fillBlank",
           "stem": "This problem can ___ in two ways.",
-          "options": [
-            {
-              "id": "q-g6-03-01-o1",
-              "text": "be solved",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-01-o2",
-              "text": "solved",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-01-o3",
-              "text": "be solve",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-01-o4",
-              "text": "solve",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-03-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "be solved"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g6-03-02",
           "type": "fillBlank",
           "stem": "Safety rules must ___ at all times.",
-          "options": [
-            {
-              "id": "q-g6-03-02-o1",
-              "text": "followed",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-02-o2",
-              "text": "be followed",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-02-o3",
-              "text": "be follow",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-02-o4",
-              "text": "follow",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-03-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "be followed"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g6-03-03",
           "type": "fillBlank",
           "stem": "The form should ___ before Friday.",
-          "options": [
-            {
-              "id": "q-g6-03-03-o1",
-              "text": "completed",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-03-o2",
-              "text": "be complete",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-03-o3",
-              "text": "be completed",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-03-o4",
-              "text": "complete",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-03-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "be completed"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g6-03-04",
           "type": "fillBlank",
           "stem": "Plastic bottles can ___ again.",
-          "options": [
-            {
-              "id": "q-g6-03-04-o1",
-              "text": "used",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-04-o2",
-              "text": "be use",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-04-o3",
-              "text": "use",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-04-o4",
-              "text": "be used",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-03-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "be used"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g6-03-05",
           "type": "fillBlank",
           "stem": "The medicine must not ___ without advice.",
-          "options": [
-            {
-              "id": "q-g6-03-05-o1",
-              "text": "be taken",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-05-o2",
-              "text": "taken",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-05-o3",
-              "text": "be take",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-05-o4",
-              "text": "take",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-03-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "be taken"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g6-03-06",
           "type": "fillBlank",
           "stem": "How can this machine ___ safely?",
-          "options": [
-            {
-              "id": "q-g6-03-06-o1",
-              "text": "operated",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-06-o2",
-              "text": "be operated",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-06-o3",
-              "text": "be operate",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-06-o4",
-              "text": "operate",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-03-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "be operated"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g6-03-07",
           "type": "fillBlank",
           "stem": "More attention should ___ to pronunciation.",
-          "options": [
-            {
-              "id": "q-g6-03-07-o1",
-              "text": "paid",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-07-o2",
-              "text": "be pay",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-07-o3",
-              "text": "be paid",
-              "imagePath": null
-            },
-            {
-              "id": "q-g6-03-07-o4",
-              "text": "pay",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g6-03-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "be paid"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g6-03-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“含情态动词的被动语态”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“含情态动词的被动语态”的一项。",
           "options": [
             {
               "id": "q-g6-03-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g6-03-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“含情态动词的被动语态”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g6-03-09-o1",
