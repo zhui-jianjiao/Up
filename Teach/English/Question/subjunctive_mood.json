@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g6-08",
+      "grade": 6,
+      "order": 8,
+      "title": "虚拟语气初步专项练习",
+      "difficulty": "hard",
+      "grammarIDs": [
+        "g6-08"
+      ],
+      "questions": [
+        {
+          "id": "q-g6-08-01",
+          "type": "fillBlank",
+          "stem": "I wish I ___ play the violin.",
+          "options": [
+            {
+              "id": "q-g6-08-01-o1",
+              "text": "could",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-01-o2",
+              "text": "can yesterday",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-01-o3",
+              "text": "will",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-01-o4",
+              "text": "am",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-01-o1"
+            ],
+            "textAnswers": [
+              "could"
+            ]
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 本题应填“could”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-02",
+          "type": "fillBlank",
+          "stem": "If I ___ you, I would apologise.",
+          "options": [
+            {
+              "id": "q-g6-08-02-o1",
+              "text": "was will",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-02-o2",
+              "text": "were",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-02-o3",
+              "text": "am",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-02-o4",
+              "text": "be",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-02-o2"
+            ],
+            "textAnswers": [
+              "were"
+            ]
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 本题应填“were”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-03",
+          "type": "fillBlank",
+          "stem": "Mia wishes she ___ more free time.",
+          "options": [
+            {
+              "id": "q-g6-08-03-o1",
+              "text": "has now",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-03-o2",
+              "text": "will have yesterday",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-03-o3",
+              "text": "had",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-03-o4",
+              "text": "having",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-03-o3"
+            ],
+            "textAnswers": [
+              "had"
+            ]
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 本题应填“had”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-04",
+          "type": "fillBlank",
+          "stem": "If we lived near the sea, we ___ every day.",
+          "options": [
+            {
+              "id": "q-g6-08-04-o1",
+              "text": "will swim",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-04-o2",
+              "text": "swam yesterday",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-04-o3",
+              "text": "are swimming",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-04-o4",
+              "text": "would swim",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-04-o4"
+            ],
+            "textAnswers": [
+              "would swim"
+            ]
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 本题应填“would swim”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-05",
+          "type": "fillBlank",
+          "stem": "I wish it ___ raining now.",
+          "options": [
+            {
+              "id": "q-g6-08-05-o1",
+              "text": "weren't",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-05-o2",
+              "text": "isn't yesterday",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-05-o3",
+              "text": "won't",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-05-o4",
+              "text": "doesn't",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-05-o1"
+            ],
+            "textAnswers": [
+              "weren't"
+            ]
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 本题应填“weren't”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-06",
+          "type": "fillBlank",
+          "stem": "If he ___ more carefully, he would notice the clue.",
+          "options": [
+            {
+              "id": "q-g6-08-06-o1",
+              "text": "looks will",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-06-o2",
+              "text": "looked",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-06-o3",
+              "text": "will look",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-06-o4",
+              "text": "is looking yesterday",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-06-o2"
+            ],
+            "textAnswers": [
+              "looked"
+            ]
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 本题应填“looked”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-07",
+          "type": "fillBlank",
+          "stem": "She talks as if she ___ everything.",
+          "options": [
+            {
+              "id": "q-g6-08-07-o1",
+              "text": "knows will",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-07-o2",
+              "text": "will know",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-07-o3",
+              "text": "knew",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-07-o4",
+              "text": "is know",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-07-o3"
+            ],
+            "textAnswers": [
+              "knew"
+            ]
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 本题应填“knew”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“虚拟语气初步”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-08-08-o1",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-08-o2",
+              "text": "I wish I could fly.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-08-o3",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-08-o4",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-08-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确表达：I wish I could fly.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g6-08-09-o1",
+              "text": "If I was you, I will study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-09-o2",
+              "text": "I wish I am taller last year.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-09-o3",
+              "text": "If I were you, I would study harder.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-09-o4",
+              "text": "I wish I can fly yesterday.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-09-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。 正确表达：If I were you, I would study harder.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g6-08-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“虚拟语气初步”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g6-08-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-10-o2",
+              "text": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g6-08-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g6-08-10-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "wish表达与现实不同的愿望；非真实条件句可用if加过去式。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
