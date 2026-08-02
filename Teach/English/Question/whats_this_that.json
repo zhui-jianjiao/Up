@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g1-06",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g1-06-01",
+          "id": "q2-g1-06-01",
           "type": "fillBlank",
           "stem": "What's this? ___ a compass.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-02",
+          "id": "q2-g1-06-02",
           "type": "fillBlank",
           "stem": "What's that on the roof? ___ a kite.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-03",
+          "id": "q2-g1-06-03",
           "type": "fillBlank",
           "stem": "___ this in English? It's a stapler.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-04",
+          "id": "q2-g1-06-04",
           "type": "fillBlank",
           "stem": "What's that animal? ___ an alpaca.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-05",
+          "id": "q2-g1-06-05",
           "type": "fillBlank",
           "stem": "___ that near the gate? It's our school bus.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-06",
+          "id": "q2-g1-06-06",
           "type": "fillBlank",
           "stem": "What's this used for? ___ a ruler.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-07",
+          "id": "q2-g1-06-07",
           "type": "fillBlank",
           "stem": "A: What's that sound? B: ___ the bell.",
           "options": [],
@@ -119,7 +119,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-08",
+          "id": "q2-g1-06-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：这是什么？它是一把尺。",
           "options": [],
@@ -134,34 +134,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-09",
+          "id": "q2-g1-06-09",
           "type": "singleChoice",
           "stem": "选择正确使用“What's this / that 提问及回答”的一项。",
           "options": [
             {
-              "id": "q-g1-06-09-o1",
+              "id": "q2-g1-06-09-o1",
               "text": "What this is? A ruler.",
               "imagePath": null
             },
             {
-              "id": "q-g1-06-09-o2",
+              "id": "q2-g1-06-09-o2",
               "text": "What's this? It's a ruler.",
               "imagePath": null
             },
             {
-              "id": "q-g1-06-09-o3",
+              "id": "q2-g1-06-09-o3",
               "text": "What's those? It is a kite.",
               "imagePath": null
             },
             {
-              "id": "q-g1-06-09-o4",
+              "id": "q2-g1-06-09-o4",
               "text": "What are that?",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-06-09-o2"
+              "q2-g1-06-09-o2"
             ],
             "textAnswers": []
           },
@@ -170,34 +170,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-10",
+          "id": "q2-g1-06-10",
           "type": "singleChoice",
           "stem": "再次辨析“What's this / that 提问及回答”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g1-06-10-o1",
+              "id": "q2-g1-06-10-o1",
               "text": "What's those? It is a kite.",
               "imagePath": null
             },
             {
-              "id": "q-g1-06-10-o2",
+              "id": "q2-g1-06-10-o2",
               "text": "What are that?",
               "imagePath": null
             },
             {
-              "id": "q-g1-06-10-o3",
+              "id": "q2-g1-06-10-o3",
               "text": "What's that? It's an elephant.",
               "imagePath": null
             },
             {
-              "id": "q-g1-06-10-o4",
+              "id": "q2-g1-06-10-o4",
               "text": "What this is? A ruler.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-06-10-o3"
+              "q2-g1-06-10-o3"
             ],
             "textAnswers": []
           },
@@ -206,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-06-11",
+          "id": "q2-g1-06-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“What's this / that 提问及回答”最准确的总结。",
           "options": [
             {
-              "id": "q-g1-06-11-o1",
+              "id": "q2-g1-06-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g1-06-11-o2",
+              "id": "q2-g1-06-11-o2",
               "text": "使用What's this/that询问单个事物，回答用It's a/an...。",
               "imagePath": null
             },
             {
-              "id": "q-g1-06-11-o3",
+              "id": "q2-g1-06-11-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g1-06-11-o4",
+              "id": "q2-g1-06-11-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-06-11-o2"
+              "q2-g1-06-11-o2"
             ],
             "textAnswers": []
           },
