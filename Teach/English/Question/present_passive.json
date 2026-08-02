@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g5-08",
@@ -17,6 +17,7 @@
           "id": "q2-g5-08-01",
           "type": "fillBlank",
           "stem": "English ___ in many countries.",
+          "keyword": "speak",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g5-08-02",
           "type": "fillBlank",
           "stem": "These bottles ___ from recycled plastic.",
+          "keyword": "make",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g5-08-03",
           "type": "fillBlank",
           "stem": "The classroom ___ every afternoon.",
+          "keyword": "clean",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g5-08-04",
           "type": "fillBlank",
           "stem": "How ___?",
+          "keyword": "recycle",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g5-08-05",
           "type": "fillBlank",
           "stem": "School uniforms ___ on weekdays.",
+          "keyword": "wear",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g5-08-06",
           "type": "fillBlank",
           "stem": "Rice ___ in southern China.",
+          "keyword": "grow",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g5-08-07",
           "type": "fillBlank",
           "stem": "The results ___ online each Friday.",
+          "keyword": "publish",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -122,6 +129,7 @@
           "id": "q2-g5-08-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：许多国家使用英语。",
+          "keyword": "speak",
           "options": [],
           "answer": {
             "optionIDs": [],
