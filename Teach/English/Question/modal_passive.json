@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g6-03",
@@ -17,6 +17,7 @@
           "id": "q2-g6-03-01",
           "type": "fillBlank",
           "stem": "This problem can ___ in two ways.",
+          "keyword": "solve",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g6-03-02",
           "type": "fillBlank",
           "stem": "Safety rules must ___ at all times.",
+          "keyword": "follow",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g6-03-03",
           "type": "fillBlank",
           "stem": "The form should ___ before Friday.",
+          "keyword": "complete",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g6-03-04",
           "type": "fillBlank",
           "stem": "Plastic bottles can ___ again.",
+          "keyword": "use",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g6-03-05",
           "type": "fillBlank",
           "stem": "The medicine must not ___ without advice.",
+          "keyword": "take",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g6-03-06",
           "type": "fillBlank",
           "stem": "How can this machine ___ safely?",
+          "keyword": "operate",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g6-03-07",
           "type": "fillBlank",
           "stem": "More attention should ___ to pronunciation.",
+          "keyword": "pay",
           "options": [],
           "answer": {
             "optionIDs": [],
