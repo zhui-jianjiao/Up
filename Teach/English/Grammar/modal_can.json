@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g2-06",
@@ -23,6 +23,12 @@
           "english": "Can she dance?",
           "chinese": "她会跳舞吗？",
           "note": null
+        },
+        {
+          "id": "g2-06-e3",
+          "english": "She can speak two languages.",
+          "chinese": "她会说两种语言。",
+          "note": "can后面使用动词原形speak。"
         }
       ],
       "tips": [
@@ -87,7 +93,9 @@
           "correct": "Can she dance?",
           "reason": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": null,
+      "markdownContent": "## 学习小结\n\n**核心规则：** can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n"
     }
   ]
 }
