@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g4-03",
@@ -23,6 +23,18 @@
           "english": "This road is better.",
           "chinese": "这条路更好。",
           "note": null
+        },
+        {
+          "id": "g4-03-e3",
+          "english": "This idea is better than the first one.",
+          "chinese": "这个主意比第一个更好。",
+          "note": "good的比较级是better。"
+        },
+        {
+          "id": "g4-03-e4",
+          "english": "The red box is bigger than the blue one.",
+          "chinese": "红盒子比蓝盒子大。",
+          "note": "big双写g后加-er。"
         }
       ],
       "tips": [
@@ -87,7 +99,47 @@
           "correct": "This road is better.",
           "reason": "比较两者通常使用比较级并搭配than，注意规则及不规则变化。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g4-03-sf1",
+          "title": "比较级特殊变化",
+          "summary": "部分形容词不按直接加-er变化。",
+          "items": [
+            {
+              "id": "g4-03-sf1-1",
+              "base": "good / well",
+              "form": "better",
+              "usage": "更好"
+            },
+            {
+              "id": "g4-03-sf1-2",
+              "base": "bad / ill",
+              "form": "worse",
+              "usage": "更差"
+            },
+            {
+              "id": "g4-03-sf1-3",
+              "base": "many / much",
+              "form": "more",
+              "usage": "更多"
+            },
+            {
+              "id": "g4-03-sf1-4",
+              "base": "little",
+              "form": "less",
+              "usage": "更少"
+            },
+            {
+              "id": "g4-03-sf1-5",
+              "base": "far",
+              "form": "farther / further",
+              "usage": "更远"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 比较两者通常使用比较级并搭配than，注意规则及不规则变化。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
