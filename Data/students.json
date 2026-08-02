@@ -7,9 +7,15 @@
       "colorName" : "blue",
       "grade" : 2,
       "id" : "KQJWDX",
-      "learningGoal" : "在一起就可以看到自己开心",
+      "learningGoal" : "让反反复复婷婷",
       "learningPlan" : "同步巩固",
       "name" : "小小"
+    },
+    {
+      "avatar" : "face.smiling.fill",
+      "colorName" : "orange",
+      "id" : "M9QVUQ",
+      "name" : "你在"
     }
   ]
 }
