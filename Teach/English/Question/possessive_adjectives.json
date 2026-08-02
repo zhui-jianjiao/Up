@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g2-02",
+      "grade": 2,
+      "order": 2,
+      "title": "形容词性物主代词专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g2-02"
+      ],
+      "questions": [
+        {
+          "id": "q-g2-02-01",
+          "type": "fillBlank",
+          "stem": "I have a camera. ___ camera is small.",
+          "options": [
+            {
+              "id": "q-g2-02-01-o1",
+              "text": "My",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-01-o2",
+              "text": "Mine",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-01-o3",
+              "text": "Me",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-01-o4",
+              "text": "I",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-01-o1"
+            ],
+            "textAnswers": [
+              "My"
+            ]
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“My”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-02",
+          "type": "fillBlank",
+          "stem": "Ella feeds ___ rabbit every morning.",
+          "options": [
+            {
+              "id": "q-g2-02-02-o1",
+              "text": "hers",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-02-o2",
+              "text": "her",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-02-o3",
+              "text": "she",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-02-o4",
+              "text": "its",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-02-o2"
+            ],
+            "textAnswers": [
+              "her"
+            ]
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“her”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-03",
+          "type": "fillBlank",
+          "stem": "We decorate ___ classroom together.",
+          "options": [
+            {
+              "id": "q-g2-02-03-o1",
+              "text": "ours",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-03-o2",
+              "text": "us",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-03-o3",
+              "text": "our",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-03-o4",
+              "text": "we",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-03-o3"
+            ],
+            "textAnswers": [
+              "our"
+            ]
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“our”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-04",
+          "type": "fillBlank",
+          "stem": "The dog is wagging ___ tail.",
+          "options": [
+            {
+              "id": "q-g2-02-04-o1",
+              "text": "it's",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-04-o2",
+              "text": "it",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-04-o3",
+              "text": "their",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-04-o4",
+              "text": "its",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-04-o4"
+            ],
+            "textAnswers": [
+              "its"
+            ]
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“its”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-05",
+          "type": "fillBlank",
+          "stem": "Jack and Sam bring ___ lunch boxes.",
+          "options": [
+            {
+              "id": "q-g2-02-05-o1",
+              "text": "their",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-05-o2",
+              "text": "theirs",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-05-o3",
+              "text": "them",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-05-o4",
+              "text": "they",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-05-o1"
+            ],
+            "textAnswers": [
+              "their"
+            ]
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“their”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-06",
+          "type": "fillBlank",
+          "stem": "Tom, is this ___ notebook?",
+          "options": [
+            {
+              "id": "q-g2-02-06-o1",
+              "text": "yours",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-06-o2",
+              "text": "your",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-06-o3",
+              "text": "you",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-06-o4",
+              "text": "his",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-06-o2"
+            ],
+            "textAnswers": [
+              "your"
+            ]
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“your”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-07",
+          "type": "fillBlank",
+          "stem": "Ben wears ___ new glasses to class.",
+          "options": [
+            {
+              "id": "q-g2-02-07-o1",
+              "text": "him",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-07-o2",
+              "text": "he",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-07-o3",
+              "text": "his",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-07-o4",
+              "text": "its",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-07-o3"
+            ],
+            "textAnswers": [
+              "his"
+            ]
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 本题应填“his”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“形容词性物主代词”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-02-08-o1",
+              "text": "This is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-08-o2",
+              "text": "This book is my book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-08-o3",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-08-o4",
+              "text": "This is mine pen.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-08-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确表达：This is my book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-02-09-o1",
+              "text": "Them classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-09-o2",
+              "text": "Their classroom is big.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-09-o3",
+              "text": "This is mine pen.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-09-o4",
+              "text": "This book is my book.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-09-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。 正确表达：Their classroom is big.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-02-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“形容词性物主代词”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g2-02-10-o1",
+              "text": "my、your、his、her、its、our、their后面必须接名词。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-10-o2",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-02-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-02-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "my、your、his、her、its、our、their后面必须接名词。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
