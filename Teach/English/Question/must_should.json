@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g4-05",
@@ -17,6 +17,7 @@
           "id": "q2-g4-05-01",
           "type": "fillBlank",
           "stem": "Cyclists ___ stop at a red light.",
+          "keyword": "must",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g4-05-02",
           "type": "fillBlank",
           "stem": "You look tired. You ___ take a short break.",
+          "keyword": "should",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g4-05-03",
           "type": "fillBlank",
           "stem": "Visitors ___ touch the paintings.",
+          "keyword": "must",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g4-05-04",
           "type": "fillBlank",
           "stem": "We ___ save water whenever possible.",
+          "keyword": "should",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g4-05-05",
           "type": "fillBlank",
           "stem": "Students ___ wear safety glasses in the lab.",
+          "keyword": "must",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g4-05-06",
           "type": "fillBlank",
           "stem": "You ___ share your password with anyone.",
+          "keyword": "should",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g4-05-07",
           "type": "fillBlank",
           "stem": "Must I ___ the form today?",
+          "keyword": "submit",
           "options": [],
           "answer": {
             "optionIDs": [],
