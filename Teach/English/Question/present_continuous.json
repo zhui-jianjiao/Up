@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g3-01",
@@ -24,7 +24,7 @@
               "is playing"
             ]
           },
-          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“is playing”。",
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 可接受答案：is playing。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "are doing"
             ]
           },
-          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“are doing”。",
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 可接受答案：are doing。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "am waiting"
             ]
           },
-          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“am waiting”。",
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 可接受答案：am waiting。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "is melting"
             ]
           },
-          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“is melting”。",
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 可接受答案：is melting。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "are you running"
             ]
           },
-          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“are you running”。",
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 可接受答案：are you running。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "is reading"
             ]
           },
-          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“is reading”。",
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 可接受答案：is reading。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "are preparing"
             ]
           },
-          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 本题应填“are preparing”。",
+          "explanation": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 可接受答案：are preparing。",
           "score": 1,
           "mediaPath": null
         },
