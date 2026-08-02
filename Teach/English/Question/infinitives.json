@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g4-07",
+      "grade": 4,
+      "order": 7,
+      "title": "动词不定式 to do专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g4-07"
+      ],
+      "questions": [
+        {
+          "id": "q-g4-07-01",
+          "type": "fillBlank",
+          "stem": "I hope ___ the school newspaper.",
+          "options": [
+            {
+              "id": "q-g4-07-01-o1",
+              "text": "to join",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-01-o2",
+              "text": "joining",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-01-o3",
+              "text": "join",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-01-o4",
+              "text": "joined",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-01-o1"
+            ],
+            "textAnswers": [
+              "to join"
+            ]
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 本题应填“to join”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-02",
+          "type": "fillBlank",
+          "stem": "We went outside ___ the rainbow.",
+          "options": [
+            {
+              "id": "q-g4-07-02-o1",
+              "text": "seeing",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-02-o2",
+              "text": "to see",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-02-o3",
+              "text": "saw",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-02-o4",
+              "text": "sees",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-02-o2"
+            ],
+            "textAnswers": [
+              "to see"
+            ]
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 本题应填“to see”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-03",
+          "type": "fillBlank",
+          "stem": "Mia needs ___ her presentation.",
+          "options": [
+            {
+              "id": "q-g4-07-03-o1",
+              "text": "finishing",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-03-o2",
+              "text": "finished",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-03-o3",
+              "text": "to finish",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-03-o4",
+              "text": "finishes",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-03-o3"
+            ],
+            "textAnswers": [
+              "to finish"
+            ]
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 本题应填“to finish”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-04",
+          "type": "fillBlank",
+          "stem": "Dad taught me ___ a tyre.",
+          "options": [
+            {
+              "id": "q-g4-07-04-o1",
+              "text": "changing",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-04-o2",
+              "text": "changed",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-04-o3",
+              "text": "changes",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-04-o4",
+              "text": "to change",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-04-o4"
+            ],
+            "textAnswers": [
+              "to change"
+            ]
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 本题应填“to change”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-05",
+          "type": "fillBlank",
+          "stem": "The class decided ___ less plastic.",
+          "options": [
+            {
+              "id": "q-g4-07-05-o1",
+              "text": "to use",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-05-o2",
+              "text": "using",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-05-o3",
+              "text": "used",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-05-o4",
+              "text": "uses",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-05-o1"
+            ],
+            "textAnswers": [
+              "to use"
+            ]
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 本题应填“to use”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-06",
+          "type": "fillBlank",
+          "stem": "It is important ___ carefully.",
+          "options": [
+            {
+              "id": "q-g4-07-06-o1",
+              "text": "listening",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-06-o2",
+              "text": "to listen",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-06-o3",
+              "text": "listened",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-06-o4",
+              "text": "listens",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-06-o2"
+            ],
+            "textAnswers": [
+              "to listen"
+            ]
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 本题应填“to listen”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-07",
+          "type": "fillBlank",
+          "stem": "Ben saved money ___ a telescope.",
+          "options": [
+            {
+              "id": "q-g4-07-07-o1",
+              "text": "buying",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-07-o2",
+              "text": "bought",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-07-o3",
+              "text": "to buy",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-07-o4",
+              "text": "buys",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-07-o3"
+            ],
+            "textAnswers": [
+              "to buy"
+            ]
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 本题应填“to buy”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“动词不定式 to do”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-07-08-o1",
+              "text": "I want to be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-08-o2",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-08-o3",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-08-o4",
+              "text": "He needs to studies.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-08-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确表达：I want to be a pilot.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-07-09-o1",
+              "text": "She went out to buying milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-09-o2",
+              "text": "She went out to buy milk.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-09-o3",
+              "text": "He needs to studies.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-09-o4",
+              "text": "I want be a pilot.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-09-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。 正确表达：She went out to buy milk.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-07-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“动词不定式 to do”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g4-07-10-o1",
+              "text": "to加动词原形可表示目的，也常跟在want、need、like等动词后。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-10-o2",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-07-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-07-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "to加动词原形可表示目的，也常跟在want、need、like等动词后。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
