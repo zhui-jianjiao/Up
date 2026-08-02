@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g3-08",
@@ -24,7 +24,7 @@
               "at"
             ]
           },
-          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 本题应填“at”。",
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 可接受答案：at。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "on"
             ]
           },
-          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 本题应填“on”。",
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 可接受答案：on。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "in"
             ]
           },
-          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 本题应填“in”。",
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 可接受答案：in。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "in"
             ]
           },
-          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 本题应填“in”。",
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 可接受答案：in。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "on"
             ]
           },
-          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 本题应填“on”。",
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 可接受答案：on。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "at"
             ]
           },
-          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 本题应填“at”。",
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 可接受答案：at。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "in"
             ]
           },
-          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 本题应填“in”。",
+          "explanation": "at用于具体时刻，on用于具体日期或星期，in用于月份、年份和较长时间。 可接受答案：in。",
           "score": 1,
           "mediaPath": null
         },
