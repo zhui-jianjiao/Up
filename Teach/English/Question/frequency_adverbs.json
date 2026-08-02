@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g4-04",
@@ -17,32 +17,9 @@
           "id": "q-g4-04-01",
           "type": "fillBlank",
           "stem": "I ___ check my schoolbag before leaving.",
-          "options": [
-            {
-              "id": "q-g4-04-01-o1",
-              "text": "always",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-01-o2",
-              "text": "yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-01-o3",
-              "text": "now",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-01-o4",
-              "text": "soon",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-04-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "always"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g4-04-02",
           "type": "fillBlank",
           "stem": "Mia is ___ late for class; she arrives early.",
-          "options": [
-            {
-              "id": "q-g4-04-02-o1",
-              "text": "always",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-02-o2",
-              "text": "never",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-02-o3",
-              "text": "now",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-02-o4",
-              "text": "tomorrow",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-04-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "never"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g4-04-03",
           "type": "fillBlank",
           "stem": "We ___ go hiking, perhaps twice a month.",
-          "options": [
-            {
-              "id": "q-g4-04-03-o1",
-              "text": "never",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-03-o2",
-              "text": "now",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-03-o3",
-              "text": "sometimes",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-03-o4",
-              "text": "yesterday",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-04-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "sometimes"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g4-04-04",
           "type": "fillBlank",
           "stem": "Dad ___ drinks coffee after lunch.",
-          "options": [
-            {
-              "id": "q-g4-04-04-o1",
-              "text": "last",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-04-o2",
-              "text": "next",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-04-o3",
-              "text": "ago",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-04-o4",
-              "text": "usually",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-04-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "usually"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g4-04-05",
           "type": "fillBlank",
           "stem": "Our teacher is ___ patient with questions.",
-          "options": [
-            {
-              "id": "q-g4-04-05-o1",
-              "text": "always",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-05-o2",
-              "text": "often is",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-05-o3",
-              "text": "yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-05-o4",
-              "text": "soon",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-04-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "always"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g4-04-06",
           "type": "fillBlank",
           "stem": "I ___ watch TV on school nights.",
-          "options": [
-            {
-              "id": "q-g4-04-06-o1",
-              "text": "now",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-06-o2",
-              "text": "rarely",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-06-o3",
-              "text": "tomorrow",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-06-o4",
-              "text": "last",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-04-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "rarely"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g4-04-07",
           "type": "fillBlank",
           "stem": "They ___ practise before a performance.",
-          "options": [
-            {
-              "id": "q-g4-04-07-o1",
-              "text": "ago",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-07-o2",
-              "text": "next",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-07-o3",
-              "text": "often",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-04-07-o4",
-              "text": "currently",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-04-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "often"
             ]
@@ -281,33 +120,48 @@
         },
         {
           "id": "q-g4-04-08",
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：我经常步行上学。",
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "I often walk to school."
+            ]
+          },
+          "explanation": "always、usually、often、sometimes等通常位于实义动词前、be动词后。 参考表达：I often walk to school.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-04-09",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“频度副词”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“频度副词”的一项。",
           "options": [
             {
-              "id": "q-g4-04-08-o1",
+              "id": "q-g4-04-09-o1",
               "text": "I walk often to school every.",
               "imagePath": null
             },
             {
-              "id": "q-g4-04-08-o2",
+              "id": "q-g4-04-09-o2",
               "text": "I often walk to school.",
               "imagePath": null
             },
             {
-              "id": "q-g4-04-08-o3",
+              "id": "q-g4-04-09-o3",
               "text": "She always is kind.",
               "imagePath": null
             },
             {
-              "id": "q-g4-04-08-o4",
+              "id": "q-g4-04-09-o4",
               "text": "He go usually swimming.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-04-08-o2"
+              "q-g4-04-09-o2"
             ],
             "textAnswers": []
           },
@@ -316,34 +170,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-04-09",
+          "id": "q-g4-04-10",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“频度副词”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g4-04-09-o1",
+              "id": "q-g4-04-10-o1",
               "text": "She always is kind.",
               "imagePath": null
             },
             {
-              "id": "q-g4-04-09-o2",
+              "id": "q-g4-04-10-o2",
               "text": "He go usually swimming.",
               "imagePath": null
             },
             {
-              "id": "q-g4-04-09-o3",
+              "id": "q-g4-04-10-o3",
               "text": "She is always kind.",
               "imagePath": null
             },
             {
-              "id": "q-g4-04-09-o4",
+              "id": "q-g4-04-10-o4",
               "text": "I walk often to school every.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-04-09-o3"
+              "q-g4-04-10-o3"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-04-10",
+          "id": "q-g4-04-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“频度副词”最准确的总结。",
           "options": [
             {
-              "id": "q-g4-04-10-o1",
+              "id": "q-g4-04-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g4-04-10-o2",
+              "id": "q-g4-04-11-o2",
               "text": "always、usually、often、sometimes等通常位于实义动词前、be动词后。",
               "imagePath": null
             },
             {
-              "id": "q-g4-04-10-o3",
+              "id": "q-g4-04-11-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g4-04-10-o4",
+              "id": "q-g4-04-11-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-04-10-o2"
+              "q-g4-04-11-o2"
             ],
             "textAnswers": []
           },
