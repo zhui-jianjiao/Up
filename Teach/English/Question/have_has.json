@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g2-05",
@@ -17,32 +17,9 @@
           "id": "q-g2-05-01",
           "type": "fillBlank",
           "stem": "Our classroom ___ two large windows.",
-          "options": [
-            {
-              "id": "q-g2-05-01-o1",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-01-o2",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-01-o3",
-              "text": "having",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-01-o4",
-              "text": "had",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-05-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "has"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g2-05-02",
           "type": "fillBlank",
           "stem": "I ___ a piano lesson on Friday.",
-          "options": [
-            {
-              "id": "q-g2-05-02-o1",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-02-o2",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-02-o3",
-              "text": "having",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-02-o4",
-              "text": "had",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-05-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "have"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g2-05-03",
           "type": "fillBlank",
           "stem": "Mia and Zoe ___ the same hobby.",
-          "options": [
-            {
-              "id": "q-g2-05-03-o1",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-03-o2",
-              "text": "having",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-03-o3",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-03-o4",
-              "text": "had",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-05-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "have"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g2-05-04",
           "type": "fillBlank",
           "stem": "The octopus ___ eight arms.",
-          "options": [
-            {
-              "id": "q-g2-05-04-o1",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-04-o2",
-              "text": "having",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-04-o3",
-              "text": "had",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-04-o4",
-              "text": "has",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-05-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "has"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g2-05-05",
           "type": "fillBlank",
           "stem": "Does Leo ___ a library card?",
-          "options": [
-            {
-              "id": "q-g2-05-05-o1",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-05-o2",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-05-o3",
-              "text": "having",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-05-o4",
-              "text": "had",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-05-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "have"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g2-05-06",
           "type": "fillBlank",
           "stem": "My school ___ a rooftop garden.",
-          "options": [
-            {
-              "id": "q-g2-05-06-o1",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-06-o2",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-06-o3",
-              "text": "having",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-06-o4",
-              "text": "had",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-05-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "has"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g2-05-07",
           "type": "fillBlank",
           "stem": "We don't ___ enough paint.",
-          "options": [
-            {
-              "id": "q-g2-05-07-o1",
-              "text": "has",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-07-o2",
-              "text": "having",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-07-o3",
-              "text": "have",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-07-o4",
-              "text": "had",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-05-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "have"
             ]
@@ -281,48 +120,27 @@
         },
         {
           "id": "q-g2-05-08",
-          "type": "singleChoice",
-          "stem": "校园英语角需要一个“Have / Has 的用法”示例，选择表达正确的一项。",
-          "options": [
-            {
-              "id": "q-g2-05-08-o1",
-              "text": "She have a new bike.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-08-o2",
-              "text": "We has lunch at school.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-08-o3",
-              "text": "Tom have two dogs.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g2-05-08-o4",
-              "text": "She has a new bike.",
-              "imagePath": null
-            }
-          ],
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：她有一辆新自行车。",
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g2-05-08-o4"
-            ],
-            "textAnswers": []
+            "optionIDs": [],
+            "textAnswers": [
+              "She has a new bike."
+            ]
           },
-          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确表达：She has a new bike.",
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 参考表达：She has a new bike.",
           "score": 1,
           "mediaPath": null
         },
         {
           "id": "q-g2-05-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "选择正确使用“Have / Has 的用法”的一项。",
           "options": [
             {
               "id": "q-g2-05-09-o1",
-              "text": "We have lunch at school.",
+              "text": "She have a new bike.",
               "imagePath": null
             },
             {
@@ -337,13 +155,49 @@
             },
             {
               "id": "q-g2-05-09-o4",
+              "text": "She has a new bike.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g2-05-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "I、you和复数主语用have；he、she、it等第三人称单数用has。 正确表达：She has a new bike.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g2-05-10",
+          "type": "singleChoice",
+          "stem": "再次辨析“Have / Has 的用法”，选择结构正确的一项。",
+          "options": [
+            {
+              "id": "q-g2-05-10-o1",
+              "text": "We have lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-10-o2",
+              "text": "We has lunch at school.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-10-o3",
+              "text": "Tom have two dogs.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g2-05-10-o4",
               "text": "She have a new bike.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-05-09-o1"
+              "q-g2-05-10-o1"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-05-10",
+          "id": "q-g2-05-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“Have / Has 的用法”最准确的总结。",
           "options": [
             {
-              "id": "q-g2-05-10-o1",
+              "id": "q-g2-05-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g2-05-10-o2",
+              "id": "q-g2-05-11-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g2-05-10-o3",
+              "id": "q-g2-05-11-o3",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             },
             {
-              "id": "q-g2-05-10-o4",
+              "id": "q-g2-05-11-o4",
               "text": "I、you和复数主语用have；he、she、it等第三人称单数用has。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-05-10-o4"
+              "q-g2-05-11-o4"
             ],
             "textAnswers": []
           },
