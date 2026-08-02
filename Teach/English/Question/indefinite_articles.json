@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g1-03",
@@ -24,7 +24,7 @@
               "an"
             ]
           },
-          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“an”。",
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 可接受答案：an。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "a"
             ]
           },
-          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“a”。",
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 可接受答案：a。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "an"
             ]
           },
-          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“an”。",
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 可接受答案：an。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "a"
             ]
           },
-          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“a”。",
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 可接受答案：a。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "an"
             ]
           },
-          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“an”。",
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 可接受答案：an。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "a"
             ]
           },
-          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“a”。",
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 可接受答案：a。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "an"
             ]
           },
-          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“an”。",
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 可接受答案：an。",
           "score": 1,
           "mediaPath": null
         },
