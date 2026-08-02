@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g1-03",
+      "grade": 1,
+      "order": 3,
+      "title": "不定冠词 a / an专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g1-03"
+      ],
+      "questions": [
+        {
+          "id": "q-g1-03-01",
+          "type": "fillBlank",
+          "stem": "We saw ___ owl in the old tree.",
+          "options": [
+            {
+              "id": "q-g1-03-01-o1",
+              "text": "an",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-01-o2",
+              "text": "a",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-01-o3",
+              "text": "the",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-01-o4",
+              "text": "some",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-01-o1"
+            ],
+            "textAnswers": [
+              "an"
+            ]
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“an”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-03-02",
+          "type": "fillBlank",
+          "stem": "Dad bought me ___ useful dictionary.",
+          "options": [
+            {
+              "id": "q-g1-03-02-o1",
+              "text": "an",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-02-o2",
+              "text": "a",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-02-o3",
+              "text": "the",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-02-o4",
+              "text": "any",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-02-o2"
+            ],
+            "textAnswers": [
+              "a"
+            ]
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“a”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-03-03",
+          "type": "fillBlank",
+          "stem": "Ella wants to be ___ engineer.",
+          "options": [
+            {
+              "id": "q-g1-03-03-o1",
+              "text": "a",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-03-o2",
+              "text": "the",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-03-o3",
+              "text": "an",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-03-o4",
+              "text": "some",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-03-o3"
+            ],
+            "textAnswers": [
+              "an"
+            ]
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“an”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-03-04",
+          "type": "fillBlank",
+          "stem": "There is ___ university near the museum.",
+          "options": [
+            {
+              "id": "q-g1-03-04-o1",
+              "text": "an",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-04-o2",
+              "text": "the",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-04-o3",
+              "text": "any",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-04-o4",
+              "text": "a",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-04-o4"
+            ],
+            "textAnswers": [
+              "a"
+            ]
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“a”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-03-05",
+          "type": "fillBlank",
+          "stem": "Please wait for ___ hour.",
+          "options": [
+            {
+              "id": "q-g1-03-05-o1",
+              "text": "an",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-05-o2",
+              "text": "a",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-05-o3",
+              "text": "the",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-05-o4",
+              "text": "some",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-05-o1"
+            ],
+            "textAnswers": [
+              "an"
+            ]
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“an”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-03-06",
+          "type": "fillBlank",
+          "stem": "Tom wears ___ blue uniform on Mondays.",
+          "options": [
+            {
+              "id": "q-g1-03-06-o1",
+              "text": "an",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-06-o2",
+              "text": "a",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-06-o3",
+              "text": "the",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-06-o4",
+              "text": "any",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-06-o2"
+            ],
+            "textAnswers": [
+              "a"
+            ]
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“a”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-03-07",
+          "type": "fillBlank",
+          "stem": "I need ___ umbrella because it is raining.",
+          "options": [
+            {
+              "id": "q-g1-03-07-o1",
+              "text": "a",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-07-o2",
+              "text": "the",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-07-o3",
+              "text": "an",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-07-o4",
+              "text": "some",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-07-o3"
+            ],
+            "textAnswers": [
+              "an"
+            ]
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 本题应填“an”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-03-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“不定冠词 a / an”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-03-08-o1",
+              "text": "It is a apple.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-08-o2",
+              "text": "I have an book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-08-o3",
+              "text": "It is an apple.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-08-o4",
+              "text": "She has a orange.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-08-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 正确表达：It is an apple.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-03-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-03-09-o1",
+              "text": "I have an book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-09-o2",
+              "text": "She has a orange.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-09-o3",
+              "text": "It is a apple.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-09-o4",
+              "text": "I have a book.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。 正确表达：I have a book.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-03-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“不定冠词 a / an”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g1-03-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-10-o3",
+              "text": "辅音音素开头的单数名词前用a，元音音素开头用an。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-03-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-03-10-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
