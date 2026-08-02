@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g4-06",
@@ -17,32 +17,9 @@
           "id": "q-g4-06-01",
           "type": "fillBlank",
           "stem": "Could you help ___ with this box?",
-          "options": [
-            {
-              "id": "q-g4-06-01-o1",
-              "text": "me",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-01-o2",
-              "text": "I",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-01-o3",
-              "text": "my",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-01-o4",
-              "text": "mine",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-06-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "me"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g4-06-02",
           "type": "fillBlank",
           "stem": "I saw Leo and waved to ___.",
-          "options": [
-            {
-              "id": "q-g4-06-02-o1",
-              "text": "he",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-02-o2",
-              "text": "him",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-02-o3",
-              "text": "his",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-02-o4",
-              "text": "they",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-06-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "him"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g4-06-03",
           "type": "fillBlank",
           "stem": "These flowers are for ___.",
-          "options": [
-            {
-              "id": "q-g4-06-03-o1",
-              "text": "she",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-03-o2",
-              "text": "hers",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-03-o3",
-              "text": "her",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-03-o4",
-              "text": "their",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-06-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "her"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g4-06-04",
           "type": "fillBlank",
           "stem": "Our coach encouraged ___ before the match.",
-          "options": [
-            {
-              "id": "q-g4-06-04-o1",
-              "text": "we",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-04-o2",
-              "text": "our",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-04-o3",
-              "text": "ours",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-04-o4",
-              "text": "us",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-06-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "us"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g4-06-05",
           "type": "fillBlank",
           "stem": "The puppies are hungry. Please feed ___.",
-          "options": [
-            {
-              "id": "q-g4-06-05-o1",
-              "text": "them",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-05-o2",
-              "text": "they",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-05-o3",
-              "text": "their",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-05-o4",
-              "text": "theirs",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-06-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "them"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g4-06-06",
           "type": "fillBlank",
           "stem": "This app is useful. I use ___ every day.",
-          "options": [
-            {
-              "id": "q-g4-06-06-o1",
-              "text": "its",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-06-o2",
-              "text": "it",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-06-o3",
-              "text": "it's",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-06-o4",
-              "text": "they",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-06-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "it"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g4-06-07",
           "type": "fillBlank",
           "stem": "Mia, I will call ___ after school.",
-          "options": [
-            {
-              "id": "q-g4-06-07-o1",
-              "text": "your",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-07-o2",
-              "text": "yours",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-07-o3",
-              "text": "you",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-07-o4",
-              "text": "she",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-06-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "you"
             ]
@@ -281,48 +120,27 @@
         },
         {
           "id": "q-g4-06-08",
-          "type": "singleChoice",
-          "stem": "校园英语角需要一个“人称代词宾格”示例，选择表达正确的一项。",
-          "options": [
-            {
-              "id": "q-g4-06-08-o1",
-              "text": "Please help I.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-08-o2",
-              "text": "I play with they.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-08-o3",
-              "text": "Give she the book.",
-              "imagePath": null
-            },
-            {
-              "id": "q-g4-06-08-o4",
-              "text": "Please help me.",
-              "imagePath": null
-            }
-          ],
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：请帮助我。",
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g4-06-08-o4"
-            ],
-            "textAnswers": []
+            "optionIDs": [],
+            "textAnswers": [
+              "Please help me."
+            ]
           },
-          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确表达：Please help me.",
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 参考表达：Please help me.",
           "score": 1,
           "mediaPath": null
         },
         {
           "id": "q-g4-06-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "选择正确使用“人称代词宾格”的一项。",
           "options": [
             {
               "id": "q-g4-06-09-o1",
-              "text": "I play with them.",
+              "text": "Please help I.",
               "imagePath": null
             },
             {
@@ -337,13 +155,49 @@
             },
             {
               "id": "q-g4-06-09-o4",
+              "text": "Please help me.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g4-06-09-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。 正确表达：Please help me.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g4-06-10",
+          "type": "singleChoice",
+          "stem": "再次辨析“人称代词宾格”，选择结构正确的一项。",
+          "options": [
+            {
+              "id": "q-g4-06-10-o1",
+              "text": "I play with them.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-10-o2",
+              "text": "I play with they.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-10-o3",
+              "text": "Give she the book.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g4-06-10-o4",
               "text": "Please help I.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-06-09-o1"
+              "q-g4-06-10-o1"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g4-06-10",
+          "id": "q-g4-06-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“人称代词宾格”最准确的总结。",
           "options": [
             {
-              "id": "q-g4-06-10-o1",
+              "id": "q-g4-06-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g4-06-10-o2",
+              "id": "q-g4-06-11-o2",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g4-06-10-o3",
+              "id": "q-g4-06-11-o3",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             },
             {
-              "id": "q-g4-06-10-o4",
+              "id": "q-g4-06-11-o4",
               "text": "me、you、him、her、it、us、them通常放在动词或介词后作宾语。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g4-06-10-o4"
+              "q-g4-06-11-o4"
             ],
             "textAnswers": []
           },
