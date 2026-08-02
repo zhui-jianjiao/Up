@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g2-04",
@@ -24,7 +24,7 @@
               "How many"
             ]
           },
-          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“How many”。",
+          "explanation": "How many后接可数名词复数，用来询问数量。 可接受答案：How many。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "How many"
             ]
           },
-          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“How many”。",
+          "explanation": "How many后接可数名词复数，用来询问数量。 可接受答案：How many。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "balls"
             ]
           },
-          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“balls”。",
+          "explanation": "How many后接可数名词复数，用来询问数量。 可接受答案：balls。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "How many"
             ]
           },
-          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“How many”。",
+          "explanation": "How many后接可数名词复数，用来询问数量。 可接受答案：How many。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "ducks"
             ]
           },
-          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“ducks”。",
+          "explanation": "How many后接可数名词复数，用来询问数量。 可接受答案：ducks。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "How many"
             ]
           },
-          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“How many”。",
+          "explanation": "How many后接可数名词复数，用来询问数量。 可接受答案：How many。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "days"
             ]
           },
-          "explanation": "How many后接可数名词复数，用来询问数量。 本题应填“days”。",
+          "explanation": "How many后接可数名词复数，用来询问数量。 可接受答案：days。",
           "score": 1,
           "mediaPath": null
         },
