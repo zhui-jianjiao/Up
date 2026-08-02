@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g6-06",
@@ -23,6 +23,12 @@
           "english": "Tom said that he liked music.",
           "chinese": "汤姆说他喜欢音乐。",
           "note": null
+        },
+        {
+          "id": "g6-06-e3",
+          "english": "He said that he had finished the task.",
+          "chinese": "他说他已经完成了任务。",
+          "note": "转述过去的话时，时态通常向过去推移。"
         }
       ],
       "tips": [
@@ -87,7 +93,41 @@
           "correct": "Tom said that he liked music.",
           "reason": "转述陈述句常用that连接，并根据语境调整人称和时态。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g6-06-sf1",
+          "title": "转述时态变化",
+          "summary": "主句为过去时时，从句时态通常向过去推移。",
+          "items": [
+            {
+              "id": "g6-06-sf1-1",
+              "base": "am / is",
+              "form": "was",
+              "usage": "一般现在时变一般过去时"
+            },
+            {
+              "id": "g6-06-sf1-2",
+              "base": "are",
+              "form": "were",
+              "usage": "一般现在时变一般过去时"
+            },
+            {
+              "id": "g6-06-sf1-3",
+              "base": "will",
+              "form": "would",
+              "usage": "一般将来时变过去将来时"
+            },
+            {
+              "id": "g6-06-sf1-4",
+              "base": "can",
+              "form": "could",
+              "usage": "情态动词变化"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 转述陈述句常用that连接，并根据语境调整人称和时态。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
