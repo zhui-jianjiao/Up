@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g1-02",
@@ -23,6 +23,12 @@
           "english": "We are classmates.",
           "chinese": "我们是同学。",
           "note": null
+        },
+        {
+          "id": "g1-02-e3",
+          "english": "They help each other after class.",
+          "chinese": "他们课后互相帮助。",
+          "note": "they在句中作主语。"
         }
       ],
       "tips": [
@@ -87,7 +93,9 @@
           "correct": "We are classmates.",
           "reason": "I、you、he、she、it、we、they在句中通常作主语。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": null,
+      "markdownContent": "## 学习小结\n\n**核心规则：** I、you、he、she、it、we、they在句中通常作主语。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n"
     }
   ]
 }
