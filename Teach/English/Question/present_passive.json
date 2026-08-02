@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g5-08",
@@ -24,7 +24,7 @@
               "is spoken"
             ]
           },
-          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“is spoken”。",
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 可接受答案：is spoken。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "are made"
             ]
           },
-          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“are made”。",
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 可接受答案：are made。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "is cleaned"
             ]
           },
-          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“is cleaned”。",
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 可接受答案：is cleaned。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "is paper recycled"
             ]
           },
-          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“is paper recycled”。",
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 可接受答案：is paper recycled。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "are worn"
             ]
           },
-          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“are worn”。",
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 可接受答案：are worn。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "is grown"
             ]
           },
-          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“is grown”。",
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 可接受答案：is grown。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "are published"
             ]
           },
-          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 本题应填“are published”。",
+          "explanation": "一般现在时被动语态由am/is/are加过去分词构成。 可接受答案：are published。",
           "score": 1,
           "mediaPath": null
         },
