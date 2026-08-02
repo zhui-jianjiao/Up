@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g4-08",
@@ -24,7 +24,7 @@
               "but"
             ]
           },
-          "explanation": "and表示并列，but表示转折，or表示选择。 本题应填“but”。",
+          "explanation": "and表示并列，but表示转折，or表示选择。 可接受答案：but。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "or"
             ]
           },
-          "explanation": "and表示并列，but表示转折，or表示选择。 本题应填“or”。",
+          "explanation": "and表示并列，but表示转折，or表示选择。 可接受答案：or。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "and"
             ]
           },
-          "explanation": "and表示并列，but表示转折，or表示选择。 本题应填“and”。",
+          "explanation": "and表示并列，but表示转折，or表示选择。 可接受答案：and。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "or"
             ]
           },
-          "explanation": "and表示并列，but表示转折，or表示选择。 本题应填“or”。",
+          "explanation": "and表示并列，but表示转折，or表示选择。 可接受答案：or。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "but"
             ]
           },
-          "explanation": "and表示并列，but表示转折，or表示选择。 本题应填“but”。",
+          "explanation": "and表示并列，but表示转折，or表示选择。 可接受答案：but。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "and"
             ]
           },
-          "explanation": "and表示并列，but表示转折，or表示选择。 本题应填“and”。",
+          "explanation": "and表示并列，but表示转折，or表示选择。 可接受答案：and。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "or"
             ]
           },
-          "explanation": "and表示并列，but表示转折，or表示选择。 本题应填“or”。",
+          "explanation": "and表示并列，but表示转折，or表示选择。 可接受答案：or。",
           "score": 1,
           "mediaPath": null
         },
