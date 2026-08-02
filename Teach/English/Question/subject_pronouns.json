@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g1-02",
@@ -24,7 +24,7 @@
               "She"
             ]
           },
-          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 本题应填“She”。",
+          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 可接受答案：She。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "We"
             ]
           },
-          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 本题应填“We”。",
+          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 可接受答案：We。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "It"
             ]
           },
-          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 本题应填“It”。",
+          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 可接受答案：It。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "He"
             ]
           },
-          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 本题应填“He”。",
+          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 可接受答案：He。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "They"
             ]
           },
-          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 本题应填“They”。",
+          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 可接受答案：They。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "I"
             ]
           },
-          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 本题应填“I”。",
+          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 可接受答案：I。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "you"
             ]
           },
-          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 本题应填“you”。",
+          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 可接受答案：you。",
           "score": 1,
           "mediaPath": null
         },
