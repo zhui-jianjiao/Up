@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g3-06",
+      "grade": 3,
+      "order": 6,
+      "title": "How much / How many专项练习",
+      "difficulty": "medium",
+      "grammarIDs": [
+        "g3-06"
+      ],
+      "questions": [
+        {
+          "id": "q-g3-06-01",
+          "type": "fillBlank",
+          "stem": "___ flour do we need for the cake?",
+          "options": [
+            {
+              "id": "q-g3-06-01-o1",
+              "text": "How much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-01-o2",
+              "text": "How many",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-01-o3",
+              "text": "How often",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-01-o4",
+              "text": "How long",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-01-o1"
+            ],
+            "textAnswers": [
+              "How much"
+            ]
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 本题应填“How much”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-02",
+          "type": "fillBlank",
+          "stem": "___ oranges are in the bag?",
+          "options": [
+            {
+              "id": "q-g3-06-02-o1",
+              "text": "How much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-02-o2",
+              "text": "How many",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-02-o3",
+              "text": "How far",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-02-o4",
+              "text": "How old",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-02-o2"
+            ],
+            "textAnswers": [
+              "How many"
+            ]
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 本题应填“How many”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-03",
+          "type": "fillBlank",
+          "stem": "___ is this notebook?",
+          "options": [
+            {
+              "id": "q-g3-06-03-o1",
+              "text": "How many",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-03-o2",
+              "text": "How often",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-03-o3",
+              "text": "How much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-03-o4",
+              "text": "How long",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-03-o3"
+            ],
+            "textAnswers": [
+              "How much"
+            ]
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 本题应填“How much”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-04",
+          "type": "fillBlank",
+          "stem": "How many ___ did the team score?",
+          "options": [
+            {
+              "id": "q-g3-06-04-o1",
+              "text": "water",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-04-o2",
+              "text": "money",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-04-o3",
+              "text": "rice",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-04-o4",
+              "text": "points",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-04-o4"
+            ],
+            "textAnswers": [
+              "points"
+            ]
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 本题应填“points”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-05",
+          "type": "fillBlank",
+          "stem": "How much ___ should I add?",
+          "options": [
+            {
+              "id": "q-g3-06-05-o1",
+              "text": "salt",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-05-o2",
+              "text": "eggs",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-05-o3",
+              "text": "apples",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-05-o4",
+              "text": "cups",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-05-o1"
+            ],
+            "textAnswers": [
+              "salt"
+            ]
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 本题应填“salt”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-06",
+          "type": "fillBlank",
+          "stem": "___ bottles of water did you buy?",
+          "options": [
+            {
+              "id": "q-g3-06-06-o1",
+              "text": "How much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-06-o2",
+              "text": "How many",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-06-o3",
+              "text": "What much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-06-o4",
+              "text": "How long",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-06-o2"
+            ],
+            "textAnswers": [
+              "How many"
+            ]
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 本题应填“How many”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-07",
+          "type": "fillBlank",
+          "stem": "___ time is left before the train?",
+          "options": [
+            {
+              "id": "q-g3-06-07-o1",
+              "text": "How many",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-07-o2",
+              "text": "How often",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-07-o3",
+              "text": "How much",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-07-o4",
+              "text": "How far",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-07-o3"
+            ],
+            "textAnswers": [
+              "How much"
+            ]
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 本题应填“How much”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“How much / How many”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-06-08-o1",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-08-o2",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-08-o3",
+              "text": "How many money is it?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-08-o4",
+              "text": "How much rice do we need?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-08-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确表达：How much rice do we need?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g3-06-09-o1",
+              "text": "How many lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-09-o2",
+              "text": "How much lessons do you have?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-09-o3",
+              "text": "How many money is it?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-09-o4",
+              "text": "How many rice do we need?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-09-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。 正确表达：How many lessons do you have?",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g3-06-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“How much / How many”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g3-06-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-10-o2",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-10-o3",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g3-06-10-o4",
+              "text": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g3-06-10-o4"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "How much询问不可数名词数量或价格；How many询问可数名词复数数量。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
