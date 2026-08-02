@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g2-05",
@@ -17,6 +17,7 @@
           "id": "q2-g2-05-01",
           "type": "fillBlank",
           "stem": "Our classroom ___ two large windows.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g2-05-02",
           "type": "fillBlank",
           "stem": "I ___ a piano lesson on Friday.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g2-05-03",
           "type": "fillBlank",
           "stem": "Mia and Zoe ___ the same hobby.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g2-05-04",
           "type": "fillBlank",
           "stem": "The octopus ___ eight arms.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g2-05-05",
           "type": "fillBlank",
           "stem": "Does Leo ___ a library card?",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g2-05-06",
           "type": "fillBlank",
           "stem": "My school ___ a rooftop garden.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g2-05-07",
           "type": "fillBlank",
           "stem": "We don't ___ enough paint.",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -122,6 +129,7 @@
           "id": "q2-g2-05-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：她有一辆新自行车。",
+          "keyword": "have",
           "options": [],
           "answer": {
             "optionIDs": [],
