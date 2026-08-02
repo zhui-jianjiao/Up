@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g6-06",
@@ -17,6 +17,7 @@
           "id": "q2-g6-06-01",
           "type": "fillBlank",
           "stem": "Mia said that she ___ tired.",
+          "keyword": "be",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g6-06-02",
           "type": "fillBlank",
           "stem": "Tom said that he ___ jazz.",
+          "keyword": "like",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g6-06-03",
           "type": "fillBlank",
           "stem": "Dad told me that the shop ___ closed.",
+          "keyword": "be",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g6-06-04",
           "type": "fillBlank",
           "stem": "They said they ___ help us.",
+          "keyword": "would",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g6-06-05",
           "type": "fillBlank",
           "stem": "Amy explained that she ___ her key.",
+          "keyword": "lose",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g6-06-06",
           "type": "fillBlank",
           "stem": "Our teacher said that water ___ at 100°C.",
+          "keyword": "boil",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g6-06-07",
           "type": "fillBlank",
           "stem": "Ben said, “I can swim.” Ben said that he ___ swim.",
+          "keyword": "could",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -122,6 +129,7 @@
           "id": "q2-g6-06-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：她说她累了。",
+          "keyword": "say",
           "options": [],
           "answer": {
             "optionIDs": [],
