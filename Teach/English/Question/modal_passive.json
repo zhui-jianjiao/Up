@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g6-03",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g6-03-01",
+          "id": "q2-g6-03-01",
           "type": "fillBlank",
           "stem": "This problem can ___ in two ways.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-03-02",
+          "id": "q2-g6-03-02",
           "type": "fillBlank",
           "stem": "Safety rules must ___ at all times.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-03-03",
+          "id": "q2-g6-03-03",
           "type": "fillBlank",
           "stem": "The form should ___ before Friday.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-03-04",
+          "id": "q2-g6-03-04",
           "type": "fillBlank",
           "stem": "Plastic bottles can ___ again.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-03-05",
+          "id": "q2-g6-03-05",
           "type": "fillBlank",
           "stem": "The medicine must not ___ without advice.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-03-06",
+          "id": "q2-g6-03-06",
           "type": "fillBlank",
           "stem": "How can this machine ___ safely?",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-03-07",
+          "id": "q2-g6-03-07",
           "type": "fillBlank",
           "stem": "More attention should ___ to pronunciation.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-03-08",
+          "id": "q2-g6-03-08",
           "type": "singleChoice",
           "stem": "选择正确使用“含情态动词的被动语态”的一项。",
           "options": [
             {
-              "id": "q-g6-03-08-o1",
+              "id": "q2-g6-03-08-o1",
               "text": "The problem can be solved.",
               "imagePath": null
             },
             {
-              "id": "q-g6-03-08-o2",
+              "id": "q2-g6-03-08-o2",
               "text": "The problem can solved.",
               "imagePath": null
             },
             {
-              "id": "q-g6-03-08-o3",
+              "id": "q2-g6-03-08-o3",
               "text": "Rules must followed.",
               "imagePath": null
             },
             {
-              "id": "q-g6-03-08-o4",
+              "id": "q2-g6-03-08-o4",
               "text": "It should be do today.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-03-08-o1"
+              "q2-g6-03-08-o1"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-03-09",
+          "id": "q2-g6-03-09",
           "type": "singleChoice",
           "stem": "再次辨析“含情态动词的被动语态”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g6-03-09-o1",
+              "id": "q2-g6-03-09-o1",
               "text": "Rules must followed.",
               "imagePath": null
             },
             {
-              "id": "q-g6-03-09-o2",
+              "id": "q2-g6-03-09-o2",
               "text": "Rules must be followed.",
               "imagePath": null
             },
             {
-              "id": "q-g6-03-09-o3",
+              "id": "q2-g6-03-09-o3",
               "text": "It should be do today.",
               "imagePath": null
             },
             {
-              "id": "q-g6-03-09-o4",
+              "id": "q2-g6-03-09-o4",
               "text": "The problem can solved.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-03-09-o2"
+              "q2-g6-03-09-o2"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g6-03-10",
+          "id": "q2-g6-03-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“含情态动词的被动语态”最准确的总结。",
           "options": [
             {
-              "id": "q-g6-03-10-o1",
+              "id": "q2-g6-03-10-o1",
               "text": "含情态动词的被动语态由情态动词加be加过去分词构成。",
               "imagePath": null
             },
             {
-              "id": "q-g6-03-10-o2",
+              "id": "q2-g6-03-10-o2",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g6-03-10-o3",
+              "id": "q2-g6-03-10-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g6-03-10-o4",
+              "id": "q2-g6-03-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g6-03-10-o1"
+              "q2-g6-03-10-o1"
             ],
             "textAnswers": []
           },
