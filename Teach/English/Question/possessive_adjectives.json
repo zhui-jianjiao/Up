@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g2-02",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g2-02-01",
+          "id": "q2-g2-02-01",
           "type": "fillBlank",
           "stem": "I have a camera. ___ camera is small.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-02-02",
+          "id": "q2-g2-02-02",
           "type": "fillBlank",
           "stem": "Ella feeds ___ rabbit every morning.",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-02-03",
+          "id": "q2-g2-02-03",
           "type": "fillBlank",
           "stem": "We decorate ___ classroom together.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-02-04",
+          "id": "q2-g2-02-04",
           "type": "fillBlank",
           "stem": "The dog is wagging ___ tail.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-02-05",
+          "id": "q2-g2-02-05",
           "type": "fillBlank",
           "stem": "Jack and Sam bring ___ lunch boxes.",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-02-06",
+          "id": "q2-g2-02-06",
           "type": "fillBlank",
           "stem": "Tom, is this ___ notebook?",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-02-07",
+          "id": "q2-g2-02-07",
           "type": "fillBlank",
           "stem": "Ben wears ___ new glasses to class.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-02-08",
+          "id": "q2-g2-02-08",
           "type": "singleChoice",
           "stem": "选择正确使用“形容词性物主代词”的一项。",
           "options": [
             {
-              "id": "q-g2-02-08-o1",
+              "id": "q2-g2-02-08-o1",
               "text": "This is my book.",
               "imagePath": null
             },
             {
-              "id": "q-g2-02-08-o2",
+              "id": "q2-g2-02-08-o2",
               "text": "This book is my book.",
               "imagePath": null
             },
             {
-              "id": "q-g2-02-08-o3",
+              "id": "q2-g2-02-08-o3",
               "text": "Them classroom is big.",
               "imagePath": null
             },
             {
-              "id": "q-g2-02-08-o4",
+              "id": "q2-g2-02-08-o4",
               "text": "This is mine pen.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-02-08-o1"
+              "q2-g2-02-08-o1"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-02-09",
+          "id": "q2-g2-02-09",
           "type": "singleChoice",
           "stem": "再次辨析“形容词性物主代词”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g2-02-09-o1",
+              "id": "q2-g2-02-09-o1",
               "text": "Them classroom is big.",
               "imagePath": null
             },
             {
-              "id": "q-g2-02-09-o2",
+              "id": "q2-g2-02-09-o2",
               "text": "Their classroom is big.",
               "imagePath": null
             },
             {
-              "id": "q-g2-02-09-o3",
+              "id": "q2-g2-02-09-o3",
               "text": "This is mine pen.",
               "imagePath": null
             },
             {
-              "id": "q-g2-02-09-o4",
+              "id": "q2-g2-02-09-o4",
               "text": "This book is my book.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-02-09-o2"
+              "q2-g2-02-09-o2"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-02-10",
+          "id": "q2-g2-02-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“形容词性物主代词”最准确的总结。",
           "options": [
             {
-              "id": "q-g2-02-10-o1",
+              "id": "q2-g2-02-10-o1",
               "text": "my、your、his、her、its、our、their后面必须接名词。",
               "imagePath": null
             },
             {
-              "id": "q-g2-02-10-o2",
+              "id": "q2-g2-02-10-o2",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g2-02-10-o3",
+              "id": "q2-g2-02-10-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g2-02-10-o4",
+              "id": "q2-g2-02-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-02-10-o1"
+              "q2-g2-02-10-o1"
             ],
             "textAnswers": []
           },
