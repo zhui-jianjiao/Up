@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g1-01",
+      "grade": 1,
+      "order": 1,
+      "title": "be动词（am / is / are）的基本用法专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g1-01"
+      ],
+      "questions": [
+        {
+          "id": "q-g1-01-01",
+          "type": "fillBlank",
+          "stem": "I ___ the class helper today.",
+          "options": [
+            {
+              "id": "q-g1-01-01-o1",
+              "text": "am",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-01-o2",
+              "text": "is",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-01-o3",
+              "text": "are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-01-o4",
+              "text": "be",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-01-o1"
+            ],
+            "textAnswers": [
+              "am"
+            ]
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。 本题应填“am”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-01-02",
+          "type": "fillBlank",
+          "stem": "The school garden ___ beautiful in spring.",
+          "options": [
+            {
+              "id": "q-g1-01-02-o1",
+              "text": "am",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-02-o2",
+              "text": "is",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-02-o3",
+              "text": "are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-02-o4",
+              "text": "be",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-02-o2"
+            ],
+            "textAnswers": [
+              "is"
+            ]
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。 本题应填“is”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-01-03",
+          "type": "fillBlank",
+          "stem": "My parents ___ at the sports meeting.",
+          "options": [
+            {
+              "id": "q-g1-01-03-o1",
+              "text": "is",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-03-o2",
+              "text": "am",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-03-o3",
+              "text": "are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-03-o4",
+              "text": "be",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-03-o3"
+            ],
+            "textAnswers": [
+              "are"
+            ]
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。 本题应填“are”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-01-04",
+          "type": "fillBlank",
+          "stem": "This pair of glasses ___ on the desk.",
+          "options": [
+            {
+              "id": "q-g1-01-04-o1",
+              "text": "are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-04-o2",
+              "text": "am",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-04-o3",
+              "text": "be",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-04-o4",
+              "text": "is",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-04-o4"
+            ],
+            "textAnswers": [
+              "is"
+            ]
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。 本题应填“is”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-01-05",
+          "type": "fillBlank",
+          "stem": "You and I ___ in the same reading club.",
+          "options": [
+            {
+              "id": "q-g1-01-05-o1",
+              "text": "are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-05-o2",
+              "text": "is",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-05-o3",
+              "text": "am",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-05-o4",
+              "text": "be",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-05-o1"
+            ],
+            "textAnswers": [
+              "are"
+            ]
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。 本题应填“are”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-01-06",
+          "type": "fillBlank",
+          "stem": "There ___ a new student beside Amy.",
+          "options": [
+            {
+              "id": "q-g1-01-06-o1",
+              "text": "are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-06-o2",
+              "text": "is",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-06-o3",
+              "text": "am",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-06-o4",
+              "text": "be",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-06-o2"
+            ],
+            "textAnswers": [
+              "is"
+            ]
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。 本题应填“is”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-01-07",
+          "type": "fillBlank",
+          "stem": "Those storybooks ___ from our library.",
+          "options": [
+            {
+              "id": "q-g1-01-07-o1",
+              "text": "is",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-07-o2",
+              "text": "am",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-07-o3",
+              "text": "are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-07-o4",
+              "text": "be",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-07-o3"
+            ],
+            "textAnswers": [
+              "are"
+            ]
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。 本题应填“are”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-01-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“be动词（am / is / are）的基本用法”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-01-08-o1",
+              "text": "I am a pupil.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-08-o2",
+              "text": "I is a pupil.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-08-o3",
+              "text": "They is happy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-08-o4",
+              "text": "She are my friend.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-08-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。 正确表达：I am a pupil.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-01-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-01-09-o1",
+              "text": "They is happy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-09-o2",
+              "text": "They are happy.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-09-o3",
+              "text": "She are my friend.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-09-o4",
+              "text": "I is a pupil.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-09-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。 正确表达：They are happy.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-01-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“be动词（am / is / are）的基本用法”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g1-01-10-o1",
+              "text": "am用于I，is用于第三人称单数，are用于you和复数主语。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-10-o2",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-01-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-01-10-o1"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
