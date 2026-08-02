@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 3,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T15:42:50.240Z",
+  "sets": [
+    {
+      "id": "qs-g1-06",
+      "grade": 1,
+      "order": 6,
+      "title": "What's this / that 提问及回答专项练习",
+      "difficulty": "easy",
+      "grammarIDs": [
+        "g1-06"
+      ],
+      "questions": [
+        {
+          "id": "q-g1-06-01",
+          "type": "fillBlank",
+          "stem": "What's this? ___ a compass.",
+          "options": [
+            {
+              "id": "q-g1-06-01-o1",
+              "text": "It's",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-01-o2",
+              "text": "They're",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-01-o3",
+              "text": "This",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-01-o4",
+              "text": "That",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-01-o1"
+            ],
+            "textAnswers": [
+              "It's"
+            ]
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。 本题应填“It's”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-06-02",
+          "type": "fillBlank",
+          "stem": "What's that on the roof? ___ a kite.",
+          "options": [
+            {
+              "id": "q-g1-06-02-o1",
+              "text": "They're",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-02-o2",
+              "text": "It's",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-02-o3",
+              "text": "Those are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-02-o4",
+              "text": "These are",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-02-o2"
+            ],
+            "textAnswers": [
+              "It's"
+            ]
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。 本题应填“It's”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-06-03",
+          "type": "fillBlank",
+          "stem": "___ this in English? It's a stapler.",
+          "options": [
+            {
+              "id": "q-g1-06-03-o1",
+              "text": "What are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-03-o2",
+              "text": "Where's",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-03-o3",
+              "text": "What's",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-03-o4",
+              "text": "Who's",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-03-o3"
+            ],
+            "textAnswers": [
+              "What's"
+            ]
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。 本题应填“What's”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-06-04",
+          "type": "fillBlank",
+          "stem": "What's that animal? ___ an alpaca.",
+          "options": [
+            {
+              "id": "q-g1-06-04-o1",
+              "text": "That's are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-04-o2",
+              "text": "They're",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-04-o3",
+              "text": "This",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-04-o4",
+              "text": "It's",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-04-o4"
+            ],
+            "textAnswers": [
+              "It's"
+            ]
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。 本题应填“It's”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-06-05",
+          "type": "fillBlank",
+          "stem": "___ that near the gate? It's our school bus.",
+          "options": [
+            {
+              "id": "q-g1-06-05-o1",
+              "text": "What's",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-05-o2",
+              "text": "What",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-05-o3",
+              "text": "How are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-05-o4",
+              "text": "Where are",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-05-o1"
+            ],
+            "textAnswers": [
+              "What's"
+            ]
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。 本题应填“What's”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-06-06",
+          "type": "fillBlank",
+          "stem": "What's this used for? ___ a ruler.",
+          "options": [
+            {
+              "id": "q-g1-06-06-o1",
+              "text": "Its",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-06-o2",
+              "text": "It's",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-06-o3",
+              "text": "They're",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-06-o4",
+              "text": "Those",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-06-o2"
+            ],
+            "textAnswers": [
+              "It's"
+            ]
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。 本题应填“It's”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-06-07",
+          "type": "fillBlank",
+          "stem": "A: What's that sound? B: ___ the bell.",
+          "options": [
+            {
+              "id": "q-g1-06-07-o1",
+              "text": "They're",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-07-o2",
+              "text": "There are",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-07-o3",
+              "text": "It's",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-07-o4",
+              "text": "This",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-07-o3"
+            ],
+            "textAnswers": [
+              "It's"
+            ]
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。 本题应填“It's”。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-06-08",
+          "type": "singleChoice",
+          "stem": "校园英语角需要一个“What's this / that 提问及回答”示例，选择表达正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-06-08-o1",
+              "text": "What this is? A ruler.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-08-o2",
+              "text": "What's this? It's a ruler.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-08-o3",
+              "text": "What's those? It is a kite.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-08-o4",
+              "text": "What are that?",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-08-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。 正确表达：What's this? It's a ruler.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-06-09",
+          "type": "singleChoice",
+          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "options": [
+            {
+              "id": "q-g1-06-09-o1",
+              "text": "What's those? It is a kite.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-09-o2",
+              "text": "What are that?",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-09-o3",
+              "text": "What's that? It's an elephant.",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-09-o4",
+              "text": "What this is? A ruler.",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-09-o3"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。 正确表达：What's that? It's an elephant.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-06-10",
+          "type": "singleChoice",
+          "stem": "完成本组练习后，选择对“What's this / that 提问及回答”最准确的总结。",
+          "options": [
+            {
+              "id": "q-g1-06-10-o1",
+              "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-10-o2",
+              "text": "使用What's this/that询问单个事物，回答用It's a/an...。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-10-o3",
+              "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
+              "imagePath": null
+            },
+            {
+              "id": "q-g1-06-10-o4",
+              "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "q-g1-06-10-o2"
+            ],
+            "textAnswers": []
+          },
+          "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。",
+          "score": 1,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
