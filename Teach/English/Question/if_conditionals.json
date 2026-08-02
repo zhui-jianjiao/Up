@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g5-07",
@@ -17,32 +17,9 @@
           "id": "q-g5-07-01",
           "type": "fillBlank",
           "stem": "If it ___ tomorrow, we will stay indoors.",
-          "options": [
-            {
-              "id": "q-g5-07-01-o1",
-              "text": "rains",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-01-o2",
-              "text": "will rain",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-01-o3",
-              "text": "rained yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-01-o4",
-              "text": "is rain",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-07-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "rains"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g5-07-02",
           "type": "fillBlank",
           "stem": "You will improve if you ___ every day.",
-          "options": [
-            {
-              "id": "q-g5-07-02-o1",
-              "text": "will practise",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-02-o2",
-              "text": "practise",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-02-o3",
-              "text": "practised",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-02-o4",
-              "text": "practises you",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-07-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "practise"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g5-07-03",
           "type": "fillBlank",
           "stem": "If Mia arrives early, she ___ us.",
-          "options": [
-            {
-              "id": "q-g5-07-03-o1",
-              "text": "calls yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-03-o2",
-              "text": "will called",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-03-o3",
-              "text": "will call",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-03-o4",
-              "text": "calling",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-07-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "will call"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g5-07-04",
           "type": "fillBlank",
           "stem": "We won't go unless the weather ___ better.",
-          "options": [
-            {
-              "id": "q-g5-07-04-o1",
-              "text": "will get",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-04-o2",
-              "text": "got yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-04-o3",
-              "text": "getting",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-04-o4",
-              "text": "gets",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-07-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "gets"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g5-07-05",
           "type": "fillBlank",
           "stem": "If you heat ice, it ___.",
-          "options": [
-            {
-              "id": "q-g5-07-05-o1",
-              "text": "melts",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-05-o2",
-              "text": "will melted",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-05-o3",
-              "text": "melted yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-05-o4",
-              "text": "melting",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-07-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "melts"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g5-07-06",
           "type": "fillBlank",
           "stem": "What will you do if you ___ the contest?",
-          "options": [
-            {
-              "id": "q-g5-07-06-o1",
-              "text": "will win",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-06-o2",
-              "text": "win",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-06-o3",
-              "text": "won yesterday",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-06-o4",
-              "text": "winning",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-07-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "win"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g5-07-07",
           "type": "fillBlank",
           "stem": "If everyone saves water, our city ___ less.",
-          "options": [
-            {
-              "id": "q-g5-07-07-o1",
-              "text": "wasted",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-07-o2",
-              "text": "will wasted",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-07-o3",
-              "text": "will waste",
-              "imagePath": null
-            },
-            {
-              "id": "q-g5-07-07-o4",
-              "text": "wasting",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g5-07-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "will waste"
             ]
@@ -282,7 +121,7 @@
         {
           "id": "q-g5-07-08",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“if 条件状语从句”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“if 条件状语从句”的一项。",
           "options": [
             {
               "id": "q-g5-07-08-o1",
@@ -318,7 +157,7 @@
         {
           "id": "q-g5-07-09",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“if 条件状语从句”，选择结构正确的一项。",
           "options": [
             {
               "id": "q-g5-07-09-o1",
