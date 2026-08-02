@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g3-01",
@@ -23,6 +23,12 @@
           "english": "Mum is cooking now.",
           "chinese": "妈妈现在正在做饭。",
           "note": null
+        },
+        {
+          "id": "g3-01-e3",
+          "english": "She is making a paper plane now.",
+          "chinese": "她现在正在折纸飞机。",
+          "note": "make去e后加-ing，变为making。"
         }
       ],
       "tips": [
@@ -87,7 +93,41 @@
           "correct": "Mum is cooking now.",
           "reason": "现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g3-01-sf1",
+          "title": "动词-ing特殊拼写",
+          "summary": "添加-ing时注意去e、双写和ie变y。",
+          "items": [
+            {
+              "id": "g3-01-sf1-1",
+              "base": "make",
+              "form": "making",
+              "usage": "去掉不发音的e"
+            },
+            {
+              "id": "g3-01-sf1-2",
+              "base": "run",
+              "form": "running",
+              "usage": "双写末尾辅音字母"
+            },
+            {
+              "id": "g3-01-sf1-3",
+              "base": "lie",
+              "form": "lying",
+              "usage": "ie变为y"
+            },
+            {
+              "id": "g3-01-sf1-4",
+              "base": "swim",
+              "form": "swimming",
+              "usage": "双写m"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 现在进行时由am/is/are加动词-ing构成，表示正在发生的动作。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
