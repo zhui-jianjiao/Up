@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:13:54.438Z",
+  "updatedAt": "2026-08-02T16:19:42.764Z",
   "sets": [
     {
       "id": "qs-g2-06",
@@ -14,7 +14,7 @@
       ],
       "questions": [
         {
-          "id": "q-g2-06-01",
+          "id": "q2-g2-06-01",
           "type": "fillBlank",
           "stem": "Penguins can ___, but they cannot fly.",
           "options": [],
@@ -29,7 +29,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-06-02",
+          "id": "q2-g2-06-02",
           "type": "fillBlank",
           "stem": "___ you show me the way to the lab?",
           "options": [],
@@ -44,7 +44,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-06-03",
+          "id": "q2-g2-06-03",
           "type": "fillBlank",
           "stem": "Mia ___ play chess very well.",
           "options": [],
@@ -59,7 +59,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-06-04",
+          "id": "q2-g2-06-04",
           "type": "fillBlank",
           "stem": "We can't ___ food in the computer room.",
           "options": [],
@@ -74,7 +74,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-06-05",
+          "id": "q2-g2-06-05",
           "type": "fillBlank",
           "stem": "Can the robot ___ these words?",
           "options": [],
@@ -89,7 +89,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-06-06",
+          "id": "q2-g2-06-06",
           "type": "fillBlank",
           "stem": "With this app, you ___ record your voice.",
           "options": [],
@@ -104,7 +104,7 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-06-07",
+          "id": "q2-g2-06-07",
           "type": "fillBlank",
           "stem": "A baby bird ___ fly at first.",
           "options": [],
@@ -119,34 +119,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-06-08",
+          "id": "q2-g2-06-08",
           "type": "singleChoice",
           "stem": "选择正确使用“情态动词 can”的一项。",
           "options": [
             {
-              "id": "q-g2-06-08-o1",
+              "id": "q2-g2-06-08-o1",
               "text": "I can swim.",
               "imagePath": null
             },
             {
-              "id": "q-g2-06-08-o2",
+              "id": "q2-g2-06-08-o2",
               "text": "I can swimming.",
               "imagePath": null
             },
             {
-              "id": "q-g2-06-08-o3",
+              "id": "q2-g2-06-08-o3",
               "text": "Can she dances?",
               "imagePath": null
             },
             {
-              "id": "q-g2-06-08-o4",
+              "id": "q2-g2-06-08-o4",
               "text": "He cans run.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-06-08-o1"
+              "q2-g2-06-08-o1"
             ],
             "textAnswers": []
           },
@@ -155,34 +155,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-06-09",
+          "id": "q2-g2-06-09",
           "type": "singleChoice",
           "stem": "再次辨析“情态动词 can”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g2-06-09-o1",
+              "id": "q2-g2-06-09-o1",
               "text": "Can she dances?",
               "imagePath": null
             },
             {
-              "id": "q-g2-06-09-o2",
+              "id": "q2-g2-06-09-o2",
               "text": "Can she dance?",
               "imagePath": null
             },
             {
-              "id": "q-g2-06-09-o3",
+              "id": "q2-g2-06-09-o3",
               "text": "He cans run.",
               "imagePath": null
             },
             {
-              "id": "q-g2-06-09-o4",
+              "id": "q2-g2-06-09-o4",
               "text": "I can swimming.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-06-09-o2"
+              "q2-g2-06-09-o2"
             ],
             "textAnswers": []
           },
@@ -191,34 +191,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g2-06-10",
+          "id": "q2-g2-06-10",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“情态动词 can”最准确的总结。",
           "options": [
             {
-              "id": "q-g2-06-10-o1",
+              "id": "q2-g2-06-10-o1",
               "text": "can后接动词原形，否定为cannot/can't，疑问句把can置于主语前。",
               "imagePath": null
             },
             {
-              "id": "q-g2-06-10-o2",
+              "id": "q2-g2-06-10-o2",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g2-06-10-o3",
+              "id": "q2-g2-06-10-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g2-06-10-o4",
+              "id": "q2-g2-06-10-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g2-06-10-o1"
+              "q2-g2-06-10-o1"
             ],
             "textAnswers": []
           },
