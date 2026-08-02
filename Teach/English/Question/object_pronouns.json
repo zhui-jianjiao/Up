@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 4,
+  "schemaVersion": 5,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:31:14.311Z",
+  "updatedAt": "2026-08-02T16:56:55.025Z",
   "sets": [
     {
       "id": "qs-g4-06",
@@ -17,6 +17,7 @@
           "id": "q2-g4-06-01",
           "type": "fillBlank",
           "stem": "Could you help ___ with this box?",
+          "keyword": "me",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -32,6 +33,7 @@
           "id": "q2-g4-06-02",
           "type": "fillBlank",
           "stem": "I saw Leo and waved to ___.",
+          "keyword": "him",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -47,6 +49,7 @@
           "id": "q2-g4-06-03",
           "type": "fillBlank",
           "stem": "These flowers are for ___.",
+          "keyword": "her",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -62,6 +65,7 @@
           "id": "q2-g4-06-04",
           "type": "fillBlank",
           "stem": "Our coach encouraged ___ before the match.",
+          "keyword": "us",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -77,6 +81,7 @@
           "id": "q2-g4-06-05",
           "type": "fillBlank",
           "stem": "The puppies are hungry. Please feed ___.",
+          "keyword": "them",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -92,6 +97,7 @@
           "id": "q2-g4-06-06",
           "type": "fillBlank",
           "stem": "This app is useful. I use ___ every day.",
+          "keyword": "it",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -107,6 +113,7 @@
           "id": "q2-g4-06-07",
           "type": "fillBlank",
           "stem": "Mia, I will call ___ after school.",
+          "keyword": "you",
           "options": [],
           "answer": {
             "optionIDs": [],
@@ -122,6 +129,7 @@
           "id": "q2-g4-06-08",
           "type": "fillBlank",
           "stem": "请根据中文输入完整英文句子：请帮助我。",
+          "keyword": "me",
           "options": [],
           "answer": {
             "optionIDs": [],
