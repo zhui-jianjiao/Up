@@ -1,1 +1,609 @@
-
+{
+  "schemaVersion": 2,
+  "curriculum": "上海小学英语一至六年级融合课程",
+  "updatedAt": "2026-08-02T09:53:35.952Z",
+  "topics": [
+    {
+      "id": "g1-01",
+      "grade": 1,
+      "order": 1,
+      "title": "be动词（am / is / are）的基本用法",
+      "category": "动词",
+      "summary": "掌握be动词（am / is / are）的基本用法，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "am用于I，is用于第三人称单数，are用于you和复数主语。",
+      "examples": [
+        {
+          "id": "g1-01-e1",
+          "english": "I am a pupil.",
+          "chinese": "我是一名小学生。",
+          "note": null
+        },
+        {
+          "id": "g1-01-e2",
+          "english": "They are happy.",
+          "chinese": "他们很开心。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用be动词（am / is / are）的基本用法。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "动词",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "I am a pupil.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意动词结构前后的连读与自然停顿。",
+        "chant": "I am a pupil. They are happy. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g1-01-s1",
+          "title": "课堂开口说",
+          "dialogue": [
+            "A: I am a pupil.",
+            "B: They are happy."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g1-01-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“I am a pupil.”，每轮替换一个人物、物品或时间词，保持be动词（am / is / are）的基本用法的句型结构不变。"
+        },
+        {
+          "id": "g1-01-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用be动词（am / is / are）的基本用法的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g1-01-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g1-01-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用be动词（am / is / are）的基本用法独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g1-01-m1",
+          "wrong": "I is a pupil.",
+          "correct": "I am a pupil.",
+          "reason": "am用于I，is用于第三人称单数，are用于you和复数主语。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g1-01-m2",
+          "wrong": "They is happy.",
+          "correct": "They are happy.",
+          "reason": "am用于I，is用于第三人称单数，are用于you和复数主语。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    },
+    {
+      "id": "g1-02",
+      "grade": 1,
+      "order": 2,
+      "title": "人称代词主格",
+      "category": "代词",
+      "summary": "掌握人称代词主格，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "I、you、he、she、it、we、they在句中通常作主语。",
+      "examples": [
+        {
+          "id": "g1-02-e1",
+          "english": "She is my teacher.",
+          "chinese": "她是我的老师。",
+          "note": null
+        },
+        {
+          "id": "g1-02-e2",
+          "english": "We are classmates.",
+          "chinese": "我们是同学。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用人称代词主格。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "代词",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "She is my teacher.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意代词结构前后的连读与自然停顿。",
+        "chant": "She is my teacher. We are classmates. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g1-02-s1",
+          "title": "课堂开口说",
+          "dialogue": [
+            "A: She is my teacher.",
+            "B: We are classmates."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g1-02-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“She is my teacher.”，每轮替换一个人物、物品或时间词，保持人称代词主格的句型结构不变。"
+        },
+        {
+          "id": "g1-02-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用人称代词主格的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g1-02-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g1-02-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用人称代词主格独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g1-02-m1",
+          "wrong": "Her is my teacher.",
+          "correct": "She is my teacher.",
+          "reason": "I、you、he、she、it、we、they在句中通常作主语。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g1-02-m2",
+          "wrong": "Us are classmates.",
+          "correct": "We are classmates.",
+          "reason": "I、you、he、she、it、we、they在句中通常作主语。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    },
+    {
+      "id": "g1-03",
+      "grade": 1,
+      "order": 3,
+      "title": "不定冠词 a / an",
+      "category": "冠词",
+      "summary": "掌握不定冠词 a / an，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "辅音音素开头的单数名词前用a，元音音素开头用an。",
+      "examples": [
+        {
+          "id": "g1-03-e1",
+          "english": "It is an apple.",
+          "chinese": "它是一个苹果。",
+          "note": null
+        },
+        {
+          "id": "g1-03-e2",
+          "english": "I have a book.",
+          "chinese": "我有一本书。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用不定冠词 a / an。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "冠词",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "It is an apple.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意冠词结构前后的连读与自然停顿。",
+        "chant": "It is an apple. I have a book. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g1-03-s1",
+          "title": "课堂开口说",
+          "dialogue": [
+            "A: It is an apple.",
+            "B: I have a book."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g1-03-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“It is an apple.”，每轮替换一个人物、物品或时间词，保持不定冠词 a / an的句型结构不变。"
+        },
+        {
+          "id": "g1-03-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用不定冠词 a / an的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g1-03-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g1-03-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用不定冠词 a / an独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g1-03-m1",
+          "wrong": "It is a apple.",
+          "correct": "It is an apple.",
+          "reason": "辅音音素开头的单数名词前用a，元音音素开头用an。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g1-03-m2",
+          "wrong": "I have an book.",
+          "correct": "I have a book.",
+          "reason": "辅音音素开头的单数名词前用a，元音音素开头用an。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    },
+    {
+      "id": "g1-04",
+      "grade": 1,
+      "order": 4,
+      "title": "祈使句与课堂指令",
+      "category": "句型",
+      "summary": "掌握祈使句与课堂指令，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "祈使句通常以动词原形开头，用来表达指令、请求或建议。",
+      "examples": [
+        {
+          "id": "g1-04-e1",
+          "english": "Open your book, please.",
+          "chinese": "请打开书。",
+          "note": null
+        },
+        {
+          "id": "g1-04-e2",
+          "english": "Stand up, please.",
+          "chinese": "请起立。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用祈使句与课堂指令。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "句型",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "Open your book, please.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意句型结构前后的连读与自然停顿。",
+        "chant": "Open your book, please. Stand up, please. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g1-04-s1",
+          "title": "课堂开口说",
+          "dialogue": [
+            "A: Open your book, please.",
+            "B: Stand up, please."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g1-04-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“Open your book, please.”，每轮替换一个人物、物品或时间词，保持祈使句与课堂指令的句型结构不变。"
+        },
+        {
+          "id": "g1-04-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用祈使句与课堂指令的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g1-04-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g1-04-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用祈使句与课堂指令独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g1-04-m1",
+          "wrong": "Opens your book.",
+          "correct": "Open your book, please.",
+          "reason": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g1-04-m2",
+          "wrong": "You stand up please.",
+          "correct": "Stand up, please.",
+          "reason": "祈使句通常以动词原形开头，用来表达指令、请求或建议。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    },
+    {
+      "id": "g1-05",
+      "grade": 1,
+      "order": 5,
+      "title": "指示代词 this / that",
+      "category": "代词",
+      "summary": "掌握指示代词 this / that，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "this指近处的单数事物，that指远处的单数事物。",
+      "examples": [
+        {
+          "id": "g1-05-e1",
+          "english": "This is my pencil.",
+          "chinese": "这是我的铅笔。",
+          "note": null
+        },
+        {
+          "id": "g1-05-e2",
+          "english": "That is a kite.",
+          "chinese": "那是一只风筝。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用指示代词 this / that。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "代词",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "This is my pencil.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意代词结构前后的连读与自然停顿。",
+        "chant": "This is my pencil. That is a kite. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g1-05-s1",
+          "title": "课堂开口说",
+          "dialogue": [
+            "A: This is my pencil.",
+            "B: That is a kite."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g1-05-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“This is my pencil.”，每轮替换一个人物、物品或时间词，保持指示代词 this / that的句型结构不变。"
+        },
+        {
+          "id": "g1-05-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用指示代词 this / that的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g1-05-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g1-05-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用指示代词 this / that独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g1-05-m1",
+          "wrong": "This are my pencil.",
+          "correct": "This is my pencil.",
+          "reason": "this指近处的单数事物，that指远处的单数事物。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g1-05-m2",
+          "wrong": "Those is a kite.",
+          "correct": "That is a kite.",
+          "reason": "this指近处的单数事物，that指远处的单数事物。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    },
+    {
+      "id": "g1-06",
+      "grade": 1,
+      "order": 6,
+      "title": "What's this / that 提问及回答",
+      "category": "句型",
+      "summary": "掌握What's this / that 提问及回答，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "使用What's this/that询问单个事物，回答用It's a/an...。",
+      "examples": [
+        {
+          "id": "g1-06-e1",
+          "english": "What's this? It's a ruler.",
+          "chinese": "这是什么？它是一把尺。",
+          "note": null
+        },
+        {
+          "id": "g1-06-e2",
+          "english": "What's that? It's an elephant.",
+          "chinese": "那是什么？它是一头大象。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用What's this / that 提问及回答。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "句型",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "What's this? It's a ruler.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意句型结构前后的连读与自然停顿。",
+        "chant": "What's this? It's a ruler. What's that? It's an elephant. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g1-06-s1",
+          "title": "课堂开口说",
+          "dialogue": [
+            "A: What's this? It's a ruler.",
+            "B: What's that? It's an elephant."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g1-06-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“What's this? It's a ruler.”，每轮替换一个人物、物品或时间词，保持What's this / that 提问及回答的句型结构不变。"
+        },
+        {
+          "id": "g1-06-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用What's this / that 提问及回答的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g1-06-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g1-06-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用What's this / that 提问及回答独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g1-06-m1",
+          "wrong": "What this is? A ruler.",
+          "correct": "What's this? It's a ruler.",
+          "reason": "使用What's this/that询问单个事物，回答用It's a/an...。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g1-06-m2",
+          "wrong": "What's those? It is a kite.",
+          "correct": "What's that? It's an elephant.",
+          "reason": "使用What's this/that询问单个事物，回答用It's a/an...。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    },
+    {
+      "id": "g1-07",
+      "grade": 1,
+      "order": 7,
+      "title": "颜色形容词修饰名词",
+      "category": "形容词",
+      "summary": "掌握颜色形容词修饰名词，能够在小学英语阅读、表达和书面练习中正确运用。",
+      "explanation": "英语形容词通常放在名词前，颜色词可直接修饰名词。",
+      "examples": [
+        {
+          "id": "g1-07-e1",
+          "english": "It is a red apple.",
+          "chinese": "它是一个红苹果。",
+          "note": null
+        },
+        {
+          "id": "g1-07-e2",
+          "english": "I have a blue bag.",
+          "chinese": "我有一个蓝色书包。",
+          "note": null
+        }
+      ],
+      "tips": [
+        "先识别句子的主语、谓语和时间信息，再判断是否使用颜色形容词修饰名词。",
+        "完成后朗读例句，并用相同结构替换关键词造句。"
+      ],
+      "tags": [
+        "1年级",
+        "形容词",
+        "上海小学英语",
+        "融合学习"
+      ],
+      "pronunciation": {
+        "focus": "It is a red apple.",
+        "guide": "先听完整句意，再按意群慢读；重读句中的关键信息词，注意形容词结构前后的连读与自然停顿。",
+        "chant": "It is a red apple. I have a blue bag. Clap, read and say it again!"
+      },
+      "scenarios": [
+        {
+          "id": "g1-07-s1",
+          "title": "课堂开口说",
+          "dialogue": [
+            "A: It is a red apple.",
+            "B: I have a blue bag."
+          ]
+        }
+      ],
+      "funLearning": [
+        {
+          "id": "g1-07-f1",
+          "title": "节奏替换游戏",
+          "content": "拍手朗读“It is a red apple.”，每轮替换一个人物、物品或时间词，保持颜色形容词修饰名词的句型结构不变。"
+        },
+        {
+          "id": "g1-07-f2",
+          "title": "中英侦探",
+          "content": "从绘本、歌曲或生活标识中寻找一个使用颜色形容词修饰名词的句子，解释它为什么正确。"
+        }
+      ],
+      "activities": [
+        {
+          "id": "g1-07-a1",
+          "type": "听说",
+          "instruction": "听老师朗读两个例句，圈出重读词，再与同伴完成一次角色互换朗读。"
+        },
+        {
+          "id": "g1-07-a2",
+          "type": "应用",
+          "instruction": "结合自己的学校或家庭生活，使用颜色形容词修饰名词独立创作两个新句子。"
+        }
+      ],
+      "commonMistakes": [
+        {
+          "id": "g1-07-m1",
+          "wrong": "It is an apple red.",
+          "correct": "It is a red apple.",
+          "reason": "英语形容词通常放在名词前，颜色词可直接修饰名词。 错句没有正确匹配主语、词形或句子结构。"
+        },
+        {
+          "id": "g1-07-m2",
+          "wrong": "I have a bag blue.",
+          "correct": "I have a blue bag.",
+          "reason": "英语形容词通常放在名词前，颜色词可直接修饰名词。 错句没有正确匹配主语、词形或句子结构。"
+        }
+      ]
+    }
+  ]
+}
