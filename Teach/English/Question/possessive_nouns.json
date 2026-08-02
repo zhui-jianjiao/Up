@@ -1,7 +1,7 @@
 {
   "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.764Z",
+  "updatedAt": "2026-08-02T16:31:14.311Z",
   "sets": [
     {
       "id": "qs-g3-07",
@@ -24,7 +24,7 @@
               "Lucy's"
             ]
           },
-          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 本题应填“Lucy's”。",
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 可接受答案：Lucy's。",
           "score": 1,
           "mediaPath": null
         },
@@ -39,7 +39,7 @@
               "children's"
             ]
           },
-          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 本题应填“children's”。",
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 可接受答案：children's。",
           "score": 1,
           "mediaPath": null
         },
@@ -54,7 +54,7 @@
               "teachers'"
             ]
           },
-          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 本题应填“teachers'”。",
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 可接受答案：teachers'。",
           "score": 1,
           "mediaPath": null
         },
@@ -69,7 +69,7 @@
               "Ben's"
             ]
           },
-          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 本题应填“Ben's”。",
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 可接受答案：Ben's。",
           "score": 1,
           "mediaPath": null
         },
@@ -84,7 +84,7 @@
               "girls'"
             ]
           },
-          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 本题应填“girls'”。",
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 可接受答案：girls'。",
           "score": 1,
           "mediaPath": null
         },
@@ -99,7 +99,7 @@
               "grandfather's"
             ]
           },
-          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 本题应填“grandfather's”。",
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 可接受答案：grandfather's。",
           "score": 1,
           "mediaPath": null
         },
@@ -114,7 +114,7 @@
               "bird's"
             ]
           },
-          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 本题应填“bird's”。",
+          "explanation": "单数名词通常加's表示所属关系，规则复数名词通常只加撇号。 可接受答案：bird's。",
           "score": 1,
           "mediaPath": null
         },
