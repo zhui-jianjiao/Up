@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:01:05.815Z",
+  "updatedAt": "2026-08-02T16:13:54.438Z",
   "sets": [
     {
       "id": "qs-g1-02",
@@ -17,32 +17,9 @@
           "id": "q-g1-02-01",
           "type": "fillBlank",
           "stem": "Mia is good at drawing. ___ designs our poster.",
-          "options": [
-            {
-              "id": "q-g1-02-01-o1",
-              "text": "She",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-01-o2",
-              "text": "Her",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-01-o3",
-              "text": "He",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-01-o4",
-              "text": "They",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-02-01-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "She"
             ]
@@ -55,32 +32,9 @@
           "id": "q-g1-02-02",
           "type": "fillBlank",
           "stem": "Ben and I practise together. ___ are partners.",
-          "options": [
-            {
-              "id": "q-g1-02-02-o1",
-              "text": "They",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-02-o2",
-              "text": "We",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-02-o3",
-              "text": "Us",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-02-o4",
-              "text": "You",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-02-02-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "We"
             ]
@@ -93,32 +47,9 @@
           "id": "q-g1-02-03",
           "type": "fillBlank",
           "stem": "The robot can speak. ___ is very clever.",
-          "options": [
-            {
-              "id": "q-g1-02-03-o1",
-              "text": "He",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-03-o2",
-              "text": "They",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-03-o3",
-              "text": "It",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-03-o4",
-              "text": "Its",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-02-03-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "It"
             ]
@@ -131,32 +62,9 @@
           "id": "q-g1-02-04",
           "type": "fillBlank",
           "stem": "Leo has a new racket. ___ plays tennis after school.",
-          "options": [
-            {
-              "id": "q-g1-02-04-o1",
-              "text": "Him",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-04-o2",
-              "text": "She",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-04-o3",
-              "text": "We",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-04-o4",
-              "text": "He",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-02-04-o4"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "He"
             ]
@@ -169,32 +77,9 @@
           "id": "q-g1-02-05",
           "type": "fillBlank",
           "stem": "My cousins live nearby. ___ walk to school.",
-          "options": [
-            {
-              "id": "q-g1-02-05-o1",
-              "text": "They",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-05-o2",
-              "text": "Them",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-05-o3",
-              "text": "We",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-05-o4",
-              "text": "Their",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-02-05-o1"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "They"
             ]
@@ -207,32 +92,9 @@
           "id": "q-g1-02-06",
           "type": "fillBlank",
           "stem": "___ am responsible for watering the plants.",
-          "options": [
-            {
-              "id": "q-g1-02-06-o1",
-              "text": "Me",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-06-o2",
-              "text": "I",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-06-o3",
-              "text": "We",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-06-o4",
-              "text": "My",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-02-06-o2"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "I"
             ]
@@ -245,32 +107,9 @@
           "id": "q-g1-02-07",
           "type": "fillBlank",
           "stem": "Lucy, can ___ help me carry these books?",
-          "options": [
-            {
-              "id": "q-g1-02-07-o1",
-              "text": "she",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-07-o2",
-              "text": "her",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-07-o3",
-              "text": "you",
-              "imagePath": null
-            },
-            {
-              "id": "q-g1-02-07-o4",
-              "text": "they",
-              "imagePath": null
-            }
-          ],
+          "options": [],
           "answer": {
-            "optionIDs": [
-              "q-g1-02-07-o3"
-            ],
+            "optionIDs": [],
             "textAnswers": [
               "you"
             ]
@@ -281,33 +120,48 @@
         },
         {
           "id": "q-g1-02-08",
+          "type": "fillBlank",
+          "stem": "请根据中文输入完整英文句子：她是我的老师。",
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "She is my teacher."
+            ]
+          },
+          "explanation": "I、you、he、she、it、we、they在句中通常作主语。 参考表达：She is my teacher.",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "q-g1-02-09",
           "type": "singleChoice",
-          "stem": "校园英语角需要一个“人称代词主格”示例，选择表达正确的一项。",
+          "stem": "选择正确使用“人称代词主格”的一项。",
           "options": [
             {
-              "id": "q-g1-02-08-o1",
+              "id": "q-g1-02-09-o1",
               "text": "Her is my teacher.",
               "imagePath": null
             },
             {
-              "id": "q-g1-02-08-o2",
+              "id": "q-g1-02-09-o2",
               "text": "She is my teacher.",
               "imagePath": null
             },
             {
-              "id": "q-g1-02-08-o3",
+              "id": "q-g1-02-09-o3",
               "text": "Us are classmates.",
               "imagePath": null
             },
             {
-              "id": "q-g1-02-08-o4",
+              "id": "q-g1-02-09-o4",
               "text": "Me like English.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-02-08-o2"
+              "q-g1-02-09-o2"
             ],
             "textAnswers": []
           },
@@ -316,34 +170,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-02-09",
+          "id": "q-g1-02-10",
           "type": "singleChoice",
-          "stem": "同学正在校对英语作品，选择语法和语意都正确的一项。",
+          "stem": "再次辨析“人称代词主格”，选择结构正确的一项。",
           "options": [
             {
-              "id": "q-g1-02-09-o1",
+              "id": "q-g1-02-10-o1",
               "text": "Us are classmates.",
               "imagePath": null
             },
             {
-              "id": "q-g1-02-09-o2",
+              "id": "q-g1-02-10-o2",
               "text": "Me like English.",
               "imagePath": null
             },
             {
-              "id": "q-g1-02-09-o3",
+              "id": "q-g1-02-10-o3",
               "text": "We are classmates.",
               "imagePath": null
             },
             {
-              "id": "q-g1-02-09-o4",
+              "id": "q-g1-02-10-o4",
               "text": "Her is my teacher.",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-02-09-o3"
+              "q-g1-02-10-o3"
             ],
             "textAnswers": []
           },
@@ -352,34 +206,34 @@
           "mediaPath": null
         },
         {
-          "id": "q-g1-02-10",
+          "id": "q-g1-02-11",
           "type": "singleChoice",
           "stem": "完成本组练习后，选择对“人称代词主格”最准确的总结。",
           "options": [
             {
-              "id": "q-g1-02-10-o1",
+              "id": "q-g1-02-11-o1",
               "text": "只需逐字翻译中文，不必观察英文语序和上下文。",
               "imagePath": null
             },
             {
-              "id": "q-g1-02-10-o2",
+              "id": "q-g1-02-11-o2",
               "text": "I、you、he、she、it、we、they在句中通常作主语。",
               "imagePath": null
             },
             {
-              "id": "q-g1-02-10-o3",
+              "id": "q-g1-02-11-o3",
               "text": "所有主语、数量和时间条件都可以使用完全相同的形式。",
               "imagePath": null
             },
             {
-              "id": "q-g1-02-10-o4",
+              "id": "q-g1-02-11-o4",
               "text": "只要单词拼写正确，句子结构和实际语境都不重要。",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "q-g1-02-10-o2"
+              "q-g1-02-11-o2"
             ],
             "textAnswers": []
           },
