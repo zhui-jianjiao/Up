@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T16:19:42.760Z",
+  "updatedAt": "2026-08-02T17:08:07.679Z",
   "topics": [
     {
       "id": "g6-02",
@@ -23,6 +23,12 @@
           "english": "A new school will be built here.",
           "chinese": "这里将建一所新学校。",
           "note": null
+        },
+        {
+          "id": "g6-02-e3",
+          "english": "The results will be sent by email.",
+          "chinese": "结果将通过邮件发送。",
+          "note": "will be后接send的过去分词sent。"
         }
       ],
       "tips": [
@@ -87,7 +93,35 @@
           "correct": "A new school will be built here.",
           "reason": "一般将来时被动语态由will be加过去分词构成。 错句没有正确匹配主语、词形或句子结构。"
         }
-      ]
+      ],
+      "specialForms": [
+        {
+          "id": "g6-02-sf1",
+          "title": "将来时被动结构",
+          "summary": "will be后始终使用过去分词。",
+          "items": [
+            {
+              "id": "g6-02-sf1-1",
+              "base": "send",
+              "form": "will be sent",
+              "usage": "将被发送"
+            },
+            {
+              "id": "g6-02-sf1-2",
+              "base": "build",
+              "form": "will be built",
+              "usage": "将被建造"
+            },
+            {
+              "id": "g6-02-sf1-3",
+              "base": "write",
+              "form": "will be written",
+              "usage": "将被书写"
+            }
+          ]
+        }
+      ],
+      "markdownContent": "## 学习小结\n\n**核心规则：** 一般将来时被动语态由will be加过去分词构成。\n\n- 先观察主语、数量和时间信息。\n- 再确定句型结构与词形。\n- 最后朗读完整句子并检查语意。\n\n- 结合下方特殊变形表记忆原形和变化形式。"
     }
   ]
 }
