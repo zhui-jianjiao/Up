@@ -1,37 +1,375 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "curriculum": "上海小学英语一至六年级融合课程",
-  "updatedAt": "2026-08-02T10:03:28.837Z",
-  "grades": [
+  "updatedAt": "2026-08-02T15:42:50.237Z",
+  "files": [
     {
+      "id": "g1-01",
       "grade": 1,
-      "file": "grade_1.json",
-      "itemCount": 7
+      "order": 1,
+      "code": "be_verbs",
+      "file": "be_verbs.json",
+      "itemCount": 1
     },
     {
+      "id": "g1-02",
+      "grade": 1,
+      "order": 2,
+      "code": "subject_pronouns",
+      "file": "subject_pronouns.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g1-03",
+      "grade": 1,
+      "order": 3,
+      "code": "indefinite_articles",
+      "file": "indefinite_articles.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g1-04",
+      "grade": 1,
+      "order": 4,
+      "code": "imperatives",
+      "file": "imperatives.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g1-05",
+      "grade": 1,
+      "order": 5,
+      "code": "demonstratives",
+      "file": "demonstratives.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g1-06",
+      "grade": 1,
+      "order": 6,
+      "code": "whats_this_that",
+      "file": "whats_this_that.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g1-07",
+      "grade": 1,
+      "order": 7,
+      "code": "color_adjectives",
+      "file": "color_adjectives.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g2-01",
       "grade": 2,
-      "file": "grade_2.json",
-      "itemCount": 7
+      "order": 1,
+      "code": "be_negative_questions",
+      "file": "be_negative_questions.json",
+      "itemCount": 1
     },
     {
+      "id": "g2-02",
+      "grade": 2,
+      "order": 2,
+      "code": "possessive_adjectives",
+      "file": "possessive_adjectives.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g2-03",
+      "grade": 2,
+      "order": 3,
+      "code": "regular_plurals",
+      "file": "regular_plurals.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g2-04",
+      "grade": 2,
+      "order": 4,
+      "code": "how_many",
+      "file": "how_many.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g2-05",
+      "grade": 2,
+      "order": 5,
+      "code": "have_has",
+      "file": "have_has.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g2-06",
+      "grade": 2,
+      "order": 6,
+      "code": "modal_can",
+      "file": "modal_can.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g2-07",
+      "grade": 2,
+      "order": 7,
+      "code": "place_prepositions",
+      "file": "place_prepositions.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g3-01",
       "grade": 3,
-      "file": "grade_3.json",
-      "itemCount": 8
+      "order": 1,
+      "code": "present_continuous",
+      "file": "present_continuous.json",
+      "itemCount": 1
     },
     {
+      "id": "g3-02",
+      "grade": 3,
+      "order": 2,
+      "code": "simple_present",
+      "file": "simple_present.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g3-03",
+      "grade": 3,
+      "order": 3,
+      "code": "there_be",
+      "file": "there_be.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g3-04",
+      "grade": 3,
+      "order": 4,
+      "code": "countable_uncountable",
+      "file": "countable_uncountable.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g3-05",
+      "grade": 3,
+      "order": 5,
+      "code": "some_any",
+      "file": "some_any.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g3-06",
+      "grade": 3,
+      "order": 6,
+      "code": "how_much_many",
+      "file": "how_much_many.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g3-07",
+      "grade": 3,
+      "order": 7,
+      "code": "possessive_nouns",
+      "file": "possessive_nouns.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g3-08",
+      "grade": 3,
+      "order": 8,
+      "code": "time_prepositions",
+      "file": "time_prepositions.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g4-01",
       "grade": 4,
-      "file": "grade_4.json",
-      "itemCount": 8
+      "order": 1,
+      "code": "simple_past",
+      "file": "simple_past.json",
+      "itemCount": 1
     },
     {
+      "id": "g4-02",
+      "grade": 4,
+      "order": 2,
+      "code": "be_going_to",
+      "file": "be_going_to.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g4-03",
+      "grade": 4,
+      "order": 3,
+      "code": "comparatives",
+      "file": "comparatives.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g4-04",
+      "grade": 4,
+      "order": 4,
+      "code": "frequency_adverbs",
+      "file": "frequency_adverbs.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g4-05",
+      "grade": 4,
+      "order": 5,
+      "code": "must_should",
+      "file": "must_should.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g4-06",
+      "grade": 4,
+      "order": 6,
+      "code": "object_pronouns",
+      "file": "object_pronouns.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g4-07",
+      "grade": 4,
+      "order": 7,
+      "code": "infinitives",
+      "file": "infinitives.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g4-08",
+      "grade": 4,
+      "order": 8,
+      "code": "coordinating_conjunctions",
+      "file": "coordinating_conjunctions.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g5-01",
       "grade": 5,
-      "file": "grade_5.json",
-      "itemCount": 8
+      "order": 1,
+      "code": "present_perfect",
+      "file": "present_perfect.json",
+      "itemCount": 1
     },
     {
+      "id": "g5-02",
+      "grade": 5,
+      "order": 2,
+      "code": "present_perfect_vs_past",
+      "file": "present_perfect_vs_past.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g5-03",
+      "grade": 5,
+      "order": 3,
+      "code": "superlatives",
+      "file": "superlatives.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g5-04",
+      "grade": 5,
+      "order": 4,
+      "code": "long_adjective_superlatives",
+      "file": "long_adjective_superlatives.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g5-05",
+      "grade": 5,
+      "order": 5,
+      "code": "polite_could_would",
+      "file": "polite_could_would.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g5-06",
+      "grade": 5,
+      "order": 6,
+      "code": "object_clauses",
+      "file": "object_clauses.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g5-07",
+      "grade": 5,
+      "order": 7,
+      "code": "if_conditionals",
+      "file": "if_conditionals.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g5-08",
+      "grade": 5,
+      "order": 8,
+      "code": "present_passive",
+      "file": "present_passive.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g6-01",
       "grade": 6,
-      "file": "grade_6.json",
-      "itemCount": 8
+      "order": 1,
+      "code": "past_passive",
+      "file": "past_passive.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g6-02",
+      "grade": 6,
+      "order": 2,
+      "code": "future_passive",
+      "file": "future_passive.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g6-03",
+      "grade": 6,
+      "order": 3,
+      "code": "modal_passive",
+      "file": "modal_passive.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g6-04",
+      "grade": 6,
+      "order": 4,
+      "code": "relative_clauses",
+      "file": "relative_clauses.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g6-05",
+      "grade": 6,
+      "order": 5,
+      "code": "adverbial_clauses",
+      "file": "adverbial_clauses.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g6-06",
+      "grade": 6,
+      "order": 6,
+      "code": "reported_statements",
+      "file": "reported_statements.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g6-07",
+      "grade": 6,
+      "order": 7,
+      "code": "reported_questions",
+      "file": "reported_questions.json",
+      "itemCount": 1
+    },
+    {
+      "id": "g6-08",
+      "grade": 6,
+      "order": 8,
+      "code": "subjunctive_mood",
+      "file": "subjunctive_mood.json",
+      "itemCount": 1
     }
   ]
 }
