@@ -127,7 +127,62 @@
         },
         {
           "id": "mq-d2-08",
+          "type": "singleChoice",
+          "stem": "选择题：1000÷[875-(572+178)] 中，最后一步算（ ）。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d2-08-o1",
+              "text": "加法",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d2-08-o2",
+              "text": "减法",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d2-08-o3",
+              "text": "乘法",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d2-08-o4",
+              "text": "除法",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d2-08-o4"
+            ],
+            "textAnswers": [
+              "除法"
+            ]
+          },
+          "explanation": "参考答案：除法。先算小括号，再算中括号，最后算1000÷125。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-09",
           "type": "fillBlank",
+          "stem": "填空题：60×（600-400÷25）中，400÷25 的结果是（ ）。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "16"
+            ]
+          },
+          "explanation": "参考答案：16。25×16=400。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-10",
+          "type": "writtenResponse",
           "stem": "解决问题：小宁有钢笔30枝，小青有15枝，小宁给小青多少枝后，小宁是小青的8倍？",
           "keyword": null,
           "options": [],
@@ -142,8 +197,8 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d2-09",
-          "type": "fillBlank",
+          "id": "mq-d2-11",
+          "type": "writtenResponse",
           "stem": "思维题：甲乙丙丁和小红比赛围棋，每两人赛一盘。甲4盘，乙3盘，丙2盘，丁1盘，小红赛几盘？",
           "keyword": null,
           "options": [],
