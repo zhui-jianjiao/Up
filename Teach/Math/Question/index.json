@@ -9,7 +9,7 @@
       "order": 1,
       "code": "math_daily_01",
       "file": "daily_practice_01.json",
-      "itemCount": 11
+      "itemCount": 18
     },
     {
       "id": "math-d2",
@@ -17,7 +17,7 @@
       "order": 2,
       "code": "math_daily_02",
       "file": "daily_practice_02.json",
-      "itemCount": 11
+      "itemCount": 23
     },
     {
       "id": "math-d3",
@@ -25,7 +25,7 @@
       "order": 3,
       "code": "math_daily_03",
       "file": "daily_practice_03.json",
-      "itemCount": 11
+      "itemCount": 18
     },
     {
       "id": "math-d4",
@@ -33,7 +33,7 @@
       "order": 4,
       "code": "math_daily_04",
       "file": "daily_practice_04.json",
-      "itemCount": 11
+      "itemCount": 14
     },
     {
       "id": "math-d5",
@@ -41,7 +41,7 @@
       "order": 5,
       "code": "math_daily_05",
       "file": "daily_practice_05.json",
-      "itemCount": 11
+      "itemCount": 23
     }
   ]
 }
