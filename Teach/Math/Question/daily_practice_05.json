@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "curriculum": "四升五暑假每日一练",
+  "updatedAt": "2026-08-03T00:00:00Z",
+  "sets": [
+    {
+      "id": "math-d5",
+      "unit": 1,
+      "order": 5,
+      "title": "四升五暑假每日一练（第 5 天）",
+      "difficulty": "hard",
+      "grammarIDs": [],
+      "questions": [
+        {
+          "id": "mq-d5-01",
+          "type": "fillBlank",
+          "stem": "口算：5.6+2.3+0.7=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "8.6"
+            ]
+          },
+          "explanation": "参考答案：8.6。2.3+0.7=3，5.6+3=8.6。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-02",
+          "type": "fillBlank",
+          "stem": "口算：5×17×2=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "170"
+            ]
+          },
+          "explanation": "参考答案：170。5×2=10，10×17=170。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-03",
+          "type": "fillBlank",
+          "stem": "口算：1000×25=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "25000"
+            ]
+          },
+          "explanation": "参考答案：25000。25×1000=25000。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-04",
+          "type": "fillBlank",
+          "stem": "递等式计算：3600÷25×4=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "576"
+            ]
+          },
+          "explanation": "参考答案：576。3600÷25=144，144×4=576。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-05",
+          "type": "fillBlank",
+          "stem": "递等式计算：(74+125)×80=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "15920"
+            ]
+          },
+          "explanation": "参考答案：15920。199×80=15920。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-06",
+          "type": "singleChoice",
+          "stem": "判断题：有两条边相等的梯形就是等腰梯形。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d5-06-o1",
+              "text": "对",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d5-06-o2",
+              "text": "错",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d5-06-o3",
+              "text": "无法判断",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d5-06-o4",
+              "text": "一定正确",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d5-06-o2"
+            ],
+            "textAnswers": [
+              "错",
+              "错误"
+            ]
+          },
+          "explanation": "参考答案：错 / 错误。等腰梯形指两腰相等，不是任意两条边相等。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-07",
+          "type": "singleChoice",
+          "stem": "判断题：一个整数乘100，就是在这个数后面添上两个0。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d5-07-o1",
+              "text": "对",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d5-07-o2",
+              "text": "错",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d5-07-o3",
+              "text": "无法判断",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d5-07-o4",
+              "text": "只适合小数",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d5-07-o1"
+            ],
+            "textAnswers": [
+              "对",
+              "正确"
+            ]
+          },
+          "explanation": "参考答案：对 / 正确。整数乘100可以在末尾添两个0。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-08",
+          "type": "fillBlank",
+          "stem": "解决问题：笔记本每本6元，买5送1本，34名同学每人一本，需要花多少钱？",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "174元",
+              "174"
+            ]
+          },
+          "explanation": "参考答案：174元 / 174。买5送1即6本付5本，34本需付29本，29×6=174元。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-09",
+          "type": "fillBlank",
+          "stem": "思维题：小数整数部分是6，小数部分各位数字和12且各不相同，求最大的和最小的三位小数。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "6.930，6.039",
+              "最大6.930，最小6.039"
+            ]
+          },
+          "explanation": "参考答案：6.930，6.039 / 最大6.930，最小6.039。三位小数数字和12且不同，最大用930，最小用039。",
+          "score": 3,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
