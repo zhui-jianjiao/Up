@@ -46,6 +46,22 @@
         {
           "id": "mq-d1-03",
           "type": "fillBlank",
+          "stem": "口算：30×71+54=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "2184"
+            ]
+          },
+          "explanation": "参考答案：2184。30×71=2130，2130+54=2184。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-04",
+          "type": "fillBlank",
           "stem": "口算：420÷3=",
           "keyword": null,
           "options": [],
@@ -60,7 +76,71 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d1-04",
+          "id": "mq-d1-05",
+          "type": "fillBlank",
+          "stem": "口算：701-86=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "615"
+            ]
+          },
+          "explanation": "参考答案：615。701-80-6=615。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-06",
+          "type": "fillBlank",
+          "stem": "口算：46×994+46×6=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "46000"
+            ]
+          },
+          "explanation": "参考答案：46000。46×(994+6)=46×1000=46000。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-07",
+          "type": "fillBlank",
+          "stem": "口算：555×11÷111=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "55"
+            ]
+          },
+          "explanation": "参考答案：55。555×11=6105，6105÷111=55。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-08",
+          "type": "fillBlank",
+          "stem": "口算：1200÷25×4=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "192"
+            ]
+          },
+          "explanation": "参考答案：192。1200÷25=48，48×4=192。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-09",
           "type": "fillBlank",
           "stem": "递等式计算：1000-21600÷270=",
           "keyword": null,
@@ -71,12 +151,12 @@
               "920"
             ]
           },
-          "explanation": "参考答案：920。先算21600÷270=80，再算1000-80=920。",
+          "explanation": "参考答案：920。21600÷270=80，1000-80=920。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d1-05",
+          "id": "mq-d1-10",
           "type": "fillBlank",
           "stem": "递等式计算：125×19×8=",
           "keyword": null,
@@ -87,14 +167,46 @@
               "19000"
             ]
           },
-          "explanation": "参考答案：19000。125×8=1000，再乘19得19000。",
+          "explanation": "参考答案：19000。125×8=1000，1000×19=19000。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d1-06",
+          "id": "mq-d1-11",
           "type": "fillBlank",
-          "stem": "填空题：小明5天看了15页书，一个月30天能看（ ）页。",
+          "stem": "递等式计算：26+35×52+30×26=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "2626"
+            ]
+          },
+          "explanation": "参考答案：2626。35×52=1820，30×26=780，26+1820+780=2626。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-12",
+          "type": "fillBlank",
+          "stem": "递等式计算：99×99+99=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "9900"
+            ]
+          },
+          "explanation": "参考答案：9900。99×(99+1)=99×100=9900。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-13",
+          "type": "fillBlank",
+          "stem": "填空题：小明5天看了15页书，照这样计算，他一个月（30天）能看（ ）页书。",
           "keyword": null,
           "options": [],
           "answer": {
@@ -103,14 +215,31 @@
               "90"
             ]
           },
-          "explanation": "参考答案：90。15÷5=3页/天，3×30=90页。",
+          "explanation": "参考答案：90。15÷5=3（页），3×30=90（页）。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d1-07",
+          "id": "mq-d1-14",
           "type": "fillBlank",
-          "stem": "填空题：45×☆ 的积末尾有两个0，☆最小是（ ）。",
+          "stem": "填空题：王大妈养了64只鸡，正好是鸭的2倍。王大妈养的鸡和鸭共有多少只？正确列式是（ ）。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "64+64÷2",
+              "64＋64÷2"
+            ]
+          },
+          "explanation": "参考答案：64+64÷2 / 64＋64÷2。鸭有64÷2只，鸡和鸭共有64+64÷2只。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-15",
+          "type": "fillBlank",
+          "stem": "填空题：45×☆，要使这个算式的积的末尾有两个0，☆最小是（ ）。",
           "keyword": null,
           "options": [],
           "answer": {
@@ -124,82 +253,42 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d1-08",
-          "type": "singleChoice",
-          "stem": "选择题：下面算式中，能用乘法分配律简便计算的是（ ）。",
-          "keyword": null,
-          "options": [
-            {
-              "id": "mq-d1-08-o1",
-              "text": "15×63+5×63",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d1-08-o2",
-              "text": "37+63÷3",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d1-08-o3",
-              "text": "420÷3",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d1-08-o4",
-              "text": "125×19×8",
-              "imagePath": null
-            }
-          ],
-          "answer": {
-            "optionIDs": [
-              "mq-d1-08-o1"
-            ],
-            "textAnswers": [
-              "15×63+5×63"
-            ]
-          },
-          "explanation": "参考答案：15×63+5×63。两个乘法算式中都有相同因数63，可以合并为(15+5)×63。",
-          "score": 1,
-          "mediaPath": null
-        },
-        {
-          "id": "mq-d1-09",
+          "id": "mq-d1-16",
           "type": "fillBlank",
-          "stem": "填空题：125×19×8 简便计算时，应先算（ ）。",
+          "stem": "填空题：小华在计算4×（◇+85）÷5时，看了小括号，错算成4×◇+85÷5，结果得到77。这道题的正确结果是（ ）。",
           "keyword": null,
           "options": [],
           "answer": {
             "optionIDs": [],
             "textAnswers": [
-              "125×8",
-              "125乘8"
+              "80"
             ]
           },
-          "explanation": "参考答案：125×8 / 125乘8。125×8=1000，先凑整再乘19更简便。",
+          "explanation": "参考答案：80。错算式为4×◇+17=77，所以◇=15；正确结果为4×(15+85)÷5=80。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d1-10",
+          "id": "mq-d1-17",
           "type": "writtenResponse",
-          "stem": "解决问题：长方形面积225平方米，长除以5、宽乘以5后变成正方形，正方形面积是多少？边长是多少？",
+          "stem": "解决问题：一个长方形的面积是225平方米，如果长除以5，宽乘以5，这个长方形就变成了一个正方形，这个正方形的面积是多少？这个正方形的边长是多少？",
           "keyword": null,
           "options": [],
           "answer": {
             "optionIDs": [],
             "textAnswers": [
-              "225平方米，15米",
-              "225，15"
+              "面积225平方米，边长15米",
+              "225平方米，15米"
             ]
           },
-          "explanation": "参考答案：225平方米，15米 / 225，15。面积不变，正方形面积仍为225平方米，边长15米。",
+          "explanation": "参考答案：面积225平方米，边长15米 / 225平方米，15米。解题式：\n225平方米\n15×15=225（平方米）\n答：这个正方形的面积是225平方米，边长是15米。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d1-11",
+          "id": "mq-d1-18",
           "type": "writtenResponse",
-          "stem": "思维题：五位数最低位是8，最高位是3，个位是十位两倍，前三位和与后三位和都是19，这个五位数是多少？",
+          "stem": "思维题：有一个五位数，最低位上的数字是8，最高位上的数字是3，个位上数字是十位上数字的两倍，前三位数字的和与后三位数字的和都是19，这个五位数是多少？",
           "keyword": null,
           "options": [],
           "answer": {
@@ -208,7 +297,7 @@
               "39748"
             ]
           },
-          "explanation": "参考答案：39748。个位8，则十位4；万位3，前三位和19得百位与千位和16；后三位和19得百位7，所以千位9。",
+          "explanation": "参考答案：39748。解题式：\n十位：8÷2=4\n百位：19-4-8=7\n千位：19-3-7=9\n答：这个五位数是39748。",
           "score": 3,
           "mediaPath": null
         }
