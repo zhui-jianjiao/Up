@@ -46,6 +46,86 @@
         {
           "id": "mq-d3-03",
           "type": "fillBlank",
+          "stem": "口算：150÷30×3=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "15"
+            ]
+          },
+          "explanation": "参考答案：15。150÷30=5，5×3=15。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-04",
+          "type": "fillBlank",
+          "stem": "口算：18+50×2=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "118"
+            ]
+          },
+          "explanation": "参考答案：118。50×2=100，18+100=118。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-05",
+          "type": "fillBlank",
+          "stem": "口算：568-60×9=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "28"
+            ]
+          },
+          "explanation": "参考答案：28。60×9=540，568-540=28。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-06",
+          "type": "fillBlank",
+          "stem": "口算：37×63+37×37=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "3700"
+            ]
+          },
+          "explanation": "参考答案：3700。37×(63+37)=37×100=3700。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-07",
+          "type": "fillBlank",
+          "stem": "口算：1340÷（94+40）=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "10"
+            ]
+          },
+          "explanation": "参考答案：10。94+40=134，1340÷134=10。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-08",
+          "type": "fillBlank",
           "stem": "口算：1000÷125×8=",
           "keyword": null,
           "options": [],
@@ -60,7 +140,7 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d3-04",
+          "id": "mq-d3-09",
           "type": "fillBlank",
           "stem": "脱式计算：72×125=",
           "keyword": null,
@@ -76,7 +156,39 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d3-05",
+          "id": "mq-d3-10",
+          "type": "fillBlank",
+          "stem": "脱式计算：250×28=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "7000"
+            ]
+          },
+          "explanation": "参考答案：7000。25×28=700，250×28=7000。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-11",
+          "type": "fillBlank",
+          "stem": "脱式计算：25×125×32=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "100000"
+            ]
+          },
+          "explanation": "参考答案：100000。32=4×8，25×4=100，125×8=1000，100×1000=100000。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-12",
           "type": "fillBlank",
           "stem": "脱式计算：99×125×8=",
           "keyword": null,
@@ -92,9 +204,9 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d3-06",
+          "id": "mq-d3-13",
           "type": "fillBlank",
-          "stem": "填空题：125×（ ）的积末尾两个数字都是0，括号里最小应填（ ）。",
+          "stem": "填空题：要使算式125×（ ）的积的末尾的两个数字都是0，括号里最小应该是（ ）。",
           "keyword": null,
           "options": [],
           "answer": {
@@ -103,14 +215,14 @@
               "8"
             ]
           },
-          "explanation": "参考答案：8。125×8=1000，末尾至少两个0，8最小。",
+          "explanation": "参考答案：8。125×8=1000，末尾两个数字都是0，8最小。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d3-07",
+          "id": "mq-d3-14",
           "type": "fillBlank",
-          "stem": "填空题：瓶装饮料一般用（ ）作单位，桶装花生油一般用（ ）作单位。",
+          "stem": "填空题：瓶装的饮料一般用（ ）作单位，桶装的花生油一般用（ ）作单位。",
           "keyword": null,
           "options": [],
           "answer": {
@@ -125,65 +237,42 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d3-08",
-          "type": "singleChoice",
-          "stem": "选择题：72×125 简便计算时，可以把72拆成（ ）。",
-          "keyword": null,
-          "options": [
-            {
-              "id": "mq-d3-08-o1",
-              "text": "9×8",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d3-08-o2",
-              "text": "6×12",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d3-08-o3",
-              "text": "70+2",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d3-08-o4",
-              "text": "80-8",
-              "imagePath": null
-            }
-          ],
-          "answer": {
-            "optionIDs": [
-              "mq-d3-08-o1"
-            ],
-            "textAnswers": [
-              "9×8"
-            ]
-          },
-          "explanation": "参考答案：9×8。因为125×8=1000，所以72拆成9×8。",
-          "score": 1,
-          "mediaPath": null
-        },
-        {
-          "id": "mq-d3-09",
+          "id": "mq-d3-15",
           "type": "fillBlank",
-          "stem": "填空题：63×89+11×63 可以改写成63×（ ）。",
+          "stem": "填空题：一瓶墨水约是60（ ）。",
           "keyword": null,
           "options": [],
           "answer": {
             "optionIDs": [],
             "textAnswers": [
-              "100",
-              "89+11"
+              "毫升",
+              "mL"
             ]
           },
-          "explanation": "参考答案：100 / 89+11。提取相同因数63，括号内为89+11=100。",
+          "explanation": "参考答案：毫升 / mL。墨水瓶容量较小，用毫升作单位。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d3-10",
+          "id": "mq-d3-16",
+          "type": "fillBlank",
+          "stem": "填空题：最大两位数与最小三位数相乘的积是（ ）。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "9900"
+            ]
+          },
+          "explanation": "参考答案：9900。最大两位数是99，最小三位数是100，99×100=9900。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-17",
           "type": "writtenResponse",
-          "stem": "解决问题：火车每秒40米，经过1600米大桥，从车头上桥到车尾离桥需要多少时间？车长800米。",
+          "stem": "解决问题：一列火车身长800米，每秒40米行驶，经过一座为1600米的大桥，请问车头上桥到车尾需要多少时间？",
           "keyword": null,
           "options": [],
           "answer": {
@@ -193,14 +282,14 @@
               "60"
             ]
           },
-          "explanation": "参考答案：60秒 / 60。(1600+800)÷40=60秒。",
+          "explanation": "参考答案：60秒 / 60。解题式：\n800+1600=2400（米）\n2400÷40=60（秒）\n答：车头上桥到车尾需要60秒。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d3-11",
+          "id": "mq-d3-18",
           "type": "writtenResponse",
-          "stem": "思维题：500毫升和800毫升两个瓶子，能不能量出1100毫升水？说明方法。",
+          "stem": "思维题：有一盆水和一个空盆，如果用两只分别能装500毫升和800毫升的瓶子，你能不能量出1100毫升的水？说出你的办法。",
           "keyword": null,
           "options": [],
           "answer": {
@@ -210,7 +299,7 @@
               "可以"
             ]
           },
-          "explanation": "参考答案：能 / 可以。800装满倒入500，余300；倒空500，将300倒入500，再装满800倒入500至满，800中剩600；600+500=1100。",
+          "explanation": "参考答案：能 / 可以。解题式：\n先装满800毫升瓶倒入空盆，盆中有800毫升。\n再装满800毫升瓶，倒入500毫升瓶，800毫升瓶中剩300毫升。\n把剩下的300毫升倒入盆中。\n800+300=1100（毫升）\n答：能量出1100毫升的水。",
           "score": 3,
           "mediaPath": null
         }
