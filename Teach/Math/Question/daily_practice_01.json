@@ -125,7 +125,63 @@
         },
         {
           "id": "mq-d1-08",
+          "type": "singleChoice",
+          "stem": "选择题：下面算式中，能用乘法分配律简便计算的是（ ）。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d1-08-o1",
+              "text": "15×63+5×63",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d1-08-o2",
+              "text": "37+63÷3",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d1-08-o3",
+              "text": "420÷3",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d1-08-o4",
+              "text": "125×19×8",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d1-08-o1"
+            ],
+            "textAnswers": [
+              "15×63+5×63"
+            ]
+          },
+          "explanation": "参考答案：15×63+5×63。两个乘法算式中都有相同因数63，可以合并为(15+5)×63。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-09",
           "type": "fillBlank",
+          "stem": "填空题：125×19×8 简便计算时，应先算（ ）。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "125×8",
+              "125乘8"
+            ]
+          },
+          "explanation": "参考答案：125×8 / 125乘8。125×8=1000，先凑整再乘19更简便。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-10",
+          "type": "writtenResponse",
           "stem": "解决问题：长方形面积225平方米，长除以5、宽乘以5后变成正方形，正方形面积是多少？边长是多少？",
           "keyword": null,
           "options": [],
@@ -141,8 +197,8 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d1-09",
-          "type": "fillBlank",
+          "id": "mq-d1-11",
+          "type": "writtenResponse",
           "stem": "思维题：五位数最低位是8，最高位是3，个位是十位两倍，前三位和与后三位和都是19，这个五位数是多少？",
           "keyword": null,
           "options": [],
