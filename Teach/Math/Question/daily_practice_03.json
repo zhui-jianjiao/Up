@@ -126,7 +126,63 @@
         },
         {
           "id": "mq-d3-08",
+          "type": "singleChoice",
+          "stem": "选择题：72×125 简便计算时，可以把72拆成（ ）。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d3-08-o1",
+              "text": "9×8",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d3-08-o2",
+              "text": "6×12",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d3-08-o3",
+              "text": "70+2",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d3-08-o4",
+              "text": "80-8",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d3-08-o1"
+            ],
+            "textAnswers": [
+              "9×8"
+            ]
+          },
+          "explanation": "参考答案：9×8。因为125×8=1000，所以72拆成9×8。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-09",
           "type": "fillBlank",
+          "stem": "填空题：63×89+11×63 可以改写成63×（ ）。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "100",
+              "89+11"
+            ]
+          },
+          "explanation": "参考答案：100 / 89+11。提取相同因数63，括号内为89+11=100。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-10",
+          "type": "writtenResponse",
           "stem": "解决问题：火车每秒40米，经过1600米大桥，从车头上桥到车尾离桥需要多少时间？车长800米。",
           "keyword": null,
           "options": [],
@@ -142,8 +198,8 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d3-09",
-          "type": "fillBlank",
+          "id": "mq-d3-11",
+          "type": "writtenResponse",
           "stem": "思维题：500毫升和800毫升两个瓶子，能不能量出1100毫升水？说明方法。",
           "keyword": null,
           "options": [],
