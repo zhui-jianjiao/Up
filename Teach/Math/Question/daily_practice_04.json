@@ -23,12 +23,44 @@
               "18"
             ]
           },
-          "explanation": "参考答案：18。36÷6=6，所以括号内÷3=6，括号内为18。",
+          "explanation": "参考答案：18。36÷6=6，18÷3=6。",
           "score": 1,
           "mediaPath": null
         },
         {
           "id": "mq-d4-02",
+          "type": "writtenResponse",
+          "stem": "口算：715÷（□○11）=□○65○□",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "见图人工核对"
+            ]
+          },
+          "explanation": "参考答案：见图人工核对。图中该题含方框和圆圈符号，需结合原题符号人工核对。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-03",
+          "type": "fillBlank",
+          "stem": "口算：1000-（ ）÷8=200",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "6400"
+            ]
+          },
+          "explanation": "参考答案：6400。（ ）÷8=800，所以括号里是6400。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-04",
           "type": "fillBlank",
           "stem": "口算：4000÷（ ）=80",
           "keyword": null,
@@ -44,9 +76,25 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d4-03",
+          "id": "mq-d4-05",
           "type": "fillBlank",
-          "stem": "递等式计算：597-(58+197)=",
+          "stem": "口算：（ ）×24=1200",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "50"
+            ]
+          },
+          "explanation": "参考答案：50。1200÷24=50。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-06",
+          "type": "fillBlank",
+          "stem": "递等式计算：597-（58+197）=",
           "keyword": null,
           "options": [],
           "answer": {
@@ -60,7 +108,7 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d4-04",
+          "id": "mq-d4-07",
           "type": "fillBlank",
           "stem": "递等式计算：765-262-438+235=",
           "keyword": null,
@@ -76,35 +124,62 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d4-05",
+          "id": "mq-d4-08",
+          "type": "fillBlank",
+          "stem": "递等式计算：690÷（23×5）=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "6"
+            ]
+          },
+          "explanation": "参考答案：6。23×5=115，690÷115=6。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-09",
+          "type": "fillBlank",
+          "stem": "递等式计算：25×41-25=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "1000"
+            ]
+          },
+          "explanation": "参考答案：1000。25×(41-1)=25×40=1000。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-10",
           "type": "singleChoice",
           "stem": "选择题：用（ ）可使99×21+21的计算简便。",
           "keyword": null,
           "options": [
             {
-              "id": "mq-d4-05-o1",
+              "id": "mq-d4-10-o1",
               "text": "乘法交换律",
               "imagePath": null
             },
             {
-              "id": "mq-d4-05-o2",
+              "id": "mq-d4-10-o2",
               "text": "乘法分配律",
               "imagePath": null
             },
             {
-              "id": "mq-d4-05-o3",
+              "id": "mq-d4-10-o3",
               "text": "乘法结合律",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d4-05-o4",
-              "text": "加法交换律",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "mq-d4-05-o2"
+              "mq-d4-10-o2"
             ],
             "textAnswers": [
               "乘法分配律"
@@ -115,35 +190,30 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d4-06",
+          "id": "mq-d4-11",
           "type": "singleChoice",
           "stem": "选择题：28×4×5=28×（4×5）应用的是（ ）。",
           "keyword": null,
           "options": [
             {
-              "id": "mq-d4-06-o1",
+              "id": "mq-d4-11-o1",
               "text": "乘法结合律",
               "imagePath": null
             },
             {
-              "id": "mq-d4-06-o2",
+              "id": "mq-d4-11-o2",
               "text": "加法结合律",
               "imagePath": null
             },
             {
-              "id": "mq-d4-06-o3",
+              "id": "mq-d4-11-o3",
               "text": "乘法分配律",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d4-06-o4",
-              "text": "乘法交换律",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "mq-d4-06-o1"
+              "mq-d4-11-o1"
             ],
             "textAnswers": [
               "乘法结合律"
@@ -154,35 +224,30 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d4-07",
+          "id": "mq-d4-12",
           "type": "singleChoice",
           "stem": "选择题：平行四边形有（ ）条高。",
           "keyword": null,
           "options": [
             {
-              "id": "mq-d4-07-o1",
+              "id": "mq-d4-12-o1",
               "text": "1",
               "imagePath": null
             },
             {
-              "id": "mq-d4-07-o2",
+              "id": "mq-d4-12-o2",
               "text": "2",
               "imagePath": null
             },
             {
-              "id": "mq-d4-07-o3",
+              "id": "mq-d4-12-o3",
               "text": "无数",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d4-07-o4",
-              "text": "4",
               "imagePath": null
             }
           ],
           "answer": {
             "optionIDs": [
-              "mq-d4-07-o3"
+              "mq-d4-12-o3"
             ],
             "textAnswers": [
               "无数"
@@ -193,81 +258,26 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d4-08",
-          "type": "fillBlank",
-          "stem": "填空题：4000÷（ ）=80，括号里应填（ ）。",
+          "id": "mq-d4-13",
+          "type": "writtenResponse",
+          "stem": "解决问题：两数相除商为17余6，被除数、除数、商和余数的和是479，被除数和除数分别是多少？",
           "keyword": null,
           "options": [],
           "answer": {
             "optionIDs": [],
             "textAnswers": [
-              "50"
+              "被除数431，除数25",
+              "431，25"
             ]
           },
-          "explanation": "参考答案：50。除数=被除数÷商，4000÷80=50。",
+          "explanation": "参考答案：被除数431，除数25 / 431，25。解题式：\n设除数为x，则被除数为17x+6。\n17x+6+x+17+6=479\n18x+29=479\n18x=450\nx=25\n17×25+6=431\n答：被除数是431，除数是25。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d4-09",
-          "type": "singleChoice",
-          "stem": "选择题：765-262-438+235 简便计算可以先算（ ）。",
-          "keyword": null,
-          "options": [
-            {
-              "id": "mq-d4-09-o1",
-              "text": "765+235",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d4-09-o2",
-              "text": "262+235",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d4-09-o3",
-              "text": "438+235",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d4-09-o4",
-              "text": "765-438",
-              "imagePath": null
-            }
-          ],
-          "answer": {
-            "optionIDs": [
-              "mq-d4-09-o1"
-            ],
-            "textAnswers": [
-              "765+235"
-            ]
-          },
-          "explanation": "参考答案：765+235。765+235=1000，262+438=700，最后1000-700。",
-          "score": 1,
-          "mediaPath": null
-        },
-        {
-          "id": "mq-d4-10",
+          "id": "mq-d4-14",
           "type": "writtenResponse",
-          "stem": "解决问题：两数相除商17余6，被除数、除数、商和余数的和是479，求被除数和除数。",
-          "keyword": null,
-          "options": [],
-          "answer": {
-            "optionIDs": [],
-            "textAnswers": [
-              "448，26",
-              "被除数448，除数26"
-            ]
-          },
-          "explanation": "参考答案：448，26 / 被除数448，除数26。被除数=17×除数+6，18×除数+23=479，除数26，被除数448。",
-          "score": 1,
-          "mediaPath": null
-        },
-        {
-          "id": "mq-d4-11",
-          "type": "writtenResponse",
-          "stem": "思维题：把2018×(a+5)误算成2018×a+5，结果比正确结果少多少？",
+          "stem": "思维题：粗心的“笨笨”误把2018×（a+5）算成了2018×a+5，这样算的结果比正确的结果少多少呢？",
           "keyword": null,
           "options": [],
           "answer": {
@@ -276,7 +286,7 @@
               "10085"
             ]
           },
-          "explanation": "参考答案：10085。正确式多出2018×5，误式只加5，少2018×5-5=10085。",
+          "explanation": "参考答案：10085。解题式：\n2018×(a+5)=2018×a+2018×5\n2018×5-5=10090-5=10085\n答：这样算的结果比正确结果少10085。",
           "score": 3,
           "mediaPath": null
         }
