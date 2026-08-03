@@ -195,6 +195,61 @@
         {
           "id": "mq-d4-08",
           "type": "fillBlank",
+          "stem": "填空题：4000÷（ ）=80，括号里应填（ ）。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "50"
+            ]
+          },
+          "explanation": "参考答案：50。除数=被除数÷商，4000÷80=50。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-09",
+          "type": "singleChoice",
+          "stem": "选择题：765-262-438+235 简便计算可以先算（ ）。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d4-09-o1",
+              "text": "765+235",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-09-o2",
+              "text": "262+235",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-09-o3",
+              "text": "438+235",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-09-o4",
+              "text": "765-438",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d4-09-o1"
+            ],
+            "textAnswers": [
+              "765+235"
+            ]
+          },
+          "explanation": "参考答案：765+235。765+235=1000，262+438=700，最后1000-700。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-10",
+          "type": "writtenResponse",
           "stem": "解决问题：两数相除商17余6，被除数、除数、商和余数的和是479，求被除数和除数。",
           "keyword": null,
           "options": [],
@@ -210,8 +265,8 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d4-09",
-          "type": "fillBlank",
+          "id": "mq-d4-11",
+          "type": "writtenResponse",
           "stem": "思维题：把2018×(a+5)误算成2018×a+5，结果比正确结果少多少？",
           "keyword": null,
           "options": [],
