@@ -173,7 +173,62 @@
         },
         {
           "id": "mq-d5-08",
+          "type": "singleChoice",
+          "stem": "选择题：5.6+2.3+0.7 简便计算时，应先算（ ）。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d5-08-o1",
+              "text": "5.6+2.3",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d5-08-o2",
+              "text": "2.3+0.7",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d5-08-o3",
+              "text": "5.6+0.7",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d5-08-o4",
+              "text": "5.6×0.7",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d5-08-o2"
+            ],
+            "textAnswers": [
+              "2.3+0.7"
+            ]
+          },
+          "explanation": "参考答案：2.3+0.7。2.3+0.7=3，能先凑成整数。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-09",
           "type": "fillBlank",
+          "stem": "填空题：(74+125)×80 中，括号内的结果是（ ）。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "199"
+            ]
+          },
+          "explanation": "参考答案：199。74+125=199。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d5-10",
+          "type": "writtenResponse",
           "stem": "解决问题：笔记本每本6元，买5送1本，34名同学每人一本，需要花多少钱？",
           "keyword": null,
           "options": [],
@@ -189,8 +244,8 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d5-09",
-          "type": "fillBlank",
+          "id": "mq-d5-11",
+          "type": "writtenResponse",
           "stem": "思维题：小数整数部分是6，小数部分各位数字和12且各不相同，求最大的和最小的三位小数。",
           "keyword": null,
           "options": [],
