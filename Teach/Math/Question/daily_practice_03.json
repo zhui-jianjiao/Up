@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "curriculum": "四升五暑假每日一练",
+  "updatedAt": "2026-08-03T00:00:00Z",
+  "sets": [
+    {
+      "id": "math-d3",
+      "unit": 1,
+      "order": 3,
+      "title": "四升五暑假每日一练（第 3 天）",
+      "difficulty": "medium",
+      "grammarIDs": [],
+      "questions": [
+        {
+          "id": "mq-d3-01",
+          "type": "fillBlank",
+          "stem": "口算：63×89+11×63=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "6300"
+            ]
+          },
+          "explanation": "参考答案：6300。63×(89+11)=63×100=6300。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-02",
+          "type": "fillBlank",
+          "stem": "口算：960÷24=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "40"
+            ]
+          },
+          "explanation": "参考答案：40。24×40=960。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-03",
+          "type": "fillBlank",
+          "stem": "口算：1000÷125×8=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "64"
+            ]
+          },
+          "explanation": "参考答案：64。1000÷125=8，8×8=64。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-04",
+          "type": "fillBlank",
+          "stem": "脱式计算：72×125=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "9000"
+            ]
+          },
+          "explanation": "参考答案：9000。72=9×8，125×8=1000，9×1000=9000。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-05",
+          "type": "fillBlank",
+          "stem": "脱式计算：99×125×8=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "99000"
+            ]
+          },
+          "explanation": "参考答案：99000。125×8=1000，99×1000=99000。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-06",
+          "type": "fillBlank",
+          "stem": "填空题：125×（ ）的积末尾两个数字都是0，括号里最小应填（ ）。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "8"
+            ]
+          },
+          "explanation": "参考答案：8。125×8=1000，末尾至少两个0，8最小。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-07",
+          "type": "fillBlank",
+          "stem": "填空题：瓶装饮料一般用（ ）作单位，桶装花生油一般用（ ）作单位。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "毫升，升",
+              "mL，L"
+            ]
+          },
+          "explanation": "参考答案：毫升，升 / mL，L。小容量用毫升，大容量用升。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-08",
+          "type": "fillBlank",
+          "stem": "解决问题：火车每秒40米，经过1600米大桥，从车头上桥到车尾离桥需要多少时间？车长800米。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "60秒",
+              "60"
+            ]
+          },
+          "explanation": "参考答案：60秒 / 60。(1600+800)÷40=60秒。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d3-09",
+          "type": "fillBlank",
+          "stem": "思维题：500毫升和800毫升两个瓶子，能不能量出1100毫升水？说明方法。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "能",
+              "可以"
+            ]
+          },
+          "explanation": "参考答案：能 / 可以。800装满倒入500，余300；倒空500，将300倒入500，再装满800倒入500至满，800中剩600；600+500=1100。",
+          "score": 3,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
