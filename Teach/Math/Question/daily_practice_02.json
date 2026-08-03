@@ -46,6 +46,38 @@
         {
           "id": "mq-d2-03",
           "type": "fillBlank",
+          "stem": "口算：2000÷125÷8=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "2"
+            ]
+          },
+          "explanation": "参考答案：2。2000÷125=16，16÷8=2。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-04",
+          "type": "fillBlank",
+          "stem": "口算：76÷19=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "4"
+            ]
+          },
+          "explanation": "参考答案：4。19×4=76。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-05",
+          "type": "fillBlank",
           "stem": "口算：802-239=",
           "keyword": null,
           "options": [],
@@ -60,7 +92,119 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d2-04",
+          "id": "mq-d2-06",
+          "type": "fillBlank",
+          "stem": "口算：9000÷30×10=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "3000"
+            ]
+          },
+          "explanation": "参考答案：3000。9000÷30=300，300×10=3000。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-07",
+          "type": "fillBlank",
+          "stem": "口算：230×5=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "1150"
+            ]
+          },
+          "explanation": "参考答案：1150。23×5=115，再添一个0。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-08",
+          "type": "fillBlank",
+          "stem": "口算：1200÷25=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "48"
+            ]
+          },
+          "explanation": "参考答案：48。25×48=1200。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-09",
+          "type": "fillBlank",
+          "stem": "口算：20+80÷2=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "60"
+            ]
+          },
+          "explanation": "参考答案：60。80÷2=40，20+40=60。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-10",
+          "type": "fillBlank",
+          "stem": "口算：（500÷5+5）×2=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "210"
+            ]
+          },
+          "explanation": "参考答案：210。500÷5=100，(100+5)×2=210。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-11",
+          "type": "fillBlank",
+          "stem": "口算：100÷20+20=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "25"
+            ]
+          },
+          "explanation": "参考答案：25。100÷20=5，5+20=25。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-12",
+          "type": "fillBlank",
+          "stem": "口算：50×0÷2=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "0"
+            ]
+          },
+          "explanation": "参考答案：0。含0乘法结果为0，0÷2=0。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-13",
           "type": "fillBlank",
           "stem": "递等式计算：60×（600-400÷25）=",
           "keyword": null,
@@ -76,9 +220,25 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d2-05",
+          "id": "mq-d2-14",
           "type": "fillBlank",
-          "stem": "递等式计算：1000÷[875-(572+178)]=",
+          "stem": "递等式计算：（84-（24+16））÷4=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "11"
+            ]
+          },
+          "explanation": "参考答案：11。24+16=40，84-40=44，44÷4=11。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-15",
+          "type": "fillBlank",
+          "stem": "递等式计算：1000÷[875-（572+178）]=",
           "keyword": null,
           "options": [],
           "answer": {
@@ -92,9 +252,25 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d2-06",
+          "id": "mq-d2-16",
           "type": "fillBlank",
-          "stem": "填空题：计算2400-(326+78)×4时，先算（ ）法，再算（ ）法，最后算（ ）法。",
+          "stem": "递等式计算：3500÷25÷4=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "35"
+            ]
+          },
+          "explanation": "参考答案：35。3500÷25=140，140÷4=35。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-17",
+          "type": "fillBlank",
+          "stem": "填空题：计算2400-（326+78）×4时，先算（ ）法，再算（ ）法，最后算（ ）法。",
           "keyword": null,
           "options": [],
           "answer": {
@@ -109,107 +285,104 @@
           "mediaPath": null
         },
         {
-          "id": "mq-d2-07",
+          "id": "mq-d2-18",
           "type": "fillBlank",
-          "stem": "填空题：180÷6求的是（ ）辆卡车（ ）次运水泥的质量。",
+          "stem": "填空题：3辆卡车6次运水泥180吨，180÷6求的是（ ）辆卡车（ ）次运水泥的质量。",
           "keyword": null,
           "options": [],
           "answer": {
             "optionIDs": [],
             "textAnswers": [
-              "1，1",
-              "一，一"
+              "3，1",
+              "三，一"
             ]
           },
-          "explanation": "参考答案：1，1 / 一，一。总量÷次数，表示一辆卡车一次运的质量。",
+          "explanation": "参考答案：3，1 / 三，一。180÷6表示3辆卡车1次运水泥的质量。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d2-08",
-          "type": "singleChoice",
-          "stem": "选择题：1000÷[875-(572+178)] 中，最后一步算（ ）。",
-          "keyword": null,
-          "options": [
-            {
-              "id": "mq-d2-08-o1",
-              "text": "加法",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d2-08-o2",
-              "text": "减法",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d2-08-o3",
-              "text": "乘法",
-              "imagePath": null
-            },
-            {
-              "id": "mq-d2-08-o4",
-              "text": "除法",
-              "imagePath": null
-            }
-          ],
-          "answer": {
-            "optionIDs": [
-              "mq-d2-08-o4"
-            ],
-            "textAnswers": [
-              "除法"
-            ]
-          },
-          "explanation": "参考答案：除法。先算小括号，再算中括号，最后算1000÷125。",
-          "score": 1,
-          "mediaPath": null
-        },
-        {
-          "id": "mq-d2-09",
+          "id": "mq-d2-19",
           "type": "fillBlank",
-          "stem": "填空题：60×（600-400÷25）中，400÷25 的结果是（ ）。",
+          "stem": "填空题：在算式90-30÷3×5=400中添上括号，使左右两边相等。",
           "keyword": null,
           "options": [],
           "answer": {
             "optionIDs": [],
             "textAnswers": [
-              "16"
+              "（90-30÷3）×5=400",
+              "(90-30÷3)×5=400"
             ]
           },
-          "explanation": "参考答案：16。25×16=400。",
+          "explanation": "参考答案：（90-30÷3）×5=400 / (90-30÷3)×5=400。90-30÷3=80，80×5=400。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d2-10",
-          "type": "writtenResponse",
-          "stem": "解决问题：小宁有钢笔30枝，小青有15枝，小宁给小青多少枝后，小宁是小青的8倍？",
+          "id": "mq-d2-20",
+          "type": "fillBlank",
+          "stem": "填空题：在算式90-30÷3×5=100中添上括号，使左右两边相等。",
           "keyword": null,
           "options": [],
           "answer": {
             "optionIDs": [],
             "textAnswers": [
-              "无解"
+              "（90-30）÷3×5=100",
+              "(90-30)÷3×5=100"
             ]
           },
-          "explanation": "参考答案：无解。按题意给出后小宁减少、小青增加，不可能让小宁变为小青8倍。",
+          "explanation": "参考答案：（90-30）÷3×5=100 / (90-30)÷3×5=100。90-30=60，60÷3×5=100。",
           "score": 1,
           "mediaPath": null
         },
         {
-          "id": "mq-d2-11",
-          "type": "writtenResponse",
-          "stem": "思维题：甲乙丙丁和小红比赛围棋，每两人赛一盘。甲4盘，乙3盘，丙2盘，丁1盘，小红赛几盘？",
+          "id": "mq-d2-21",
+          "type": "fillBlank",
+          "stem": "填空题：若△+89=89，则△=（ ）；若89-□=0，则□=（ ）；若☆×387=0，则☆=（ ）。",
           "keyword": null,
           "options": [],
           "answer": {
             "optionIDs": [],
             "textAnswers": [
-              "0盘",
-              "0"
+              "0，89，0",
+              "0,89,0"
             ]
           },
-          "explanation": "参考答案：0盘 / 0。甲赛4盘已与所有人赛，丁只赛1盘即只与甲赛；由度数配平可得小红0盘。",
+          "explanation": "参考答案：0，89，0 / 0,89,0。0+89=89；89-89=0；0×387=0。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-22",
+          "type": "writtenResponse",
+          "stem": "解决问题：小宁有钢笔30枝，小青有钢笔15支，问小青给多少支钢笔给小宁后，小宁的钢笔枝数是小青的8倍？",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "10支",
+              "10"
+            ]
+          },
+          "explanation": "参考答案：10支 / 10。解题式：\n设小青给小宁x支。\n30+x=8×(15-x)\n30+x=120-8x\n9x=90\nx=10\n答：小青给小宁10支钢笔后，小宁的钢笔枝数是小青的8倍。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-23",
+          "type": "writtenResponse",
+          "stem": "思维题：甲、乙、丙、丁与小红五位同学一起比赛围棋，每两个人都比赛一盘，到现在为止，甲已经赛了4盘，乙赛了3盘，丙赛了2盘，丁赛了1盘，小红赛了几盘？",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "1盘",
+              "1"
+            ]
+          },
+          "explanation": "参考答案：1盘 / 1。解题式：\n甲赛4盘，说明甲已和乙、丙、丁、小红各赛1盘。\n丁只赛1盘，所以丁只和甲赛过。\n乙共赛3盘，除甲外还需和丙、小红各赛1盘。\n丙共赛2盘，正好和甲、乙各赛1盘。\n答：小红赛了1盘。",
           "score": 3,
           "mediaPath": null
         }
