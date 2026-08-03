@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "curriculum": "四升五暑假每日一练",
+  "updatedAt": "2026-08-03T00:00:00Z",
+  "sets": [
+    {
+      "id": "math-d1",
+      "unit": 1,
+      "order": 1,
+      "title": "四升五暑假每日一练（第 1 天）",
+      "difficulty": "easy",
+      "grammarIDs": [],
+      "questions": [
+        {
+          "id": "mq-d1-01",
+          "type": "fillBlank",
+          "stem": "口算：15×63+5×63=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "1260"
+            ]
+          },
+          "explanation": "参考答案：1260。提取63，(15+5)×63=20×63=1260。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-02",
+          "type": "fillBlank",
+          "stem": "口算：37+63÷3=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "58"
+            ]
+          },
+          "explanation": "参考答案：58。先算除法，63÷3=21，再算37+21=58。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-03",
+          "type": "fillBlank",
+          "stem": "口算：420÷3=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "140"
+            ]
+          },
+          "explanation": "参考答案：140。42÷3=14，所以420÷3=140。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-04",
+          "type": "fillBlank",
+          "stem": "递等式计算：1000-21600÷270=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "920"
+            ]
+          },
+          "explanation": "参考答案：920。先算21600÷270=80，再算1000-80=920。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-05",
+          "type": "fillBlank",
+          "stem": "递等式计算：125×19×8=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "19000"
+            ]
+          },
+          "explanation": "参考答案：19000。125×8=1000，再乘19得19000。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-06",
+          "type": "fillBlank",
+          "stem": "填空题：小明5天看了15页书，一个月30天能看（ ）页。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "90"
+            ]
+          },
+          "explanation": "参考答案：90。15÷5=3页/天，3×30=90页。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-07",
+          "type": "fillBlank",
+          "stem": "填空题：45×☆ 的积末尾有两个0，☆最小是（ ）。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "20"
+            ]
+          },
+          "explanation": "参考答案：20。45×20=900，末尾有两个0，且20最小。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-08",
+          "type": "fillBlank",
+          "stem": "解决问题：长方形面积225平方米，长除以5、宽乘以5后变成正方形，正方形面积是多少？边长是多少？",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "225平方米，15米",
+              "225，15"
+            ]
+          },
+          "explanation": "参考答案：225平方米，15米 / 225，15。面积不变，正方形面积仍为225平方米，边长15米。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d1-09",
+          "type": "fillBlank",
+          "stem": "思维题：五位数最低位是8，最高位是3，个位是十位两倍，前三位和与后三位和都是19，这个五位数是多少？",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "39748"
+            ]
+          },
+          "explanation": "参考答案：39748。个位8，则十位4；万位3，前三位和19得百位与千位和16；后三位和19得百位7，所以千位9。",
+          "score": 3,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
