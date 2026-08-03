@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "curriculum": "四升五暑假每日一练",
+  "updatedAt": "2026-08-03T00:00:00Z",
+  "sets": [
+    {
+      "id": "math-d4",
+      "unit": 1,
+      "order": 4,
+      "title": "四升五暑假每日一练（第 4 天）",
+      "difficulty": "medium",
+      "grammarIDs": [],
+      "questions": [
+        {
+          "id": "mq-d4-01",
+          "type": "fillBlank",
+          "stem": "口算：36÷6=（ ）÷3",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "18"
+            ]
+          },
+          "explanation": "参考答案：18。36÷6=6，所以括号内÷3=6，括号内为18。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-02",
+          "type": "fillBlank",
+          "stem": "口算：4000÷（ ）=80",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "50"
+            ]
+          },
+          "explanation": "参考答案：50。4000÷80=50。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-03",
+          "type": "fillBlank",
+          "stem": "递等式计算：597-(58+197)=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "342"
+            ]
+          },
+          "explanation": "参考答案：342。58+197=255，597-255=342。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-04",
+          "type": "fillBlank",
+          "stem": "递等式计算：765-262-438+235=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "300"
+            ]
+          },
+          "explanation": "参考答案：300。765+235=1000，262+438=700，1000-700=300。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-05",
+          "type": "singleChoice",
+          "stem": "选择题：用（ ）可使99×21+21的计算简便。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d4-05-o1",
+              "text": "乘法交换律",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-05-o2",
+              "text": "乘法分配律",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-05-o3",
+              "text": "乘法结合律",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-05-o4",
+              "text": "加法交换律",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d4-05-o2"
+            ],
+            "textAnswers": [
+              "乘法分配律"
+            ]
+          },
+          "explanation": "参考答案：乘法分配律。99×21+21=21×(99+1)。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-06",
+          "type": "singleChoice",
+          "stem": "选择题：28×4×5=28×（4×5）应用的是（ ）。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d4-06-o1",
+              "text": "乘法结合律",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-06-o2",
+              "text": "加法结合律",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-06-o3",
+              "text": "乘法分配律",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-06-o4",
+              "text": "乘法交换律",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d4-06-o1"
+            ],
+            "textAnswers": [
+              "乘法结合律"
+            ]
+          },
+          "explanation": "参考答案：乘法结合律。改变运算结合顺序。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-07",
+          "type": "singleChoice",
+          "stem": "选择题：平行四边形有（ ）条高。",
+          "keyword": null,
+          "options": [
+            {
+              "id": "mq-d4-07-o1",
+              "text": "1",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-07-o2",
+              "text": "2",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-07-o3",
+              "text": "无数",
+              "imagePath": null
+            },
+            {
+              "id": "mq-d4-07-o4",
+              "text": "4",
+              "imagePath": null
+            }
+          ],
+          "answer": {
+            "optionIDs": [
+              "mq-d4-07-o3"
+            ],
+            "textAnswers": [
+              "无数"
+            ]
+          },
+          "explanation": "参考答案：无数。平行四边形任意一组对边之间都能作无数条高。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-08",
+          "type": "fillBlank",
+          "stem": "解决问题：两数相除商17余6，被除数、除数、商和余数的和是479，求被除数和除数。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "448，26",
+              "被除数448，除数26"
+            ]
+          },
+          "explanation": "参考答案：448，26 / 被除数448，除数26。被除数=17×除数+6，18×除数+23=479，除数26，被除数448。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d4-09",
+          "type": "fillBlank",
+          "stem": "思维题：把2018×(a+5)误算成2018×a+5，结果比正确结果少多少？",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "10085"
+            ]
+          },
+          "explanation": "参考答案：10085。正确式多出2018×5，误式只加5，少2018×5-5=10085。",
+          "score": 3,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
