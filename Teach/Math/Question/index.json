@@ -7,36 +7,41 @@
       "id": "math-d1",
       "unit": 1,
       "order": 1,
+      "code": "math_daily_01",
       "file": "daily_practice_01.json",
-      "title": "四升五暑假每日一练（第 1 天）"
+      "itemCount": 11
     },
     {
       "id": "math-d2",
       "unit": 1,
       "order": 2,
+      "code": "math_daily_02",
       "file": "daily_practice_02.json",
-      "title": "四升五暑假每日一练（第 2 天）"
+      "itemCount": 11
     },
     {
       "id": "math-d3",
       "unit": 1,
       "order": 3,
+      "code": "math_daily_03",
       "file": "daily_practice_03.json",
-      "title": "四升五暑假每日一练（第 3 天）"
+      "itemCount": 11
     },
     {
       "id": "math-d4",
       "unit": 1,
       "order": 4,
+      "code": "math_daily_04",
       "file": "daily_practice_04.json",
-      "title": "四升五暑假每日一练（第 4 天）"
+      "itemCount": 11
     },
     {
       "id": "math-d5",
       "unit": 1,
       "order": 5,
+      "code": "math_daily_05",
       "file": "daily_practice_05.json",
-      "title": "四升五暑假每日一练（第 5 天）"
+      "itemCount": 11
     }
   ]
 }
