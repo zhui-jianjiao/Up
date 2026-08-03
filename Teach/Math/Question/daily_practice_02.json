@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "curriculum": "四升五暑假每日一练",
+  "updatedAt": "2026-08-03T00:00:00Z",
+  "sets": [
+    {
+      "id": "math-d2",
+      "unit": 1,
+      "order": 2,
+      "title": "四升五暑假每日一练（第 2 天）",
+      "difficulty": "easy",
+      "grammarIDs": [],
+      "questions": [
+        {
+          "id": "mq-d2-01",
+          "type": "fillBlank",
+          "stem": "口算：36×20=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "720"
+            ]
+          },
+          "explanation": "参考答案：720。36×2=72，再添一个0。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-02",
+          "type": "fillBlank",
+          "stem": "口算：250÷25=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "10"
+            ]
+          },
+          "explanation": "参考答案：10。25×10=250。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-03",
+          "type": "fillBlank",
+          "stem": "口算：802-239=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "563"
+            ]
+          },
+          "explanation": "参考答案：563。802-200-39=563。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-04",
+          "type": "fillBlank",
+          "stem": "递等式计算：60×（600-400÷25）=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "35040"
+            ]
+          },
+          "explanation": "参考答案：35040。400÷25=16，600-16=584，60×584=35040。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-05",
+          "type": "fillBlank",
+          "stem": "递等式计算：1000÷[875-(572+178)]=",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "8"
+            ]
+          },
+          "explanation": "参考答案：8。572+178=750，875-750=125，1000÷125=8。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-06",
+          "type": "fillBlank",
+          "stem": "填空题：计算2400-(326+78)×4时，先算（ ）法，再算（ ）法，最后算（ ）法。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "加，乘，减",
+              "加法，乘法，减法"
+            ]
+          },
+          "explanation": "参考答案：加，乘，减 / 加法，乘法，减法。括号优先，再乘除，最后加减。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-07",
+          "type": "fillBlank",
+          "stem": "填空题：180÷6求的是（ ）辆卡车（ ）次运水泥的质量。",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "1，1",
+              "一，一"
+            ]
+          },
+          "explanation": "参考答案：1，1 / 一，一。总量÷次数，表示一辆卡车一次运的质量。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-08",
+          "type": "fillBlank",
+          "stem": "解决问题：小宁有钢笔30枝，小青有15枝，小宁给小青多少枝后，小宁是小青的8倍？",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "无解"
+            ]
+          },
+          "explanation": "参考答案：无解。按题意给出后小宁减少、小青增加，不可能让小宁变为小青8倍。",
+          "score": 1,
+          "mediaPath": null
+        },
+        {
+          "id": "mq-d2-09",
+          "type": "fillBlank",
+          "stem": "思维题：甲乙丙丁和小红比赛围棋，每两人赛一盘。甲4盘，乙3盘，丙2盘，丁1盘，小红赛几盘？",
+          "keyword": null,
+          "options": [],
+          "answer": {
+            "optionIDs": [],
+            "textAnswers": [
+              "0盘",
+              "0"
+            ]
+          },
+          "explanation": "参考答案：0盘 / 0。甲赛4盘已与所有人赛，丁只赛1盘即只与甲赛；由度数配平可得小红0盘。",
+          "score": 3,
+          "mediaPath": null
+        }
+      ]
+    }
+  ]
+}
